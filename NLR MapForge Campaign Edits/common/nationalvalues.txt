@@ -5,7 +5,7 @@ nv_order = {
 }
 
 nv_liberty = {
-	global_immigrant_attract = 0.3
+	global_immigrant_attract = 0.5
 	political_reform_desire = 0.25
 	commerce_tech_research_bonus = 0.05
 }
@@ -13,12 +13,6 @@ nv_liberty = {
 nv_equality = {
 	non_accepted_pop_militancy_modifier = -0.02
 	culture_tech_research_bonus = 0.05
-}
-
-nv_autocracy = {
-	ruling_party_support = 0.3
-	mobilisation_size = 0.025
-	leadership_modifier = 1
 }
 
 nv_tradition = {
@@ -40,12 +34,13 @@ nv_productivity = {
 }
 
 nv_education = {
-	education_efficiency_modifier = 0.3
+	education_efficiency_modifier = 0.4
 	research_points_modifier = 0.15
 }
 
 nv_diplomacy = {
-	diplomatic_points_modifier = 1
+	diplomatic_points_modifier = 2
 	influence_modifier = 0.2
-	cb_generation_speed_modifier = 0.15
+	badboy = -0.05
+	cb_generation_speed_modifier = 0.45
 }
