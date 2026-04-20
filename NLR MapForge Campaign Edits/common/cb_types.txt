@@ -202,7 +202,7 @@ conquest = {
 			AND = {
 				civilized = no
 				THIS = { civilized = no }
-				NOT = { number_of_states = 4 }
+				NOT = { number_of_states = 5 }
 			}
 			AND = {
 				civilized = no
