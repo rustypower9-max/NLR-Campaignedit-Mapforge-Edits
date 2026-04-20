@@ -423,7 +423,6 @@ political_decisions = {
 					add_core = THIS
 				}
 			}
-			add_accepted_culture = aryan
 			add_accepted_culture = azerbaijani
 			prestige = 20
 		}
