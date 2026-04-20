@@ -301,6 +301,13 @@ GCO		="countries/Gran Colombia.txt"
 ##HoD
 JAN 	= "countries/JanMayen.txt"
 
+# Special countries...
+TIN		= 	"countries/Tiny State.txt"
+SMA		= 	"countries/Small State.txt"
+MED		=	"countries/Medium State.txt"
+LRG		=	"countries/Large State.txt"
+HUG		=	"countries/Huge State.txt"
+
 ##HoD Dominions
 dynamic_tags  = yes # any tags after this is considered dynamic dominions
 D01		= "countries/D01.txt"

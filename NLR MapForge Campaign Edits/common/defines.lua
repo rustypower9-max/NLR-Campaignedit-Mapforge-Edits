@@ -9,8 +9,8 @@ country = {
 	REBEL_ACCEPTANCE_MONTHS = 60,
 	BASE_COUNTRY_TAX_EFFICIENCY = 0.2, -- Basic efficiency for taxes without 'crats and tech
 	BASE_COUNTRY_ADMIN_EFFICIENCY = 0.2,
-	GOLD_TO_CASH_RATE = 1.0, -- Amount of money generated per gold unit
-	GOLD_TO_WORKER_PAY_RATE = 3.0, -- Multiplier for how much money gold pays to pops
+	GOLD_TO_CASH_RATE = 1, -- Amount of money generated per gold unit
+	GOLD_TO_WORKER_PAY_RATE = 5, -- Multiplier for how much money gold pays to pops
 	GREAT_NATIONS_COUNT = 8,
 	GREATNESS_DAYS = 365, 	   -- how many days until country risks losing status as great nation
 	BADBOY_LIMIT = 25,
@@ -150,7 +150,7 @@ military = {
 	LEADER_AGE_DEATH_FACTOR = 4, -- higher value means leaders live longer
 	LEADER_PRESTIGE_TO_MORALE_FACTOR = 0.8, -- f.ex. 100% of prestige = +10% morale
 	LEADER_PRESTIGE_TO_MAX_ORG_FACTOR = 0.7, -- f.ex. 100% of prestige = +10 max org
-	LEADER_TRANSFER_PENALTY_ON_COUNTRY_PRESTIGE = 0.05, -- country prestige penalty on unassign leader (f.ex if leader has 100% prestige, the country loose 4% of its prestige)
+	LEADER_TRANSFER_PENALTY_ON_COUNTRY_PRESTIGE = 0.0, -- country prestige penalty on unassign leader (f.ex if leader has 100% prestige, the country loose 4% of its prestige)
 	LEADER_PRESTIGE_LAND_GAIN =0.3, -- extra speed gain on prestige for land combat
 	LEADER_PRESTIGE_NAVAL_GAIN =0.3, -- extra speed gain on prestige for naval combat
 	NAVAL_COMBAT_SEEKING_CHANCE = 0.5, -- base chance of picking a target (increased by leader reconaissance)
@@ -189,10 +189,10 @@ military = {
 	RECON_SIEGE_EFFECT = 0.5, -- multiplier to effect of recon on speeding up sieges
 	SIEGE_ATTRITION = 2, -- fixed attrition on sieging units
 	BASE_MILITARY_TACTICS = 1.5, -- base mil tactics before tech
-	NAVAL_LOW_SUPPLY_DAMAGE_SUPPLY_STATUS = 0.34, -- how little supply is acceptable before getting damage to STR
+	NAVAL_LOW_SUPPLY_DAMAGE_SUPPLY_STATUS = 0.4, -- how little supply is acceptable before getting damage to STR
 	NAVAL_LOW_SUPPLY_DAMAGE_DAYS_DELAY = 30, -- delay in days before the STR will get damage due to no supplies. Sometimes supply status may jump bcoz of the market.
 	NAVAL_LOW_SUPPLY_DAMAGE_MIN_STR = 5.0, -- when low supply, the navy will supply STR damage but no less then X% to avoid destruction (value from 0 to 100.0)
-	NAVAL_LOW_SUPPLY_DAMAGE_PER_DAY = 0.25, -- damage to navies STR per day if totally 0% supplies (value from 0 to 100.0)
+	NAVAL_LOW_SUPPLY_DAMAGE_PER_DAY = 0.5, -- damage to navies STR per day if totally 0% supplies (value from 0 to 100.0)
 },
 
 diplomacy = {
@@ -205,7 +205,7 @@ diplomacy = {
 	PEACE_COST_REPARATIONS = 1,
 	PEACE_COST_TRANSFER_PROVINCES = 1,
 	PEACE_COST_REMOVE_CORES = 0,
-	PEACE_COST_PRESTIGE = 1,
+	PEACE_COST_PRESTIGE = 4000,
 	PEACE_COST_CONCEDE = 1,
 	PEACE_COST_STATUS_QUO = 1,
 	PEACE_COST_ANNEX = 85,
@@ -223,7 +223,7 @@ diplomacy = {
 	INFAMY_REPARATIONS = 5,
 	INFAMY_TRANSFER_PROVINCES = 5,
 	INFAMY_REMOVE_CORES = 0,
-	INFAMY_PRESTIGE = 2,
+	INFAMY_PRESTIGE = 0.005,
 	INFAMY_CONCEDE = 1,
 	INFAMY_STATUS_QUO = 0,
 	INFAMY_ANNEX = 10,
@@ -261,7 +261,7 @@ diplomacy = {
 	PRESTIGE_REPARATIONS = 0.05,
 	PRESTIGE_TRANSFER_PROVINCES = 0.02,
 	PRESTIGE_REMOVE_CORES = 0,
-	PRESTIGE_PRESTIGE = 0.05,
+	PRESTIGE_PRESTIGE = 0.00,
 	PRESTIGE_CONCEDE = 0.01,
 	PRESTIGE_STATUS_QUO = 0.05,
 	PRESTIGE_ANNEX = 0.02,
@@ -403,18 +403,18 @@ diplomacy = {
 	DECLAREWAR_DIPLOMATIC_COST = 1,
 	
 	ADDWARGOAL_RELATION_ON_ACCEPT = 0,
-    ADDWARGOAL_DIPLOMATIC_COST = 1,
+    ADDWARGOAL_DIPLOMATIC_COST = 0,
 	ADD_UNJUSTIFIED_GOAL_BADBOY = 1,
 	
 	PEACE_RELATION_ON_ACCEPT = 5,
 	PEACE_RELATION_ON_DECLINE = -10,
-	PEACE_DIPLOMATIC_COST = 1,
+	PEACE_DIPLOMATIC_COST = 0,
 
 	ALLIANCE_RELATION_ON_ACCEPT = 100,
 	ALLIANCE_RELATION_ON_DECLINE = -50,
 	ALLIANCE_DIPLOMATIC_COST = 1,
 	CANCELALLIANCE_RELATION_ON_ACCEPT = -20,
-	CANCELALLIANCE_DIPLOMATIC_COST = 1,
+	CANCELALLIANCE_DIPLOMATIC_COST = 0,
 
 	CALLALLY_RELATION_ON_ACCEPT = 20,
 	CALLALLY_RELATION_ON_DECLINE = -20,
@@ -424,13 +424,13 @@ diplomacy = {
 	ASKMILACCESS_RELATION_ON_DECLINE = -10,
 	ASKMILACCESS_DIPLOMATIC_COST = 1,
 	CANCELASKMILACCESS_RELATION_ON_ACCEPT = 0,
-	CANCELASKMILACCESS_DIPLOMATIC_COST = 1,
+	CANCELASKMILACCESS_DIPLOMATIC_COST = 0,
 
 	GIVEMILACCESS_RELATION_ON_ACCEPT = 10,
 	GIVEMILACCESS_RELATION_ON_DECLINE = 0,
 	GIVEMILACCESS_DIPLOMATIC_COST = 1,
 	CANCELGIVEMILACCESS_RELATION_ON_ACCEPT = -10,
-	CANCELGIVEMILACCESS_DIPLOMATIC_COST = 1,
+	CANCELGIVEMILACCESS_DIPLOMATIC_COST = 0,
 
 	WARSUBSIDY_RELATION_ON_ACCEPT = 20,
 	WARSUBSIDY_DIPLOMATIC_COST = 1,
@@ -462,8 +462,8 @@ diplomacy = {
 
 	REMOVEFROMSPHERE_RELATION_ON_ACCEPT = -10,
 	REMOVEFROMSPHERE_INFLUENCE_COST = 100,
-	REMOVEFROMSPHERE_PRESTIGE_COST = 10, -- only applied if removing country is sphere leader
-	REMOVEFROMSPHERE_INFAMY_COST = 1, -- only applied if removing country is sphere leader
+	REMOVEFROMSPHERE_PRESTIGE_COST = 0, -- only applied if removing country is sphere leader
+	REMOVEFROMSPHERE_INFAMY_COST = 0, -- only applied if removing country is sphere leader
 
 	INCREASEOPINION_RELATION_ON_ACCEPT = 20,
 	INCREASEOPINION_INFLUENCE_COST = 50,
@@ -477,8 +477,8 @@ diplomacy = {
 	
 	DISARMAMENT_ARMY_HIT = 0.5,
 	REPARATIONS_TAX_HIT = 0.30,
-	PRESTIGE_REDUCTION_BASE = 25,
-	PRESTIGE_REDUCTION = 0.1, -- Base value + % of recipient's prestige
+	PRESTIGE_REDUCTION_BASE = 0,
+	PRESTIGE_REDUCTION = 0, -- Base value + % of recipient's prestige
 	REPARATIONS_YEARS = 2,
 	
 	-- No longer used:
@@ -539,7 +539,7 @@ diplomacy = {
 	GOOD_PEACE_REFUSAL_MILITANCY = 1.0, --Militancy hit from refusing a good peace offer
 	GOOD_PEACE_REFUSAL_WAREXH = 5.0, --War exhaustion hit from refusing a good peace offer
 	
-	PEACE_COST_GUNBOAT = 5, -- Cost of forcing a defaulting country to pay its debt
+	PEACE_COST_GUNBOAT = 4000, -- Cost of forcing a defaulting country to pay its debt
 	INFAMY_GUNBOAT = 0, -- Infamy cost for debt collection
 	BREAKTRUCE_INFAMY_GUNBOAT = 0, -- Truce breaking penalty for debt collection
 	BREAKTRUCE_PRESTIGE_GUNBOAT = 0,
@@ -561,7 +561,7 @@ diplomacy = {
 	GW_JUSTIFY_CB_BADBOY_IMPACT = 0.33, -- % deduction of infamy cost for justify CB in great war
 	GW_CB_CONSTRUCTION_SPEED = 0.25, -- faster CB construction against enemies while at great war
 	GW_WARGOAL_JINGOISM_REQUIREMENT_MOD = 0.25, -- % deduction of required jingoists in country
-	GW_WARSCORE_COST_MOD = 0.65, -- cost reduction factor on warscore needed to fulfill goal if great war
+	GW_WARSCORE_COST_MOD = 0.5, -- cost reduction factor on warscore needed to fulfill goal if great war
 	GW_WARSCORE_COST_MOD_2 = 0.3, -- cost reduction factor on warscore needed to fulfill goal if late game great war
 	GW_WARSCORE_2_THRESHOLD = 50, -- warscore threshold where a GW turns into a world war for winner side
 	TENSION_DECAY = -10000,

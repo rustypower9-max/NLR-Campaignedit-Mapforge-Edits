@@ -86,7 +86,7 @@ rude_boy_desc;Force another §Ycountry§W, which has thrown off all pretenses of c
 rude_boy_setup;Contain $RECIPIENT$ by reducing their territory, prestige and military.;;;;Spanish Loc;;;x
 conquest;Conquest;;;;Spanish Loc;;;x
 conquest_short;Annex $RECIPIENT$;;;;Spanish Loc;;;x
-conquest_desc;Annex a single-state §Ycountry§W;;;;Spanish Loc;;;x
+conquest_desc;Annex a middling Nation;;;;Spanish Loc;;;x
 conquest_setup;Annex $RECIPIENT$;;;;Spanish Loc;;;x
 establish_protectorate_casus_belli;Establish Protectorate;;;;Spanish Loc;;;x
 establish_protectorate_casus_belli_short;Annex $RECIPIENT$;;;;Spanish Loc;;;x
