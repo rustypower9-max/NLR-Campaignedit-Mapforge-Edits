@@ -24,7 +24,6 @@ government_sanitarium = {
 
 ##### TECH SCHOOLS ######
 academic_confusion = {
-	research_points_modifier = -0.01
 	prestige = -0.01
 	icon = 6
 }
@@ -877,7 +876,6 @@ core_integration = {
 
 ### NV Changes ###
 national_confusion = {
-	research_points_modifier = -0.01
 	global_pop_consciousness_modifier = 0.01
 	global_pop_militancy_modifier = 0.01
 	prestige = -0.01
