@@ -1,5 +1,5 @@
-owner = GBR
-controller = GBR add_core = INO
+owner = NET
+controller = NET
 add_core = JAV
 trade_goods = sulphur
 life_rating = 30

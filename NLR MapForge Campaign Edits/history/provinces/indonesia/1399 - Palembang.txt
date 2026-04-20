@@ -1,5 +1,5 @@
-owner = GBR
-controller = GBR
+owner = NET
+controller = NET
 add_core = INO
 trade_goods = grain
 life_rating = 30
