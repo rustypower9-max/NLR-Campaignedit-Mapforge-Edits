@@ -11,7 +11,7 @@
 	bureaucrats = {
 		culture = spanish
 		religion = catholic
-		size = 300
+		size = 2000
 	}
 
 	clergymen = {
@@ -29,7 +29,7 @@
 	soldiers = {
 		culture = spanish
 		religion = catholic
-		size = 200
+		size = 3000
 	}
 
 	aristocrats = {
@@ -62,12 +62,6 @@
 		size = 4000
 	}
 
-	soldiers = {
-		culture = caribeno
-		religion = catholic
-		size = 1100
-	}
-
 	farmers = {
 		culture = caribeno
 		religion = catholic
@@ -80,14 +74,8 @@
 		size = 6000
 	}
 
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 500
-	}
-
 	farmers = {
-		culture = afro_caribeno
+		culture = spanish
 		religion = catholic
 		size = 2500
 	}
