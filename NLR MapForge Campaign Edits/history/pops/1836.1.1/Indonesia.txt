@@ -217,8 +217,8 @@
 	}
 
 	clergymen = {
-		culture = malay
-		religion = sunni
+		culture = dutch
+		religion = protestant
 		size = 875
 	}
 
@@ -229,9 +229,9 @@
 	}
 
 	soldiers = {
-		culture = malay
-		religion = sunni
-		size = 1250
+		culture = dutch
+		religion = protestant
+		size = 2250
 	}
 
 	farmers = {
@@ -258,12 +258,6 @@
 		size = 1100
 	}
 
-	soldiers = {
-		culture = malay
-		religion = animist
-		size = 250
-	}
-
 	farmers = {
 		culture = malay
 		religion = animist
@@ -271,8 +265,8 @@
 	}
 
 	clergymen = {
-		culture = malay
-		religion = mahayana
+		culture = dutch
+		religion = protestant
 		size = 50
 	}
 
@@ -1226,14 +1220,14 @@
 	}
 
 	bureaucrats = {
-		culture = javan
-		religion = sunni
+		culture = dutch
+		religion = protestant
 		size = 250
 	}
 
 	clergymen = {
-		culture = javan
-		religion = sunni
+		culture = dutch
+		religion = protestant
 		size = 2500
 	}
 
@@ -1346,8 +1340,8 @@
 	}
 
 	farmers = {
-		culture = malay
-		religion = mahayana
+		culture = dutch
+		religion = protestant
 		size = 18425
 	}
 }
@@ -1532,8 +1526,8 @@
 	}
 
 	farmers = {
-		culture = javan
-		religion = animist
+		culture = dutch
+		religion = protestant
 		size = 17600
 	}
 
@@ -1544,8 +1538,8 @@
 	}
 
 	clergymen = {
-		culture = javan
-		religion = sunni
+		culture = dutch
+		religion = protestant
 		size = 2000
 	}
 
