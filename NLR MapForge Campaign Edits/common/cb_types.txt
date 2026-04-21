@@ -3420,7 +3420,7 @@ acquire_treaty_port = {
 	crisis = no
 	
 	badboy_factor = 0.5
-	prestige_factor = 5
+	prestige_factor = 1.0
 	peace_cost_factor = 0.002
 	penalty_factor = 1
 
@@ -3483,10 +3483,11 @@ acquire_treaty_port = {
 		}
 		not = { any_owned_province = { is_capital = yes } }
 	}
-	
+
+	#po_reparations = yes
 	po_remove_prestige = yes
 	
-	war_name = WAR_CONCESSION_NAME
+	war_name = PUNITIVE_EXPEDITION_WAR_NAME
 
 	on_add = {
 		move_issue_percentage = { 
