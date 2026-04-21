@@ -20,6 +20,7 @@ political_decisions = {
 					name = cultural_unification
 					duration = 3650
 				}
+			}
 			BTV = {
 				all_core = {
 					add_core = THIS
