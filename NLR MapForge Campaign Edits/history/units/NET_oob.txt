@@ -78,3 +78,109 @@ leader = {
 	background = attack_1.1
 	prestige = 0.0
 }
+
+army = { 
+	name = "The Indonesia Garrison"
+	location = 1413
+	regiment = { 
+		name = "1st Indonesian Infantry"
+		type = infantry
+		home = 1403
+	}
+	regiment = { 
+		name = "2nd Indonesian Infantry"
+		type = infantry
+		home = 1413
+	}
+	regiment = { 
+		name = "3rd Indonesian Infantry"
+		type = infantry
+		home = 1414
+	}
+	regiment = { 
+		name = "4th Indonesian Infantry"
+		type = infantry
+		home = 3254
+	}
+	regiment = { 
+		name = "1st Indonesian Hussars"
+		type = hussar
+		home = 1416
+	}
+	regiment = { 
+		name = "1st Indonesian Artillery"
+		type = artillery
+		home = 1415
+	}
+	regiment = { 
+		name = "2nd Indonesian Artillery"
+		type = artillery
+		home = 1417
+	}
+	regiment = { 
+		name = "3rd Indonesian Artillery"
+		type = artillery
+		home = 1418
+	}
+	regiment = { 
+		name = "4th Indonesian Artillery"
+		type = artillery
+		home = 1421
+	}
+	regiment = { 
+		name = "5th Indonesian Artillery"
+		type = artillery
+		home = 1420
+	}
+}
+
+navy = {
+	name = "East Indies Station"
+	location = 2472 #Batavia
+	ship = {
+		name= "11th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "12th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "13th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "14th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "15th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "16th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "17th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "18th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "19th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "20th Transport Flotilla"
+		type = clipper_transport
+	}
+
+}
