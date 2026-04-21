@@ -1,7 +1,5 @@
 capital = 487
 primary_culture = spanish
-culture = catalan
-culture = basque
 religion = catholic
 government = hms_government
 plurality = 25.0
@@ -80,5 +78,5 @@ consciousness = 3
 nonstate_consciousness = 1
 
 
-oob = "SPA_oob.txt"
+oob = "NPS_oob.txt"
 

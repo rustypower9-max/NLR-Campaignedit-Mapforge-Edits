@@ -1,0 +1,243 @@
+
+leader = {
+	name = "Baldomero Espartero"
+	#picture = spa_gen_espartero
+	type = land
+	date="1834.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Francisco Serrano"
+	#picture = spa_gen_serrano
+	type = land
+	date="1833.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Ramon Maria Narvaez"
+	#picture = spa_gen_narvaez
+	type = land
+	date="1835.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Leopoldo O'Donnell"
+	#picture = spa_gen_odonnell
+	type = land
+	date="1836.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Geronimo Valdes"
+	#picture = spa_gen_valdes
+	type = land
+	date="1836.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Juan Van Halen"
+	#picture = spa_gen_vanhalen
+	type = land
+	date="1823.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+leader = {
+	name = "Juan Ramon Rodil"
+	#picture = spa_gen_rodil
+	type = land
+	date="1824.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+leader = {
+	name = "Luis Fernandez de Cordova"
+	#picture = spa_gen_luiscordova
+	type = land
+	date="1833.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+leader = {
+	name = "Gaspar de Jauregui"
+	#picture = spa_gen_jauregui
+	type = land
+	date="1833.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Francisco Javier de Uriarte"
+	#picture = spa_adm_uriarte
+	type = sea
+	date="1802.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.3
+}
+leader = {
+	name = "Jose Primo de Rivera"
+	#picture = spa_adm_primorivera
+	type = sea
+	date="1827.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.1
+}
+leader = {
+	name = "Francisco Javier de Ulloa"
+	#picture = spa_adm_ulloa
+	type = sea
+	date="1825.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+	prestige = 0.2
+}
+leader = {
+	name = "Casimiro Vigodet"
+	#picture = spa_adm_vigodet
+	type = sea
+	date="1836.1.1"
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+#Army
+army = {
+	name = "Ejercito Cristino del Centro"
+	location = 487
+	regiment = {
+		name= "1. Granaderos del Rey"
+		type = hussar
+		home = 487
+	}
+
+	regiment = {
+		name= "2. Granaderos del Rey"
+		type = infantry
+		home = 489
+	}
+
+	regiment = {
+		name= "3. Guardia Real"
+		type = infantry
+		home = 481
+	}
+
+	regiment = {
+		name= "1. Brigada de Infanteria 'El Ramillete'"
+		type = infantry
+		home = 503
+	}
+
+	regiment = {
+		name= "2. Brigada de Infanteria"
+		type = infantry
+		home = 509
+	}
+
+	regiment = {
+		name= "3. Brigada de Infanteria"
+		type = artillery
+		home = 513
+	}
+
+	regiment = {
+		name= "1. Brigada de Ingenieros"
+		type = artillery
+		home = 495
+	}
+
+	regiment = {
+		name= "1. Granaderos del Rey"
+		type = artillery
+		home = 487
+	}
+
+	regiment = {
+		name= "2. Granaderos del Rey"
+		type = artillery
+		home = 489
+	}
+
+	regiment = {
+		name= "3. Granaderos del Rey"
+		type = artillery
+		home = 488
+	}
+}
+
+army = {
+	name = "Ejercito del Norte"
+	location = 495
+	
+	regiment = {
+		name= "4. Brigada de Infanteria 'San Jorge'"
+		type = hussar
+		home = 487
+	}
+
+	regiment = {
+		name= "1. Brigada de Artilleria"
+		type = infantry
+		home = 476
+	}
+	
+	regiment = {
+		name= "5. Brigada de Infanteria"
+		type = infantry
+		home = 482
+	}
+	
+	regiment = {
+		name= "6. Brigada de Infanteria 'La Granja'"
+		type = infantry
+		home = 483
+	}
+
+	regiment = {
+		name= "7. Brigada de Infanteria"
+		type = infantry
+		home = 497
+	}
+
+	regiment = {
+		name= "8. Brigada de Infanteria"
+		type = artillery
+		home = 512
+	}
+
+	regiment = {
+		name= "9. Brigada de Infanteria"
+		type = artillery
+		home = 514
+	}
+
+	regiment = {
+		name= "10. Brigada de Infanteria"
+		type = artillery
+		home = 510
+	}
+
+	regiment = {
+		name= "11. Brigada de Infanteria"
+		type = artillery
+		home = 516
+	}
+	
+	regiment = {
+		name= "12. Brigada de Infanteria"
+		type = artillery
+		home = 515
+	}
+}
