@@ -72,6 +72,7 @@ KWR		= "countries/Kwararafa.txt"
 IFE		= "countries/Ife.txt"
 IMP		= "countries/Imperial Federation.txt"
 BTV     = "countries/Batavian Republic.txt"
+NSP     = "countries/Napoleonic Spain.txt"
 
 # Scandinavia
 DEN		= "countries/Denmark.txt"
