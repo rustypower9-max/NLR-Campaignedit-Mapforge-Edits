@@ -753,9 +753,9 @@ acquire_substate_region = {
 	construction_speed = 0.5
 	crisis = no
 	
-	badboy_factor = 1
-	prestige_factor = 5
-	peace_cost_factor = 0.008
+	badboy_factor = 0.5
+	prestige_factor = 0.1
+	peace_cost_factor = 0.01
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 5
@@ -792,6 +792,7 @@ acquire_substate_region = {
 	}
 
 	po_demand_state = yes
+	po_remove_prestige = yes
 	
 	war_name = WAR_TAKE_NAME
 	
@@ -3435,7 +3436,7 @@ acquire_treaty_port = {
 	always = no
 
 	can_use = {
-		# this = { NOT = { badboy = 1 } }
+		this = { NOT = { badboy = 1 } }
 
 
 		NOT = { is_our_vassal = THIS }
@@ -3483,7 +3484,7 @@ acquire_treaty_port = {
 		not = { any_owned_province = { is_capital = yes } }
 	}
 	
-	po_demand_state = yes
+	po_remove_prestige = yes
 	
 	war_name = WAR_CONCESSION_NAME
 
