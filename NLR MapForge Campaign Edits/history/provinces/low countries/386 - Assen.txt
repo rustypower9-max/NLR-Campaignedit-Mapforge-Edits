@@ -1,6 +1,6 @@
-owner = NET
-controller = NET
-add_core = NET
+owner = BTV
+controller = BTV
+add_core = BTV
 trade_goods = wool
 life_rating = 36
 
