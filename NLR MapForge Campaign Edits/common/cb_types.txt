@@ -754,11 +754,11 @@ acquire_substate_region = {
 	crisis = no
 	
 	badboy_factor = 1
-	prestige_factor = 2
-	peace_cost_factor = 0.01
+	prestige_factor = 5
+	peace_cost_factor = 0.008
 	penalty_factor = 1
 
-	break_truce_prestige_factor = 1
+	break_truce_prestige_factor = 5
 	break_truce_infamy_factor = 2
 	break_truce_militancy_factor = 2
 	truce_months = 60
@@ -1261,7 +1261,8 @@ place_in_the_sun_tiny = {
 		}
 	}
 
-	po_transfer_provinces = yes
+	po_demand_state = yes
+	po_remove_prestige = yes
 
 	war_name = WAR_COLONIAL_NAME
 	
@@ -1320,7 +1321,8 @@ place_in_the_sun_small = {
 		}
 	}
 
-	po_transfer_provinces = yes
+	po_demand_state = yes
+	po_remove_prestige = yes
 
 	war_name = WAR_COLONIAL_NAME
 	
@@ -1379,7 +1381,8 @@ place_in_the_sun_medium = {
 		}
 	}
 
-	po_transfer_provinces = yes
+	po_demand_state = yes
+	po_remove_prestige = yes
 
 	war_name = WAR_COLONIAL_NAME
 	
@@ -1438,7 +1441,8 @@ place_in_the_sun_large = {
 		}
 	}
 
-	po_transfer_provinces = yes
+	po_demand_state = yes
+	po_remove_prestige = yes
 
 	war_name = WAR_COLONIAL_NAME
 	
@@ -1497,7 +1501,8 @@ place_in_the_sun_huge = {
 		}
 	}
 
-	po_transfer_provinces = yes
+	po_demand_state = yes
+	po_remove_prestige = yes
 
 	war_name = WAR_COLONIAL_NAME
 	
@@ -2511,7 +2516,8 @@ demand_concession_casus_belli_tiny = {
 		not = { any_owned_province = { is_capital = yes } }
 	}
 	
-	po_transfer_provinces = yes
+	po_demand_state = yes
+	po_remove_prestige = yes
 	
 	war_name = WAR_CONCESSION_NAME
 
@@ -2564,7 +2570,8 @@ demand_concession_casus_belli_small = {
 		not = { any_owned_province = { is_capital = yes } }
 	}
 	
-	po_transfer_provinces = yes
+	po_demand_state = yes
+	po_remove_prestige = yes
 	
 	war_name = WAR_CONCESSION_NAME
 
@@ -2617,7 +2624,8 @@ demand_concession_casus_belli_medium = {
 		not = { any_owned_province = { is_capital = yes } }
 	}
 	
-	po_transfer_provinces = yes
+	po_demand_state = yes
+	po_remove_prestige = yes
 	
 	war_name = WAR_CONCESSION_NAME
 
@@ -2670,7 +2678,8 @@ demand_concession_casus_belli_large = {
 		not = { any_owned_province = { is_capital = yes } }
 	}
 	
-	po_transfer_provinces = yes
+	po_demand_state = yes
+	po_remove_prestige = yes
 	
 	war_name = WAR_CONCESSION_NAME
 
@@ -2723,7 +2732,8 @@ demand_concession_casus_belli_huge = {
 		not = { any_owned_province = { is_capital = yes } }
 	}
 	
-	po_transfer_provinces = yes
+	po_demand_state = yes
+	po_remove_prestige = yes
 	
 	war_name = WAR_CONCESSION_NAME
 
@@ -3387,7 +3397,8 @@ take_capital = {
 		}
 	}		
 
-	po_transfer_provinces = yes
+	po_demand_state = yes
+	po_remove_prestige = yes
 	
 	war_name = WAR_TAKE_NAME
 	
@@ -3408,18 +3419,18 @@ acquire_treaty_port = {
 	crisis = no
 	
 	badboy_factor = 0.5
-	prestige_factor = 1.0
+	prestige_factor = 5
 	peace_cost_factor = 0.002
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
-	break_truce_infamy_factor = 1
-	break_truce_militancy_factor = 1
+	break_truce_infamy_factor = 2
+	break_truce_militancy_factor = 2
 	truce_months = 60
 	
-	good_relation_prestige_factor = 0
-	good_relation_infamy_factor = 0
-	good_relation_militancy_factor = 0
+	good_relation_prestige_factor = 5
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
 	
 	always = no
 
@@ -3555,7 +3566,7 @@ establish_colonial_protectorate_casus_belli = {
 	construction_speed = 0.5
 	crisis = no
 	
-	badboy_factor = 0.5
+	badboy_factor = 0.75
 	prestige_factor = 1
 	peace_cost_factor = 1
 	penalty_factor = 1
