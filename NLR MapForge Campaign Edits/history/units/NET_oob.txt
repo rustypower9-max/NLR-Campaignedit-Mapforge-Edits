@@ -136,7 +136,7 @@ army = {
 
 navy = {
 	name = "East Indies Station"
-	location = 2472 #Batavia
+	location = 1413 #Batavia
 	ship = {
 		name= "11th Transport Flotilla"
 		type = clipper_transport
@@ -182,5 +182,104 @@ navy = {
 		name= "20th Transport Flotilla"
 		type = clipper_transport
 	}
+	
+	ship = {
+		name= "1"
+		type = manowar
+	}
 
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	
+	
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
 }
