@@ -1,4 +1,7 @@
+political_decisions = {
+
 cores_for_NPS = {
+		picture = grant
 		potential = {
 			tag = NPS
 			owns = 487

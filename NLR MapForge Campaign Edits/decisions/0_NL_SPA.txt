@@ -1,4 +1,7 @@
+political_decisions = {
+
 caribeno_SPA = {
+		picture = grant
 		potential = {
 			tag = SPA
 		}
@@ -21,6 +24,7 @@ caribeno_SPA = {
 		}
 	}
 santo_domingo_is_back = {
+		picture = grant
 		potential = {
 			tag = SPA
 			NOT = { has_country_flag = santo_domingo_reclaimed }
@@ -50,7 +54,7 @@ santo_domingo_is_back = {
 		}
 	}
 	Filipino citizenship = {
-		picture = 
+		picture = grant
 		potential = {
 			tag = SPA
 		}
@@ -72,3 +76,4 @@ santo_domingo_is_back = {
 			add_accepted_culture = filipino
 		}
 	}
+}
