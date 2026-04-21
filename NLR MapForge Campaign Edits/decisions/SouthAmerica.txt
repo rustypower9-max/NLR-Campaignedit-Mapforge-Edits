@@ -63,8 +63,8 @@ political_decisions = {
 		allow = {
 			romanticism = 1
 			OR = {
-				is_secondary_power = yes
-				is_greater_power = yes
+				#is_secondary_power = yes
+				#is_greater_power = yes
 			}
 		}
 		
@@ -187,9 +187,9 @@ political_decisions = {
 		
 		allow = {
 			romanticism = 1
-			OR = {
-				is_secondary_power = yes
-				is_greater_power = yes
+			#OR = {
+				#is_secondary_power = yes
+				#is_greater_power = yes
 			}
 		}
 		
@@ -225,9 +225,9 @@ political_decisions = {
 		
 		allow = { 
 			nationalism_n_imperialism = 1
-			OR = {
-				is_secondary_power = yes
-				is_greater_power = yes
+			#OR = {
+				#is_secondary_power = yes
+				#is_greater_power = yes
 			}
 		}
 		

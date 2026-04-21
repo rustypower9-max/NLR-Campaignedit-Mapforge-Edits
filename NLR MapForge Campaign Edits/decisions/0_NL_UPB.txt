@@ -8,8 +8,8 @@ political_decisions = {
 			all_core = {
 				owned_by = THIS
 			}
-			invention = national_fraternity
-			is_greater_power = yes
+			army_professionalism = 1
+			#is_greater_power = yes
 			URU = { exists = no }
 		}
 		effect = {
@@ -24,7 +24,7 @@ political_decisions = {
 			2401 = { add_core = THIS }
 			474 = { add_core = THIS }
 			476 = { add_core = THIS }
-			badboy = 15
+			badboy = 10
 			set_country_flag = regno_uni
 		}
 	}
@@ -36,7 +36,7 @@ political_decisions = {
 			owns = 2447
 		}
 		allow = {
-			impressionism = 1
+			idealism = 1
 		}
 		effect = {
 			capital = 2447

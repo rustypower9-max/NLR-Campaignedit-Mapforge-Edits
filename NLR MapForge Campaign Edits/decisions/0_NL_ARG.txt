@@ -6,7 +6,7 @@ political_decisions = {
 			NOT = { has_country_flag = take_peru_arg } 
 		}
 		allow = { 
-			nationalism_n_imperialism = 1
+			state_and_government = 1
 			all_core = { owned_by = THIS }
 			PEU = { all_core = { owned_by = THIS } }
 		}

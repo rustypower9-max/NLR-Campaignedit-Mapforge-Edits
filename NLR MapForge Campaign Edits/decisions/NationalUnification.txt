@@ -500,7 +500,6 @@ political_decisions = {
 			OR = {
 				AND = {
 					war = no
-					rank = 16
 					GCO = {
 						all_core = {
 							owner = {
