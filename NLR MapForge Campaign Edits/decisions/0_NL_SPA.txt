@@ -5,7 +5,8 @@ caribeno_SPA = {
 		potential = {
 			tag = SPA
 		}
-		
+		NOT = {has_country_flag = caribeno_accepted}
+		}
 		allow = {
 			owns = 2209
 			idealism = 1	
@@ -18,6 +19,7 @@ caribeno_SPA = {
 		}
 		ai_will_do = {
 			factor = 1
+		set_country_flag = caribeno_accepted
 		}
 	}
 santo_domingo_is_back = {
@@ -54,6 +56,7 @@ santo_domingo_is_back = {
 		picture = grant
 		potential = {
 			tag = SPA
+	NOT = {has_country_flag = filipino_citzenship}
 		}
 		allow = {
 			PHI = {
@@ -72,5 +75,6 @@ santo_domingo_is_back = {
 			}
 			add_accepted_culture = filipino
 		}
+	set_country_flag = filipino_citzenship
 	}
 }
