@@ -181,15 +181,23 @@ political_decisions = {
 			MOD = {
 				all_core = {
 					add_core = THIS
+				}
+			}
 			LUC = {
 				all_core = {
 					add_core = THIS
+				}
+			}
 			PAR = {
 				all_core = {
 					add_core = THIS
+				}
+			}
 			SAR = {
 				all_core = {
-					add_core = THIS		
+					add_core = THIS
+				}
+			}
 			TUS = {
 				all_core = {
 					add_core = THIS

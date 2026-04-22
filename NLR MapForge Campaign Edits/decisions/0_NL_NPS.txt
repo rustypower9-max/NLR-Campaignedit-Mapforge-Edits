@@ -8,13 +8,15 @@ cores_for_NPS = {
 			}
 
 		allow = {
-			owns = 2209
-			owns = 2222
-			owns = 1455
-			owns = 1460
-			owns = 1463
 			OR = {
-			revolution_n_counterrevolution = 1
+				AND = {
+					owns = 2209
+					owns = 2222
+					owns = 1455
+					owns = 1460
+					owns = 1463
+				}
+				revolution_n_counterrevolution = 1
 			}
 		}
 
@@ -76,6 +78,7 @@ cores_for_NPS = {
 			515 = { add_core = NPS }
 			516 = { add_core = NPS }
 			set_country_flag = gained_cores
+			FRA = {release_vassal = NPS}
 		}
 		ai_will_do = {
 			factor = 1

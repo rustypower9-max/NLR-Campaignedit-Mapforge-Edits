@@ -45,12 +45,9 @@ santo_domingo_is_back = {
 		}
 		ai_will_do = {
 			factor = 1
-			modifier = {
-				factor = 1
-			}
 		}
 	}
-	Filipino citizenship = {
+Filipino citizenship = {
 		picture = grant
 		potential = {
 			tag = SPA
@@ -73,4 +70,5 @@ santo_domingo_is_back = {
 			add_accepted_culture = filipino
 		}
 	}
+	
 }
