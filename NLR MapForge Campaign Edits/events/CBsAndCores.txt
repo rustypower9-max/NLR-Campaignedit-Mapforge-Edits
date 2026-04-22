@@ -339,26 +339,83 @@ country_event = {
 			is_greater_power = yes
 		}
 	}
+	immediate = {
+		any_country = {
+			any_owned = {
+                limit = {
+                    is_core = TIN
+                    state_scope = {
+                        is_colonial = yes
+                    }
+                }
+                owner = {
+					set_country_flag = has_tiny_colony
+                }
+        	}
+		}
+		any_country = {
+			any_owned = {
+                limit = {
+                    is_core = SMA
+                    state_scope = {
+                        is_colonial = yes
+                    }
+                }
+                owner = {
+					set_country_flag = has_small_colony
+                }
+        	}
+		}
+		any_country = {
+			any_owned = {
+                limit = {
+                    is_core = MED
+                    state_scope = {
+                        is_colonial = yes
+                    }
+                }
+                owner = {
+					set_country_flag = has_medium_colony
+                }
+        	}
+		}
+		any_country = {
+			any_owned = {
+                limit = {
+                    is_core = LRG
+                    state_scope = {
+                        is_colonial = yes
+                    }
+                }
+                owner = {
+					set_country_flag = has_large_colony
+                }
+        	}
+		}
+		any_country = {
+			any_owned = {
+                limit = {
+                    is_core = HUG
+                    state_scope = {
+                        is_colonial = yes
+                    }
+                }
+                owner = {
+					set_country_flag = has_huge_colony
+                }
+        	}
+		}
+	}
 	
 	option = {
-		name = "EVTOPTA2530"
-		random_country = {
-			limit = {
-				colonial_nation = yes
-				NOT = {
-					tag = THIS
-				}
-			}
-			add_casus_belli = {
-				target = THIS
-				type = place_in_the_sun
-				months = 6
-			}
-			relation = {
-				who = THIS
-				value = -20
-			}
-		}
+    	name = "EVTOPTA2530"
+    	random_list = {
+    	    20 = { country_event = { id = 2531 } } # tiny
+    	    20 = { country_event = { id = 2532 } } # small
+    	    20 = { country_event = { id = 2533 } } # medium
+    	    20 = { country_event = { id = 2534 } } # large
+    	    20 = { country_event = { id = 2535 } } # huge
+    	}
 	}
 	option = {
 		name = "EVTOPTB2530"
@@ -368,6 +425,201 @@ country_event = {
 				factor = 0.05
 			}
 			militancy = 0.5
+		}
+	}
+}
+
+# The Incident Tiny
+country_event = {
+	id = 2531
+	title = "EVTNAME2530"
+	desc = "EVTDESC2530"
+	picture = "patrol"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA2531"
+		random_country = {
+			limit = {
+				colonial_nation = yes
+				NOT = {
+					tag = THIS
+				}
+				has_country_flag = has_tiny_colony
+			}
+			add_casus_belli = {
+				target = THIS
+				type = place_in_the_sun_tiny
+				months = 6
+			}
+			relation = {
+				who = THIS
+				value = -20
+			}
+		}
+		any_country = {
+			clr_country_flag = has_huge_colony
+			clr_country_flag = has_large_colony
+			clr_country_flag = has_medium_colony
+			clr_country_flag = has_small_colony
+			clr_country_flag = has_tiny_colony
+		}
+	}
+}
+
+# The Incident Small
+country_event = {
+	id = 2532
+	title = "EVTNAME2530"
+	desc = "EVTDESC2530"
+	picture = "patrol"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA2532"
+		random_country = {
+			limit = {
+				colonial_nation = yes
+				NOT = {
+					tag = THIS
+				}
+				has_country_flag = has_small_colony
+			}
+			add_casus_belli = {
+				target = THIS
+				type = place_in_the_sun_small
+				months = 6
+			}
+			relation = {
+				who = THIS
+				value = -20
+			}
+		}
+		any_country = {
+			clr_country_flag = has_huge_colony
+			clr_country_flag = has_large_colony
+			clr_country_flag = has_medium_colony
+			clr_country_flag = has_small_colony
+			clr_country_flag = has_tiny_colony
+		}
+	}
+}
+
+# The Incident Medium
+country_event = {
+	id = 2533
+	title = "EVTNAME2530"
+	desc = "EVTDESC2530"
+	picture = "patrol"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA2533"
+		random_country = {
+			limit = {
+				colonial_nation = yes
+				NOT = {
+					tag = THIS
+				}
+				has_country_flag = has_medium_colony
+			}
+			add_casus_belli = {
+				target = THIS
+				type = place_in_the_sun_medium
+				months = 6
+			}
+			relation = {
+				who = THIS
+				value = -20
+			}
+		}
+		any_country = {
+			clr_country_flag = has_huge_colony
+			clr_country_flag = has_large_colony
+			clr_country_flag = has_medium_colony
+			clr_country_flag = has_small_colony
+			clr_country_flag = has_tiny_colony
+		}
+	}
+}
+
+# The Incident Large
+country_event = {
+	id = 2534
+	title = "EVTNAME2530"
+	desc = "EVTDESC2530"
+	picture = "patrol"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA2534"
+		random_country = {
+			limit = {
+				colonial_nation = yes
+				NOT = {
+					tag = THIS
+				}
+				has_country_flag = has_large_colony
+			}
+			add_casus_belli = {
+				target = THIS
+				type = place_in_the_sun_large
+				months = 6
+			}
+			relation = {
+				who = THIS
+				value = -20
+			}
+		}
+		any_country = {
+			clr_country_flag = has_huge_colony
+			clr_country_flag = has_large_colony
+			clr_country_flag = has_medium_colony
+			clr_country_flag = has_small_colony
+			clr_country_flag = has_tiny_colony
+		}
+	}
+}
+
+# The Incident Huge
+country_event = {
+	id = 2535
+	title = "EVTNAME2530"
+	desc = "EVTDESC2530"
+	picture = "patrol"
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "EVTOPTA2535"
+		random_country = {
+			limit = {
+				colonial_nation = yes
+				NOT = {
+					tag = THIS
+				}
+				has_country_flag = has_huge_colony
+			}
+			add_casus_belli = {
+				target = THIS
+				type = place_in_the_sun_huge
+				months = 6
+			}
+			relation = {
+				who = THIS
+				value = -20
+			}
+		}
+		any_country = {
+			clr_country_flag = has_huge_colony
+			clr_country_flag = has_large_colony
+			clr_country_flag = has_medium_colony
+			clr_country_flag = has_small_colony
+			clr_country_flag = has_tiny_colony
 		}
 	}
 }

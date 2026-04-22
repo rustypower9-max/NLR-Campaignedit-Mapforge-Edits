@@ -491,7 +491,7 @@ country_event = {
 		}
 		add_casus_belli = {
 				target = RUS
-				type = acquire_core_state
+				type = acquire_core_state_small
 				months = 60
 		}		
 		ai_chance = {

@@ -508,7 +508,7 @@ country_event = {
 		name = "Demand that Danzig be freed" 
 		casus_belli = {
 			target = PRU
-			type = free_peoples
+			type = free_peoples_small
 			months = 36
 		}
 		prestige = 5
