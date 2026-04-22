@@ -47,7 +47,7 @@ santo_domingo_is_back = {
 			factor = 1
 		}
 	}
-Filipino citizenship = {
+filipino_citizenship = {
 		picture = grant
 		potential = {
 			tag = SPA

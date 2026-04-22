@@ -230,7 +230,7 @@ political_decisions = {
 			720 = {
 				owner = {country_event = 600021}
 			}
-			set_country_flag=ask_france_piedmonte
+			set_country_flag = ask_france_piedmonte
 		}
 	}
 
