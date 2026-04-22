@@ -1217,7 +1217,7 @@ political_decisions = {
 			war = {
 				target = CHI
 				attacker_goal = {
-					casus_belli = demand_concession_casus_belli
+					casus_belli = demand_concession_casus_belli_tiny
 			                state_province_id = 1496
 				}
 			}

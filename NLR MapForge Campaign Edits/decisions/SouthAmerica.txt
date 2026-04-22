@@ -187,10 +187,10 @@ political_decisions = {
 		
 		allow = {
 			romanticism = 1
-			#OR = {
-				#is_secondary_power = yes
-				#is_greater_power = yes
-			#}
+#			OR = {
+#				is_secondary_power = yes
+#				is_greater_power = yes
+#			}
 		}
 		
 		effect = {
@@ -217,18 +217,20 @@ political_decisions = {
 
 	our_brothers_the_gauchos = {
 		potential = {
-			OR = { tag = ARG
-			tag = LPL }
-			NOT = { has_country_flag = rio_grande_del_sur_is_ours }
+			OR = {
+				tag = ARG
+				tag = LPL
+			}
 			has_country_flag = banda_oriental_is_ours
+			NOT = { has_country_flag = rio_grande_del_sur_is_ours }
 		}
 		
 		allow = { 
 			nationalism_n_imperialism = 1
-			#OR = {
-				#is_secondary_power = yes
-				#is_greater_power = yes
-			#}
+#			OR = {
+#				is_secondary_power = yes
+#				is_greater_power = yes
+#			}
 		}
 		
 		effect = {
