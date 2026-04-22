@@ -6,7 +6,6 @@ cores_for_NPS = {
 			tag = NPS
 			owns = 487
 			}
-		}
 
 		allow = {
 			owns = 2209
@@ -82,5 +81,4 @@ cores_for_NPS = {
 			factor = 1
 		}
 	}
-
 }
