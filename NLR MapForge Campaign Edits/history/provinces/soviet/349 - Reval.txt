@@ -4,6 +4,7 @@ add_core = SWE
 add_core = BLE
 add_core = EST
 add_core = UBD
+add_core = SMA
 trade_goods = grain
 life_rating = 35
 fort = 1
