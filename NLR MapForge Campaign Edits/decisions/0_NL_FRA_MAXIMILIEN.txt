@@ -76,7 +76,7 @@ political_decisions = {
 			war = no
 		}
 		effect = {
-			add_accepted_culture = north_italian
+#			add_accepted_culture = north_italian
 			NIT = {
 				all_core = {
 					add_core = THIS
@@ -98,7 +98,7 @@ political_decisions = {
 				}
 				annex_to = THIS
 			}
-			SAR_720 = {add_core = FRA}
+			SAR_765 = {add_core = FRA} #Sardinia
 			PAP_749 = {add_core = FRA}
 			add_core = 751
 			add_core = 752

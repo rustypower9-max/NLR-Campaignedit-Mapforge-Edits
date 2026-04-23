@@ -417,7 +417,7 @@
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = cisalpine
 		religion = catholic
 		size = 10000
 	}
@@ -429,7 +429,7 @@
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = cisalpine
 		religion = catholic
 		size = 9000
 	}
@@ -443,7 +443,13 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 300000
+		size = 225000
+	}
+
+	farmers = {
+		culture = cisalpine
+		religion = catholic
+		size = 75000
 	}
 
 	clergymen = {
@@ -487,7 +493,13 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 107275
+		size = 77275
+	}
+
+	farmers = {
+		culture = cisalpine
+		religion = catholic
+		size = 30000
 	}
 }
 #Brescia (708000/177000 POPS)
@@ -507,7 +519,13 @@
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 8850
+		size = 4850
+	}
+
+	artisans = {
+		culture = cisalpine
+		religion = catholic
+		size = 4000
 	}
 
 	soldiers = {
@@ -519,7 +537,13 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 159075
+		size = 120000
+	}
+
+	farmers = {
+		culture = cisalpine
+		religion = catholic
+		size = 39075
 	}
 }
 #Venetia Region (2060000)
@@ -625,7 +649,7 @@
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = cisalpine
 		religion = catholic
 		size = 2000
 	}
@@ -639,7 +663,13 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 111050
+		size = 86050
+	}
+
+	farmers = {
+		culture = cisalpine
+		religion = catholic
+		size = 25000
 	}
 }
 #Padua (564000/141000 POPS)
@@ -745,11 +775,11 @@
 	aristocrats = {
 		culture = north_italian
 		religion = catholic
-		size = 60 
+		size = 700
 	}
 
 	clergymen = {
-		culture = north_italian
+		culture = cisalpine
 		religion = catholic
 		size = 80 
 	}
@@ -761,7 +791,7 @@
 	}
 	
 	artisans = {
-		culture = north_italian
+		culture = cisalpine
 		religion = catholic
 		size = 200
 	}
@@ -773,9 +803,9 @@
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = cisalpine
 		religion = catholic
-		size = 4610 
+		size = 14610 
 	}
 
 	clergymen = {
@@ -799,7 +829,7 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 60075
+		size = 49435
 	}
 }
 #Bozen (92000/23000 POPS) #now part of Italy
@@ -1027,7 +1057,13 @@
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 7500
+		size = 5000
+	}
+
+	artisans = {
+		culture = cisalpine
+		religion = catholic
+		size = 2500
 	}
 
 	soldiers = {
@@ -1039,7 +1075,13 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 104500
+		size = 70000
+	}
+
+	farmers = {
+		culture = cisalpine
+		religion = catholic
+		size = 34500
 	}
 }
 #under the rule of Modena in 1836
@@ -1048,7 +1090,12 @@
 	aristocrats = {
 		culture = north_italian
 		religion = catholic
-		size = 2650
+		size = 2000
+	}
+	aristocrats = {
+		culture = cisalpine
+		religion = catholic
+		size = 650
 	}
 
 	bureaucrats = {
@@ -1066,7 +1113,13 @@
 	clergymen = {
 		culture = north_italian
 		religion = catholic
-		size = 1225
+		size = 900
+	}
+
+	clergymen = {
+		culture = cisalpine
+		religion = catholic
+		size = 325
 	}
 
 	artisans = {
@@ -1084,7 +1137,13 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 108750
+		size = 78750
+	}
+
+	farmers = {
+		culture = cisalpine
+		religion = catholic
+		size = 30000
 	}
 }
 #Massa (164000/41000 POPS)
@@ -1104,7 +1163,13 @@
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 2000
+		size = 1000
+	}
+
+	artisans = {
+		culture = cisalpine
+		religion = catholic
+		size = 1000
 	}
 
 	soldiers = {
@@ -1116,7 +1181,13 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 36700
+		size = 26700
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = catholic
+		size = 10000
 	}
 }
 #Romagna Region (844000)
@@ -1126,7 +1197,12 @@
 	aristocrats = {
 		culture = north_italian
 		religion = catholic
-		size = 2175
+		size = 1675
+	}
+	aristocrats = {
+		culture = cisalpine
+		religion = catholic
+		size = 500
 	}
 
 	bureaucrats = {
@@ -1154,7 +1230,7 @@
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = cisalpine
 		religion = catholic
 		size = 7500
 	}
@@ -1168,7 +1244,13 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 80650
+		size = 60650
+	}
+
+	farmers = {
+		culture = cisalpine
+		religion = catholic
+		size = 20000
 	}
 }
 #Ferrara (180000/45000 POPS)
@@ -1242,7 +1324,12 @@
 	aristocrats = {
 		culture = north_italian
 		religion = catholic
-		size = 3950
+		size = 3450
+	}
+	aristocrats = {
+		culture = cisalpine
+		religion = catholic
+		size = 500
 	}
 
 	bureaucrats = {
@@ -1270,7 +1357,7 @@
 	}
 
 	artisans = {
-		culture = north_italian
+		culture = cisalpine
 		religion = catholic
 		size = 9500
 	}
@@ -1284,7 +1371,13 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 149900
+		size = 119900
+	}
+
+	farmers = {
+		culture = cisalpine
+		religion = catholic
+		size = 30000
 	}
 
 	clergymen = {
@@ -1443,7 +1536,13 @@
 	artisans = {
 		culture = north_italian
 		religion = catholic
-		size = 10000
+		size = 6000
+	}
+
+	artisans = {
+		culture = cisalpine
+		religion = catholic
+		size = 4000
 	}
 
 	artisans = {
@@ -1461,7 +1560,13 @@
 	farmers = {
 		culture = north_italian
 		religion = catholic
-		size = 19275
+		size = 12275
+	}
+
+	farmers = {
+		culture = cisalpine
+		religion = catholic
+		size = 7000
 	}
 }
 #Latium Region (1272000)
