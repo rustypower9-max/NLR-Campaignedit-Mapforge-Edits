@@ -17,6 +17,7 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = turkic
+			add_accepted_culture = sindi
 			set_country_flag = assert_on_steppe
 		}
 		ai_will_do = {

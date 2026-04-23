@@ -12,7 +12,7 @@ political_decisions = {
 		allow = {
 			war=no
 			state_n_government=1
-			is_greater_power=yes
+			#is_greater_power=yes
 			PLC = {is_greater_power=no}
 			war_policy=jingoism
 			AUS_702 = {owned_by = THIS}
@@ -90,7 +90,7 @@ political_decisions = {
 		}
 		allow = {
 			state_n_government = 1
-			is_greater_power = yes
+			#is_greater_power = yes
 		}
 		effect = {
 			add_accepted_culture = slovak
@@ -147,11 +147,11 @@ political_decisions = {
 					} 
 				} 
 			} 
-			citizenship_policy = full_citizenship
-			mass_politics = 1
-			is_greater_power = yes
+			#citizenship_policy = full_citizenship
+			phenomenology_n_hermeneutic = 1
+			#is_greater_power = yes
 			war = no
-			NOT = {average_militancy = 2}
+			#NOT = {average_militancy = 2}
 			KUK = {
 				all_core = {
 					owned_by = THIS
@@ -169,13 +169,14 @@ political_decisions = {
 			}
 		}
 		effect = {
-			add_accepted_culture = romanian
+			#add_accepted_culture = romanian
 			add_accepted_culture = bosniak
 			add_accepted_culture = croat
 			add_accepted_culture = slovak
-			add_accepted_culture = polish
+			#add_accepted_culture = polish
 			add_accepted_culture = slovene
 			add_accepted_culture = serb
+			add_accepted_culture = albanian
 			all_core = {
 				add_core = USG
 			}
