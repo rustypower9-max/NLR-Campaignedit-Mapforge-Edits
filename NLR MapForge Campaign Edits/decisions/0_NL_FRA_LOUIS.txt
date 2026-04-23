@@ -53,7 +53,7 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = flemish
-			BEL = {
+			FLA = {
 				all_core = {
 					add_core = THIS
 				}
@@ -65,12 +65,9 @@ political_decisions = {
 						in_sphere = THIS
 					}
 					OR = {
-						accepted_culture = flemish
 						primary_culture = flemish
+						primary_culture = wallonian
 					}
-				}
-				all_core = {
-					add_core = THIS
 				}
 				annex_to = THIS
 			}
@@ -84,14 +81,30 @@ political_decisions = {
 			NOT = {accepted_culture = dutch}
 		}
 		allow = {
-			NET = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							vassal_of = THIS
-							in_sphere = THIS
-						}
+			NET_375 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						vassal_of = THIS
+						in_sphere = THIS
+					}
+				}
+			}
+			NET_385 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						vassal_of = THIS
+						in_sphere = THIS
+					}
+				}
+			}
+			NET_386 = {
+				OR = {
+					owned_by = THIS
+					owner = {
+						vassal_of = THIS
+						in_sphere = THIS
 					}
 				}
 			}
@@ -115,9 +128,6 @@ political_decisions = {
 						in_sphere = THIS
 					}		
 					primary_culture = dutch
-				}
-				all_core = {
-					add_core = THIS
 				}
 				annex_to = THIS
 			}
