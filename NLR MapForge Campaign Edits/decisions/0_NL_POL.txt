@@ -1,4 +1,23 @@
 political_decisions = {
+
+    first_steps_towards_prussia = {
+		picture = duchy_of_warsaw
+		potential = {
+			tag = PLC
+			NOT = {has_country_flag = prussian_preparation}
+		}
+		allow = {
+			war=no
+			ideological_thought=1
+			war_policy=jingoism
+		}
+		effect = {
+			PRU_695 = {	add_core = THIS	}
+			PRU_690 = {	add_core = THIS	}
+			set_country_flag = prussian_preparation
+		}
+	}
+
 	create_cop = {
 		picture = duchy_of_warsaw
 		potential = {

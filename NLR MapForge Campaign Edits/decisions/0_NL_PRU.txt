@@ -1,5 +1,22 @@
 political_decisions = {
 	
+    first_steps_towards_poland = {
+		picture = duchy_of_warsaw
+		potential = {
+			tag = PRU
+			NOT = {has_country_flag = polish_prepartition}
+		}
+		allow = {
+			war=no
+			ideological_thought=1
+			war_policy=jingoism
+		}
+		effect = {
+			PRU_701 = {	add_core = THIS	}
+			set_country_flag = polish_prepartition
+		}
+	}
+	
 	repartition_poland = {
 		picture = duchy_of_warsaw
 		potential = {
