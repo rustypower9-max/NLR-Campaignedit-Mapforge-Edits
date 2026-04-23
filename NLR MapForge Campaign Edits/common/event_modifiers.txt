@@ -1137,7 +1137,7 @@ core_when_done = {
 }
 
 french_republic = {
-	mobilisation_size = 0.01
+#	mobilisation_size = 0.01 #NOPE
 	global_assimilation_rate = 0.1
 	education_efficiency_modifier = 0.1
 	culture_tech_research_bonus = 0.05
