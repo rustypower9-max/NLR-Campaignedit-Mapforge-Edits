@@ -170,7 +170,7 @@ political_decisions = {
 		}
 		effect = {
 			#add_accepted_culture = romanian
-			add_accepted_culture = bosniak
+			#add_accepted_culture = bosniak
 			add_accepted_culture = croat
 			add_accepted_culture = slovak
 			#add_accepted_culture = polish
