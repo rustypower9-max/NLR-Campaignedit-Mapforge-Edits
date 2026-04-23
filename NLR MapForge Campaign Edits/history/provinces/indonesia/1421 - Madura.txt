@@ -1,5 +1,7 @@
 owner = NET
 controller = NET
+add_core = INO
+add_core = JAV
 trade_goods = Tobacco
 life_rating = 30
 colonial = 2
