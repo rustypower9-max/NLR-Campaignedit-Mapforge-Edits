@@ -73,7 +73,34 @@ germanic = {
 		"von Reuter" "von Richthofen" "von Sachsen-Altenburg" "von Sachsen-Coburg-Gotha" "von Sachsen-Meiningen" 
 		"von Sachsen-Weimar-Eisenach" "von Schlieffen" "von Schwarzburg" "von Spee" "von Tirpitz" "von Waldeck und Pyrmont" "von Wettin" 
 		"von Wrangel" "von Zieten" "zur Lippe" "von Roon" }
-	}		
+	}
+	pomeranian = {
+		color = { 125 100 60 }
+		first_names = { Adalbert Albert Albrecht Armin August Bernhard Bogislav Boleslav Caspar Christian Detlef Ewald Franz Friedrich
+		Georg Gotthilf Gustav Heinrich Hermann Hinrich Joachim Johann Jürgen Karl Konrad Lorenz Ludwig Martin Matthias Otto Paul Reinhold
+		Rudolf Stephan Theodor Ulrich Wilhelm }
+		
+		last_names = { Arndt Bartels Below Blücher Bonin Bülow Damm Döring Eickstedt Flemming Glasenapp Greifenberg Grumbkow
+		Kameke Kleist Krockow Lettow Manteuffel Natzmer Osten Puttkamer Ramin Rantzau Reder Rehberg Runge Sarnow
+		Schwerin Somnitz Stülpnagel Thun Torgelow Wobeser Zitzewitz
+		"von Bonin" "von Bülow" "von Kleist" "von Krockow" "von Lettow-Vorbeck" "von Manteuffel" "von Natzmer"
+		"von Puttkamer" "von Schwerin" "von Zitzewitz" "von der Osten" "von Glasenapp"
+		}
+	}
+	baltic_german = {
+		color = { 90 130 150 }
+		first_names = { Adolf Alexander Alfred Andreas August Bernhard Bruno Christian Dietrich Eduard Ernst Ewald Fabian Ferdinand
+		Friedrich Georg Gottlieb Gustav Heinrich Hermann Johann Joachim Julius Karl Konrad Leonhard Magnus Moritz Otto Reinhold Robert
+		Rudolf Theodor Viktor Wilhelm Wolmar }
+		
+		last_names = { Berg Bock Buxhoeveden Dellingshausen Derfelden Essen Engelhardt Fersen Keyserling Korff Lieven Manteuffel
+		Meyendorff Patkul Pahlen Rehbinder Rosen Stackelberg Tiesenhausen Uexküll Vietinghoff Wrangel	
+		"von Berg" "von Bock" "von Buxhoeveden" "von Dellingshausen" "von der Pahlen" "von der Recke"
+		"von Essen" "von Engelhardt" "von Fersen" "von Keyserling" "von Korff" "von Lieven"
+		"von Manteuffel" "von Meyendorff" "von Patkul" "von Rehbinder" "von Rosen"
+		"von Stackelberg" "von Tiesenhausen" "von Uexküll" "von Vietinghoff" "von Wrangel"
+		}
+	}	
 	German = { color = { 0 0 0 } first_names = { sneed } last_names = { sneed } } 
 	union = GER
 }

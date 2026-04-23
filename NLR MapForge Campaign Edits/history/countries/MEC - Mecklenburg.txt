@@ -1,5 +1,5 @@
 capital = 544
-primary_culture = north_german
+primary_culture = pomeranian
 religion = protestant
 government = absolute_monarchy
 plurality = 25.0

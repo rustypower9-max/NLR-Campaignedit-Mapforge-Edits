@@ -7,15 +7,15 @@ political_decisions = {
 				tag = SCA
 			}
 			NOT = {has_country_flag=expand_german_influence}
+		}
+		allow = {
+			war = no
 			MEC = {
 				OR = {
 					vassal_of = THIS
 					in_sphere = THIS
 				}
 			}
-		}
-		allow = {
-			war = no
 		}
 		effect = {
 			add_core = 545

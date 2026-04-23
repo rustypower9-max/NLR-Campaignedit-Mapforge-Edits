@@ -1,6 +1,6 @@
-owner = FRM
-controller = FRM
-add_core = FRM
+owner = WUL
+controller = WUL
+add_core = WUL
 add_core = GER
 
 trade_goods = grain

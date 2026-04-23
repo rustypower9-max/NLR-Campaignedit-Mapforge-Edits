@@ -5,7 +5,12 @@
     aristocrats = {
         culture = north_german
         religion = protestant
-        size = 1250
+        size = 800
+    }
+    aristocrats = {
+        culture = baltic_german
+        religion = protestant
+        size = 450
     }
 
     bureaucrats = {
@@ -32,6 +37,12 @@
         size = 5250
     }
 
+    artisans = {
+        culture = baltic_german
+        religion = protestant
+        size = 3250
+    }
+
     clerks = {
         culture = north_german
         religion = protestant
@@ -44,6 +55,12 @@
         size = 4000
     }
 
+    craftsmen = {
+        culture = baltic_german
+        religion = protestant
+        size = 2000
+    }
+
     soldiers = {
         culture = north_german
         religion = protestant
@@ -53,7 +70,13 @@
     farmers = {
         culture = north_german
         religion = protestant
-        size = 116125
+        size = 86125
+    }
+
+    farmers = {
+        culture = baltic_german
+        religion = protestant
+        size = 30000
     }
 
     clergymen = {
@@ -862,55 +885,55 @@
 #Danzig (76000/19000 POPS)
 690 = {
     aristocrats = {
-        culture = north_german
+        culture = baltic_german
         religion = protestant
         size = 50
     }
 
     bureaucrats = {
-        culture = north_german
+        culture = baltic_german
         religion = protestant
         size = 375
     }
 
     officers = {
-        culture = north_german
+        culture = baltic_german
         religion = protestant
         size = 200
     }
 
     clergymen = {
-        culture = north_german
+        culture = baltic_german
         religion = protestant
         size = 75
     }
 
     artisans = {
-        culture = north_german
+        culture = baltic_german
         religion = protestant
         size = 9500
     }
 
     soldiers = {
-        culture = north_german
+        culture = baltic_german
         religion = protestant
         size = 125
     }
 
     farmers = {
-        culture = north_german
+        culture = baltic_german
         religion = protestant
         size = 1275
     }
 
     clergymen = {
-        culture = north_german
+        culture = baltic_german
         religion = jewish
         size = 5
     }
 
     artisans = {
-        culture = north_german
+        culture = baltic_german
         religion = jewish
         size = 395
     }
