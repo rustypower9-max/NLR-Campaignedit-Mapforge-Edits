@@ -107,6 +107,7 @@ vassal = {
 	second = BTV
 	start_date = 1836.1.1
 	end_date = 1900.7.26
+}
 	
 # French Empire - Napoleonic Spain
 vassal = {
@@ -114,3 +115,4 @@ vassal = {
 	second = NPS
 	start_date = 1836.1.1
 	end_date = 1900.7.26
+}
