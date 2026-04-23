@@ -11,6 +11,22 @@ FRA = {
 }
 
 leader = {
+	name = "MarioCrafter"
+	date = 1836.1.1
+	type = land
+	personality = defence_4.1
+	background = attack_1.1
+}
+
+leader = {
+	name = "Robert is a very "good" guy"
+	date = 1836.1.1
+	type = land
+	personality = defence_1.1
+	background = attack_1.1
+}
+
+leader = {
 	name = "Liam"
 	date = 1836.1.1
 	type = land
@@ -22,65 +38,126 @@ army = {
 	name = "Oglaigh na hEireann"
 	location = 263
 	regiment = {
-		name= "1.1. Infanteridivision"
+		name= "I am Retep"
 		type = infantry
 		home = 254
 	}
 
 	regiment = {
-		name= "2.1. Infanteridivision"
+		name= "Jakub's finest man"
 		type = infantry
 		home = 255
 	}
 
 	regiment = {
-		name= "3.1. Infanteridivision"
+		name= "Jakub's weakest soldier"
 		type = infantry
 		home = 256
 	}
 	
 	regiment = {
-		name= "1.2. Infanteridivision"
+		name= "Malcolm in the Middle"
 		type = infantry
 		home = 258
 	}
 
 	regiment = {
-		name= "2.2. Infanteridivision"
+		name= "The I.D.F."
 		type = artillery
 		home = 259
 	}
 
 	regiment = {
-		name= "3.2. Infanteridivision"
+		name= "Kinky Boots"
 		type = artillery
 		home = 260
 	}
 	regiment = {
-		name= "4.2. Infanteridivision"
+		name= "I hate the Ku Klux Klan"
 		type = artillery
 		home = 261
 	}
 	regiment = {
-		name= "5.2. Infanteridivision"
+		name= "Astrobot 2024 is a pretty good game and deserved game of the year uuuh.... hard disagree"
 		type = artillery
 		home = 262
 	}
 	regiment = {
-		name= "6.2. Infanteridivision"
+		name= "name one Aderius is a bitch"
 		type = artillery
 		home = 263
 	}
 
 	regiment = {
-		name= "1.1. Kavalleridivision"
+		name= ".......white peace?"
 		type = hussar
 		home = 264
 	}
 }
 
+army = {
+	name = "Oglaigh na Huiorann"
+	location = 263
+	regiment = {
+		name= "The sapling by Wessel Stub is a very underrrated Videogame"
+		type = infantry
+		home = 261
+	}
+
+	regiment = {
+		name= "FakeDavid is a Bitch"
+		type = infantry
+		home = 261
+	}
+
+	regiment = {
+		name= "Call this Number for some Gex: 757-800-9962"
+		type = infantry
+		home = 262
+	}
+	
+	regiment = {
+		name= "Life is Unfair"
+		type = infantry
+		home = 258
+	}
+
+	regiment = {
+		name= "General Chicken with Rice"
+		type = artillery
+		home = 259
+	}
+
+	regiment = {
+		name= "HDMI Cord Bag of Lettuce"
+		type = artillery
+		home = 259
+	}
+	regiment = {
+		name= "Burger King Foot Lettuce"
+		type = artillery
+		home = 265
+	}
+	regiment = {
+		name= "Smiling friends is underrrated and very funny"
+		type = artillery
+		home = 255
+	}
+	regiment = {
+		name= "McDonalds Product"
+		type = artillery
+		home = 257
+	}
+
+	regiment = {
+		name= "Benjamin Netanyahu, Strike Down the British and my Soul is yours!"
+		type = hussar
+		home = 257
+	}
+}
+
 navy = {
-    name = "Transport Fleet"
+    name = "Eire Defense Fleet"
     location = 263
     ship = {
 		name= "Don na nGall"
@@ -94,7 +171,6 @@ navy = {
 		name= "Conghaile"
 		type = manowar
 	}
-
 
 	ship = {
 		name= "Fort Rannoch"
@@ -120,7 +196,79 @@ navy = {
 		type = frigate
 	}
 	ship = {
-		name= "Cliona II"
+		name= "Ship of Jesus"
+		type = frigate
+	}
+	ship = {
+		name= "Israeels Strongest Soldier"
+		type = frigate
+	}
+	ship = {
+		name= "Gaebolg"
+		type = frigate
+	}
+	ship = {
+		name= "Jubich"
+		type = frigate
+	}
+	ship = {
+		name= "Puppy Power"
+		type = frigate
+	}
+	ship = {
+		name= "Cucholaine"
+		type = frigate
+	}
+	ship = {
+		name= "Trump Tower"
+		type = frigate
+	}
+	ship = {
+		name= "How did diplo go Mew"
+		type = frigate
+	}
+	ship = {
+		name= "He was freaking out about save edits"
+		type = frigate
+	}
+	ship = {
+		name= "Call one james was here"
+		type = frigate
+	}
+	ship = {
+		name= "Bane of rusty"
+		type = frigate
+	}
+	ship = {
+		name= "Bookman is a bitch"
+		type = frigate
+	}
+	ship = {
+		name= "Mecpine is a Bookman"
+		type = frigate
+	}
+	ship = {
+		name= "Merc can't Do Diplo"
+		type = frigate
+	}
+	ship = {
+		name= "Merc that's not how you defend Ireland"
+		type = frigate
+	}
+	ship = {
+		name= "Fentanyl"
+		type = frigate
+	}
+	ship = {
+		name= "Fettywop"
+		type = frigate
+	}
+	ship = {
+		name= "Frank"
+		type = frigate
+	}
+	ship = {
+		name= "Baby Vance"
 		type = frigate
 	}
     ship = {
