@@ -392,13 +392,13 @@
 	soldiers = {
 		culture = pomeranian
 		religion = protestant
-		size = 1250 
+		size = 4850
 	}
 
 	farmers = {
 		culture = pomeranian
 		religion = protestant
-		size = 109800 
+		size = 106200 
 	}
 
 	clergymen = {
@@ -1023,7 +1023,7 @@
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size = 50 
+		size = 850
 	}
 
 	farmers = {
@@ -1050,16 +1050,10 @@
 		size = 1600
 	}
 
-	soldiers = {
-		culture = north_german
-		religion = catholic
-		size = 150   
-	}
-
 	farmers = {
 		culture = north_german
 		religion = catholic
-		size = 14925 
+		size = 14275 
 	}
 
 }
@@ -1260,13 +1254,13 @@
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size = 5000 
+		size = 7800 
 	}
 
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 106950
+		size = 104250
 	}
 
 	clergymen = {
@@ -1285,12 +1279,6 @@
 		culture = north_german
 		religion = catholic
 		size = 1350
-	}
-
-	soldiers = {
-		culture = north_german
-		religion = catholic
-		size = 50      
 	}
 
 	farmers = {
@@ -1341,12 +1329,6 @@
 		size = 1850
 	}
 
-	soldiers = {
-		culture = polish
-		religion = catholic
-		size = 50     
-	}
-
 	farmers = {
 		culture = polish
 		religion = catholic
@@ -1376,13 +1358,13 @@
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size = 2400 
+		size = 2800 
 	}
 
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 62500
+		size = 62100
 	}
 }
 #Pritzwalk (232000/58000 POPS)
@@ -1440,13 +1422,13 @@
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size = 2300 
+		size = 3500 
 	}
 
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 71200
+		size = 70050
 	}
 
 	clergymen = {
@@ -1459,12 +1441,6 @@
 		culture = north_german
 		religion = catholic
 		size = 300
-	}
-
-	soldiers = {
-		culture = north_german
-		religion = catholic
-		size = 50      
 	}
 
 	farmers = {
@@ -4246,13 +4222,13 @@
 	soldiers = {
 		culture = north_german
 		religion = protestant
-		size = 3300   
+		size = 3600
 	}
 
 	farmers = {
 		culture = north_german
 		religion = protestant
-		size = 43575
+		size = 43275
 	}
 
 	farmers = {

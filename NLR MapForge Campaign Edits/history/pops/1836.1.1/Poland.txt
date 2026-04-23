@@ -64,13 +64,13 @@
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 3300
+        size = 5500
     }
 
     farmers = {
         culture = north_german
         religion = protestant
-        size = 86125
+        size = 83925
     }
 
     farmers = {
@@ -138,13 +138,13 @@
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 1300
+        size = 1725
     }
 
     farmers = {
         culture = north_german
         religion = protestant
-        size = 34075
+        size = 33650
     }
 
     clergymen = {
@@ -194,7 +194,7 @@
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 1300
+        size = 1500
     }
 
     farmers = {
@@ -224,7 +224,7 @@
     farmers = {
         culture = north_german
         religion = catholic
-        size = 10250
+        size = 10050
     }
 
     clergymen = {
@@ -352,7 +352,7 @@
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 3500
+        size = 7000
     }
 
     farmers = {
@@ -480,13 +480,13 @@
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 1225
+        size = 4650
     }
 
     farmers = {
         culture = north_german
         religion = protestant
-        size = 96900
+        size = 93475
     }
 
     clergymen = {
@@ -724,7 +724,7 @@
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 100
+        size = 1100
     }
 
     farmers = {
@@ -784,7 +784,7 @@
     farmers = {
         culture = polish
         religion = catholic
-        size = 66675
+        size = 65675
     }
 
     clergymen = {
@@ -991,13 +991,13 @@
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 30000
+        size = 3200
     }
 
     farmers = {
         culture = north_german
         religion = protestant
-        size = 97675
+        size = 124475
     }
 
     clergymen = {
@@ -1053,13 +1053,13 @@
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 25000
+        size = 1900
     }
 
     farmers = {
         culture = north_german
         religion = protestant
-        size = 63325
+        size = 86425
     }
 
     clergymen = {
@@ -1115,13 +1115,13 @@
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 22000
+        size = 2500
     }
 
     farmers = {
         culture = north_german
         religion = protestant
-        size = 72275
+        size = 91775
     }
 
     clergymen = {
@@ -1253,13 +1253,13 @@
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 2300
+        size = 3900
     }
 
     farmers = {
         culture = north_german
         religion = protestant
-        size = 50250
+        size = 48650
     }
 
     clergymen = {
