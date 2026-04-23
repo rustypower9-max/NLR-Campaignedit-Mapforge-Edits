@@ -1,5 +1,6 @@
-owner = GBR
-controller = GBR
-add_core = INO add_core = KTI
+owner = KTI
+controller = KTI
+add_core = INO 
+add_core = KTI
 trade_goods = sulphur
-life_rating = 15
+life_rating = 30

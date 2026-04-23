@@ -1,5 +1,5 @@
-owner = GBR
-controller = GBR
+owner = KLM
+controller = KLM
 add_core = LAN
 add_core = INO 
 add_core = KLM

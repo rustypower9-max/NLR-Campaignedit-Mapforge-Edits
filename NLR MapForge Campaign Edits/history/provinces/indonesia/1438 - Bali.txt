@@ -1,5 +1,6 @@
-owner = GBR
-controller = GBR
-add_core = INO add_core = BAL
+owner = BAL
+controller = BAL
+add_core = INO 
+add_core = BAL
 trade_goods = fish
-life_rating = 30
+life_rating = 35

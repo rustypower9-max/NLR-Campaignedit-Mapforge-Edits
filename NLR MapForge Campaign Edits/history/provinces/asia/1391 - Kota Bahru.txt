@@ -1,7 +1,8 @@
-owner = GBR
-controller = GBR
-add_core = INO add_core = SIA
+owner = JOH
+controller = JOH
+add_core = INO 
+add_core = SIA
 add_core = JOH
 trade_goods = tropical_wood
-life_rating = 40
+life_rating = 35
 

@@ -3,4 +3,4 @@ controller = SPA
 add_core = BRU
 add_core = INO
 trade_goods = grain
-life_rating = 15
+life_rating = 30
