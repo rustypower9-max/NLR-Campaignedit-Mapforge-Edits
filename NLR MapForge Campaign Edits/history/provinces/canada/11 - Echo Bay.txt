@@ -1,5 +1,5 @@
-owner = CAN
-controller = CAN
-add_core = CAN
+owner = GBR
+controller = GBR
+add_core = GBR
 trade_goods = fish
 life_rating = 15
