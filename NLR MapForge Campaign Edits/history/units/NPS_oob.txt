@@ -253,41 +253,10 @@ army = {
 	}
 	
 	regiment = {
-		name = "2. Brigada Colonial"
-		type = infantry
-		home = 2209
-	}
-	
-	regiment = {
 		name = "3. Brigada Colonial"
 		type = infantry
 		home = 475
 	}
-
-	regiment = {
-		name = "4. Brigada Colonial"
-		type = infantry
-		home = 1455
-	}
-
-	regiment = {
-		name = "5. Brigada Colonial"
-		type = infantry
-		home = 1463
-	}
-	
-	regiment = {
-		name = "6. Brigada Colonial"
-		type = artillery
-		home = 1456
-	}
-	
-	regiment = {
-		name = "7. Brigada Colonial"
-		type = artillery
-		home = 1457
-	}
-	
 	regiment = {
 		name = "1. Brigada"
 		type = artillery
