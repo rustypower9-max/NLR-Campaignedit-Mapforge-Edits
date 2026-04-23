@@ -939,196 +939,190 @@
         size = 1875
     }
 }
-#Tuchel (180000/45000 POPS)
+#Tuchel (720000/180000 POPS) #OLD: (180000/45000 POPS)
 691 = {
     aristocrats = {
         culture = north_german
         religion = protestant
-        size = 800
+        size = 1800
     }
 
     clergymen = {
         culture = north_german
         religion = protestant
-        size = 350
+        size = 3600
     }
 
     artisans = {
         culture = north_german
         religion = protestant
-        size = 1850
-    }
-
-    soldiers = {
-        culture = north_german
-        religion = protestant
-        size = 375
-    }
-
-    farmers = {
-        culture = north_german
-        religion = protestant
-        size = 33925
-    }
-
-    clergymen = {
-        culture = north_german
-        religion = catholic
-        size = 15
+        size = 8000
     }
 
     artisans = {
         culture = north_german
-        religion = catholic
-        size = 50
+        religion = protestant
+        size = 9000
     }
 
     soldiers = {
         culture = north_german
-        religion = catholic
-        size = 10
+        religion = protestant
+        size = 30000
     }
 
     farmers = {
         culture = north_german
-        religion = catholic
-        size = 925
+        religion = protestant
+        size = 97675
     }
 
     clergymen = {
         culture = polish
         religion = catholic
-        size = 50
+        size = 400
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 350
+        size = 4000
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 75
+        size = 4000
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 6525
+        size = 21525
     }
 }
-#Deutsche Krone (128000/32000 POPS)
+#Deutsche Krone (540000/135000 POPS) #OLD: (128000/32000 POPS)
 692 = {
     aristocrats = {
         culture = north_german
         religion = protestant
-        size = 625
+        size = 1350
     }
 
     clergymen = {
         culture = north_german
         religion = protestant
-        size = 175
+        size = 2700
     }
 
     artisans = {
         culture = north_german
         religion = protestant
-        size = 1250
+        size = 6500
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 7000
     }
 
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 1300
+        size = 25000
     }
 
     farmers = {
         culture = north_german
         religion = protestant
-        size = 21650
+        size = 63325
     }
 
     clergymen = {
         culture = polish
         religion = catholic
-        size = 50
+        size = 500
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 350
+        size = 3500
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 75
+        size = 3500
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 6625
+        size = 21625
     }
 }
-#Elbing (148000/37000 POPS)
+#Elbing (560000/140000 POPS) #OLD: (148000/37000 POPS)
 693 = {
     aristocrats = {
-        culture = north_german
-        religion = protestant
-        size = 700
-    }
-
-    clergymen = {
-        culture = north_german
-        religion = protestant
-        size = 125
-    }
-
-    artisans = {
         culture = north_german
         religion = protestant
         size = 1400
     }
 
+    clergymen = {
+        culture = north_german
+        religion = protestant
+        size = 2500
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 7000
+    }
+
+    artisans = {
+        culture = north_german
+        religion = protestant
+        size = 4000
+    }
+
     soldiers = {
         culture = north_german
         religion = protestant
-        size = 1300
+        size = 22000
     }
 
     farmers = {
         culture = north_german
         religion = protestant
-        size = 24125
+        size = 72275
     }
 
     clergymen = {
         culture = polish
         religion = catholic
-        size = 75
+        size = 750
     }
 
     artisans = {
         culture = polish
         religion = catholic
-        size = 450
+        size = 4500
     }
 
     soldiers = {
         culture = polish
         religion = catholic
-        size = 1100
+        size = 3100
     }
 
     farmers = {
         culture = polish
         religion = catholic
-        size = 7475
+        size = 22475
     }
 }
 #Torun (156000/44000 POPS)
