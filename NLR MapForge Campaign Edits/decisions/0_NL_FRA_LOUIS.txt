@@ -71,6 +71,13 @@ political_decisions = {
 				}
 				annex_to = THIS
 			}
+			any_owned = {
+				limit = {
+					is_core = FLA
+					is_core = BEL
+				}
+				life_rating = 2
+			}
 			prestige = 20
 		}
 	}
