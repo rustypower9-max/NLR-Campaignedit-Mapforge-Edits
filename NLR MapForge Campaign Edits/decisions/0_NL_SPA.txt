@@ -47,12 +47,9 @@ santo_domingo_is_back = {
 		}
 		ai_will_do = {
 			factor = 1
-			modifier = {
-				factor = 1
-			}
 		}
 	}
-	Filipino citizenship = {
+filipino_citizenship = {
 		picture = grant
 		potential = {
 			tag = SPA
@@ -77,4 +74,5 @@ santo_domingo_is_back = {
 		}
 	set_country_flag = filipino_citzenship
 	}
+	
 }

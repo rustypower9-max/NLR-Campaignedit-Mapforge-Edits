@@ -62,10 +62,10 @@ political_decisions = {
 		
 		allow = {
 			romanticism = 1
-			OR = {
-				#is_secondary_power = yes
-				#is_greater_power = yes
-			}
+#			OR = {
+#				is_secondary_power = yes
+#				is_greater_power = yes
+#			}
 		}
 		
 		effect = {

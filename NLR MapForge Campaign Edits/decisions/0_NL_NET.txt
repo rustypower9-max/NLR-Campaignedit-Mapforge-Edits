@@ -71,9 +71,9 @@ political_decisions = {
 			all_core = {
 					owned_by = THIS
 				}
-			}
 			war = no
 			state_n_government = 1
+			}
 		effect = {
 			FLA = {
 				all_core = {
