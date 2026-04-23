@@ -97,7 +97,7 @@ army = {
 
 army = {
 	name = "Oglaigh na Huiorann"
-	location = 263
+	location = 265
 	regiment = {
 		name= "The sapling by Wessel Stub is a very underrrated Videogame"
 		type = infantry
