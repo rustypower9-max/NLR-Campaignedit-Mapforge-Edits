@@ -112,3 +112,245 @@ leader = {
 	background = attack_1.1
 }
 
+#Army
+army = {
+	name = "Cuban Home Garrison"
+	location = 2209
+	regiment = {
+		name= "1. Granaderos del Rey"
+		type = hussar
+		home = 2209
+	}
+	regiment = {
+		name= "2. Brigada de Infanteria"
+		type = infantry
+		home = 2209
+	}
+	regiment = {
+		name= "2. Brigada de Infanteria"
+		type = infantry
+		home = 2210
+	}
+	regiment = {
+		name= "2. Brigada de Infanteria"
+		type = infantry
+		home = 2211
+	}
+	regiment = {
+		name= "2. Brigada de Infanteria"
+		type = artillery
+		home = 2212
+	}
+	regiment = {
+		name= "2. Brigada de Infanteria"
+		type = artillery
+		home = 2222
+	}
+	regiment = {
+		name= "2. Brigada de Infanteria"
+		type = artillery
+		home = 2222
+	}
+	
+
+army = {
+	name = "East Asian Garrison"
+	location = 1455
+	
+	regiment = {
+		name= "4. Brigada de Infanteria 'San Jorge'"
+		type = hussar
+		home = 1455
+	}
+
+	regiment = {
+		name= "1. Brigada de Artilleria"
+		type = artillery
+		home = 1457
+	}
+	regiment = {
+		name= "1. Brigada de Artilleria"
+		type = artillery
+		home = 1457
+	}
+	regiment = {
+		name= "1. Brigada de Artilleria"
+		type = artillery
+		home = 1456
+	}
+	regiment = {
+		name= "1. Brigada de Artilleria"
+		type = infantry
+		home = 1463
+	}
+	regiment = {
+		name= "1. Brigada de Artilleria"
+		type = infantry
+		home = 1462
+	}
+	regiment = {
+		name= "1. Brigada de Artilleria"
+		type = infantry
+		home = 1463
+	}
+
+navy = {
+	name = "The Exiled Navy"
+	location = 2209
+	ship = {
+		name= "Waldemar IV"
+		type = manowar
+	}
+	ship = {
+		name= "Ingolf IV"
+		type = manowar
+	}
+	ship = {
+		name= "Skjold IV"
+		type = manowar
+	}
+	ship = {
+		name= "Bellona"
+		type = manowar
+	}
+
+	ship = {
+		name= "Diana"
+		type = frigate
+	}
+
+	ship = {
+		name= "Freja"
+		type = frigate
+	}
+
+	ship = {
+		name= "Fylla"
+		type = frigate
+	}
+	ship = {
+		name= "Leopard"
+		type = frigate
+	}
+	ship = {
+		name= "Raae"
+		type = frigate
+	}
+	ship = {
+		name= "Stralsund"
+		type = frigate
+	}
+
+	ship = {
+		name= "11th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "12th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "13th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "14th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "15th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "16th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "17th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "18th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "19th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "20th Transport Flotilla"
+		type = clipper_transport
+	}
+}
+
+navy = {
+	name = "Filipino base"
+	location = 1455
+	ship = {
+		name= "Waldemar IV"
+		type = manowar
+	}
+	ship = {
+		name= "Ingolf IV"
+		type = manowar
+	}
+	ship = {
+		name= "Diana"
+		type = frigate
+	}
+	ship = {
+		name= "Leopard"
+		type = frigate
+	}
+	ship = {
+		name= "Raae"
+		type = frigate
+	}
+	ship = {
+		name= "Stralsund"
+		type = frigate
+	}
+
+	ship = {
+		name= "11th Transport Flotilla"
+		type = clipper_transport
+	}
+
+	ship = {
+		name= "12th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "13th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "14th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "15th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "16th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "17th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "18th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "19th Transport Flotilla"
+		type = clipper_transport
+	}
+	ship = {
+		name= "20th Transport Flotilla"
+		type = clipper_transport
+	}
+}
