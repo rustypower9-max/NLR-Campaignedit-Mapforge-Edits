@@ -5066,6 +5066,7 @@
         culture = native_american_minor
         religion = protestant
         size = 2000
+	}
 }
 #Traverse City (POPS)
 176 = {
