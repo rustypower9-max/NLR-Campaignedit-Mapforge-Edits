@@ -1446,6 +1446,21 @@ southeast_asian = {
                
 		}
 	}
+	bali = {
+		color = { 200 140 60 }
+		first_names = { Wayan Made Nyoman Ketut Putu Kadek Komang 
+		Ida Bagus Ida Ayu I Gusti Ngurah Anak Agung Dewa Gede
+		Dewa Ketut Agung Rai Dharma Putra Surya Adi Wijaya 
+		}
+		
+		last_names = { Gede Nengah Rai Putra Dewi Wijaya
+		Kusuma Dharma Saputra Mahendra Surya Adnyana
+		Gunawan Suardana Suryawan Arya Wirawan 
+	
+		"Agung" "Ngurah" "Bagus" "Ayu"
+		"Wirya" "Kusuma" "Dharma" "Wijaya"
+		}
+	}
 }
 
 east_asian = {

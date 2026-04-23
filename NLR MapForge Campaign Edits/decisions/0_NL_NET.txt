@@ -239,12 +239,17 @@ political_decisions = {
 				tag = NET
 				tag = BRG
 			}
-			NOT = { accepted_culture = malay }
 			NOT = { accepted_culture = javan }
+			NOT = { accepted_culture = bali }
 		}
 		allow = {
 			war = no
 			JAV	= {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			BAL	= {
 				all_core = {
 					owned_by = THIS
 				}
@@ -258,6 +263,7 @@ political_decisions = {
 				}
 			}
 			add_accepted_culture = javan
+			add_accepted_culture = bali
 			prestige = 100
 		}
 	}

@@ -2867,67 +2867,67 @@
 #Bali (640000/160000 POPS)
 1438 = {
 	clergymen = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 13050
 	}
 
 	aristocrats = {
-		culture = malay
+		culture = bali
 		religion = hindu
 		size = 1500
 	}
 
 	bureaucrats = {
-		culture = malay
+		culture = bali
 		religion = hindu
 		size = 125
 	}
 
 	officers = {
-		culture = malay
+		culture = bali
 		religion = hindu
 		size = 200
 	}
 
 	clergymen = {
-		culture = malay
+		culture = bali
 		religion = hindu
 		size = 1425
 	}
 
 	artisans = {
-		culture = malay
+		culture = bali
 		religion = hindu
 		size = 7000
 	}
 
 	soldiers = {
-		culture = malay
+		culture = bali
 		religion = hindu
 		size = 4000
 	}
 
 	farmers = {
-		culture = malay
+		culture = bali
 		religion = hindu
 		size = 129750
 	}
@@ -2935,61 +2935,61 @@
 #Lombok (200000/50000 POPS)
 1442 = {
 	aristocrats = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 150
 	}
 
 	artisans = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 13150
 	}
 
 	aristocrats = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 400
 	}
 
 	clergymen = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 400
 	}
 
 	artisans = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 32200
 	}
@@ -2998,31 +2998,31 @@
 #Flores (176000/44000 POPS)
 1439 = {
 	aristocrats = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 500
 	}
 
 	clergymen = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 425
 	}
 
 	artisans = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 2200
 	}
 
 	soldiers = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 450
 	}
 
 	farmers = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 40425
 	}
@@ -3030,61 +3030,61 @@
 #Sumbawa (244000/61000 POPS)
 1440 = {
 	aristocrats = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 200
 	}
 
 	clergymen = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 175
 	}
 
 	artisans = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 750
 	}
 
 	soldiers = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 150
 	}
 
 	farmers = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 15725
 	}
 
 	aristocrats = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 500
 	}
 
 	clergymen = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 425
 	}
 
 	artisans = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 2200
 	}
 
 	soldiers = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 450
 	}
 
 	farmers = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 40425
 	}
@@ -3092,61 +3092,61 @@
 #Sumba (192000/48000 POPS)
 1441 = {
 	aristocrats = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 600
 	}
 
 	soldiers = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 12025
 	}
 
 	aristocrats = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 350
 	}
 
 	clergymen = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 350
 	}
 
 	artisans = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 1800
 	}
 
 	soldiers = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 350
 	}
 
 	farmers = {
-		culture = malay
+		culture = bali
 		religion = sunni
 		size = 34350
 	}
@@ -3154,31 +3154,31 @@
 #Roti (24000/6000 POPS)
 1443 = {
 	aristocrats = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 100
 	}
 
 	clergymen = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 5525
 	}
@@ -3186,61 +3186,61 @@
 #Alor (36000/9000 POPS)
 1444 = {
 	aristocrats = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 20
 	}
 
 	clergymen = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 40
 	}
 
 	artisans = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 100
 	}
 
 	soldiers = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 20
 	}
 
 	farmers = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 1820
 	}
 
 	aristocrats = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 75
 	}
 
 	clergymen = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 300
 	}
 
 	soldiers = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 75
 	}
 
 	farmers = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 6475
 	}
@@ -3248,61 +3248,61 @@
 #Kaupeng (24400/6100 POPS)
 1445 = {
 	aristocrats = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 15
 	}
 
 	clergymen = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 20
 	}
 
 	artisans = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 35
 	}
 
 	soldiers = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 10
 	}
 
 	farmers = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 920
 	}
 
 	aristocrats = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 4600
 	}
@@ -3335,109 +3335,109 @@
 #Dili (88000/22000 POPS)
 1446 = {
 	clergymen = {
-		culture = malay
+		culture = bali
 		religion = catholic
 		size = 25
 	}
 
 	artisans = {
-		culture = malay
+		culture = bali
 		religion = catholic
 		size = 250
 	}
 
 	soldiers = {
-		culture = malay
+		culture = bali
 		religion = catholic
 		size = 15
 	}
 
 	farmers = {
-		culture = malay
+		culture = bali
 		religion = catholic
 		size = 710
 	}
 
 	aristocrats = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 50
 	}
 
 	clergymen = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 25
 	}
 
 	farmers = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 3800
 	}
 
 	clergymen = {
-		culture = malay
+		culture = bali
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = malay
+		culture = bali
 		religion = catholic
 		size = 750
 	}
 
 	soldiers = {
-		culture = malay
+		culture = bali
 		religion = catholic
 		size = 25
 	}
 
 	farmers = {
-		culture = malay
+		culture = bali
 		religion = catholic
 		size = 1175
 	}
 
 	aristocrats = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 150
 	}
 
 	clergymen = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 125
 	}
 
 	artisans = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 50
 	}
 
 	soldiers = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 100
 	}
 
 	farmers = {
-		culture = malay
+		culture = bali
 		religion = animist
 		size = 14575
 	}
