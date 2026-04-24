@@ -1185,7 +1185,7 @@
 	}
 
 	farmers = {
-		culture = north_italian
+		culture = cisalpine
 		religion = catholic
 		size = 10000
 	}
