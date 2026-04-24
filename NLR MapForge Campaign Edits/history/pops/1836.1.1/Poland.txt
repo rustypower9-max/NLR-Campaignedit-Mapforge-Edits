@@ -882,12 +882,12 @@
 }
 #West Prussia Region (688000)
 #under the rule of Prussia in 1836
-#Danzig (76000/19000 POPS)
+#Danzig (196000/49000 POPS) #OLD (76000/9000 POPS)
 690 = {
     aristocrats = {
         culture = baltic_german
         religion = protestant
-        size = 50
+        size = 450
     }
 
     bureaucrats = {
@@ -899,13 +899,13 @@
     officers = {
         culture = baltic_german
         religion = protestant
-        size = 200
+        size = 400
     }
 
     clergymen = {
         culture = baltic_german
         religion = protestant
-        size = 75
+        size = 2250
     }
 
     artisans = {
@@ -923,13 +923,13 @@
     farmers = {
         culture = baltic_german
         religion = protestant
-        size = 1275
+        size = 11825
     }
 
     clergymen = {
         culture = baltic_german
         religion = jewish
-        size = 5
+        size = 250
     }
 
     artisans = {
@@ -959,7 +959,7 @@
     farmers = {
         culture = polish
         religion = catholic
-        size = 1875
+        size = 18750
     }
 }
 #Tuchel (720000/180000 POPS) #OLD: (180000/45000 POPS)
