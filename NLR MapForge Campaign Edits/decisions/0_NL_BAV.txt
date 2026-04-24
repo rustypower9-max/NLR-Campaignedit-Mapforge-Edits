@@ -63,6 +63,8 @@ political_decisions = {
 	set_country_flag = anmeinvolk 
             add_accepted_culture = north_german
             add_accepted_culture = rhenish
+            add_accepted_culture = pomeranian
+            add_accepted_culture = baltic_german
             prestige = 20
         }
     }

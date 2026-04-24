@@ -30,6 +30,7 @@ political_decisions = {
 		effect = {
 			prestige = 40
 			add_accepted_culture = north_german
+			add_accepted_culture = pomeranian
 			GER = { 
 				all_core = { 
 					limit = { 
@@ -52,6 +53,8 @@ political_decisions = {
                         primary_culture = north_german
                         primary_culture = rhenish
                         primary_culture = south_german
+                        primary_culture = pomeranian
+                        primary_culture = baltic_german
                     }
 					in_sphere = THIS
 				}

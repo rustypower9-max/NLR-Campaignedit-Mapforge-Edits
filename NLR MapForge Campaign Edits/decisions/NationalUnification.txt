@@ -170,6 +170,7 @@ political_decisions = {
 				limit = {
 					OR = {
 						primary_culture = north_german
+						primary_culture = pomeranian
 						tag = SCH 
 					}
 					in_sphere = THIS

@@ -200,6 +200,7 @@ political_decisions = {
 			PRU_578	= {add_core = THIS}
 			HES_2560 = {add_core = THIS}
 			add_accepted_culture = north_german
+			add_accepted_culture = rhenisch
 		}
 	}
 		

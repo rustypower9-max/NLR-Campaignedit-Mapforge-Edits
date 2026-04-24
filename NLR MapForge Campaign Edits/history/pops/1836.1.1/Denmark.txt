@@ -219,7 +219,7 @@
 	}
 
 	clergymen = {
-		culture = north_german
+		culture = pomeranian
 		religion = protestant
 		size = 375
 	}
@@ -369,7 +369,7 @@
 	}
 
 	artisans = {
-		culture = north_german
+		culture = pomeranian
 		religion = protestant
 		size = 1650
 	}

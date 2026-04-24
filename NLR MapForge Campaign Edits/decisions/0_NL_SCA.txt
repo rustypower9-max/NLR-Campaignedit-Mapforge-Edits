@@ -2,7 +2,7 @@ political_decisions = {
     acceptance_of_north_german = {
         potential = {
             tag = SCA
-            NOT = {accepted_culture = north_german}
+            NOT = {accepted_culture = pomeranian}
             NOT = {accepted_culture = Scotish}
         }
         allow = {
@@ -29,7 +29,7 @@ political_decisions = {
             owns = 698
         }
         effect = {
-            add_accepted_culture = north_german
+            add_accepted_culture = pomeranian
             prestige = 20
             add_core = 369
             add_core = 529
