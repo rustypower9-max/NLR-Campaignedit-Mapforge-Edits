@@ -4,6 +4,8 @@ A FORK of the NLR Campaign edits done by Skars and Companionnoob. Changes includ
 
 - Added in Heartbreaker-Style State Sizing with the appropriate CB's
 
+- Lifted Tiered National focuses (Thank you Reno!)
+
 - Expanded Host decisions
 
 - Added in capital supply
