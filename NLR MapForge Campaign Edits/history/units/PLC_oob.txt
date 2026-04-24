@@ -370,7 +370,7 @@ army = {
 
 army = {
 	name = "The Russian Requisitionaries"
-	location = 1049
+	location = 706
 
 	regiment = {
 		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
@@ -382,12 +382,6 @@ army = {
 		name= "1.2-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = infantry
 		home = 948
-	}
-
-	regiment = {
-		name= "3.1-ya Pekhotnaya Diviziya"
-		type = infantry
-		home = 1018
 	}
 
 	regiment = {
