@@ -373,12 +373,6 @@ army = {
 	location = 706
 
 	regiment = {
-		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
-		type = infantry
-		home = 946
-	}
-
-	regiment = {
 		name= "1.2-ya Gvardeiskaya Kavaleriiskaya Diviziya"
 		type = infantry
 		home = 948
@@ -394,12 +388,6 @@ army = {
 		name= "2.1-ya Grenaderskaya Diviziya"
 		type = artillery
 		home = 948
-	}
-
-    regiment = {
-		name= "3.1-ya Grenaderskaya Diviziya"
-		type = artillery
-		home = 945
 	}
 
 	regiment = {

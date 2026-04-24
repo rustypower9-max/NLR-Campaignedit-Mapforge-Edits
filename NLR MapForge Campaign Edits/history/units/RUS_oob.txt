@@ -651,6 +651,18 @@ army = {
 		home = 1075
 		type = infantry
 	}
+    
+	regiment = {
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 946
+	}
+
+    regiment = {
+		name= "3.1-ya Grenaderskaya Diviziya"
+		type = artillery
+		home = 945
+	}
 
 	regiment = {
 		name= "2.7-ya Pekhotnaya Diviziya"
