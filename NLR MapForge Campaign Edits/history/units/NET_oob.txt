@@ -184,102 +184,101 @@ navy = {
 	}
 	
 	ship = {
-		name= "1"
+		name= "1st Combat Ship"
 		type = manowar
 	}
 
 	ship = {
-		name= "1"
+		name= "2nd Combat Ship"
 		type = manowar
 	}
 
 	ship = {
-		name= "1"
+		name= "3rd Combat Ship"
 		type = manowar
 	}
 
 	ship = {
-		name= "1"
+		name= "4th Combat Ship"
 		type = manowar
 	}
 
 	ship = {
-		name= "1"
+		name= "5th Combat Ship"
 		type = manowar
 	}
 
 	ship = {
-		name= "1"
+		name= "6th Combat Ship"
+		type = manowar
+	}
+	
+	ship = {
+		name= "7th Combat Ship"
+		type = manowar
+	}
+	ship = {
+		name= "8th Combat Ship"
+		type = manowar
+	}
+	ship = {
+		name= "9th Combat Ship"
+		type = manowar
+	}
+	ship = {
+		name= "10th Combat Ship"
 		type = manowar
 	}
 	
 	ship = {
-		name= "1"
-		type = manowar
-	}
-	ship = {
-		name= "1"
-		type = manowar
-	}
-	ship = {
-		name= "1"
-		type = manowar
-	}
-	ship = {
-		name= "1"
-		type = manowar
-	}
-	
-	
-	ship = {
-		name= "1"
+		name= "11th Combat Ship"
 		type = frigate
 	}
 
 	ship = {
-		name= "1"
+		name= "12th Combat Ship"
 		type = frigate
 	}
 
 	ship = {
-		name= "1"
+		name= "13th Combat Ship"
 		type = frigate
 	}
 
 	ship = {
-		name= "1"
+		name= "14th Combat Ship"
 		type = frigate
 	}
 
 	ship = {
-		name= "1"
+		name= "15th Combat Ship"
 		type = frigate
 	}
 
 	ship = {
-		name= "1"
+		name= "16th Combat Ship"
 		type = frigate
 	}
 	
 	ship = {
-		name= "1"
+		name= "17th Combat Ship"
 		type = frigate
 	}
 	ship = {
-		name= "1"
+		name= "18th Combat Ship"
 		type = frigate
 	}
 	ship = {
-		name= "1"
+		name= "19th Combat Ship"
 		type = frigate
 	}
 	ship = {
-		name= "1"
+		name= "20th Combat Ship"
 		type = frigate
 	}
 
 	ship = {
-		name= "1"
+		name= "21st Combat Ship"
 		type = frigate
 	}
 }
