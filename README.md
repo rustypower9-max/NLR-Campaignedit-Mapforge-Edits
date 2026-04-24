@@ -24,7 +24,7 @@ A FORK of the NLR Campaign edits done by Skars and Companionnoob. Changes includ
 
 - Decolonized Indonesia
 
-- Nerfed Eastern Russia
+- Nerfed Russia Eastern Path
 
 - Consolidated UKR, RUS nerf: Crimea to Ukraine, Bessarabia to Moldavia
 
@@ -39,6 +39,10 @@ A FORK of the NLR Campaign edits done by Skars and Companionnoob. Changes includ
 - WIP: US-Commonwealth war
 
 - Big Liferating Update in Indochina, Indonesia and Chinese treaty ports \& periphery
+
+- Adjusted the Asian genocide: Lower impact (-40-50\%) Targets too high pop chinese Periphery
+
+- Shuffled Pops out of Manchuria into China proper (instead of genociding)
 
 - Some quality of life changes (rp debuffs on NV/Academic, prestige and GP requirements)
 
