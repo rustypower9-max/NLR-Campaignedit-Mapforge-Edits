@@ -3,7 +3,6 @@ name = "Second War Of Canadian Liberation"
 1835.12.5 = {
     add_attacker = USA
     add_defender = GBR
-    add_defender = CAN
 
     war_goal = {
         casus_belli = humiliate
