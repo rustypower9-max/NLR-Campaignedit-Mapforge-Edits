@@ -373,25 +373,25 @@ army = {
 	location = 706
 
 	regiment = {
-		name= "1.2-ya Gvardeiskaya Kavaleriiskaya Diviziya"
+		name= "1.a Lipinki Łużyckie"
 		type = infantry
 		home = 948
 	}
 
 	regiment = {
-		name= "1.4-ya Kavalerijskaya Diviziya"
+		name= "2.a Lipinki Pilżudskie"
 		type = hussar
 		home = 948
 	}
 
 	regiment = {
-		name= "2.1-ya Grenaderskaya Diviziya"
+		name= "1. Mysłowice"
 		type = artillery
 		home = 948
 	}
 
 	regiment = {
-		name= "3.4-ya Sriwnaya Pekhotnaya Diviziya"
+		name= "2. Mysłowice"
 		type = artillery
 		home = 949
 	}

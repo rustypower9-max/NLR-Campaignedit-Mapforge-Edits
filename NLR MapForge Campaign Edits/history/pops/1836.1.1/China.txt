@@ -722,18 +722,18 @@
 }
 #Fengtian Region (2888000)
 #under the rule of China in 1836
-#Mukden (2128000/532000 POPS)
+#Mukden (1288000/322000 POPS)
 1479 = {
 	aristocrats = {
 		culture = manchu
 		religion = mahayana
-		size = 8000
+		size = 3000
 	}
 
 	bureaucrats = {
 		culture = manchu
 		religion = mahayana
-		size = 1300
+		size = 3300
 	}
 
 	officers = {
@@ -775,7 +775,7 @@
 	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 376750
+		size = 176750
 	}
 
 	aristocrats = {
@@ -2644,30 +2644,40 @@
 		size = 844950
 	}
 }
-#Hong Kong (6000/1500 POPS)
+#Hong Kong (6000/21500 POPS) #OLD (6000/1500 POPS)
 1496 = {
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 100
+	}
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 225
+	}
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 25
+		size = 250
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 75
+		size = 275
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 25
+		size = 250
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1375
+		size = 21375
 	}
 }
 #Waizao (2200000/550000 POPS)
@@ -6482,7 +6492,7 @@
 		size = 176550
 	}
 }
-#Shanghai (268000/71000 POPS)
+#Shanghai (484000/121000 POPS) #OLD (268000/71000 POPS)
 1538 = {
 	aristocrats = {
 		culture = nanfaren
@@ -6493,25 +6503,25 @@
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 675
+		size = 1675
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3350
+		size = 5350
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 675
+		size = 1675
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 61000
+		size = 101000
 	}
 }
 #Suzhou (4968000/1242000 POPS)
@@ -7768,18 +7778,18 @@
 }
 #Manchuria Region (6764000)
 #under the rule of China in 1836
-#Qiqihar (2784700/696175 POPS)
+#Qiqihar (1984700/496175 POPS) #OLD (2784700/696175 POPS)
 1552 = {
 	aristocrats = {
 		culture = manchu
 		religion = mahayana
-		size = 13750
+		size = 10750
 	}
 
 	bureaucrats = {
 		culture = manchu
 		religion = mahayana
-		size = 2300
+		size = 4300
 	}
 
 	officers = {
@@ -7827,7 +7837,7 @@
 	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 624100
+		size = 424100
 	}
 
 	aristocrats = {
@@ -8594,7 +8604,7 @@
 		size = 500
 	}
 }
-#Yenan (1088000/272000 POPS)
+#Yenan (1888000/472000 POPS) #OLD (1088000/272000 POPS)
 1561 = {
 	aristocrats = {
 		culture = beifaren
@@ -8605,7 +8615,7 @@
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 2550
+		size = 5550
 	}
 
 	artisans = {
@@ -8629,7 +8639,7 @@
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 231150
+		size = 431150
 	}
 
 	aristocrats = {
@@ -9088,18 +9098,18 @@
 		size = 827200
 	}
 }
-#Qingdao (24000/6000 POPS)
+#Qingdao (24000/16000 POPS) #OLD (24000/6000 POPS)
 1566 = {
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 100
+		size = 150
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 50
+		size = 150
 	}
 
 	artisans = {
@@ -9111,13 +9121,13 @@
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 75
+		size = 275
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 5475
+		size = 15475
 	}
 }
 #Qingzhou (3936000/984000 POPS)
@@ -9232,36 +9242,36 @@
 		size = 839025
 	}
 }
-#Weihaiwei (28000/7000 POPS)
+#Weihaiwei (28000/17000 POPS) #OLD (28000/7000 POPS)
 1569 = {
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 125
+		size = 175
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 75
+		size = 175
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 350
+		size = 750
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 75
+		size = 275
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 6375
+		size = 16375
 	}
 }
 #Wuling (3696000/924000 POPS)
@@ -9758,36 +9768,36 @@
 		size = 6375
 	}
 }
-#Datong (232000/58000 POPS)
+#Datong (632000/158000 POPS) #OLD (232000/58000 POPS)
 1576 = {
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 1100
+		size = 1600
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 550
+		size = 1550
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 2800
+		size = 4800
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 575
+		size = 1075
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 50975
+		size = 150975
 	}
 
 	aristocrats = {
@@ -12509,24 +12519,29 @@
 }
 #Guangzhouwan Region (40000)
 #under the rule of China in 1836
-#Guangzhouwan (40000/10000 POPS)
+#Guangzhouwan (40000/20000 POPS) #OLD (40000/10000 POPS)
 3249 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 200
+	}
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10
+		size = 200
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 100
+		size = 300
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10
+		size = 300
 	}
 
 	farmers = {
@@ -12535,39 +12550,21 @@
 		size = 250
 	}
 
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 40
-	}
-	
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 90
-	}
-
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
 		size = 1400
 	}
 
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 90
-	}
-
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 8000
+		size = 18000
 	}
 	
 	bureaucrats = {
 		culture = manchu
 		religion = mahayana
-		size = 10
+		size = 100
 	}
 }
