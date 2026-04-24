@@ -344,6 +344,18 @@ UNIT_BUILD_TIME_IW;$VAL$ days.;;;;;;;x
 #############################################;;;;;;;x
 #Additional Inventions;;;;;;;x
 #############################################;;;;;;;x
+pop_shift_invention_1;§GPOP Bonus Promotion Event 1;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_1_desc;Your first promotion bonus invention has been completed! With this bonus, you may choose which POP type receives a bonus to passive promotion chance. You will only be able to see this bonus in the population menu under a specific pop group, then mouse over their promotion chance to whatever it is you gave a bonus to! §GYou will be able to reset these bonuses at anytime using the Clear All National Promotion Bonuses decision.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_2;§GTier 2 National Focus Unlock;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_2_desc;Your Tier 2 National Focuses have unlocked!;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_3;§GTier 3 National Focus Unlock;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_3_desc;Your Tier 3 National Focuses have unlocked!;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_4;§GTier 4 National Focus Unlock;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_4_desc;Your Tier 4 National Focuses have unlocked!;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_5;§GTier 5 National Focus Unlock;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_5_desc;Your Tier 5 National Focuses have unlocked!;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_6;§GTier 6 National Focus Unlock;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_6_desc;Your Tier 6 National Focuses have unlocked!;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
 industrial_tanneries;Industrial Tanneries;;;;Curtiembres industriales;;;x
 industrial_tanneries_desc;In the Victorian era tanneries were often close to the abattoirs and so the skins would often arrive at the tannery fresh and unsalted. With industrial levels of meat consumption, it was inevitable that the leather industry advance as well.;;;;En la epoca victoriana, las curtidurías solían estar cerca de los mataderos, por lo que las pieles solían llegar a la curtiduría frescas y sin salar. Con los niveles industriales de consumo de carne, era inevitable que la industria del cuero avanzara tambien.;;;x
 offensive_infantry_activation;Activate Offensive Infantry;;;;Activar la infantería ofensiva;;;x
