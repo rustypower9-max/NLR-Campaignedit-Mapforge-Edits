@@ -40,6 +40,8 @@ political_decisions = {
 		}
 		effect = {
 			capital = 2447
+            2447 = { life_rating = 5 }
+            521 = { life_rating = -5 }
 			prestige = 20
 			set_country_flag = moved_capital_to_rio
 			set_country_flag = new_world_nation
