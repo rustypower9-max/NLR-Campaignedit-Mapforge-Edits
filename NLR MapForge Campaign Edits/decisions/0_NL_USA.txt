@@ -87,10 +87,10 @@ political_decisions = {
 
 		}
 		effect = {
-			inherit = CAN
+			#inherit = CAN
 			CAN = {
 				all_core = {
-					secede_province = USA
+					#secede_province = USA
 				}
 			}
 			prestige = 30
@@ -122,7 +122,7 @@ political_decisions = {
 		effect = {
 			ICF = {
 				all_core = {
-					secede_province = USA 
+					#secede_province = USA 
 					add_core = USA 
 				}
 			}
