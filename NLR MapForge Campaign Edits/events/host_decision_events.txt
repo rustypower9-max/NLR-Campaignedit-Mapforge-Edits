@@ -1,0 +1,264 @@
+country_event = {
+	id = 999990123
+	title = "Host Nation Picked!"
+	desc = "$FROMCOUNTRY$ is now the host nation!"
+	major = yes
+	picture = "greatpowers"
+	is_triggered_only = yes
+
+
+	option = {
+		name = "Okay"
+	}
+}
+country_event = {
+	id = 999991123
+	title = "You are the host nation now"
+	desc = "Host nation status has been transferred to you"
+	picture = "greatpowers"
+	is_triggered_only = yes
+	
+	immediate = {
+		LCT = {
+			country_event = 999990123
+		}
+		FROM = {
+			clr_country_flag = host_nation
+		}
+	}
+
+	option = {
+		name = "Okay"
+	}
+}
+country_event = {
+	id = 999993123
+	title = "Unsiege"
+	desc = "You will be unsieged"
+	picture = "greatpowers"
+	is_triggered_only = yes
+	
+	immediate = {
+		any_owned = {
+			limit = {
+				controlled_by_rebels = no
+			}
+			change_controller = THIS
+		}
+	}
+
+	option = {
+		name = "Okay"
+	}
+}
+country_event = {
+	id = 999994123
+	title = "Siege"
+	desc = "You will siege your enemies"
+	picture = "greatpowers"
+	is_triggered_only = yes
+	
+	immediate = {
+		any_country = {
+			limit = {
+				AND = {
+					NOT = { tag = FROM }
+					NOT = { military_access = FROM }
+				}
+			}
+			any_owned = {
+				change_controller = THIS
+			}			
+		}
+		clr_country_flag = siege_country
+	}
+
+	option = {
+		name = "Based"
+	}
+}
+country_event = {
+	id = 999995123
+	title = "Give Sanctions Menu"
+	desc = "Choose how long you want the sanctions to last for the target countries"
+	picture = "greatpowers"
+	is_triggered_only = yes
+	
+	option = {
+		name = "Nevermind"
+	}
+	option = {
+		name = "1 Year"
+		any_country = {
+			limit = {
+				NOT = { military_access = THIS }
+			}
+			add_country_modifier = {
+			name = kinda_bad_badboy
+			duration = 365
+			}
+		}
+	}
+	option = {
+		name = "2 Years"
+		any_country = {
+			limit = {
+				NOT = { military_access = THIS }
+			}
+			add_country_modifier = {
+			name = kinda_bad_badboy
+			duration = 730
+			}
+		}
+	}
+	option = {
+		name = "3 Years"
+		any_country = {
+			limit = {
+				NOT = { military_access = THIS }
+			}
+			add_country_modifier = {
+			name = kinda_bad_badboy
+			duration = 1095
+			}
+		}
+	}
+	option = {
+		name = "4 Years"
+		any_country = {
+			limit = {
+				NOT = { military_access = THIS }
+			}
+			add_country_modifier = {
+			name = kinda_bad_badboy
+			duration = 1460
+			}
+		}
+	}
+	option = {
+		name = "5 Years"
+		any_country = {
+			limit = {
+				NOT = { military_access = THIS }
+			}
+			add_country_modifier = {
+			name = kinda_bad_badboy
+			duration = 1825
+			}
+		}
+	}
+}
+country_event = {
+	id = 999996123
+	title = "Give Money Menu"
+	desc = "Choose how much you want to give to the target countries"
+	picture = "greatpowers"
+	is_triggered_only = yes
+	
+	option = {
+		name = "Nevermind"
+	}
+	option = {
+		name = "100K"
+		any_country = {
+			limit = {
+				NOT = { military_access = THIS }
+			}
+			treasury = 100000
+		}
+	}
+	option = {
+		name = "250K"
+		any_country = {
+			limit = {
+				NOT = { military_access = THIS }
+			}
+			treasury = 250000
+		}
+	}
+	option = {
+		name = "500K"
+		any_country = {
+			limit = {
+				NOT = { military_access = THIS }
+			}
+			treasury = 500000
+		}
+	}
+	option = {
+		name = "1M"
+		any_country = {
+			limit = {
+				NOT = { military_access = THIS }
+			}
+			treasury = 1000000
+		}
+	}
+	option = {
+		name = "5M! Make it rain!!!"
+		any_country = {
+			limit = {
+				NOT = { military_access = THIS }
+			}
+			treasury = 5000000
+		}
+	}
+}
+country_event = {
+	id = 999997123
+	title = "Give Money Menu"
+	desc = "Choose how much you want to donate to the global economy"
+	picture = "greatpowers"
+	is_triggered_only = yes
+	
+	option = {
+		name = "Nevermind, I'm keeping it!"
+	}
+	option = {
+		name = "100K. A recession indicator..."
+		any_country = {
+			limit = {
+				ai = no
+			}
+			treasury = 100000
+		}
+	}
+	option = {
+		name = "250K. Bear Market"
+		any_country = {
+			limit = {
+				ai = no
+			}
+			treasury = 250000
+		}
+	}
+	option = {
+		name = "500K. Thank you for the donation kind sir"
+		any_country = {
+			limit = {
+				ai = no
+			}
+			treasury = 500000
+		}
+	}
+	option = {
+		name = "1M. Nice"
+		any_country = {
+		any_country = {
+			limit = {
+				ai = no
+			}
+			treasury = 1000000
+		}
+		}
+	}
+	option = {
+		name = "2.5M. The free hand of the market is pleased"
+		any_country = {
+			limit = {
+				ai = no
+			}
+			treasury = 2500000
+		}
+	}
+}
