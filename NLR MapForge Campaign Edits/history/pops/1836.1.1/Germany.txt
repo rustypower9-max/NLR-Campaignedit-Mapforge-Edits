@@ -284,12 +284,12 @@
 	}
 }
 #Under rule of Britain 1836
-#Heligoland (1600/400 POPS)
+#Heligoland (24000/6000 POPS)
 533 = {
 	farmers = {
 		culture = danish
 		religion = protestant
-		size = 1000
+		size = 6000
 	}
 
 }

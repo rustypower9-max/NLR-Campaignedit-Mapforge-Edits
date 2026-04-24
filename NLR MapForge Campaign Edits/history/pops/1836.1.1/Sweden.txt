@@ -253,12 +253,12 @@
 		size = 77825
 	}
 }
-#Falun (144000/36000 POPS)
+#Falun (944000/236000 POPS)
 323 = {
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 3750
+		size = 2750
 	}
 
 	clergymen = {
@@ -282,7 +282,7 @@
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 519120
+		size = 219120
 	}
 }
 #Uppsala (88000/22000 POPS)

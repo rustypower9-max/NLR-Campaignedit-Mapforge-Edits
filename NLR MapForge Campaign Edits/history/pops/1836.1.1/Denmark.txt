@@ -1,28 +1,28 @@
 #Faroe Islands Region (7000)
-#Torshavn (7000/1750 POPS)
+#Torshavn (29000/7750 POPS)
 253 = {
 	bureaucrats = {
 		culture = danish
 		religion = protestant
-		size = 22
+		size = 50
 	}
 
 	clergymen = {
 		culture = danish
 		religion = protestant
-		size = 112
+		size = 100
 	}
 
 	artisans = {
 		culture = danish
 		religion = protestant
-		size = 207
+		size = 250
 	}
 
 	farmers = {
 		culture = danish
 		religion = protestant
-		size = 2362
+		size = 7350
 	}
 
 }
@@ -147,7 +147,7 @@
 	clergymen = {
 		culture = danish
 		religion = protestant
-		size = 187
+		size = 385
 	}
 	soldiers = {
 		culture = danish
@@ -162,7 +162,7 @@
 	farmers = {
 		culture = danish
 		religion = protestant
-		size = 21600
+		size = 31600
 	}
 }
 	
@@ -406,12 +406,12 @@
 		size = 61875
 	}
 }
-#Bornholm (16000/4000 POPS)
+#Bornholm (56000/14000 POPS)
 374 = {
 	clergymen = {
 		culture = danish
 		religion = protestant
-		size = 75
+		size = 175
 	}
 
 	artisans = {
@@ -423,13 +423,13 @@
 	soldiers = {
 		culture = danish
 		religion = protestant
-		size = 75
+		size = 475
 	}
 
 	farmers = {
 		culture = danish
 		religion = protestant
-		size = 5250
+		size = 15250
 	}
 
 }
