@@ -138,6 +138,16 @@ army = {
 	}
 	regiment = {
 		name= "2. Brigada de Infanteria"
+		type = infantry
+		home = 2211
+	}
+	regiment = {
+		name= "2. Brigada de Infanteria"
+		type = artillery
+		home = 2212
+	}
+	regiment = {
+		name= "2. Brigada de Infanteria"
 		type = artillery
 		home = 2212
 	}
@@ -151,7 +161,12 @@ army = {
 		type = artillery
 		home = 2222
 	}
-	
+	regiment = {
+		name= "2. Brigada de Infanteria"
+		type = artillery
+		home = 2222
+	}
+}
 
 army = {
 	name = "East Asian Garrison"
@@ -162,37 +177,52 @@ army = {
 		type = hussar
 		home = 1455
 	}
-
 	regiment = {
-		name= "1. Brigada de Artilleria"
+		name= "2. Brigada de Artilleria"
 		type = artillery
-		home = 1457
+		home = 1455
 	}
 	regiment = {
 		name= "1. Brigada de Artilleria"
 		type = artillery
+		home = 1394
+	}
+	regiment = {
+		name= "3. Brigada de Artilleria"
+		type = artillery
 		home = 1457
 	}
 	regiment = {
-		name= "1. Brigada de Artilleria"
+		name= "4. Brigada de Artilleria"
 		type = artillery
 		home = 1456
 	}
 	regiment = {
-		name= "1. Brigada de Artilleria"
+		name= "5. Brigada de Artilleria"
+		type = artillery
+		home = 1317
+	}
+	regiment = {
+		name= "1. Brigada de Infanteria"
+		type = infantry
+		home = 1317
+	}
+	regiment = {
+		name= "2. Brigada de Infanteria"
+		type = infantry
+		home = 1460
+	}
+	regiment = {
+		name= "3. Brigada de Infanteria"
+		type = infantry
+		home = 1461
+	}
+	regiment = {
+		name= "4. Brigada de Infanteria"
 		type = infantry
 		home = 1463
 	}
-	regiment = {
-		name= "1. Brigada de Artilleria"
-		type = infantry
-		home = 1462
-	}
-	regiment = {
-		name= "1. Brigada de Artilleria"
-		type = infantry
-		home = 1463
-	}
+}
 
 navy = {
 	name = "The Exiled Navy"
