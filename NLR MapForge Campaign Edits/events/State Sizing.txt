@@ -38,7 +38,6 @@ country_event = {
 							tag = TEX
 							tag = USA
 							tag = GBR
-							tag = CAN
 						}
 						NOT = { 
 							year = 1840 
@@ -82,7 +81,6 @@ country_event = {
 							tag = TEX
 							tag = USA
 							tag = GBR
-							tag = CAN
 						}
 						NOT = { 
 							year = 1840 
@@ -127,7 +125,6 @@ country_event = {
 							tag = TEX
 							tag = USA
 							tag = GBR
-							tag = CAN
 						}
 						NOT = { 
 							year = 1840 
@@ -172,7 +169,6 @@ country_event = {
 							tag = TEX
 							tag = USA
 							tag = GBR
-							tag = CAN
 						}
 						NOT = { 
 							year = 1840 
@@ -217,7 +213,6 @@ country_event = {
 							tag = TEX
 							tag = USA
 							tag = GBR
-							tag = CAN
 						}
 						NOT = { 
 							year = 1840 

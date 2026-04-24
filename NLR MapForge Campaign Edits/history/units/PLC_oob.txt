@@ -367,3 +367,50 @@ army = {
 		home = 708
 	}
 }
+
+army = {
+	name = "The Russian Requisitionaries"
+	location = 1049
+
+	regiment = {
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 946
+	}
+
+	regiment = {
+		name= "1.2-ya Gvardeiskaya Kavaleriiskaya Diviziya"
+		type = infantry
+		home = 948
+	}
+
+	regiment = {
+		name= "3.1-ya Pekhotnaya Diviziya"
+		type = infantry
+		home = 1018
+	}
+
+	regiment = {
+		name= "1.4-ya Kavalerijskaya Diviziya"
+		type = hussar
+		home = 948
+	}
+
+	regiment = {
+		name= "2.1-ya Grenaderskaya Diviziya"
+		type = artillery
+		home = 948
+	}
+
+    regiment = {
+		name= "3.1-ya Grenaderskaya Diviziya"
+		type = artillery
+		home = 945
+	}
+
+	regiment = {
+		name= "3.4-ya Sriwnaya Pekhotnaya Diviziya"
+		type = artillery
+		home = 949
+	}
+}
