@@ -63,15 +63,15 @@ political_decisions = {
 			NOT = { tech_school = army_tech_school }
 		}
 		allow = {
-			prestige = 45
-			military_score = 100
+#			prestige = 45
+#			military_score = 100
 			NOT = {
 				tech_school = prussian_tech_school
 				has_country_modifier = academic_confusion
 			}
 		}
 		effect = {
-			prestige = -15
+#			prestige = -15
 			add_country_modifier = {
 				name = academic_confusion
 				duration = 5475
@@ -102,16 +102,16 @@ political_decisions = {
 			NOT = { tech_school = naval_tech_school }
 		}
 		allow = {
-			prestige = 45
-			military_score = 100
-			total_amount_of_ships = 30
+#			prestige = 45
+#			military_score = 100
+#			total_amount_of_ships = 30
 			NOT = {
 				tech_school = prussian_tech_school
 				has_country_modifier = academic_confusion
 			}
 		}
 		effect = {
-			prestige = -15
+#			prestige = -15
 			add_country_modifier = {
 				name = academic_confusion
 				duration = 5475
@@ -141,15 +141,15 @@ political_decisions = {
 			NOT = { tech_school = culture_tech_school }
 		}
 		allow = {
-			prestige = 45
-			average_consciousness = 4
+#			prestige = 45
+#			average_consciousness = 4
 			NOT = {
 				tech_school = prussian_tech_school
 				has_country_modifier = academic_confusion
 			}
 		}
 		effect = {
-			prestige = -15
+#			prestige = -15
 			add_country_modifier = {
 				name = academic_confusion
 				duration = 5475
@@ -178,15 +178,15 @@ political_decisions = {
 			NOT = { tech_school = commerce_tech_school }
 		}
 		allow = {
-			prestige = 45
-			industrial_score = 100
+#			prestige = 45
+#			industrial_score = 100
 			NOT = {
 				tech_school = prussian_tech_school
 				has_country_modifier = academic_confusion
 			}
 		}
 		effect = {
-			prestige = -15
+#			prestige = -15
 			add_country_modifier = {
 				name = academic_confusion
 				duration = 5475
@@ -216,15 +216,15 @@ political_decisions = {
 			NOT = { tech_school = industrial_tech_school }
 		}
 		allow = {
-			prestige = 45
-			industrial_score = 100
+#			prestige = 45
+#			industrial_score = 100
 			NOT = {
 				tech_school = prussian_tech_school
 				has_country_modifier = academic_confusion
 			}
 		}
 		effect = {
-			prestige = -15
+#			prestige = -15
 			add_country_modifier = {
 				name = academic_confusion
 				duration = 5475
@@ -252,7 +252,7 @@ political_decisions = {
 			}
 		}
 		effect = {
-			prestige = -15
+#			prestige = -15
 			add_country_modifier = {
 				name = academic_confusion
 				duration = 5475
