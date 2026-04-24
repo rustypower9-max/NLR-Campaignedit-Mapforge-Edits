@@ -22,9 +22,9 @@ A FORK of the NLR Campaign edits done by Skars and Companionnoob. Changes includ
 
 - Decolonized Indonesia
 
-- Nerfed Eastern Russia Path
+- Nerfed Eastern Russia
 
-- Some quality of life changes (rp debuffs on NV/Academic, prestige and GP requirements)
+- Consolidated UKR, RUS nerf: Crimea to Ukraine, Bessarabia to Moldavia
 
 - Adjusted French Paths: Nerfs to Italian, Buff to Dutch
 
@@ -34,9 +34,11 @@ A FORK of the NLR Campaign edits done by Skars and Companionnoob. Changes includ
 
 - DEN-SWE: Reduced swedish starting population, increased danish core population
 
-- Consolidated UKR, RUS nerf: Crimea to Ukraine, Bessarabia to Moldavia
+- WIP: US-Commonwealth war
 
 - Big Liferating Update in Indochina, Indonesia and Chinese treaty ports \& periphery
+
+- Some quality of life changes (rp debuffs on NV/Academic, prestige and GP requirements)
 
 
 
