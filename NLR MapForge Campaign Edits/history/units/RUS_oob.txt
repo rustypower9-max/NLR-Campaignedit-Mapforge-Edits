@@ -675,6 +675,30 @@ army = {
 		home = 1011
 		type = hussar
 	}
+
+	regiment = {
+		name= "1.a Lipinki Łużyckie"
+		type = infantry
+		home = 948
+	}
+
+	regiment = {
+		name= "2.a Lipinki Pilżudskie"
+		type = infantry
+		home = 948
+	}
+
+	regiment = {
+		name= "1. Mysłowice"
+		type = artillery
+		home = 948
+	}
+
+	regiment = {
+		name= "2. Mysłowice"
+		type = artillery
+		home = 949
+	}
 }
 
 navy = {
