@@ -369,7 +369,7 @@ army = {
 }
 
 army = {
-	name = "The Russian Requisitionaries"
+	name = "Russian Requisitionaries"
 	location = 706
 
 	regiment = {
