@@ -1,7 +1,7 @@
 add_core = CHI
 add_core = GXI
 trade_goods = silk
-life_rating = 32
+life_rating = 35
 owner = GXI
 controller = GXI
 fort = 1
