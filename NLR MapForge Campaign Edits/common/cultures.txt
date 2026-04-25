@@ -96,7 +96,6 @@ germanic = {
 		last_names = { Berg Bock Buxhoeveden Dellingshausen Derfelden Essen Engelhardt Fersen Keyserling Korff Lieven Manteuffel
 		Meyendorff Patkul Pahlen Rehbinder Rosen Stackelberg Tiesenhausen Uexküll Vietinghoff Wrangel	
 		"von Berg" "von Bock" "von Buxhoeveden" "von Dellingshausen" "von der Pahlen" "von der Recke"
-		"von Essen" "von Engelhardt" "von Fersen" "von Keyserling" "von Korff" "von Lieven"
 		"von Manteuffel" "von Meyendorff" "von Patkul" "von Rehbinder" "von Rosen"
 		"von Stackelberg" "von Tiesenhausen" "von Uexküll" "von Vietinghoff" "von Wrangel"
 		}
@@ -1534,24 +1533,17 @@ east_asian = {
 oceanic = {
 	leader = nativeamerican
 	polynesian = {
-		color = {89 35 168}
-		first_names = { Finau Ulukalala Taufa'ahau Tupou Taupe Havaiki Lika Longotahi Vaopuka "Te Taulu" Tavita Malietoa Iosefo William 
+	color = {89 35 168}
+	first_names = {
+		Finau Ulukalala Taufa'ahau Tupou Taupe Havaiki Lika Longotahi Vaopuka
+		"Te Taulu" Tavita Malietoa Iosefo William
+		Potatau Tukaroto Matutaera Tawhiao Mahuta "Te Rata" Koroki "Te Ata-i" Rangi-Kahu
+		Tem Makiatia Takahihi Tikoro Hakana Hakapeke Wekeia Poiaka Maehua Tawehi
 		}
-		last_names = { Ma'ufanga Feletoa Moengangongo Tuabayi Maeakafa "Te Fuli" Ielemia
-		}
-	}
-	maori = {
-		color = {95 14 187}
-		first_names = { Potatau Tukaroto Matutaera Tawhiao Mahuta "Te Rata" Koroki "Te Ata-i" Rangi-Kahu 
-		}
-		last_names = { Wherowhero Kenena Raouparah Herangi Ataarangikaahu 
-		}
-	}
-	micronesian = {
-		color = {68 213 88}
-		first_names = { Tem Makiatia Takahihi Tikoro Hakana Hakapeke Wekeia Poiaka Maehua Tawehi
-		}
-		last_names = { Tetabo Namoriki Karotu Tawaia Baiteke Binoka Bauro Tokatake Panena Mensile Sapwasap Totonu 
+	last_names = {
+		Ma'ufanga Feletoa Moengangongo Tuabayi Maeakafa "Te Fuli" Ielemia
+		Wherowhero Kenena Rauparaha Herangi Atairangikaahu
+		Tetabo Namoriki Karotu Tawaia Baiteke Binoka Bauro Tokatake Panena Mensile Sapwasap Totonu
 		}
 	}
 }

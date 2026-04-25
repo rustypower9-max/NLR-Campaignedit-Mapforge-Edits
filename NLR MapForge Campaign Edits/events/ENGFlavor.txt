@@ -1718,7 +1718,7 @@ country_event = {
 		name = "EVTOPTA36940"
 		any_pop = { 
 			limit = {
-				has_pop_culture = maori
+				has_pop_culture = polynesian
 				}
 				militancy = -1
 			}
@@ -1768,7 +1768,7 @@ country_event = {
 		prestige = 1
 		any_pop = { 
 			limit = {
-				has_pop_culture = maori
+				has_pop_culture = polynesian
 				}
 				militancy = 2
 			}
@@ -1779,7 +1779,7 @@ country_event = {
 		prestige = -1
 		any_pop = { 
 			limit = {
-				has_pop_culture = maori
+				has_pop_culture = polynesian
 				}
 				militancy = -1
 				consciousness = -1

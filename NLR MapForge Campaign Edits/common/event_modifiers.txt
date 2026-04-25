@@ -6,6 +6,22 @@ British_claimant = {
 	icon = 19
 }
 
+recent_catalan_uprising = {
+	icon = 20
+}
+
+recent_basque_uprising = {
+	icon = 20
+}
+
+recent_galician_uprising = {
+	icon = 20
+}
+
+recent_andalucian_uprising = {
+	icon = 20
+}
+
 recent_financial_stimulus = {
 factory_throughput = 0.25
 ruling_party_support = 0.25
