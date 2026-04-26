@@ -11,7 +11,7 @@
 	clergymen = {
 		culture = portuguese
 		religion = catholic
-		size = 5
+		size = 255
 	}
 
 	bureaucrats = {
@@ -29,25 +29,7 @@
 	soldiers = {
 		culture = portuguese
 		religion = catholic
-		size = 5
-	}
-
-	clergymen = {
-		culture = bantu
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = bantu
-		religion = catholic
-		size = 200
-	}
-
-	soldiers = {
-		culture = bantu
-		religion = catholic
-		size = 100
+		size = 105
 	}
 
 	farmers = {

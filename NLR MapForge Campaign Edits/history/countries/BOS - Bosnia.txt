@@ -1,5 +1,5 @@
 capital = 783
-primary_culture = bosniak
+primary_culture = serb
 government = absolute_monarchy
 plurality = 25.0
 nationalvalue = nv_order

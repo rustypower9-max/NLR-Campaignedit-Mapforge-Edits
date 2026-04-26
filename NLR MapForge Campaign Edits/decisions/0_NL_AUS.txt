@@ -59,7 +59,7 @@ political_decisions = {
 		picture = decision_bosnia_KUK
 		potential = {
 			tag = KUK
-			NOT = {accepted_culture = bosniak}
+			NOT = {has_country_flag = bosniak_crown}
 		}
 		allow = {
 			war=no
@@ -76,7 +76,7 @@ political_decisions = {
 					add_core=THIS
 				}
 			}
-			add_accepted_culture=bosniak
+			set_country_flag=bosniak_crown
 		}
 	}
 	accept_slovak = {
@@ -170,7 +170,6 @@ political_decisions = {
 		}
 		effect = {
 			#add_accepted_culture = romanian
-			#add_accepted_culture = bosniak
 			add_accepted_culture = croat
 			add_accepted_culture = slovak
 			#add_accepted_culture = polish

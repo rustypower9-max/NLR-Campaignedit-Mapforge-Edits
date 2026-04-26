@@ -49,49 +49,31 @@
 	clergymen = {
 		culture = serb
 		religion = orthodox
-		size = 100
+		size = 125
 	}
 
 	artisans = {
 		culture = serb
 		religion = orthodox
-		size = 500
+		size = 575
 	}
 
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 11400
+		size = 17225
 	}
 
 	aristocrats = {
-		culture = bosniak
+		culture = serb
 		religion = sunni
 		size = 250
 	}
 
-	clergymen = {
-		culture = bosniak
-		religion = sunni
-		size = 25
-	}
-
-	artisans = {
-		culture = bosniak
-		religion = sunni
-		size = 75
-	}
-
 	soldiers = {
-		culture = bosniak
+		culture = serb
 		religion = sunni
 		size = 125
-	}
-
-	farmers = {
-		culture = bosniak
-		religion = sunni
-		size = 5825
 	}
 }
 #under the rule of Montenegro in 1836  
@@ -140,49 +122,31 @@
 	clergymen = {
 		culture = serb
 		religion = orthodox
-		size = 75
+		size = 125
 	}
 
 	artisans = {
 		culture = serb
-		religion = orthodox
-		size = 250
+		religion = sunni
+		size = 650
 	}
 
 	farmers = {
 		culture = serb
 		religion = orthodox
-		size = 8175
+		size = 11825
 	}
 
 	aristocrats = {
-		culture = bosniak
+		culture = serb
 		religion = sunni
 		size = 250
 	}
 
-	clergymen = {
-		culture = bosniak
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = bosniak
-		religion = sunni
-		size = 400
-	}
-
 	soldiers = {
-		culture = bosniak
+		culture = serb
 		religion = sunni
 		size = 150
-	}
-
-	farmers = {
-		culture = bosniak
-		religion = sunni
-		size = 3650
 	}
 }
 #Dalmatia Region (64000) #see Croatia.txt for balance of region 
@@ -236,5 +200,4 @@
 		religion = orthodox
 		size = 10225
 	}
-
 }
