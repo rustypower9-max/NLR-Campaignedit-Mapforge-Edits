@@ -1261,26 +1261,21 @@ south_asian = {
                
 		}
 	}
-	malayalam = {
-		color = {170 100 23}
-		first_names = { Cheraman Swathi Thirunal Sri Sakthan Raja Moolam Marthanda Dharma Chithira Balarama Ayilyam Saamoothiri
-			
-		}
-		
-		last_names = { Varma Kesavadas Thampuran "Rama Varma" Perumal
-               
-		}
-	}
-	tamil = {
-		color = {180 23 75}
-		first_names = { Ramayyan Seshayya Ramiengar Seshadri Shungrasoobyer Rajagopalachari Shanmukham Ramaswami Dheeran Subramania Chidambaram Sathyamurthy Vanchinathan Champakaraman
-			
-		}
-		
-		last_names = { Mudaliar Krishnamachari Rajapopalachari Sastri Dalawa
-               
-		}
-	}
+    tamil = {
+        color = {180 23 75}
+
+        first_names = {
+            Ramayyan Seshayya Ramiengar Seshadri Shungrasoobyer Rajagopalachari Shanmukham Ramaswami Dheeran Subramania Chidambaram Sathyamurthy Vanchinathan Champakaraman
+            Cheraman Swathi Thirunal Sri Sakthan Raja Moolam Marthanda Dharma Chithira Balarama Ayilyam Saamoothiri
+            Kirtisri Vikrama Sri Vijaya Viraparakkama Vimala Rajasingha Senarat Anagarika Wimalaratne
+        }
+
+        last_names = {
+            Mudaliar Krishnamachari Rajapopalachari Sastri Dalawa
+            Varma Kesavadas Thampuran "Rama Varma" Perumal
+            Dharmasurya Narendrasimha Rajasimha Rajadhirajasimha Doraisami
+        }
+    }
 	telegu = {
 		color = {22 89 152}
 		first_names = { Vasireddy Venkatadri Uyyalawada Narasimha Veerapandiya Keneganti Alluri Potti Tanguturi Pingali Durgabai Sarojini Kandukuri
@@ -1304,21 +1299,6 @@ south_asian = {
 		}
 	}	
 	union = HND
-}
-
-sri_lankan = {
-	leader = indian
-	unit = IndianGC
-	sinhala = {
-		color = {74 39 40}
-		first_names = { Kirtisri Vikrama Sri Vijaya Viraparakkama Vimala Rajasingha Senarat  Anagarika Wimalaratne
-			
-		}
-		
-		last_names = { Dharmasurya Narendrasimha Rajasimha Rajadhirajasimha Doraisami
-               
-		}
-	}
 }
 
 southeast_asian = {

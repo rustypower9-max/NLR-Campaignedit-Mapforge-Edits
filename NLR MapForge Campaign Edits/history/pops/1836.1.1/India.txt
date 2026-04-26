@@ -8114,121 +8114,121 @@
 #Calicut (1372000/343000 POPS)
 1317 = {
 	aristocrats = {
-		culture = malayalam
+		culture = tamil
 		religion = hindu
 		size = 2500
 	}
 
 	clergymen = {
-		culture = malayalam
+		culture = tamil
 		religion = hindu
 		size = 2250
 	}
 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion = hindu
 		size = 8000
 	}
 
 	soldiers = {
-		culture = malayalam
+		culture = tamil
 		religion = hindu
 		size = 2000
 	}
 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = hindu
 		size = 175250
 	}
 
 	aristocrats = {
-		culture = malayalam
+		culture = tamil
 		religion = sunni
 		size = 750
 	}
 
 	clergymen = {
-		culture = malayalam
+		culture = tamil
 		religion = sunni
 		size = 875
 	}
 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion = sunni
 		size = 5000
 	}
 
 	soldiers = {
-		culture = malayalam
+		culture = tamil
 		religion = sunni
 		size = 1100
 	}
 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = sunni
 		size = 77375
 	}
 
 	aristocrats = {
-		culture = malayalam
+		culture = tamil
 		religion = orthodox
 		size = 150
 	}
 
 	clergymen = {
-		culture = malayalam
+		culture = tamil
 		religion = orthodox
 		size = 175
 	}
 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion = orthodox
 		size = 2000
 	}
 
 	soldiers = {
-		culture = malayalam
+		culture = tamil
 		religion = orthodox
 		size = 250
 	}
 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = orthodox
 		size = 28425
 	}
 
 	aristocrats = {
-		culture = malayalam
+		culture = tamil
 		religion = catholic
 		size = 250
 	}
 
 	clergymen = {
-		culture = malayalam
+		culture = tamil
 		religion = catholic
 		size = 250
 	}
 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion = catholic
 		size = 2000
 	}
 
 	soldiers = {
-		culture = malayalam
+		culture = tamil
 		religion = catholic
 		size = 250
 	}
 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = catholic
 		size = 34250
 	}
@@ -8237,139 +8237,139 @@
 #Cochin (808000/202000 POPS)
 1318 = {
 	aristocrats = {
-		culture = malayalam
+		culture = tamil
 		religion = hindu
 		size = 1500
 	}
 
 	clergymen = {
-		culture = malayalam
+		culture = tamil
 		religion = hindu
 		size = 1500
 	}
 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion = hindu
 		size = 7000
 	}
 
 	soldiers = {
-		culture = malayalam
+		culture = tamil
 		religion = hindu
 		size = 4000
 	}
 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = hindu
 		size = 128000
 	}
 
 	aristocrats = {
-		culture = malayalam
+		culture = tamil
 		religion = sunni
 		size = 300
 	}
 
 	clergymen = {
-		culture = malayalam
+		culture = tamil
 		religion = sunni
 		size = 350
 	}
 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion = sunni
 		size = 1500
 	}
 
 	soldiers = {
-		culture = malayalam
+		culture = tamil
 		religion = sunni
 		size = 300
 	}
 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = sunni
 		size = 29550
 	}
 
 	clergymen = {
-		culture = malayalam
+		culture = tamil
 		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion = shiite
 		size = 1100
 	}
 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = shiite
 		size = 950
 	}
 
 	aristocrats = {
-		culture = malayalam
+		culture = tamil
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = malayalam
+		culture = tamil
 		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion = orthodox
 		size = 750
 	}
 
 	soldiers = {
-		culture = malayalam
+		culture = tamil
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = orthodox
 		size = 12925
 	}
 
 	aristocrats = {
-		culture = malayalam
+		culture = tamil
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = malayalam
+		culture = tamil
 		religion = catholic
 		size = 125
 	}
 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion = catholic
 		size = 1100
 	}
 
 	soldiers = {
-		culture = malayalam
+		culture = tamil
 		religion = catholic
 		size = 100
 	}
 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = catholic
 		size = 10675
 	}
@@ -8377,151 +8377,151 @@
 #Trivandrum (476000/119000 POPS)
 1319 = {
 	aristocrats = {
-		culture = malayalam
+		culture = tamil
 		religion = hindu
 		size = 850
 	}
 
 	bureaucrats = {
-		culture = malayalam
+		culture = tamil
 		religion = hindu
 		size = 600
 	}
 
 	officers = {
-		culture = malayalam
+		culture = tamil
 		religion = hindu
 		size = 300
 	}
 
 	clergymen = {
-		culture = malayalam
+		culture = tamil
 		religion = hindu
 		size = 825
 	}
 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion = hindu
 		size = 2750
 	}
 
 	soldiers = {
-		culture = malayalam
+		culture = tamil
 		religion = hindu
 		size = 7000
 	}
 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = hindu
 		size = 66675
 	}
 
 	aristocrats = {
-		culture = malayalam
+		culture = tamil
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = malayalam
+		culture = tamil
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = malayalam
+		culture = tamil
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = sunni
 		size = 14550
 	}
 
 	clergymen = {
-		culture = malayalam
+		culture = tamil
 		religion = shiite
 		size = 25
 	}
 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion = shiite
 		size = 700
 	}
 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = shiite
 		size = 275
 	}
 
 	aristocrats = {
-		culture = malayalam
+		culture = tamil
 		religion = orthodox
 		size = 100
 	}
 
 	clergymen = {
-		culture = malayalam
+		culture = tamil
 		religion = orthodox
 		size = 125
 	}
 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion = orthodox
 		size = 850
 	}
 
 	soldiers = {
-		culture = malayalam
+		culture = tamil
 		religion = orthodox
 		size = 100
 	}
 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = orthodox
 		size = 12825
 	}
 
 	aristocrats = {
-		culture = malayalam
+		culture = tamil
 		religion = catholic
 		size = 75
 	}
 
 	clergymen = {
-		culture = malayalam
+		culture = tamil
 		religion = catholic
 		size = 75
 	}
 
 	artisans = {
-		culture = malayalam
+		culture = tamil
 		religion = catholic
 		size = 650
 	}
 
 	soldiers = {
-		culture = malayalam
+		culture = tamil
 		religion = catholic
 		size = 75
 	}
 
 	farmers = {
-		culture = malayalam
+		culture = tamil
 		religion = catholic
 		size = 8125
 	}
