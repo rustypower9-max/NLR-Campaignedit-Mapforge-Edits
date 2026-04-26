@@ -10,28 +10,29 @@ political_decisions = {
 				owned_by = THIS
 			}
 			}
-			OR = {
-				is_greater_power = yes
-				AND = {
-					foreign_weapons = foreign_weapons_two
-					foreign_officers = foreign_officers_two
-					army_schools = army_schools_two
-				}
+			AND = {
+				foreign_training = foreign_training_two
+				foreign_weapons = foreign_weapons_two
+				land_reform = land_reform_two
 			}
 			owns = 1209
 		}
 		effect = {
-			AFG = {
-				all_core = {
+			KAL_1221 = {
+				any_owned = {
 					add_core = THIS
 				}
 			}
-			KAL = {
-				all_core = {
+			AFG_1214 = {
+				any_owned = {
 					add_core = THIS
 				}
 			}
-			1222 = { add_core = THIS }
+			AFG_1217 = {
+				any_owned = {
+					add_core = THIS
+				}
+			}
 			RUS_1196 = {
 				any_owned = {
 					add_core = THIS
