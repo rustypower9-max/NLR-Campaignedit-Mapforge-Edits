@@ -49,11 +49,11 @@ country_event = {
 		}
 		any_country = {
 			limit = { is_greater_power = yes }
-			treasury = 500000
+			treasury = 200000
 		}
 		any_country = {
 			limit = { is_greater_power = no }
-			treasury = 250000
+			treasury = 100000
 		}
 		any_country = { 
 			limit = {           

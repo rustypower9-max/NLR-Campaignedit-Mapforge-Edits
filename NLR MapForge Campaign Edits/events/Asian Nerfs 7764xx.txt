@@ -1,4 +1,4 @@
-country_event = {
+    country_event = {
 	id = 776405
 	title = "776405"
 	desc = "EVTDESC776405"
@@ -19,23 +19,9 @@ country_event = {
 		all_core = {
 			limit = {
 				is_core = TIB
-			}
-			any_pop = {
-					reduce_pop = 0.50
-			}
-		}
-		all_core = {
-			limit = {
-				OR = {
-					province_id = 1601
-					province_id = 1602
-					province_id = 1603
-					province_id = 1488
-					province_id = 1489
-					province_id = 1490
-					province_id = 1491
-					province_id = 1492
-				}
+				province_id = 1601
+				province_id = 1602
+				province_id = 1603
 			}
 			any_pop = {
 					reduce_pop = 0.60
