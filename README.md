@@ -1,51 +1,47 @@
-A FORK of the NLR Campaign edits done by Skars and Companionnoob. Changes include
+A FORK of the NLR Campaign edits done by Skars and Companionnoob. General changes include
 
 - Reduced infamy decay down to more reasonable levels
 
-- Added in Heartbreaker-Style State Sizing with the appropriate CB's
+- Borrowed a lot of elements from Heartbreaker (Thank you Reno!): State Sizing with appropriate CB's, Tiered National focuses, Expanded Host decisions, capital supply
 
-- Lifted Tiered National focuses (Thank you Reno!)
+- Removed RGO Change decisions (GM preference), Cross map RGO adjustments to account for RGO change decisions being removed
 
-- Expanded Host decisions
+- Removed autocracy NV, buffed other NV effects
 
-- Added in capital supply
+- Massive pop simplification (\~1K entries) by merging cultures (Polynesian, Indian), Religions (Eastern), and the pops themselves (Polynesia, Indonesia, Indochina, China; if applicable)
 
-- Removed RGO Change decisions
+- LR bump in Indochina (Standard 35), Indonesia (32), Chinese treaty ports \& periphery (35)
 
-- Cross map RGO adjustments to account for them being locked
+- Adjusted Chinese pops / genocide event to account for China rules: Yunnan (state) \& Tibet -40\%, reduced Manchuria to 1.7M starting pop, reduced high pop treaty ports (Hainan, Taiwan) starting pops below 1.05M (Large)
 
-- Buffed national value effects, removed autocracy NV
+- TBD: To Genocide or not Genocide mainland China
 
-- Handed in Portugal to Portugal-Brazil
+- Some quality of life changes (no RP debuffs on NV/Academic, removed most decisions prestige and GP requirements)
 
-- Created the Spanish Exiles \& Napoleonic Spain
+- And other changes I migth've forgot (check the commit log)
 
-- Created the Dutch exiles \& Batavian Republic
+Nation-specific changes include:
 
-- Decolonized Indonesia
+- Created (?) Portugal-Brazil, giving them Portugal [Rusty please check, idk what you did there]
 
-- Nerfed Russia Eastern Path
+- Split Spain into napoleonic Spain, localized entriely within Spain and being in (S)pain, as well as the Spanish exiles present in most of the vanilla Spanish colonies
 
-- Consolidated UKR, RUS nerf: Crimea to Ukraine, Bessarabia to Moldavia
+- Split the Batavian Republic into a mainland Dutch part (still Batavian Republic) and Dutch exiles
 
-- Adjusted French Paths: Nerfs to Italian, Buff to Dutch
+- Gave the exiles content (decisions to accept colonial pops, option to return / reconquer the mainland)
 
-- Buffed Prussia: Mecklenburg integrated + more pops / soldiers. All in an effort to prevent a fast kill
+- Targeted Russia nerfs: No Aryan accepted from Russia eastern Path, handed over Crimea from Russia to Ukraine, released Ukrainian bessarabia to Moldavia
 
-- Added in a Pomeranian / Baltic German culture, used them to limit non-germans accepteds into Germany
+- Adjusted French Paths: No N. Italian accepted in Italian path, in return more arpitans present in N. Italy. Buffed Dutch path by making it more straigthforward and give an LR buff
 
-- DEN-SWE: Reduced swedish starting population, increased danish core population
+- Buffed Prussia: Mecklenburg integrated into Prussia. Bumped western Prussia to a Medium state (by spawning 300K pops). Bumped Prussian starting Soldier \% to 3.5\%
 
-- WIP: US-Commonwealth war
+- Nerfs to Baltic Empire \& Scandinavia N. German Path: No N. German accepted, instead they get Pomeranian (s. DOD) \& Baltic German (Germans spread across the Prussian / Baltic Coastline). Compensated by giving them cultural unification (assimilation + pop growth) on N. Germany
 
-- Big Liferating Update in Indochina, Indonesia and Chinese treaty ports \& periphery
+- Denmark-Norway vs Sweden: Reduced Swedish starting population (Falun 550K \-\> 250K), increased Danish core population (200K, spread over Denmark + Norway). Corstedt teleported Danish Indian garisson back to Europe
 
-- Adjusted the Asian genocide: Lower impact (-40-50\%) Targets too high pop chinese Periphery
+- Decolonized Indonesia, annexed Canada into the Commonwealth to compensate for the loss of Indonesia
 
-- Shuffled Pops out of Manchuria into China proper (instead of genociding)
+- Buffed Persia: Kurdish and Mashriqi accepted on "Restore Persian Empire" decision. Moved Mosul coring decision from PUIR to "Restore persian Empire" as well. 
 
-- Some quality of life changes (rp debuffs on NV/Academic, prestige and GP requirements)
-
-
-
-What if Napoleon won?
+- WIP: US-Commonwealth dynamic
