@@ -18,10 +18,12 @@
 		name = "EVTOPTA776405"
 		all_core = {
 			limit = {
-				is_core = TIB
-				province_id = 1601
-				province_id = 1602
-				province_id = 1603
+				OR = {
+                    is_core = TIB
+				    province_id = 1601
+				    province_id = 1602
+				    province_id = 1603
+                }
 			}
 			any_pop = {
 					reduce_pop = 0.60
