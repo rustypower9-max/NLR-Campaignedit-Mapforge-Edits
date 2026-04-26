@@ -6,15 +6,11 @@ political_decisions = {
 		}
 		allow = {
 			PER = {
-			all_core = {
-				owned_by = THIS
+			    all_core = {
+				    owned_by = THIS
+			    }
 			}
-			}
-			AND = {
-				foreign_training = foreign_training_two
-				foreign_weapons = foreign_weapons_two
-				land_reform = land_reform_two
-			}
+			nationalism_n_imperialism = 1
 			owns = 1209
 		}
 		effect = {
@@ -38,6 +34,13 @@ political_decisions = {
 					add_core = THIS
 				}
 			}
+            TUR_923 = {
+				any_owned = {
+					add_core = THIS
+				}
+			}
+            add_accepted_culture = kurdish
+            add_accepted_culture = mashriqi
 			set_country_flag = restored_persian_empire
 		}
 	}

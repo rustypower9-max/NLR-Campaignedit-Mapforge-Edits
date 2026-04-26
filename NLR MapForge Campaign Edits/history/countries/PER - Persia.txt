@@ -2,7 +2,6 @@ capital = 1121
 primary_culture = aryan
 culture = azerbaijani
 culture = north_caucasian
-culture = kurdish
 religion = shiite
 government = absolute_monarchy
 plurality = 5.0
