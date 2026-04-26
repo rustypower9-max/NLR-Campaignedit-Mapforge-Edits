@@ -3401,31 +3401,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = burmese
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = burmese
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = burmese
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = burmese
 		religion = animist
 		size = 250
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = burmese
 		religion = animist
 		size = 20750
 	}
@@ -3433,19 +3433,19 @@
 #Andaman Islands (14000/3500 POPS)
 1320 = {
 	clergymen = {
-		culture = asian_minor
+		culture = malay
 		religion = animist
 		size = 50
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = malay
 		religion = animist
 		size = 50
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = malay
 		religion = animist
 		size = 3400
 	}
@@ -3528,25 +3528,25 @@
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = tibetan
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = tibetan
 		religion = animist
 		size = 500
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = tibetan
 		religion = animist
 		size = 2500
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = tibetan
 		religion = animist
 		size = 53500
 	}
@@ -3608,31 +3608,31 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
+		culture = burmese
 		religion = animist
 		size = 250
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = burmese
 		religion = animist
 		size = 250
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = burmese
 		religion = animist
 		size = 250
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = burmese
 		religion = animist
 		size = 1250
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = burmese
 		religion = animist
 		size = 25000
 	}
@@ -3670,25 +3670,25 @@
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = tibetan
 		religion = animist
 		size = 75
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = tibetan
 		religion = animist
 		size = 500
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = tibetan
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = tibetan
 		religion = animist
 		size = 9425
 	}
@@ -3696,31 +3696,31 @@
 #Agartala (608000/152000 POPS)
 2566 = {
 	aristocrats = {
-		culture = asian_minor
+		culture = burmese
 		religion = animist
 		size = 1100
 	}
 
 	clergymen = {
-		culture = asian_minor
+		culture = burmese
 		religion = animist
 		size = 875
 	}
 
 	artisans = {
-		culture = asian_minor
+		culture = burmese
 		religion = animist
 		size = 5000
 	}
 
 	soldiers = {
-		culture = asian_minor
+		culture = burmese
 		religion = animist
 		size = 1100
 	}
 
 	farmers = {
-		culture = asian_minor
+		culture = burmese
 		religion = animist
 		size = 89125
 	}
@@ -3848,32 +3848,32 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
-		religion = animist
+		culture = bengali
+		religion = sunni
 		size = 225
 	}
 
 	clergymen = {
-		culture = asian_minor
-		religion = animist
+		culture = bengali
+		religion = sunni
 		size = 200
 	}
 
 	artisans = {
-		culture = asian_minor
-		religion = animist
+		culture = bengali
+		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = asian_minor
-		religion = animist
+		culture = bengali
+		religion = sunni
 		size = 250
 	}
 
 	farmers = {
-		culture = asian_minor
-		religion = animist
+		culture = bengali
+		religion = sunni
 		size = 19325
 	}
 
@@ -3928,32 +3928,32 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
-		religion = animist
+		culture = telegu
+		religion = hindu
 		size = 250
 	}
 
 	clergymen = {
-		culture = asian_minor
-		religion = animist
+		culture = telegu
+		religion = hindu
 		size = 225
 	}
 
 	artisans = {
-		culture = asian_minor
-		religion = animist
+		culture = telegu
+		religion = hindu
 		size = 1050
 	}
 
 	soldiers = {
-		culture = asian_minor
-		religion = animist
+		culture = telegu
+		religion = hindu
 		size = 250
 	}
 
 	farmers = {
-		culture = asian_minor
-		religion = animist
+		culture = telegu
+		religion = hindu
 		size = 21225
 	}
 
@@ -4670,32 +4670,32 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
-		religion = animist
+		culture = marathi
+		religion = sunni
 		size = 700
 	}
 
 	clergymen = {
-		culture = asian_minor
-		religion = animist
+		culture = marathi
+		religion = sunni
 		size = 750
 	}
 
 	artisans = {
-		culture = asian_minor
-		religion = animist
+		culture = marathi
+		religion = sunni
 		size = 1500
 	}
 
 	soldiers = {
-		culture = asian_minor
-		religion = animist
+		culture = marathi
+		religion = sunni
 		size = 650
 	}
 
 	farmers = {
-		culture = asian_minor
-		religion = animist
+		culture = marathi
+		religion = sunni
 		size = 59600
 	}
 
@@ -4774,32 +4774,32 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
-		religion = animist
+		culture = marathi
+		religion = sunni
 		size = 600
 	}
 
 	clergymen = {
-		culture = asian_minor
-		religion = animist
+		culture = marathi
+		religion = sunni
 		size = 5050
 	}
 
 	artisans = {
-		culture = asian_minor
-		religion = animist
+		culture = marathi
+		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = asian_minor
-		religion = animist
+		culture = marathi
+		religion = sunni
 		size = 550
 	}
 
 	farmers = {
-		culture = asian_minor
-		religion = animist
+		culture = marathi
+		religion = sunni
 		size = 53700
 	}
 
@@ -5030,32 +5030,32 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
-		religion = animist
+		culture = avadhi
+		religion = sunni
 		size = 650
 	}
 
 	clergymen = {
-		culture = asian_minor
-		religion = animist
+		culture = avadhi
+		religion = sunni
 		size = 600
 	}
 
 	artisans = {
-		culture = asian_minor
-		religion = animist
+		culture = avadhi
+		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = asian_minor
-		religion = animist
+		culture = avadhi
+		religion = sunni
 		size = 650
 	}
 
 	farmers = {
-		culture = asian_minor
-		religion = animist
+		culture = avadhi
+		religion = sunni
 		size = 57100
 	}
 }
@@ -5092,32 +5092,32 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
-		religion = animist
+		culture = avadhi
+		religion = sunni
 		size = 1250
 	}
 
 	clergymen = {
-		culture = asian_minor
-		religion = animist
+		culture = avadhi
+		religion = sunni
 		size = 1225
 	}
 
 	artisans = {
-		culture = asian_minor
-		religion = animist
+		culture = avadhi
+		religion = sunni
 		size = 3050
 	}
 
 	soldiers = {
-		culture = asian_minor
-		religion = animist
+		culture = avadhi
+		religion = sunni
 		size = 1250
 	}
 
 	farmers = {
-		culture = asian_minor
-		religion = animist
+		culture = avadhi
+		religion = sunni
 		size = 114225
 	}
 }
@@ -5154,32 +5154,32 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
-		religion = animist
+		culture = avadhi
+		religion = sunni
 		size = 850
 	}
 
 	clergymen = {
-		culture = asian_minor
-		religion = animist
+		culture = avadhi
+		religion = sunni
 		size = 850
 	}
 
 	artisans = {
-		culture = asian_minor
-		religion = animist
+		culture = avadhi
+		religion = sunni
 		size = 3400
 	}
 
 	soldiers = {
-		culture = asian_minor
-		religion = animist
+		culture = avadhi
+		religion = sunni
 		size = 850
 	}
 
 	farmers = {
-		culture = asian_minor
-		religion = animist
+		culture = avadhi
+		religion = sunni
 		size = 80050
 	}
 }
@@ -5304,32 +5304,32 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
-		religion = animist
+		culture = marathi
+		religion = hindu
 		size = 400
 	}
 
 	clergymen = {
-		culture = asian_minor
-		religion = animist
+		culture = marathi
+		religion = hindu
 		size = 350
 	}
 
 	artisans = {
-		culture = asian_minor
-		religion = animist
+		culture = marathi
+		religion = hindu
 		size = 1100
 	}
 
 	soldiers = {
-		culture = asian_minor
-		religion = animist
+		culture = marathi
+		religion = hindu
 		size = 400
 	}
 
 	farmers = {
-		culture = asian_minor
-		religion = animist
+		culture = marathi
+		religion = hindu
 		size = 33850
 	}
 }
@@ -5373,32 +5373,32 @@
 	}
 
 	aristocrats = {
-		culture = asian_minor
-		religion = animist
+		culture = bengali
+		religion = sunni
 		size = 350
 	}
 
 	clergymen = {
-		culture = asian_minor
-		religion = animist
+		culture = bengali
+		religion = sunni
 		size = 300
 	}
 
 	artisans = {
-		culture = asian_minor
-		religion = animist
+		culture = bengali
+		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = asian_minor
-		religion = animist
+		culture = bengali
+		religion = sunni
 		size = 350
 	}
 
 	farmers = {
-		culture = asian_minor
-		religion = animist
+		culture = bengali
+		religion = sunni
 		size = 30000
 	}
 
@@ -8582,55 +8582,43 @@
     }
 
     artisans = {
-        culture = portuguese
+        culture = gujarati
         religion = catholic
-        size = 25
+        size = 2225
     }
 
     clergymen = {
         culture = portuguese
         religion = catholic
-        size = 25
+        size = 125
     }
 
     aristocrats = {
-        culture = asian_minor
-        religion = hindu
+        culture = portuguese
+        religion = catholic
         size = 25
     }
 
-    clergymen = {
-        culture = asian_minor
-        religion = hindu
-        size = 100
-    }
-
     artisans = {
-        culture = asian_minor
-        religion = hindu
-        size = 2000
-    }
-
-    artisans = {
-        culture = asian_minor
+        culture = gujarati
         religion = catholic
         size = 200
     }
 
     soldiers = {
-        culture = asian_minor
-        religion = hindu
+        culture = portuguese
+        religion = catholic
         size = 100
     }
 
     farmers = {
-        culture = asian_minor
-        religion = hindu
+        culture = gujarati
+        religion = catholic
         size = 2250
     }
 
     farmers = {
-        culture = asian_minor
+        culture = gujarati
         religion = catholic
         size = 250
     }
@@ -8646,59 +8634,29 @@
     clergymen = {
         culture = danish
         religion = protestant
-        size = 50
-    }
-
-    artisans = {
-        culture = danish
-        religion = protestant
-        size = 75
+        size = 200
     }
 
     soldiers = {
         culture = danish
         religion = protestant
-        size = 50
-    }
-
-    clergymen = {
-        culture = asian_minor
-        religion = hindu
-        size = 125
+        size = 100
     }
 
     artisans = {
-        culture = asian_minor
-        religion = hindu
-        size = 575
-    }
-
-    soldiers = {
-        culture = asian_minor
-        religion = hindu
-        size = 50
+        culture = tamil 
+        religion = protestant
+        size = 725
     }
 
     farmers = {
-        culture = asian_minor
-        religion = hindu
+        culture = tamil 
+        religion = protestant
         size = 2650
     }
 
-    clergymen = {
-        culture = asian_minor
-        religion = protestant
-        size = 25
-    }
-
-    artisans = {
-        culture = asian_minor
-        religion = protestant
-        size = 75
-    }
-
     farmers = {
-        culture = asian_minor
+        culture = tamil
         religion = protestant
         size = 275
     }

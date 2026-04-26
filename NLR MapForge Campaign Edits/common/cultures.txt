@@ -1406,24 +1406,17 @@ southeast_asian = {
 		}
 	}
 	burmese = {
-		color = {99 87 27}
-		first_names = { Thibaw Mindon Pagan Tharawadi Gabyidaw Bodawphaya Maung Singu Hsinbyushin Naungdawkyi Alaungphaya Maha Minkyaw Zeya
-			
-		}
-		
-		last_names = { Min Bagyidaw Bandula "Ne Myo" Myo Thura Dabayin
-               
-		}
-	}
-	asian_minor = {
-		color = {99 150 72}
-		first_names = { Abdul Vijaya Rajkumari Aurobindo Chandrashekhar Gopal Motilal Sardar Sarojini Subhas Srinivasa Mridula Gupinath Chittaranjan
-			
-		}
-		
-		last_names = { Singh Prasad Ambedkar Khan Pandit Besant Sarabhai Gaidinliu Iyengar Baharjee Naidu
-               
-		}
+   		color = {99 87 27}
+
+    	first_names = {
+        	Thibaw Mindon Pagan Tharawadi Gabyidaw Bodawphaya Maung Singu Hsinbyushin Naungdawkyi Alaungphaya Maha Minkyaw Zeya
+        	Abdul Vijaya Rajkumari Aurobindo Chandrashekhar Gopal Motilal Sardar Sarojini Subhas Srinivasa Mridula Gupinath Chittaranjan
+    	}
+
+    	last_names = {
+        	Min Bagyidaw Bandula "Ne Myo" Myo Thura Dabayin
+        	Singh Prasad Ambedkar Khan Pandit Besant Sarabhai Gaidinliu Iyengar Baharjee Naidu
+    	}
 	}
 	kachin = {
 		color = {255 98 76}
