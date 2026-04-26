@@ -285,85 +285,85 @@
 	}
 
 	aristocrats = {
-		culture = kashmiri
+		culture = panjabi
 		religion = hindu
 		size = 350
 	}
 
 	bureaucrats = {
-		culture = kashmiri
+		culture = panjabi
 		religion = hindu
 		size = 75
 	}
 
 	clergymen = {
-		culture = kashmiri
+		culture = panjabi
 		religion = hindu
 		size = 325
 	}
 
 	artisans = {
-		culture = kashmiri
+		culture = panjabi
 		religion = hindu
 		size = 2000
 	}
 
 	soldiers = {
-		culture = kashmiri
+		culture = panjabi
 		religion = hindu
 		size = 325
 	}
 
 	farmers = {
-		culture = kashmiri
+		culture = panjabi
 		religion = hindu
 		size = 29975
 	}
 
 	aristocrats = {
-		culture = kashmiri
+		culture = panjabi
 		religion = sunni
 		size = 1600
 	}
 
 	bureaucrats = {
-		culture = kashmiri
+		culture = panjabi
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = kashmiri
+		culture = panjabi
 		religion = sunni
 		size = 1500
 	}
 
 	artisans = {
-		culture = kashmiri
+		culture = panjabi
 		religion = sunni
 		size = 10000
 	}
 
 	artisans = {
-		culture = kashmiri
+		culture = panjabi
 		religion = sunni
 		size = 10000
 	}
 
 	artisans = {
-		culture = kashmiri
+		culture = panjabi
 		religion = sunni
 		size = 9000
 	}
 
 	soldiers = {
-		culture = kashmiri
+		culture = panjabi
 		religion = sunni
 		size = 2000
 	}
 
 	farmers = {
-		culture = kashmiri
+		culture = panjabi
 		religion = sunni
 		size = 114825
 	}
@@ -401,31 +401,31 @@
 	}
 
 	aristocrats = {
-		culture = kashmiri
+		culture = panjabi
 		religion = sunni
 		size = 450
 	}
 
 	clergymen = {
-		culture = kashmiri
+		culture = panjabi
 		religion = sunni
 		size = 425
 	}
 
 	artisans = {
-		culture = kashmiri
+		culture = panjabi
 		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = kashmiri
+		culture = panjabi
 		religion = sunni
 		size = 400
 	}
 
 	farmers = {
-		culture = kashmiri
+		culture = panjabi
 		religion = sunni
 		size = 36725
 	}
@@ -463,31 +463,31 @@
 #Leh (196000/49000 POPS)
 1226 = {
 	aristocrats = {
-		culture = kashmiri
+		culture = panjabi
 		religion = sunni
 		size = 75
 	}
 
 	clergymen = {
-		culture = kashmiri
+		culture = panjabi
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = kashmiri
+		culture = panjabi
 		religion = sunni
 		size = 350
 	}
 
 	soldiers = {
-		culture = kashmiri
+		culture = panjabi
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = kashmiri
+		culture = panjabi
 		religion = sunni
 		size = 6425
 	}
