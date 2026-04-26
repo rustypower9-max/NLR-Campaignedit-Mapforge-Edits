@@ -353,57 +353,6 @@ political_decisions = {
 			factor = 1
 		}
 	}
-	revive_mesopotamian_claims = {
-		potential = {
-			tag = PER
-			NOT = { has_country_flag = back_to_baghdad }
-			civilized = yes			
-		}
-		allow = {
-			war = no
-			NOT = { 
-				TUR = { 
-					alliance_with = ENG 
-				} 
-			}
-			OR = {
-				TUR = { war_with = RUS }
-				TUR = { war_with = AUS }
-				TUR = { war_with = KUK }
-			}
-		}
-		effect = {
-			set_country_flag = back_to_baghdad
-			any_country = {
-				limit = {
-					war_with = TUR
-				}
-				relation = {
-					value = 100
-				}
-			}
-			relation = {
-				with = TUR
-				value = -150
-			}
-			TUR_923 = {
-				add_core = PER
-			}
-			TUR_935 = {
-				add_core = PER
-			}
-			TUR_931 = {
-				add_core = PER
-			}
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				TUR = { brigades_compare = 1.25 }
-			}
-		}
-	}
 	ottoman_bank = {
 		potential = {
 			tag = TUR
