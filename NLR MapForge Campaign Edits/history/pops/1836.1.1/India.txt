@@ -1283,31 +1283,31 @@
 #Simla (574000/143500 POPS)
 1235 = {
 	aristocrats = {
-		culture = panjabi
+		culture = avadhi
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = panjabi
+		culture = avadhi
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = panjabi
+		culture = avadhi
 		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = panjabi
+		culture = avadhi
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = panjabi
+		culture = avadhi
 		religion = sunni
 		size = 3775
 	}
@@ -1343,31 +1343,31 @@
 	}
 
 	aristocrats = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 1100
 	}
 
 	clergymen = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 750
 	}
 
 	artisans = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 3500
 	}
 
 	soldiers = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 3000
 	}
 
 	farmers = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 70750
 	}
@@ -1682,31 +1682,31 @@
 	}
 
 	aristocrats = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 500
 	}
 
 	clergymen = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 500
 	}
 
 	artisans = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 2000
 	}
 
 	soldiers = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 1100
 	}
 
 	farmers = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 45000
 	}
@@ -3755,43 +3755,43 @@
 #Cuttack (944000/236000 POPS)
 1261 = {
 	aristocrats = {
-		culture = oriya
+		culture = telegu
 		religion = hindu
 		size = 2500
 	}
 
 	clergymen = {
-		culture = oriya
+		culture = telegu
 		religion = hindu
 		size = 2500
 	}
 
 	bureaucrats = {
-		culture = oriya
+		culture = telegu
 		religion = hindu
 		size = 250
 	}
 
 	artisans = {
-		culture = oriya
+		culture = telegu
 		religion = hindu
 		size = 10000
 	}
 
 	artisans = {
-		culture = oriya
+		culture = telegu
 		religion = hindu
 		size = 2000
 	}
 
 	soldiers = {
-		culture = oriya
+		culture = telegu
 		religion = hindu
 		size = 2250
 	}
 
 	farmers = {
-		culture = oriya
+		culture = telegu
 		religion = hindu
 		size = 215500
 	}
@@ -3812,37 +3812,37 @@
 #Keunjahr (436000/109000 POPS)
 1262 = {
 	aristocrats = {
-		culture = oriya
+		culture = telegu
 		religion = hindu
 		size = 900
 	}
 
 	bureaucrats = {
-		culture = oriya
+		culture = telegu
 		religion = hindu
 		size = 100
 	}
 
 	clergymen = {
-		culture = oriya
+		culture = telegu
 		religion = hindu
 		size = 850
 	}
 
 	artisans = {
-		culture = oriya
+		culture = telegu
 		religion = hindu
 		size = 4000
 	}
 
 	soldiers = {
-		culture = oriya
+		culture = telegu
 		religion = hindu
 		size = 4000
 	}
 
 	farmers = {
-		culture = oriya
+		culture = telegu
 		religion = hindu
 		size = 75150
 	}
@@ -3892,37 +3892,37 @@
 #Sambalpur (208000/52000 POPS)
 1263 = {
 	aristocrats = {
-		culture = oriya
+		culture = telegu
 		religion = hindu
 		size = 300
 	}
 
 	bureaucrats = {
-		culture = oriya
+		culture = telegu
 		religion = hindu
 		size = 50
 	}
 
 	clergymen = {
-		culture = oriya
+		culture = telegu
 		religion = hindu
 		size = 300
 	}
 
 	artisans = {
-		culture = oriya
+		culture = telegu
 		religion = hindu
 		size = 1450
 	}
 
 	soldiers = {
-		culture = oriya
+		culture = telegu
 		religion = hindu
 		size = 1100
 	}
 
 	farmers = {
-		culture = oriya
+		culture = telegu
 		religion = hindu
 		size = 25900
 	}
@@ -5450,91 +5450,91 @@
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = marathi
 		religion = sunni
 		size = 1250
 	}
 
 	bureaucrats = {
-		culture = avadhi
+		culture = marathi
 		religion = sunni
 		size = 2250
 	}
 
 	officers = {
-		culture = avadhi
+		culture = marathi
 		religion = sunni
 		size = 2000
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = marathi
 		religion = sunni
 		size = 625
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = marathi
 		religion = sunni
 		size = 10000
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = marathi
 		religion = sunni
 		size = 10000
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = marathi
 		religion = sunni
 		size = 10000
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = marathi
 		religion = sunni
 		size = 6000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = marathi
 		religion = sunni
 		size = 7000
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = marathi
 		religion = sunni
 		size = 13875
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = marathi
 		religion = shiite
 		size = 50
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = marathi
 		religion = shiite
 		size = 50
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = marathi
 		religion = shiite
 		size = 4000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = marathi
 		religion = shiite
 		size = 75
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = marathi
 		religion = shiite
 		size = 1835
 	}
@@ -5666,61 +5666,61 @@
 #Gulbarga (784000/196000 POPS)
 1286 = {
 	aristocrats = {
-		culture = kannada
+		culture = telegu
 		religion = hindu
 		size = 1500
 	}
 
 	clergymen = {
-		culture = kannada
+		culture = telegu
 		religion = hindu
 		size = 1500
 	}
 
 	artisans = {
-		culture = kannada
+		culture = telegu
 		religion = hindu
 		size = 5000
 	}
 
 	soldiers = {
-		culture = kannada
+		culture = telegu
 		religion = hindu
 		size = 1800
 	}
 
 	farmers = {
-		culture = kannada
+		culture = telegu
 		religion = hindu
 		size = 176300
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = marathi
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = marathi
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = marathi
 		religion = sunni
 		size = 5000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = marathi
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = marathi
 		religion = sunni
 		size = 4525
 	}
@@ -5758,31 +5758,31 @@
 	}
 
 	aristocrats = {
-		culture = avadhi
+		culture = marathi
 		religion = sunni
 		size = 250
 	}
 
 	clergymen = {
-		culture = avadhi
+		culture = marathi
 		religion = sunni
 		size = 150
 	}
 
 	artisans = {
-		culture = avadhi
+		culture = marathi
 		religion = sunni
 		size = 10000
 	}
 
 	soldiers = {
-		culture = avadhi
+		culture = marathi
 		religion = sunni
 		size = 250
 	}
 
 	farmers = {
-		culture = avadhi
+		culture = marathi
 		religion = sunni
 		size = 5350
 	}
@@ -6006,61 +6006,61 @@
 #Ahmadabad (992000/248000 POPS)
 1291 = {
 	aristocrats = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 2000
 	}
 
 	clergymen = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 2000
 	}
 
 	bureaucrats = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 350
 	}
 
 	artisans = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 10000
 	}
 
 	artisans = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 5000
 	}
 
 	soldiers = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 2000
 	}
 
 	farmers = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 169650
 	}
 
 	clergymen = {
-		culture = gujarati
+		culture = rajput
 		religion = animist
 		size = 400
 	}
 
 	artisans = {
-		culture = gujarati
+		culture = rajput
 		religion = animist
 		size = 3000
 	}
 
 	farmers = {
-		culture = gujarati
+		culture = rajput
 		religion = animist
 		size = 18400
 	}
@@ -6116,37 +6116,37 @@
 #Surat (1072000/268000 POPS) 
 1296 = {
 	aristocrats = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 2500
 	}
 
 	clergymen = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 3000
 	}
 
 	artisans = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 10000
 	}
 
 	artisans = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 4000
 	}
 
 	soldiers = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 2500
 	}
 
 	farmers = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 212000
 	}
@@ -6185,43 +6185,43 @@
 #Patan (1816000/454000 POPS)
 1294 = {
 	aristocrats = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 4500
 	}
 
 	clergymen = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 4500
 	}
 
 	artisans = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 10000
 	}
 
 	artisans = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 10000
 	}
 
 	artisans = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 1100
 	}
 
 	soldiers = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 4500
 	}
 
 	farmers = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 416500
 	}
@@ -6259,49 +6259,49 @@
 #Beroda (1580000/395000 POPS)
 1295 = {
 	aristocrats = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 4000
 	}
 
 	bureaucrats = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 900
 	}
 
 	officers = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 800
 	}
 
 	clergymen = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 4000
 	}
 
 	artisans = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 10000
 	}
 
 	artisans = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 6000
 	}
 
 	soldiers = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 10000
 	}
 
 	farmers = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 354300
 	}
@@ -6340,43 +6340,43 @@
 #Rajkot (2040000/510000 POPS)
 1292 = {
 	aristocrats = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 5000
 	}
 
 	bureaucrats = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 500
 	}
 
 	clergymen = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 5000
 	}
 
 	artisans = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 10000
 	}
 
 	artisans = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 3000
 	}
 
 	soldiers = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 5000
 	}
 
 	farmers = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 451500
 	}
@@ -6420,37 +6420,37 @@
 #Mandvi (312000/78000 POPS)
 1293 = {
 	aristocrats = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 725
 	}
 
 	bureaucrats = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 75
 	}
 
 	clergymen = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 700
 	}
 
 	artisans = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 2500
 	}
 
 	soldiers = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 7000
 	}
 
 	farmers = {
-		culture = gujarati
+		culture = rajput
 		religion = hindu
 		size = 59050
 	}
@@ -6575,19 +6575,19 @@
 	}
 
 	clergymen = {
-		culture = gujarati
+		culture = sindi
 		religion = animist
 		size = 625
 	}
 
 	artisans = {
-		culture = gujarati
+		culture = sindi
 		religion = animist
 		size = 8000
 	}
 
 	farmers = {
-		culture = gujarati
+		culture = sindi
 		religion = animist
 		size = 38125
 	}
@@ -6789,31 +6789,31 @@
 	}
 
 	aristocrats = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 200
 	}
 
 	clergymen = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 175
 	}
 
 	artisans = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 5000
 	}
 
 	soldiers = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 250
 	}
 
 	farmers = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 9375
 	}
@@ -6857,31 +6857,31 @@
 	}
 
 	aristocrats = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 100
 	}
 
 	artisans = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 3000
 	}
 
 	soldiers = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 4750
 	}
@@ -6919,31 +6919,31 @@
 	}
 
 	aristocrats = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 3000
 	}
 
 	soldiers = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 3775
 	}
@@ -6951,79 +6951,79 @@
 #Belgaum (1252000/313000 POPS)
 1302 = {
 	aristocrats = {
-		culture = kannada
+		culture = telegu
 		religion = hindu
 		size = 3000
 	}
 
 	clergymen = {
-		culture = kannada
+		culture = telegu
 		religion = hindu
 		size = 3000
 	}
 
 	artisans = {
-		culture = kannada
+		culture = telegu
 		religion = hindu
 		size = 10000
 	}
 
 	soldiers = {
-		culture = kannada
+		culture = telegu
 		religion = hindu
 		size = 2750
 	}
 
 	farmers = {
-		culture = kannada
+		culture = telegu
 		religion = hindu
 		size = 249250
 	}
 
 	clergymen = {
-		culture = gujarati
+		culture = marathi
 		religion = animist
 		size = 350
 	}
 
 	artisans = {
-		culture = gujarati
+		culture = marathi
 		religion = animist
 		size = 5000
 	}
 
 	farmers = {
-		culture = gujarati
+		culture = marathi
 		religion = animist
 		size = 14350
 	}
 
 	aristocrats = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 250
 	}
 
 	artisans = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 4000
 	}
 
 	soldiers = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 250
 	}
 
 	farmers = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 19450
 	}
@@ -7035,91 +7035,37 @@
 	aristocrats = {
 		culture = portuguese
 		religion = catholic
-		size = 150
-	}
-
-	bureaucrats = {
-		culture = portuguese
-		religion = catholic
-		size = 25
-	}
-
-	clergymen = {
-		culture = portuguese
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 500
-	}
-
-	soldiers = {
-		culture = portuguese
-		religion = catholic
-		size = 25
-	}
-
-	aristocrats = {
-		culture = marathi
-		religion = catholic
-		size = 450
-	}
-
-	bureaucrats = {
-		culture = marathi
-		religion = catholic
-		size = 75
-	}
-
-	clergymen = {
-		culture = marathi
-		religion = catholic
-		size = 450
-	}
-
-	artisans = {
-		culture = marathi
-		religion = catholic
-		size = 2300
-	}
-
-	soldiers = {
-		culture = marathi
-		religion = catholic
 		size = 1100
 	}
 
-	farmers = {
-		culture = marathi
+	bureaucrats = {
+		culture = portuguese
 		religion = catholic
-		size = 43725
+		size = 100
 	}
 
 	clergymen = {
-		culture = marathi
-		religion = hindu
-		size = 100
+		culture = portuguese
+		religion = catholic
+		size = 600
 	}
 
 	artisans = {
-		culture = marathi
-		religion = hindu
-		size = 500
+		culture = portuguese
+		religion = catholic
+		size = 2800
 	}
 
 	soldiers = {
-		culture = marathi
-		religion = hindu
-		size = 100
+		culture = portuguese
+		religion = catholic
+		size = 1225
 	}
 
 	farmers = {
 		culture = marathi
-		religion = hindu
-		size = 9300
+		religion = catholic
+		size = 53025
 	}
 
 }
@@ -7288,37 +7234,37 @@
 	}
 
 	aristocrats = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 100
 	}
 
 	clergymen = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 6000
 	}
 
 	soldiers = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 150
 	}
 
 	farmers = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 6625
 	}
 
 	farmers = {
-		culture = kannada
+		culture = telegu
 		religion = shiite
 		size = 1100
 	}
@@ -7356,31 +7302,31 @@
 	}
 
 	aristocrats = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 325
 	}
 
 	artisans = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 7000
 	}
 
 	soldiers = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 300
 	}
 
 	farmers = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 22225
 	}
@@ -7481,43 +7427,43 @@
 	}
 
 	aristocrats = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 1100
 	}
 
 	clergymen = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 1500
 	}
 
 	bureaucrats = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 500
 	}
 
 	artisans = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 10000
 	}
 
 	artisans = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 6000
 	}
 
 	soldiers = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 1500
 	}
 
 	farmers = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 138500
 	}
@@ -7832,73 +7778,73 @@
 #Bangalore (716000/179000 POPS)
 1313 = {
 	aristocrats = {
-		culture = kannada
+		culture = tamil
 		religion = hindu
 		size = 1700
 	}
 
 	clergymen = {
-		culture = kannada
+		culture = tamil
 		religion = hindu
 		size = 1650
 	}
 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion = hindu
 		size = 10000
 	}
 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion = hindu
 		size = 10000
 	}
 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion = hindu
 		size = 9000
 	}
 
 	soldiers = {
-		culture = kannada
+		culture = tamil
 		religion = hindu
 		size = 1700
 	}
 
 	farmers = {
-		culture = kannada
+		culture = tamil
 		religion = hindu
 		size = 129950
 	}
 
 	aristocrats = {
-		culture = kannada
+		culture = tamil
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = kannada
+		culture = tamil
 		religion = sunni
 		size = 125
 	}
 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion = sunni
 		size = 6000
 	}
 
 	soldiers = {
-		culture = kannada
+		culture = tamil
 		religion = sunni
 		size = 100
 	}
 
 	farmers = {
-		culture = kannada
+		culture = tamil
 		religion = sunni
 		size = 6625
 	}
@@ -7906,79 +7852,79 @@
 #Mysore (872000/218000 POPS)
 1314 = {
 	aristocrats = {
-		culture = kannada
+		culture = tamil
 		religion = hindu
 		size = 2250
 	}
 
 	bureaucrats = {
-		culture = kannada
+		culture = tamil
 		religion = hindu
 		size = 850
 	}
 
 	officers = {
-		culture = kannada
+		culture = tamil
 		religion = hindu
 		size = 500
 	}
 
 	clergymen = {
-		culture = kannada
+		culture = tamil
 		religion = hindu
 		size = 2250
 	}
 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion = hindu
 		size = 9000
 	}
 
 	soldiers = {
-		culture = kannada
+		culture = tamil
 		religion = hindu
 		size = 2000
 	}
 
 	farmers = {
-		culture = kannada
+		culture = tamil
 		religion = hindu
 		size = 194150
 	}
 
 	aristocrats = {
-		culture = kannada
+		culture = tamil
 		religion = sunni
 		size = 75
 	}
 
 	bureaucrats = {
-		culture = kannada
+		culture = tamil
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = kannada
+		culture = tamil
 		religion = sunni
 		size = 75
 	}
 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion = sunni
 		size = 2000
 	}
 
 	soldiers = {
-		culture = kannada
+		culture = tamil
 		religion = sunni
 		size = 75
 	}
 
 	farmers = {
-		culture = kannada
+		culture = tamil
 		religion = sunni
 		size = 4625
 	}
@@ -7986,61 +7932,61 @@
 #Chitaldroog (416000/104000 POPS)
 1315 = {
 	aristocrats = {
-		culture = kannada
+		culture = telegu
 		religion = hindu
 		size = 1100
 	}
 
 	clergymen = {
-		culture = kannada
+		culture = telegu
 		religion = hindu
 		size = 1100
 	}
 
 	artisans = {
-		culture = kannada
+		culture = telegu
 		religion = hindu
 		size = 4000
 	}
 
 	soldiers = {
-		culture = kannada
+		culture = telegu
 		religion = hindu
 		size = 1100
 	}
 
 	farmers = {
-		culture = kannada
+		culture = telegu
 		religion = hindu
 		size = 92000
 	}
 
 	aristocrats = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 50
 	}
 
 	clergymen = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = kannada
+		culture = telegu
 		religion = sunni
 		size = 3850
 	}
@@ -8050,61 +7996,61 @@
 #Mangalore (1136000/284000 POPS)
 1316 = {
 	aristocrats = {
-		culture = kannada
+		culture = tamil
 		religion = hindu
 		size = 3000
 	}
 
 	clergymen = {
-		culture = kannada
+		culture = tamil
 		religion = hindu
 		size = 2625
 	}
 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion = hindu
 		size = 10000
 	}
 
 	soldiers = {
-		culture = kannada
+		culture = tamil
 		religion = hindu
 		size = 2750
 	}
 
 	farmers = {
-		culture = kannada
+		culture = tamil
 		religion = hindu
 		size = 241625
 	}
 
 	aristocrats = {
-		culture = kannada
+		culture = tamil
 		religion = sunni
 		size = 150
 	}
 
 	clergymen = {
-		culture = kannada
+		culture = tamil
 		religion = sunni
 		size = 300
 	}
 
 	artisans = {
-		culture = kannada
+		culture = tamil
 		religion = sunni
 		size = 5000
 	}
 
 	soldiers = {
-		culture = kannada
+		culture = tamil
 		religion = sunni
 		size = 250
 	}
 
 	farmers = {
-		culture = kannada
+		culture = tamil
 		religion = sunni
 		size = 18300
 	}
@@ -8532,43 +8478,43 @@
 #Gangtok (56000/14000 POPS)  #now part of India 
 1328 = {
 	aristocrats = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 250
 	}
 
 	bureaucrats = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 10
 	}
 
 	officers = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 15
 	}
 
 	clergymen = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 125
 	}
 
 	artisans = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 700
 	}
 
 	soldiers = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 1100
 	}
 
 	farmers = {
-		culture = nepali
+		culture = tibetan
 		religion = hindu
 		size = 11900
 	}
@@ -8582,7 +8528,7 @@
     }
 
     artisans = {
-        culture = gujarati
+        culture = rajput
         religion = catholic
         size = 2225
     }
@@ -8600,7 +8546,7 @@
     }
 
     artisans = {
-        culture = gujarati
+        culture = rajput
         religion = catholic
         size = 200
     }
@@ -8612,13 +8558,13 @@
     }
 
     farmers = {
-        culture = gujarati
+        culture = rajput
         religion = catholic
         size = 2250
     }
 
     farmers = {
-        culture = gujarati
+        culture = rajput
         religion = catholic
         size = 250
     }

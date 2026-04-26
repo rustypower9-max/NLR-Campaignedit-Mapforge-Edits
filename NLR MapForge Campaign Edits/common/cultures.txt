@@ -1135,25 +1135,18 @@ central_asian = {
 	}
 	
 	tibetan = {
-		color = {99 43 89}
-		first_names = { 
-			Tsarong Chamba Trimon Penor Gendun Jamphel Norbhu Mipham Tsepon Andruk Namgang 
-		}
-		
-		last_names = { 
-               Dzasa Wangyal Shatra Lungshar Rinpoche Chophel Shakabpa Tashi 
-		}
-		radicalism = 10
-	}
-	nepali = {
-		color = {173 123 190}
-		first_names = { Bhimsen Amar Ranjur Bhakti Jang Renaudip Shamsher "Bir Shamsher" "Deva Shamsher" "Chandra Shamsher" "Bhim Shamsher" 
-			
-		}
-		
-		last_names = { Thapa "Singh Thapa" Singh Rana "Bahadur Rana" 
-               
-		}
+	    color = {99 43 89}
+	    first_names = {
+	        Tsarong Chamba Trimon Penor Gendun Jamphel Norbhu Mipham Tsepon Andruk Namgang
+	        Bhimsen Amar Ranjur Bhakti Jang Renaudip Shamsher "Bir Shamsher" "Deva Shamsher" "Chandra Shamsher" "Bhim Shamsher"
+	    }
+	
+	    last_names = {
+	        Dzasa Wangyal Shatra Lungshar Rinpoche Chophel Shakabpa Tashi
+	        Thapa "Singh Thapa" Singh Rana "Bahadur Rana"
+	    }
+	
+	    radicalism = 10
 	}
 }
 
@@ -1170,16 +1163,6 @@ south_asian = {
                
 		}
 	}
-	oriya = {
-		color = {190 63 88}
-		first_names = { Dibvyasimhadeva Harekrushnadeva Gopinathdeva Ramachandradeva Padmanavadeva Birakishoredeva Mukundadeva
-			
-		}
-		
-		last_names = { Deva Das Rao Mohaptra Mishra
-               
-		}
-	}
 	avadhi = {
 		color = {90 64 23}
 		first_names = { Lokendra Raghuraj Vijay Vishvanath Pheran Jugal Parbhu Narayan Ishvari Udit Prasan Mahip
@@ -1191,27 +1174,17 @@ south_asian = {
 		}
 	}
 	panjabi = {
-    color = {190 180 170}
+    	color = {190 180 170}
 
-    first_names = {
+    	first_names = {
         Ranjit Kharak Nau Nihal Chand Kaur Shir Dhalip Diwan Jassa Hari Bhuma Nawab Banda Baba Kapur
         Atta Sher Muhammad Abdullah Vakil Kifayat Rahmatullah Mir Mirza Juma Mulla Mirdad Madad Azad Haji Karimdad
-    }
+    	}
 
-    last_names = {
+		last_names = {
         Singh Kunwar Bahadur Dhillon Nalwa Ahluwalia Ramgarhia Mal Mulraj
         Jawansher Khan "Ghafar Khan" Alokzai "Muhammad Khan" Bamzai
-    }
-}
-	gujarati = {
-		color = {99 12 89}
-		first_names = { Chetan Fakirbhai Jivraj Madhavsingh Khemchand Manubhai Bharatsingh Balwantry Chabildas Maniraj 
-			
-		}
-		
-		last_names = { Pansara Vaghela Solanki Modhvadia Mehta Baro Parmar
-               
-		}
+    	}
 	}
 	marathi = {
 		color = {190 220 10}
@@ -1234,63 +1207,51 @@ south_asian = {
 		}
 	}
 	rajput = {
-		color = {192 232 147}
-		first_names = { Sardar Fateh Muhammad Malik Umar Hayat Rai Hussain Veer Durga Bhai Rao Harsha Bhagwant "Mirza Raja" Jawapala Sawai
-			
-		}
-		
-		last_names = { "ur Rahman" Bhatti Tiwana Qaim Kunwar "Bachittar Singh" Shekha
-               
-		}
-		radicalism = 10
-	}
-	kannada = {
-		color = {82 32 170}
-		first_names = { Aliya Abbakka Amoghavarasha Basaveshwara Bijjala Guvida Harihara Kempe Krishnadeva Krisnaraja Mayuravarma Pulakesi Rani Chennamma Sagolli Tailapa Veera Vikramaditya Vishnuvardhana
-			
-		}
-		
-		last_names = { "Rama Raya" Rani Raya Bibi Wodeyar Gowda Nayaka Rayanna Ballala
-               
-		}
+    	color = {192 232 147}
+    	first_names = {
+    	    Sardar Fateh Muhammad Malik Umar Hayat Rai Hussain Veer Durga Bhai Rao Harsha Bhagwant "Mirza Raja" Jawapala Sawai
+	        Chetan Fakirbhai Jivraj Madhavsingh Khemchand Manubhai Bharatsingh Balwantry Chabildas Maniraj
+	    }
+
+	    last_names = {
+	        "ur Rahman" Bhatti Tiwana Qaim Kunwar "Bachittar Singh" Shekha
+	        Pansara Vaghela Solanki Modhvadia Mehta Baro Parmar
+	    }
+
+	    radicalism = 10
 	}
     tamil = {
-        color = {180 23 75}
+    	color = {180 23 75}
 
-        first_names = {
-            Ramayyan Seshayya Ramiengar Seshadri Shungrasoobyer Rajagopalachari Shanmukham Ramaswami Dheeran Subramania Chidambaram Sathyamurthy Vanchinathan Champakaraman
-            Cheraman Swathi Thirunal Sri Sakthan Raja Moolam Marthanda Dharma Chithira Balarama Ayilyam Saamoothiri
-            Kirtisri Vikrama Sri Vijaya Viraparakkama Vimala Rajasingha Senarat Anagarika Wimalaratne
-        }
+    	first_names = {
+        	Ramayyan Seshayya Ramiengar Seshadri Shungrasoobyer Rajagopalachari Shanmukham Ramaswami Dheeran Subramania Chidambaram Sathyamurthy Vanchinathan Champakaraman
+        	Cheraman Swathi Thirunal Sri Sakthan Raja Moolam Marthanda Dharma Chithira Balarama Ayilyam Saamoothiri
+        	Kirtisri Vikrama Sri Vijaya Viraparakkama Vimala Rajasingha Senarat Anagarika Wimalaratne
+        	Amoghavarasha Basaveshwara Bijjala Harihara Krishnadeva Krisnaraja Mayuravarma Vikramaditya Vishnuvardhana
+    	}
 
-        last_names = {
-            Mudaliar Krishnamachari Rajapopalachari Sastri Dalawa
-            Varma Kesavadas Thampuran "Rama Varma" Perumal
-            Dharmasurya Narendrasimha Rajasimha Rajadhirajasimha Doraisami
-        }
-    }
-	telegu = {
-		color = {22 89 152}
-		first_names = { Vasireddy Venkatadri Uyyalawada Narasimha Veerapandiya Keneganti Alluri Potti Tanguturi Pingali Durgabai Sarojini Kandukuri
-			
-		}
-		
-		last_names = { Sitaramaraju Kattabomman Hanumathu Nayudu Deshmukh Naidu Veeresalingam Sriramulu
-               
-		}
+    	last_names = {
+    	    Mudaliar Krishnamachari Rajapopalachari Sastri Dalawa
+    	    Varma Kesavadas Thampuran "Rama Varma" Perumal
+    	    Dharmasurya Narendrasimha Rajasimha Rajadhirajasimha Doraisami
+	        "Rama Raya" Raya Ballala
+ 	   }
 	}
-	baluchi = {
-		color = {132 70 171}
-		first_names = {
-			Abdullah Ahmad Azam Khudadad
-			Mehrab Mohammad Muhabbat 
-			Nasir Nawaz
-			Samandar Sherdil
-		}
-		last_names = {
-			Khan
-		}
-	}	
+    telegu = {
+    	color = {22 89 152}
+
+    	first_names = {
+    	    Vasireddy Venkatadri Uyyalawada Narasimha Veerapandiya Keneganti Alluri Potti Tanguturi Pingali Durgabai Sarojini Kandukuri
+    	    Dibvyasimhadeva Harekrushnadeva Gopinathdeva Ramachandradeva Padmanavadeva Birakishoredeva Mukundadeva
+	        Aliya Abbakka Guvida Kempe Pulakesi Rani Chennamma Sagolli Tailapa Veera
+	    }
+
+	    last_names = {
+	        Sitaramaraju Kattabomman Hanumathu Nayudu Deshmukh Naidu Veeresalingam Sriramulu
+	        Deva Das Rao Mohaptra Mishra
+	        Rani Bibi Wodeyar Gowda Nayaka Rayanna
+	    }
+	}
 	union = HND
 }
 
