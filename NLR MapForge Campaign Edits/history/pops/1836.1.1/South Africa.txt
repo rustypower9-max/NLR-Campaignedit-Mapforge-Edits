@@ -5,1690 +5,219 @@
 #Cape Town (173000/43250 POPS)
 2087 = {
     clergymen = {
-        culture = khoikhoi
-        religion = protestant
-        size = 48
+    	culture = khoikhoi
+    	religion = protestant
+    	size = 96
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = protestant
-        size = 720
+    	culture = khoikhoi
+    	religion = protestant
+    	size = 1440
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 144
+    	culture = khoikhoi
+    	religion = protestant
+    	size = 1199
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 8692
-    }
-
-    clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 48
-    }
-
-    artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 720
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 144
-    }
-
-    farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 11573
+    	culture = khoikhoi
+    	religion = protestant
+    	size = 20265
     }
 
     aristocrats = {
-        culture = boer
-        religion = protestant
-        size = 20
+    	culture = boer
+    	religion = protestant
+    	size = 20
     }
 
     clergymen = {
-        culture = boer
-        religion = protestant
-        size = 68
+    	culture = boer
+    	religion = protestant
+    	size = 140
     }
 
     bureaucrats = {
-        culture = boer
-        religion = protestant
-        size = 58
+    	culture = boer
+    	religion = protestant
+    	size = 86
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 2401
+    	culture = boer
+    	religion = protestant
+    	size = 3457
     }
 
     soldiers = {
-        culture = boer
-        religion = protestant
-        size = 96
+    	culture = boer
+    	religion = protestant
+    	size = 1961
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
-        size = 4082
-    }
-
-    clergymen = {
-        culture = boer
-        religion = protestant
-        size = 72
-    }
-
-    bureaucrats = {
-        culture = boer
-        religion = protestant
-        size = 28
-    }
-
-    artisans = {
-        culture = boer
-        religion = protestant
-        size = 1056
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1056
-    }
-
-    farmers = {
-        culture = boer
-        religion = protestant
-        size = 10704
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 15
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 3
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 177
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 15
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 236
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 49
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 83
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 22
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 22
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 219
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 15
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 3
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 177
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 15
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 236
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 49
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 83
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 22
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 22
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 218
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 4
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 4
+    	culture = boer
+    	religion = protestant
+    	size = 14786
     }
 }
 #Worcester (117700/29425 POPS)
 2089 = {
     clergymen = {
-        culture = khoikhoi
-        religion = protestant
-        size = 48
+    	culture = khoikhoi
+    	religion = protestant
+    	size = 168
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = protestant
-        size = 240
+    	culture = khoikhoi
+    	religion = protestant
+    	size = 480
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 96
+    	culture = khoikhoi
+    	religion = protestant
+    	size = 1254
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 7299
+    	culture = khoikhoi
+    	religion = protestant
+    	size = 23002
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 72
+    	culture = boer
+    	religion = protestant
+    	size = 91
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 144
+    	culture = boer
+    	religion = protestant
+    	size = 960
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 72
+    	culture = boer
+    	religion = protestant
+    	size = 251
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 6435
-    }
-
-    clergymen = {
-        culture = boer
-        religion = protestant
-        size = 76
-    }
-
-    artisans = {
-        culture = boer
-        religion = protestant
-        size = 672
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 20
-    }
-
-    farmers = {
-        culture = boer
-        religion = protestant
-        size = 3289
+    	culture = boer
+    	religion = protestant
+    	size = 3923
     }
 
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 96
-    }
-
-    clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 48
-    }
-
-    artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 96
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 96
-    }
-
-    farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 9268
-    }
-
-    clergymen = {
-        culture = boer
-        religion = protestant
-        size = 15
-    }
-
-    artisans = {
-        culture = boer
-        religion = protestant
-        size = 288
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 24
-    }
-
-    farmers = {
-        culture = boer
-        religion = protestant
-        size = 634
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 149
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 131
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 14
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 68
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 189
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 6
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 13
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 149
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 131
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 14
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 67
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 189
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 6
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 13
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 3
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
+    	culture = khoikhoi
+    	religion = animist
+    	size = 96
     }
 }
 #Swettenham (69700/17425 POPS)
 2090 = {
     clergymen = {
-        culture = khoikhoi
-        religion = protestant
-        size = 72
+    	culture = khoikhoi
+    	religion = protestant
+    	size = 144
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = protestant
-        size = 192
+    	culture = khoikhoi
+    	religion = protestant
+    	size = 288
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 96
+    	culture = khoikhoi
+    	religion = protestant
+    	size = 1113
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 6362
+    	culture = khoikhoi
+    	religion = protestant
+    	size = 20455
     }
 
     clergymen = {
-        culture = boer
-        religion = protestant
-        size = 48
+    	culture = boer
+    	religion = protestant
+    	size = 63
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 288
+    	culture = boer
+    	religion = protestant
+    	size = 576
     }
 
     soldiers = {
-        culture = boer
-        religion = protestant
-        size = 48
+    	culture = boer
+    	religion = protestant
+    	size = 287
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
-        size = 3865
-    }
-
-    clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 72
-    }
-
-    artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 96
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 144
-    }
-
-    farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 14093
-    }
-
-    clergymen = {
-        culture = boer
-        religion = protestant
-        size = 15
-    }
-
-    artisans = {
-        culture = boer
-        religion = protestant
-        size = 288
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 24
-    }
-
-    farmers = {
-        culture = boer
-        religion = protestant
-        size = 634
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 4
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 130
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 6
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 79
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 288
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 6
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 13
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 4
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 130
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 6
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 79
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 288
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 6
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 13
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 3
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
+    	culture = boer
+    	religion = protestant
+    	size = 4499
     }
 }
 #Mossel Bay (34700/8675 POPS)
 2091 = {
     clergymen = {
-        culture = boer
-        religion = protestant
-        size = 24
+    	culture = boer
+    	religion = protestant
+    	size = 72
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 144
+    	culture = boer
+    	religion = protestant
+    	size = 288
     }
 
     soldiers = {
-        culture = boer
-        religion = protestant
-        size = 24
+    	culture = boer
+    	religion = protestant
+    	size = 199
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
-        size = 1512
+    	culture = boer
+    	religion = protestant
+    	size = 3241
     }
 
     clergymen = {
-        culture = boer
-        religion = protestant
-        size = 48
+    	culture = khoikhoi
+    	religion = protestant
+    	size = 57
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 144
+    	culture = khoikhoi
+    	religion = protestant
+    	size = 144
     }
 
     soldiers = {
-        culture = boer
-        religion = protestant
-        size = 24
+    	culture = khoikhoi
+    	religion = protestant
+    	size = 247
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
-        size = 1729
-    }
-
-    clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 33
-    }
-
-    artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 48
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 24
-    }
-
-    farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2775
-    }
-
-    clergymen = {
-        culture = khoikhoi
-        religion = protestant
-        size = 24
-    }
-
-    artisans = {
-        culture = khoikhoi
-        religion = protestant
-        size = 96
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 24
-    }
-
-    farmers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 1777
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 3
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 31
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 3
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 35
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 57
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 36
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 3
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 31
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 3
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 35
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 57
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 2
-    }
-
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 36
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = protestant
-        size = 1
+    	culture = khoikhoi
+    	religion = protestant
+    	size = 4552
     }
 }
 #Namaqualand Region (12000) #see Namibia.txt for balance of region
@@ -1696,33 +225,33 @@
 #Springbok (12000/3000 POPS)
 2088 = {
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 25
+    	culture = khoikhoi
+    	religion = animist
+    	size = 25
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 50
+    	culture = khoikhoi
+    	religion = animist
+    	size = 50
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 150
+    	culture = khoikhoi
+    	religion = animist
+    	size = 150
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 25
+    	culture = khoikhoi
+    	religion = animist
+    	size = 25
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2750
+    	culture = khoikhoi
+    	religion = animist
+    	size = 2750
     }
 }
 #Karoo Region (244500)
@@ -1731,889 +260,229 @@
 #Beaufort (34600/8650 POPS)
 2092 = {
     clergymen = {
-        culture = boer
-        religion = protestant
-        size = 24
+    	culture = boer
+    	religion = protestant
+    	size = 39
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 144
+    	culture = boer
+    	religion = protestant
+    	size = 336
     }
 
     soldiers = {
-        culture = boer
-        religion = protestant
-        size = 24
+    	culture = boer
+    	religion = protestant
+    	size = 178
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
-        size = 2353
+    	culture = boer
+    	religion = protestant
+    	size = 3097
     }
 
     clergymen = {
-        culture = boer
-        religion = protestant
-        size = 15
+    	culture = khoikhoi
+    	religion = animist
+    	size = 48
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 192
+    	culture = khoikhoi
+    	religion = animist
+    	size = 96
     }
 
     soldiers = {
-        culture = boer
-        religion = protestant
-        size = 10
+    	culture = khoikhoi
+    	religion = animist
+    	size = 246
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
-        size = 744
-    }
-
-    clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 48
-    }
-
-    artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 96
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 48
-    }
-
-    farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 4610
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 3
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 48
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 4
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 16
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 94
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 3
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 48
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 4
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 15
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 94
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
+    	culture = khoikhoi
+    	religion = animist
+    	size = 4610
     }
 }
 #Calvinia (23300/5825 POPS)
 2093 = {
     clergymen = {
-        culture = boer
-        religion = protestant
-        size = 15
+    	culture = boer
+    	religion = protestant
+    	size = 15
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 96
+    	culture = boer
+    	religion = protestant
+    	size = 96
     }
 
     soldiers = {
-        culture = boer
-        religion = protestant
-        size = 10
+    	culture = boer
+    	religion = protestant
+    	size = 47
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
-        size = 792
+    	culture = boer
+    	religion = protestant
+    	size = 792
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 24
+    	culture = khoikhoi
+    	religion = animist
+    	size = 48
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 48
+    	culture = khoikhoi
+    	religion = animist
+    	size = 96
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 24
+    	culture = khoikhoi
+    	religion = animist
+    	size = 247
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2785
+    	culture = khoikhoi
+    	religion = animist
+    	size = 4585
     }
 
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 24
-    }
-
-    clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 24
-    }
-
-    artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 48
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 24
-    }
-
-    farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1800
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 17
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 57
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 37
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 16
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 57
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 37
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
+    	culture = khoikhoi
+    	religion = animist
+    	size = 24
     }
 }
 #De Aar (30600/7650 POPS)
 2558 = {
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 48
+    	culture = khoikhoi
+    	religion = animist
+    	size = 48
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 48
+    	culture = khoikhoi
+    	religion = animist
+    	size = 48
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 144
+    	culture = khoikhoi
+    	religion = animist
+    	size = 144
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 48
+    	culture = khoikhoi
+    	religion = animist
+    	size = 286
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 5474
+    	culture = khoikhoi
+    	religion = animist
+    	size = 5474
     }
 
     clergymen = {
-        culture = boer
-        religion = protestant
-        size = 24
+    	culture = boer
+    	religion = protestant
+    	size = 24
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 240
+    	culture = boer
+    	religion = protestant
+    	size = 240
     }
 
     soldiers = {
-        culture = boer
-        religion = protestant
-        size = 24
+    	culture = boer
+    	religion = protestant
+    	size = 129
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
-        size = 2257
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 112
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 46
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 112
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 46
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
+    	culture = boer
+    	religion = protestant
+    	size = 2257
     }
 }
 #Uncolonized in 1836
 #Kimberley (156000/39000 POPS)
 2094 = {
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 400
+    	culture = khoikhoi
+    	religion = animist
+    	size = 400
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 400
+    	culture = khoikhoi
+    	religion = animist
+    	size = 400
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 1600
+    	culture = khoikhoi
+    	religion = animist
+    	size = 1600
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 400
+    	culture = khoikhoi
+    	religion = animist
+    	size = 400
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 36200
+    	culture = khoikhoi
+    	religion = animist
+    	size = 36200
     }
 }
 #Bechuanaland Region (20000) #see Botswana.txt for balance of region
 #Dikathong (20000/5000 POPS)
 2095 = {
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 50
+    	culture = khoikhoi
+    	religion = animist
+    	size = 50
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 50
+    	culture = khoikhoi
+    	religion = animist
+    	size = 50
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 200
+    	culture = khoikhoi
+    	religion = animist
+    	size = 200
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 50
+    	culture = khoikhoi
+    	religion = animist
+    	size = 50
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 4650
+    	culture = khoikhoi
+    	religion = animist
+    	size = 4650
     }
 }
 #Eastern Cape Region (232000)
@@ -2621,1212 +490,210 @@
 #Port Elizabeth (44000/11000 POPS)
 2096 = {
     clergymen = {
-        culture = boer
-        religion = protestant
-        size = 24
+    	culture = boer
+    	religion = protestant
+    	size = 24
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 288
+    	culture = boer
+    	religion = protestant
+    	size = 288
     }
 
     soldiers = {
-        culture = boer
-        religion = protestant
-        size = 24
+    	culture = boer
+    	religion = protestant
+    	size = 143
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
-        size = 2545
+    	culture = boer
+    	religion = protestant
+    	size = 2545
     }
 
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 38
+    	culture = khoikhoi
+    	religion = animist
+    	size = 53
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 33
+    	culture = khoikhoi
+    	religion = animist
+    	size = 72
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 96
+    	culture = khoikhoi
+    	religion = animist
+    	size = 144
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 24
+    	culture = khoikhoi
+    	religion = animist
+    	size = 378
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 3746
-    }
-
-    aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 15
-    }
-
-    clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 15
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 10
-    }
-
-    farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 922
-    }
-
-    clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 24
-    }
-
-    artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 48
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 24
-    }
-
-    farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2785
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 6
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 52
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 76
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 19
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 57
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 6
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 52
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 76
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 19
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 57
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
+    	culture = khoikhoi
+    	religion = animist
+    	size = 7453
     }
 }
 #Graaf Reinet (36000/9000 POPS)
 2097 = {
     clergymen = {
-        culture = boer
-        religion = protestant
-        size = 10
+    	culture = boer
+    	religion = protestant
+    	size = 10
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 144
+    	culture = boer
+    	religion = protestant
+    	size = 144
     }
 
     soldiers = {
-        culture = boer
-        religion = protestant
-        size = 15
+    	culture = boer
+    	religion = protestant
+    	size = 371
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
-        size = 8475
+    	culture = boer
+    	religion = protestant
+    	size = 8475
     }
 
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 24
+    	culture = khoikhoi
+    	religion = animist
+    	size = 34
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 24
+    	culture = khoikhoi
+    	religion = animist
+    	size = 63
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 96
+    	culture = khoikhoi
+    	religion = animist
+    	size = 288
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 48
+    	culture = khoikhoi
+    	religion = animist
+    	size = 451
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 3650
-    }
-
-    aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 10
-    }
-
-    clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 15
-    }
-
-    artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 96
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 24
-    }
-
-    farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 816
-    }
-
-    clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 24
-    }
-
-    artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 96
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 24
-    }
-
-    farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 3698
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 3
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 173
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 74
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 17
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 75
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 3
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 173
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 74
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 17
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 75
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 4
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
+    	culture = khoikhoi
+    	religion = animist
+    	size = 8164
     }
 }
 #uncolonized/ruled by the Xhosa 1836
 #Bisho (40000/10000 POPS)
 2098 = {
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 96
+    	culture = khoikhoi
+    	religion = animist
+    	size = 96
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 96
+    	culture = khoikhoi
+    	religion = animist
+    	size = 96
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 480
+    	culture = khoikhoi
+    	religion = animist
+    	size = 480
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 96
+    	culture = khoikhoi
+    	religion = animist
+    	size = 492
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 8836
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 180
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 180
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 4
+    	culture = khoikhoi
+    	religion = animist
+    	size = 8836
     }
 }
 #Mathele (40000/10000 POPS)
 2099 = {
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 96
+    	culture = khoikhoi
+    	religion = animist
+    	size = 96
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 96
+    	culture = khoikhoi
+    	religion = animist
+    	size = 96
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 480
+    	culture = khoikhoi
+    	religion = animist
+    	size = 480
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 96
+    	culture = khoikhoi
+    	religion = animist
+    	size = 492
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 8836
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 180
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 180
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 4
+    	culture = khoikhoi
+    	religion = animist
+    	size = 8836
     }
 }
 #Umtata (72000/18000 POPS)
 2100 = {
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 192
+    	culture = khoikhoi
+    	religion = animist
+    	size = 192
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 192
+    	culture = khoikhoi
+    	religion = animist
+    	size = 192
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 864
+    	culture = khoikhoi
+    	religion = animist
+    	size = 864
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 192
+    	culture = khoikhoi
+    	religion = animist
+    	size = 905
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 15847
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 18
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 323
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 18
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 323
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 7
+    	culture = khoikhoi
+    	religion = animist
+    	size = 15847
     }
 }
 #Transorangia Region (509000)
@@ -3835,993 +702,225 @@
 #Bloemfontein (194000/48500 POPS)
 2101 = {
     bureaucrats = {
-        culture = boer
-        religion = protestant
-        size = 2
+    	culture = boer
+    	religion = protestant
+    	size = 2
     }
 
     officers = {
-        culture = boer
-        religion = protestant
-        size = 3
+    	culture = boer
+    	religion = protestant
+    	size = 3
     }
 
     clergymen = {
-        culture = boer
-        religion = protestant
-        size = 5
+    	culture = boer
+    	religion = protestant
+    	size = 5
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 48
+    	culture = boer
+    	religion = protestant
+    	size = 48
     }
 
     soldiers = {
-        culture = boer
-        religion = protestant
-        size = 86
+    	culture = boer
+    	religion = protestant
+    	size = 116
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
-        size = 576
+    	culture = boer
+    	religion = protestant
+    	size = 576
     }
 
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 888
+    	culture = khoikhoi
+    	religion = animist
+    	size = 888
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 456
+    	culture = khoikhoi
+    	religion = animist
+    	size = 456
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 2280
+    	culture = khoikhoi
+    	religion = animist
+    	size = 2280
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 456
+    	culture = khoikhoi
+    	religion = animist
+    	size = 2349
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 41777
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 12
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 19
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 47
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 10
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 853
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 12
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 18
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 9
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 47
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 9
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 853
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 17
+    	culture = khoikhoi
+    	religion = animist
+    	size = 41777
     }
 }
 #Winburg (102000/25500 POPS)
 2102 = {
     clergymen = {
-        culture = boer
-        religion = protestant
-        size = 5
+    	culture = boer
+    	religion = protestant
+    	size = 5
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 24
+    	culture = boer
+    	religion = protestant
+    	size = 24
     }
 
     soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1056
+    	culture = boer
+    	religion = protestant
+    	size = 1117
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
-        size = 404
+    	culture = boer
+    	religion = protestant
+    	size = 404
     }
 
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 336
+    	culture = khoikhoi
+    	religion = animist
+    	size = 408
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 216
+    	culture = khoikhoi
+    	religion = animist
+    	size = 264
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 1056
+    	culture = khoikhoi
+    	religion = animist
+    	size = 1296
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 192
+    	culture = khoikhoi
+    	religion = animist
+    	size = 1236
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 17503
-    }
-
-    aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 72
-    }
-
-    clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 48
-    }
-
-    artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 240
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 48
-    }
-
-    farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 4393
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 22
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 8
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 7
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 22
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 358
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 90
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 22
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 8
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 7
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 22
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 357
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 5
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 90
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 7
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
+    	culture = khoikhoi
+    	religion = animist
+    	size = 21896
     }
 }
 #Philippolis (85000/21250 POPS)
 2103 = {
     clergymen = {
-        culture = boer
-        religion = protestant
-        size = 10
+    	culture = boer
+    	religion = protestant
+    	size = 10
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 48
+    	culture = boer
+    	religion = protestant
+    	size = 48
     }
 
     soldiers = {
-        culture = boer
-        religion = protestant
-        size = 86
+    	culture = boer
+    	religion = protestant
+    	size = 116
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
-        size = 576
+    	culture = boer
+    	religion = protestant
+    	size = 576
     }
 
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 384
+    	culture = khoikhoi
+    	religion = animist
+    	size = 384
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 192
+    	culture = khoikhoi
+    	religion = animist
+    	size = 192
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 984
+    	culture = khoikhoi
+    	religion = animist
+    	size = 984
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 192
+    	culture = khoikhoi
+    	religion = animist
+    	size = 1005
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 17935
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 12
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 8
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 21
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 367
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 2
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 12
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 8
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 20
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 4
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 366
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = boer
-        religion = protestant
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 7
+    	culture = khoikhoi
+    	religion = animist
+    	size = 17935
     }
 }
 #Thaba Bosiu (128000/32000 POPS) #now Lesotho
 2104 = {
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 600
+    	culture = khoikhoi
+    	religion = animist
+    	size = 600
     }
 
     bureaucrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 24
+    	culture = khoikhoi
+    	religion = animist
+    	size = 24
     }
 
     officers = {
-        culture = khoikhoi
-        religion = animist
-        size = 120
+    	culture = khoikhoi
+    	religion = animist
+    	size = 120
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 312
+    	culture = khoikhoi
+    	religion = animist
+    	size = 312
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 1537
+    	culture = khoikhoi
+    	religion = animist
+    	size = 1537
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 312
+    	culture = khoikhoi
+    	religion = animist
+    	size = 1580
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 27827
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 13
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 3
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 7
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 31
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 7
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 568
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 12
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 31
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 6
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 568
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 0
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 12
+    	culture = khoikhoi
+    	religion = animist
+    	size = 27827
     }
 }
 #Transvaal Region (349000)
@@ -4830,212 +929,182 @@
 #Pretoria (137600/34400 POPS)
 2105 = {
     bureaucrats = {
-        culture = boer
-        religion = protestant
-        size = 2
+    	culture = boer
+    	religion = protestant
+    	size = 2
     }
 
     officers = {
-        culture = boer
-        religion = protestant
-        size = 3
+    	culture = boer
+    	religion = protestant
+    	size = 3
     }
 
     clergymen = {
-        culture = boer
-        religion = protestant
-        size = 5
+    	culture = boer
+    	religion = protestant
+    	size = 5
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 20
+    	culture = boer
+    	religion = protestant
+    	size = 20
     }
 
     soldiers = {
-        culture = boer
-        religion = protestant
-        size = 1100
+    	culture = boer
+    	religion = protestant
+    	size = 1100
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
-        size = 320
+    	culture = boer
+    	religion = protestant
+    	size = 320
     }
 
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 650
+    	culture = khoikhoi
+    	religion = animist
+    	size = 650
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 350
+    	culture = khoikhoi
+    	religion = animist
+    	size = 350
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 1350
+    	culture = khoikhoi
+    	religion = animist
+    	size = 1350
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 350
+    	culture = khoikhoi
+    	religion = animist
+    	size = 350
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 31300
+    	culture = khoikhoi
+    	religion = animist
+    	size = 31300
     }
 }
 #Johannesburg (102400/25600 POPS)
 2106 = {
     clergymen = {
-        culture = boer
-        religion = protestant
-        size = 10
+    	culture = boer
+    	religion = protestant
+    	size = 10
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 25
+    	culture = boer
+    	religion = protestant
+    	size = 25
     }
 
     soldiers = {
-        culture = boer
-        religion = protestant
-        size = 65
+    	culture = boer
+    	religion = protestant
+    	size = 65
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
-        size = 500
+    	culture = boer
+    	religion = protestant
+    	size = 500
     }
 
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 425
+    	culture = khoikhoi
+    	religion = animist
+    	size = 425
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 250
+    	culture = khoikhoi
+    	religion = animist
+    	size = 250
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 1250
+    	culture = khoikhoi
+    	religion = animist
+    	size = 1250
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 250
+    	culture = khoikhoi
+    	religion = animist
+    	size = 250
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 22775
+    	culture = khoikhoi
+    	religion = animist
+    	size = 22775
     }
 }
 #uncolonized in 1836/dominated by the Ndebele
 #Klerksdorp (109000/27250 POPS)
 2107 = {
     clergymen = {
-        culture = boer
-        religion = protestant
-        size = 5
+    	culture = boer
+    	religion = protestant
+    	size = 5
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 15
+    	culture = boer
+    	religion = protestant
+    	size = 15
     }
 
     soldiers = {
-        culture = boer
-        religion = protestant
-        size = 25
+    	culture = boer
+    	religion = protestant
+    	size = 25
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
-        size = 205
+    	culture = boer
+    	religion = protestant
+    	size = 205
     }
 
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 225
+    	culture = khoikhoi
+    	religion = animist
+    	size = 500
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 125
+    	culture = khoikhoi
+    	religion = animist
+    	size = 275
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 600
+    	culture = khoikhoi
+    	religion = animist
+    	size = 1200
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 125
+    	culture = khoikhoi
+    	religion = animist
+    	size = 275
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 15925
-    }
-
-    aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 275
-    }
-
-    clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 150
-    }
-
-    artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 600
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 150
-    }
-
-    farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 8825
+    	culture = khoikhoi
+    	religion = animist
+    	size = 24750
     }
 }
 #Limpopo Region (129000)
@@ -5044,231 +1113,171 @@
 #Mosega (48200/12050 POPS)
 2108 = {
     clergymen = {
-        culture = boer
-        religion = protestant
-        size = 1
+    	culture = boer
+    	religion = protestant
+    	size = 1
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 3
+    	culture = boer
+    	religion = protestant
+    	size = 3
     }
 
     soldiers = {
-        culture = boer
-        religion = protestant
-        size = 6
+    	culture = boer
+    	religion = protestant
+    	size = 6
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
-        size = 40
+    	culture = boer
+    	religion = protestant
+    	size = 40
     }
 
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 75
+    	culture = khoikhoi
+    	religion = animist
+    	size = 200
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 50
+    	culture = khoikhoi
+    	religion = animist
+    	size = 125
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 200
+    	culture = khoikhoi
+    	religion = animist
+    	size = 550
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 50
+    	culture = khoikhoi
+    	religion = animist
+    	size = 125
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 2625
-    }
-
-    aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 125
-    }
-
-    clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 75
-    }
-
-    artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 350
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 75
-    }
-
-    farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 8375
+    	culture = khoikhoi
+    	religion = animist
+    	size = 11000
     }
 }
 #uncolonized in 1836/dominated by the Zulu
 #Lydenburg (52600/13150 POPS)
 2109 = {
     clergymen = {
-        culture = boer
-        religion = protestant
-        size = 3
+    	culture = boer
+    	religion = protestant
+    	size = 3
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 12
+    	culture = boer
+    	religion = protestant
+    	size = 12
     }
 
     soldiers = {
-        culture = boer
-        religion = protestant
-        size = 15
+    	culture = boer
+    	religion = protestant
+    	size = 15
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
-        size = 120
+    	culture = boer
+    	religion = protestant
+    	size = 120
     }
 
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 225
+    	culture = khoikhoi
+    	religion = animist
+    	size = 225
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 125
+    	culture = khoikhoi
+    	religion = animist
+    	size = 125
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 650
+    	culture = khoikhoi
+    	religion = animist
+    	size = 650
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 150
+    	culture = khoikhoi
+    	religion = animist
+    	size = 150
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 11850
+    	culture = khoikhoi
+    	religion = animist
+    	size = 11850
     }
 }
 #uncolonized in 1836/dominated by the Gaza Nguni
 #Thohoyandu (28200/7050 POPS)
 2110 = {
     clergymen = {
-        culture = boer
-        religion = protestant
-        size = 1
+    	culture = boer
+    	religion = protestant
+    	size = 1
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 3
+    	culture = boer
+    	religion = protestant
+    	size = 3
     }
 
     soldiers = {
-        culture = boer
-        religion = protestant
-        size = 6
+    	culture = boer
+    	religion = protestant
+    	size = 6
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
-        size = 40
+    	culture = boer
+    	religion = protestant
+    	size = 40
     }
 
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 50
+    	culture = khoikhoi
+    	religion = animist
+    	size = 125
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 75
+    	culture = khoikhoi
+    	religion = animist
+    	size = 125
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 150
+    	culture = khoikhoi
+    	religion = animist
+    	size = 325
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 25
+    	culture = khoikhoi
+    	religion = animist
+    	size = 75
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 4700
-    }
-
-    aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 75
-    }
-
-    clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 50
-    }
-
-    artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 175
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 50
-    }
-
-    farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 1750
+    	culture = khoikhoi
+    	religion = animist
+    	size = 6450
     }
 }
 #Natal Region (682000)
@@ -5277,224 +1286,164 @@
 #Durban (126000/31500 POPS)
 2111 = {
     clergymen = {
-        culture = boer
-        religion = protestant
-        size = 5
+    	culture = boer
+    	religion = protestant
+    	size = 5
     }
 
     artisans = {
-        culture = boer
-        religion = protestant
-        size = 25
+    	culture = boer
+    	religion = protestant
+    	size = 25
     }
 
     soldiers = {
-        culture = boer
-        religion = protestant
-        size = 50
+    	culture = boer
+    	religion = protestant
+    	size = 50
     }
 
     farmers = {
-        culture = boer
-        religion = protestant
-        size = 420
+    	culture = boer
+    	religion = protestant
+    	size = 420
     }
 
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 150
+    	culture = khoikhoi
+    	religion = animist
+    	size = 575
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 75
+    	culture = khoikhoi
+    	religion = animist
+    	size = 300
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 400
+    	culture = khoikhoi
+    	religion = animist
+    	size = 1450
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 75
+    	culture = khoikhoi
+    	religion = animist
+    	size = 325
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 7275
-    }
-
-    aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 425
-    }
-
-    clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 225
-    }
-
-    artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 1050
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 250
-    }
-
-    farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 21050
+    	culture = khoikhoi
+    	religion = animist
+    	size = 28325
     }
 }
 #Ladysmith (156000/39000 POPS)
 2112 = {
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 750
+    	culture = khoikhoi
+    	religion = animist
+    	size = 750
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 400
+    	culture = khoikhoi
+    	religion = animist
+    	size = 400
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 1950
+    	culture = khoikhoi
+    	religion = animist
+    	size = 1950
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 7000
+    	culture = khoikhoi
+    	religion = animist
+    	size = 7000
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 28900
+    	culture = khoikhoi
+    	religion = animist
+    	size = 28900
     }
 }
 #Ulundi (320000/80000 POPS)
 2113 = {
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 1550
+    	culture = khoikhoi
+    	religion = animist
+    	size = 1550
     }
 
     bureaucrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 25
+    	culture = khoikhoi
+    	religion = animist
+    	size = 25
     }
 
     officers = {
-        culture = khoikhoi
-        religion = animist
-        size = 150
+    	culture = khoikhoi
+    	religion = animist
+    	size = 150
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 825
+    	culture = khoikhoi
+    	religion = animist
+    	size = 825
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 4000
+    	culture = khoikhoi
+    	religion = animist
+    	size = 4000
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 16000
+    	culture = khoikhoi
+    	religion = animist
+    	size = 16000
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 57450
+    	culture = khoikhoi
+    	religion = animist
+    	size = 57450
     }
 }
 #Mbabane (80000/20000 POPS)  #now Swaziland
 2114 = {
     aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 125
+    	culture = khoikhoi
+    	religion = animist
+    	size = 375
     }
 
     clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 75
+    	culture = khoikhoi
+    	religion = animist
+    	size = 200
     }
 
     artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 350
+    	culture = khoikhoi
+    	religion = animist
+    	size = 1000
     }
 
     soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 75
+    	culture = khoikhoi
+    	religion = animist
+    	size = 200
     }
 
     farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 6375
-    }
-
-    aristocrats = {
-        culture = khoikhoi
-        religion = animist
-        size = 250
-    }
-
-    clergymen = {
-        culture = khoikhoi
-        religion = animist
-        size = 125
-    }
-
-    artisans = {
-        culture = khoikhoi
-        religion = animist
-        size = 650
-    }
-
-    soldiers = {
-        culture = khoikhoi
-        religion = animist
-        size = 125
-    }
-
-    farmers = {
-        culture = khoikhoi
-        religion = animist
-        size = 11850
+    	culture = khoikhoi
+    	religion = animist
+    	size = 18225
     }
 }
