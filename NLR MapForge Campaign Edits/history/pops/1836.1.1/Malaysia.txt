@@ -4,15 +4,15 @@
 #Singapore (36000/9000 POPS)
 1384 = {
     clergymen = {
-        culture = malay
-        religion = mahayana
+        culture = british
+        religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = malay
-        religion = mahayana
-        size = 2450
+        culture = british
+        religion = protestant
+        size = 1450
     }
 
     farmers = {
@@ -22,21 +22,21 @@
     }
 
     clergymen = {
-        culture = malay
-        religion = sunni
+        culture = british
+        religion = protestant
         size = 50
     }
 
     artisans = {
-        culture = malay
-        religion = sunni
+        culture = british
+        religion = protestant
         size = 250
     }
 
     farmers = {
         culture = malay
         religion = sunni
-        size = 4700
+        size = 5700
     }
 
     artisans = {
@@ -66,13 +66,13 @@
     }
 
     aristocrats = {
-        culture = british
+        culture = malay
         religion = protestant
         size = 175
     }
 
     bureaucrats = {
-        culture = british
+        culture = malay
         religion = protestant
         size = 25
     }

@@ -4,9 +4,9 @@
 #Auckland (17000/4250 POPS)
 2509 = {
 	aristocrats = {
-		culture = polynesian
-		religion = animist
-		size = 50
+		culture = british
+		religion = protestant
+		size = 300
 	}
 
 	clergymen = {
@@ -31,12 +31,6 @@
 		culture = polynesian
 		religion = animist
 		size = 3575
-	}
-
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 250
 	}
 }
 #New Plymouth (8000/2000 POPS)

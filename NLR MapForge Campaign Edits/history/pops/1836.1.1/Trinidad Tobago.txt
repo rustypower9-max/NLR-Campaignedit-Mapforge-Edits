@@ -32,26 +32,26 @@
 		size = 25
 	}
 
-	farmers = {
+	soldiers = {
 		culture = british
 		religion = protestant
 		size = 410
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 750
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 100
 	}
@@ -59,7 +59,7 @@
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 9075
+		size = 10000
 	}
 }
 #Tobago (15000/3750 POPS)
@@ -82,26 +82,26 @@
 		size = 25
 	}
 
-	farmers = {
+	soldiers = {
 		culture = british
 		religion = protestant
 		size = 60
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 150
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 50
 	}
@@ -109,7 +109,7 @@
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 3400
+		size = 3650
 	}
 
 }

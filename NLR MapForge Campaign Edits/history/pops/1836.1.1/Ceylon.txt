@@ -153,67 +153,67 @@
 	}
 
 	aristocrats = {
-		culture = malay
+		culture = mashriqi
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = malay
+		culture = mashriqi
 		religion = sunni
 		size = 25
 	}
 
 	artisans = {
-		culture = malay
+		culture = mashriqi
 		religion = sunni
 		size = 1100
 	}
 
 	soldiers = {
-		culture = malay
+		culture = mashriqi
 		religion = sunni
 		size = 50
 	}
 
 	farmers = {
-		culture = malay
+		culture = mashriqi
 		religion = sunni
 		size = 1900
 	}
 
 	aristocrats = {
-		culture = british
+		culture = mashriqi
 		religion = protestant
 		size = 25
 	}
 
 	bureaucrats = {
-		culture = british
+		culture = mashriqi
 		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = british
+		culture = mashriqi
 		religion = protestant
 		size = 50
 	}
 
 	artisans = {
-		culture = british
+		culture = mashriqi
 		religion = protestant
 		size = 1100
 	}
 
 	soldiers = {
-		culture = british
+		culture = mashriqi
 		religion = protestant
 		size = 100
 	}
 
 	farmers = {
-		culture = british
+		culture = mashriqi
 		religion = protestant
 		size = 675
 	}
@@ -447,31 +447,31 @@
 	}
 
 	aristocrats = {
-		culture = mashriqi
+		culture = malay
 		religion = sunni
 		size = 25
 	}
 
 	clergymen = {
-		culture = mashriqi
+		culture = malay
 		religion = sunni
 		size = 50
 	}
 
 	artisans = {
-		culture = mashriqi
+		culture = malay
 		religion = sunni
 		size = 750
 	}
 
 	soldiers = {
-		culture = mashriqi
+		culture = malay
 		religion = sunni
 		size = 25
 	}
 
 	labourers = {
-		culture = mashriqi
+		culture = malay
 		religion = sunni
 		size = 2150
 	}

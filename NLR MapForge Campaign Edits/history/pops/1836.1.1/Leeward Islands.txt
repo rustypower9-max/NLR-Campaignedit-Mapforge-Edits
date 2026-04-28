@@ -23,7 +23,7 @@
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 200
+		size = 400
 	}
 
 	soldiers = {
@@ -32,26 +32,20 @@
 		size = 10
 	}
 
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 200
-	}
-
 	clergymen = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 150
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 50
 	}
@@ -59,7 +53,7 @@
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 5470
+		size = 5655
 	}
 }
 #Montserrat (5300/1325 POPS) #still British Colony
@@ -79,29 +73,23 @@
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 30
-	}
-
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 30
+		size = 60
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 15
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 45
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 10
 	}
@@ -109,7 +97,7 @@
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 1380
+		size = 1450
 	}
 }
 #Tortola (4800/1200 POPS) #still British Colony
@@ -129,29 +117,23 @@
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 40
-	}
-
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 40
+		size = 80
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 15
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 35
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 10
 	}
@@ -159,7 +141,7 @@
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 1040
+		size = 1100
 	}
 }
 #Saint Kitts (26500/6625 POPS) #now independent
@@ -188,26 +170,26 @@
 		size = 50
 	}
 
-	farmers = {
+	artisans = {
 		culture = british
 		religion = protestant
 		size = 260
 	}
 
 	clergymen = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 75
 	}
 
 	artisans = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 150
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 75
 	}
@@ -215,7 +197,7 @@
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 5900
+		size = 6200
 	}
 
 }
