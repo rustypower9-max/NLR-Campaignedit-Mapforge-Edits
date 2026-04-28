@@ -2,7 +2,6 @@ owner = EIC
 controller = EIC
 add_core = EIC
 add_core = HND
-add_core = MUG
 trade_goods = dye
 life_rating = 35
 fort = 1

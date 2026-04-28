@@ -63,7 +63,7 @@ army = {
 
 army = {
 	name = "The 2nd Army of His Imperial Majesty"
-	location = 1236
+	location = 1241
 	regiment = {
 		name= "1st Pampat Infantry"
 		type = infantry
