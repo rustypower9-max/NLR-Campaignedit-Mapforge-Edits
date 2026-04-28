@@ -15,15 +15,10 @@ political_decisions = {
 		}
 		effect = {
 			KAL_1221 = { add_core = THIS }
-			}
 			AFG_1214 = { add_core = THIS }
-			}
 			AFG_1217 = { add_core = THIS }
-			}
 			RUS_1196 = { add_core = THIS }
-			}
             TUR_923 = { add_core = THIS }
-			}
             add_accepted_culture = kurdish
             add_accepted_culture = mashriqi
 			set_country_flag = restored_persian_empire
