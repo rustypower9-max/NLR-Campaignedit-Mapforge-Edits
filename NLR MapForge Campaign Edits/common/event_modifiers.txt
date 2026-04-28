@@ -22,6 +22,10 @@ recent_andalucian_uprising = {
 	icon = 20
 }
 
+sizing_cooldown = {
+	icon = 10
+}
+
 recent_financial_stimulus = {
 factory_throughput = 0.25
 ruling_party_support = 0.25
