@@ -35,13 +35,13 @@
 	artisans = {
 		culture = filipino
 		religion = catholic
-		size = 14000
+		size = 20000
 	}
 
 	artisans = {
 		culture = filipino
 		religion = catholic
-		size = 14000
+		size = 8000
 	}
 
 	soldiers = {
@@ -151,7 +151,6 @@
 		religion = catholic
 		size = 49900
 	}
-
 }
 #Visayas Region (1044000 POPS)
 #under rule of Spain 1836
@@ -411,5 +410,4 @@
 		religion = sunni
 		size = 9825
 	}
-
 }

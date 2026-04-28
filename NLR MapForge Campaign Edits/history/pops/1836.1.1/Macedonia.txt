@@ -203,5 +203,4 @@
 		religion = jewish
 		size = 975
 	}
-
 }

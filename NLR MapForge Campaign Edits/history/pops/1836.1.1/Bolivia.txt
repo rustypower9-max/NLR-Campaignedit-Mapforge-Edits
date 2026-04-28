@@ -23,73 +23,25 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 650
+		size = 975
 	}
 
 	artisans = {
 		culture = andean
 		religion = catholic
-		size = 5825
+		size = 8500
 	}
 
 	soldiers = {
 		culture = andean
 		religion = catholic
-		size = 1100
+		size = 2225
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 18000
-	}
-
-	clergymen = {
-		culture = andean
-		religion = catholic
-		size = 300
-	}
-
-	artisans = {
-		culture = andean
-		religion = catholic
-		size = 2525
-	}
-
-	soldiers = {
-		culture = andean
-		religion = catholic
-		size = 1075
-	}
-
-	farmers = {
-		culture = andean
-		religion = catholic
-		size = 63100
-	}
-
-	clergymen = {
-		culture = andean
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = andean
-		religion = catholic
-		size = 150
-	}
-
-	soldiers = {
-		culture = andean
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = andean
-		religion = catholic
-		size = 2775
+		size = 83875
 	}
 }
 #Cochabamba (352000/88000 POPS)
@@ -103,49 +55,25 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 550
+		size = 850
 	}
 
 	artisans = {
 		culture = andean
 		religion = catholic
-		size = 1150
+		size = 4400
 	}
 
 	soldiers = {
 		culture = andean
 		religion = catholic
-		size = 1100
+		size = 2200
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 18600
-	}
-
-	clergymen = {
-		culture = andean
-		religion = catholic
-		size = 300
-	}
-
-	artisans = {
-		culture = andean
-		religion = catholic
-		size = 3250
-	}
-
-	soldiers = {
-		culture = andean
-		religion = catholic
-		size = 1100
-	}
-
-	farmers = {
-		culture = andean
-		religion = catholic
-		size = 60400
+		size = 79000
 	}
 }
 #Oruro (40000/10000 POPS)
@@ -159,49 +87,25 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 50
+		size = 125
 	}
 
 	artisans = {
 		culture = andean
 		religion = catholic
-		size = 150
+		size = 500
 	}
 
 	soldiers = {
 		culture = andean
 		religion = catholic
-		size = 50
+		size = 125
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 2525
-	}
-
-	clergymen = {
-		culture = andean
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = andean
-		religion = catholic
-		size = 350
-	}
-
-	soldiers = {
-		culture = andean
-		religion = catholic
-		size = 75
-	}
-
-	farmers = {
-		culture = andean
-		religion = catholic
-		size = 6500
+		size = 9025
 	}
 }
 #Chuquisaca Region (288000)
@@ -229,49 +133,25 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 175
+		size = 300
 	}
 
 	artisans = {
 		culture = andean
 		religion = catholic
-		size = 250
+		size = 1450
 	}
 
 	soldiers = {
 		culture = andean
 		religion = catholic
-		size = 50
+		size = 1100
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 3825
-	}
-
-	clergymen = {
-		culture = andean
-		religion = catholic
-		size = 125
-	}
-
-	artisans = {
-		culture = andean
-		religion = catholic
-		size = 1200
-	}
-
-	soldiers = {
-		culture = andean
-		religion = catholic
-		size = 1050
-	}
-
-	farmers = {
-		culture = andean
-		religion = catholic
-		size = 23325
+		size = 27150
 	}
 }
 #Potosi (120000/30000 POPS)
@@ -285,49 +165,25 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 150
-	}
-
-	artisans = {
-		culture = andean
-		religion = catholic
-		size = 150
-	}
-
-	soldiers = {
-		culture = andean
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = andean
-		religion = catholic
-		size = 2050
-	}
-
-	clergymen = {
-		culture = andean
-		religion = catholic
-		size = 125
-	}
-
-	artisans = {
-		culture = andean
-		religion = catholic
-		size = 1350
-	}
-
-	soldiers = {
-		culture = andean
-		religion = catholic
 		size = 275
 	}
 
+	artisans = {
+		culture = andean
+		religion = catholic
+		size = 1500
+	}
+
+	soldiers = {
+		culture = andean
+		religion = catholic
+		size = 300
+	}
+
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 25250
+		size = 27300
 	}
 }
 #Tarija (52000/13000 POPS)
@@ -341,49 +197,25 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = andean
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = andean
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = andean
-		religion = catholic
-		size = 575
-	}
-
-	clergymen = {
-		culture = andean
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = andean
-		religion = catholic
-		size = 600
-	}
-
-	soldiers = {
-		culture = andean
-		religion = catholic
 		size = 125
 	}
 
+	artisans = {
+		culture = andean
+		religion = catholic
+		size = 650
+	}
+
+	soldiers = {
+		culture = andean
+		religion = catholic
+		size = 150
+	}
+
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 11225
+		size = 11800
 	}
 }
 #Santa Cruz Region (48000)
@@ -391,155 +223,95 @@
 #Santa Cruz (16000/4000 POPS)
 2316 = {
 	aristocrats = {
-		culture = andean
-		religion = catholic
+		culture = platinean
+		religion = animist
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = andean
-		religion = catholic
+		culture = platinean
+		religion = animist
 		size = 5
 	}
 
 	officers = {
-		culture = andean
-		religion = catholic
+		culture = platinean
+		religion = animist
 		size = 10
 	}
 
 	clergymen = {
-		culture = andean
-		religion = catholic
+		culture = platinean
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = platinean
+		religion = animist
+		size = 200
+	}
+
+	soldiers = {
+		culture = platinean
+		religion = animist
 		size = 75
 	}
 
-	artisans = {
-		culture = andean
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = andean
-		religion = catholic
-		size = 25
-	}
-
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 735
-	}
-
-	clergymen = {
-		culture = platinean
-		religion = animist
-		size = 25
-	}
-
-	artisans = {
-		culture = platinean
-		religion = animist
-		size = 150
-	}
-
-	soldiers = {
-		culture = platinean
-		religion = animist
-		size = 50
+		size = 1000
 	}
 
 	farmers = {
 		culture = platinean
 		religion = animist
-		size = 2775
+		size = 2510
 	}
 }
 #San Ignacio (20000/5000 POPS)
 2317 = {
 	clergymen = {
-		culture = andean
-		religion = catholic
-		size = 25
+		culture = amazonian
+		religion = animist
+		size = 125
 	}
 
 	artisans = {
-		culture = andean
-		religion = catholic
-		size = 50
+		culture = amazonian
+		religion = animist
+		size = 250
 	}
 
 	soldiers = {
-		culture = andean
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = andean
-		religion = catholic
-		size = 900
+		culture = amazonian
+		religion = animist
+		size = 75
 	}
 
 	aristocrats = {
 		culture = amazonian
 		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = amazonian
-		religion = animist
 		size = 50
-	}
-
-	artisans = {
-		culture = amazonian
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = amazonian
-		religion = animist
-		size = 25
 	}
 
 	farmers = {
-		culture = amazonian
-		religion = animist
-		size = 1800
-	}
-
-	aristocrats = {
-		culture = platinean
-		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = platinean
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = platinean
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = platinean
-		religion = animist
-		size = 25
+		culture = andean
+		religion = catholic
+		size = 1000
 	}
 
 	farmers = {
 		culture = platinean
 		religion = animist
-		size = 1800
+		size = 2000
+	}
+
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 1500
 	}
 }
 #Robore (12000/3000 POPS)
@@ -581,7 +353,7 @@
 	aristocrats = {
 		culture = andean
 		religion = catholic
-		size = 275
+		size = 375
 	}
 
 	bureaucrats = {
@@ -599,79 +371,31 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 75
+		size = 175
 	}
 
 	artisans = {
 		culture = andean
 		religion = catholic
-		size = 150
+		size = 950
 	}
 
 	soldiers = {
 		culture = andean
 		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = andean
-		religion = catholic
-		size = 2400
-	}
-
-	clergymen = {
-		culture = andean
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = andean
-		religion = catholic
-		size = 500
-	}
-
-	soldiers = {
-		culture = andean
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = andean
-		religion = catholic
-		size = 9350
-	}
-
-	aristocrats = {
-		culture = amazonian
-		religion = animist
-		size = 100
-	}
-
-	clergymen = {
-		culture = amazonian
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = amazonian
-		religion = animist
-		size = 300
-	}
-
-	soldiers = {
-		culture = amazonian
-		religion = animist
-		size = 75
+		size = 225
 	}
 
 	farmers = {
 		culture = amazonian
 		religion = animist
-		size = 5475
+		size = 6000
+	}
+
+	farmers = {
+		culture = andean
+		religion = catholic
+		size = 11225
 	}
 }
 #Riberalta (12000/3000 POPS)
@@ -711,85 +435,36 @@
 	aristocrats = {
 		culture = andean
 		religion = catholic
+		size = 150
+	}
+
+	clergymen = {
+		culture = andean
+		religion = catholic
+		size = 150
+	}
+
+	artisans = {
+		culture = andean
+		religion = catholic
+		size = 350
+	}
+
+	soldiers = {
+		culture = andean
+		religion = catholic
 		size = 100
 	}
 
-	clergymen = {
-		culture = andean
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = andean
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = andean
-		religion = catholic
-		size = 25
+	farmers = {
+		culture = amazonian
+		religion = animist
+		size = 3000
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 775
+		size = 3250
 	}
-
-	clergymen = {
-		culture = andean
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = andean
-		religion = catholic
-		size = 150
-	}
-
-	soldiers = {
-		culture = andean
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = andean
-		religion = catholic
-		size = 2775
-	}
-
-	aristocrats = {
-		culture = amazonian
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = amazonian
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = amazonian
-		religion = animist
-		size = 150
-	}
-
-	soldiers = {
-		culture = amazonian
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = amazonian
-		religion = animist
-		size = 2700
-	}
-
 }

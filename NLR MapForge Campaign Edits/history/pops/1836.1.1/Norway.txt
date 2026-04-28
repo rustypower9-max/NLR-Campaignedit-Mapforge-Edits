@@ -132,7 +132,6 @@
 		religion = protestant
 		size = 16825
 	}
-
 }
 #Jan Mayen (2060/515 POPS)
 3246 = {
@@ -259,7 +258,6 @@
 		religion = protestant
 		size = 31125
 	}
-
 }
 #Ostlandet Region - 352000
 #Christiania (228000/57000 POPS)
@@ -377,5 +375,4 @@
 		religion = protestant
 		size = 26025
 	}
-
 }

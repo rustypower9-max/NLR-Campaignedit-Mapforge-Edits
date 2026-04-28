@@ -89,79 +89,37 @@
 	clergymen = {
 		culture = platinean
 		religion = catholic
-		size = 775
+		size = 950
 	}
 
 	artisans = {
 		culture = platinean
 		religion = catholic
-		size = 3200
+		size = 4650
 	}
 
 	soldiers = {
 		culture = platinean
 		religion = catholic
-		size = 1100
-	}
-
-	farmers = {
-		culture = platinean
-		religion = catholic
-		size = 56825
-	}
-
-	clergymen = {
-		culture = platinean
-		religion = catholic
-		size = 125
-	}
-
-	artisans = {
-		culture = platinean
-		religion = catholic
-		size = 1200
-	}
-
-	soldiers = {
-		culture = platinean
-		religion = catholic
-		size = 250
-	}
-
-	farmers = {
-		culture = platinean
-		religion = catholic
-		size = 22425
-	}
-
-	clergymen = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 250
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 3150
+		size = 1400
 	}
 
 	slaves = {
-		culture = afro_caribeno
+		culture = platinean
 		religion = catholic
 		size = 1500
+	}
+
+	farmers = {
+		culture = afro_caribeno
+		religion = catholic
+		size = 5000
+	}
+
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 77400
 	}
 }
 #Pilar (68000/17000 POPS)
@@ -175,73 +133,25 @@
 	clergymen = {
 		culture = platinean
 		religion = catholic
-		size = 100
+		size = 175
 	}
 
 	artisans = {
 		culture = platinean
 		religion = catholic
-		size = 200
+		size = 850
 	}
 
 	soldiers = {
 		culture = platinean
 		religion = catholic
-		size = 50
+		size = 190
 	}
 
 	farmers = {
 		culture = platinean
 		religion = catholic
-		size = 3300
-	}
-
-	clergymen = {
-		culture = platinean
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = platinean
-		religion = catholic
-		size = 600
-	}
-
-	soldiers = {
-		culture = platinean
-		religion = catholic
-		size = 125
-	}
-
-	farmers = {
-		culture = platinean
-		religion = catholic
-		size = 11225
-	}
-
-	clergymen = {
-		culture = platinean
-		religion = animist
-		size = 25
-	}
-
-	artisans = {
-		culture = platinean
-		religion = animist
-		size = 50
-	}
-
-	soldiers = {
-		culture = platinean
-		religion = animist
-		size = 15
-	}
-
-	farmers = {
-		culture = platinean
-		religion = animist
-		size = 910
+		size = 15435
 	}
 }
 #Encarnacion (100000/25000 POPS)
@@ -255,73 +165,25 @@
 	clergymen = {
 		culture = platinean
 		religion = catholic
-		size = 125
+		size = 250
 	}
 
 	artisans = {
 		culture = platinean
 		religion = catholic
-		size = 200
+		size = 1350
 	}
 
 	soldiers = {
 		culture = platinean
 		religion = catholic
-		size = 50
+		size = 1165
 	}
 
 	farmers = {
 		culture = platinean
 		religion = catholic
-		size = 3125
-	}
-
-	clergymen = {
-		culture = platinean
-		religion = catholic
-		size = 100
-	}
-
-	artisans = {
-		culture = platinean
-		religion = catholic
-		size = 1100
-	}
-
-	soldiers = {
-		culture = platinean
-		religion = catholic
-		size = 1100
-	}
-
-	farmers = {
-		culture = platinean
-		religion = catholic
-		size = 19300
-	}
-
-	clergymen = {
-		culture = platinean
-		religion = animist
-		size = 25
-	}
-
-	artisans = {
-		culture = platinean
-		religion = animist
-		size = 50
-	}
-
-	soldiers = {
-		culture = platinean
-		religion = animist
-		size = 15
-	}
-
-	farmers = {
-		culture = platinean
-		religion = animist
-		size = 910
+		size = 23335
 	}
 }
 #San Pedro (84000/21000 POPS)
@@ -335,7 +197,33 @@
 	clergymen = {
 		culture = platinean
 		religion = catholic
-		size = 125
+		size = 225
+	}
+
+	artisans = {
+		culture = platinean
+		religion = catholic
+		size = 1050
+	}
+
+	soldiers = {
+		culture = platinean
+		religion = catholic
+		size = 1165
+	}
+
+	farmers = {
+		culture = platinean
+		religion = catholic
+		size = 18235
+	}
+}
+#Concepcion (16000/4000 POPS)
+2343 = {
+	clergymen = {
+		culture = platinean
+		religion = catholic
+		size = 100
 	}
 
 	artisans = {
@@ -350,114 +238,15 @@
 		size = 50
 	}
 
-	farmers = {
-		culture = platinean
-		religion = catholic
-		size = 3200
-	}
-
-	clergymen = {
-		culture = platinean
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = platinean
-		religion = catholic
-		size = 800
-	}
-
-	soldiers = {
-		culture = platinean
-		religion = catholic
-		size = 1100
-	}
-
-	farmers = {
-		culture = platinean
-		religion = catholic
-		size = 14125
-	}
-
-	clergymen = {
-		culture = platinean
-		religion = animist
-		size = 25
-	}
-
-	artisans = {
-		culture = platinean
-		religion = animist
-		size = 50
-	}
-
-	soldiers = {
-		culture = platinean
-		religion = animist
-		size = 15
-	}
-
-	farmers = {
-		culture = platinean
-		religion = animist
-		size = 910
-	}
-}
-#Concepcion (16000/4000 POPS)
-2343 = {
-	clergymen = {
-		culture = platinean
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = platinean
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = platinean
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = platinean
-		religion = catholic
-		size = 900
-	}
-
 	aristocrats = {
 		culture = platinean
 		religion = animist
 		size = 50
 	}
 
-	clergymen = {
-		culture = platinean
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = platinean
-		religion = animist
-		size = 150
-	}
-
-	soldiers = {
-		culture = platinean
-		religion = animist
-		size = 25
-	}
-
 	farmers = {
 		culture = platinean
-		religion = animist
-		size = 2700
+		religion = catholic
+		size = 3600
 	}
-
 }

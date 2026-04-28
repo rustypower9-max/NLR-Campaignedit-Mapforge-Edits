@@ -38,16 +38,16 @@
 		size = 825
 	}
 
-	farmers = {
-		culture = bantoid
-		religion = animist
-		size = 61225
-	}
-
 	slaves = {
 		culture = bantoid
 		religion = animist
 		size = 14000
+	}
+
+	farmers = {
+		culture = bantoid
+		religion = animist
+		size = 61225
 	}
 }
 #Buea (224000/56000 POPS)
@@ -76,16 +76,16 @@
 		size = 550
 	}
 
-	farmers = {
-		culture = bantoid
-		religion = animist
-		size = 39575
-	}
-
 	slaves = {
 		culture = bantoid
 		religion = animist
 		size = 12000
+	}
+
+	farmers = {
+		culture = bantoid
+		religion = animist
+		size = 39575
 	}
 }
 #Kribi (176000/44000 POPS)
@@ -93,73 +93,37 @@
 	aristocrats = {
 		culture = bantoid
 		religion = animist
-		size = 500
+		size = 825
 	}
 
 	clergymen = {
 		culture = bantoid
 		religion = animist
-		size = 250
+		size = 425
 	}
 
 	artisans = {
 		culture = bantoid
 		religion = animist
-		size = 1050
+		size = 1775
 	}
 
 	soldiers = {
 		culture = bantoid
 		religion = animist
-		size = 275
-	}
-
-	farmers = {
-		culture = bantoid
-		religion = animist
-		size = 20925
+		size = 450
 	}
 
 	slaves = {
 		culture = bantoid
 		religion = animist
-		size = 3000
-	}
-
-	aristocrats = {
-		culture = bantoid
-		religion = animist
-		size = 325
-	}
-
-	clergymen = {
-		culture = bantoid
-		religion = animist
-		size = 175
-	}
-
-	artisans = {
-		culture = bantoid
-		religion = animist
-		size = 725
-	}
-
-	soldiers = {
-		culture = bantoid
-		religion = animist
-		size = 175
+		size = 8000
 	}
 
 	farmers = {
 		culture = bantoid
 		religion = animist
-		size = 11600
-	}
-
-	slaves = {
-		culture = bantoid
-		religion = animist
-		size = 5000
+		size = 32525
 	}
 }
 #Sanaga-Kadei Region (940000)
@@ -169,73 +133,37 @@
 	aristocrats = {
 		culture = bantoid
 		religion = animist
-		size = 525
+		size = 1675
 	}
 
 	clergymen = {
 		culture = bantoid
 		religion = animist
-		size = 275
+		size = 850
 	}
 
 	artisans = {
 		culture = bantoid
 		religion = animist
-		size = 1125
+		size = 3450
 	}
 
 	soldiers = {
 		culture = bantoid
 		religion = animist
-		size = 275
-	}
-
-	farmers = {
-		culture = bantoid
-		religion = animist
-		size = 16800
+		size = 875
 	}
 
 	slaves = {
 		culture = bantoid
 		religion = animist
-		size = 9000
-	}
-
-	aristocrats = {
-		culture = bantoid
-		religion = animist
-		size = 1150
-	}
-
-	clergymen = {
-		culture = bantoid
-		religion = animist
-		size = 575
-	}
-
-	artisans = {
-		culture = bantoid
-		religion = animist
-		size = 2325
-	}
-
-	soldiers = {
-		culture = bantoid
-		religion = animist
-		size = 600
+		size = 23000
 	}
 
 	farmers = {
 		culture = bantoid
 		religion = animist
-		size = 39350
-	}
-
-	slaves = {
-		culture = bantoid
-		religion = animist
-		size = 14000
+		size = 56150
 	}
 }
 #Bafoussam (276000/69000 POPS)
@@ -264,16 +192,16 @@
 		size = 700
 	}
 
-	farmers = {
-		culture = bantoid
-		religion = animist
-		size = 44450
-	}
-
 	slaves = {
 		culture = bantoid
 		religion = animist
 		size = 19000
+	}
+
+	farmers = {
+		culture = bantoid
+		religion = animist
+		size = 44450
 	}
 }
 #Bertoua (320000/80000 POPS)
@@ -281,73 +209,37 @@
 	aristocrats = {
 		culture = bantoid
 		religion = animist
-		size = 1225
+		size = 1550
 	}
 
 	clergymen = {
 		culture = bantoid
 		religion = animist
-		size = 625
+		size = 800
 	}
 
 	artisans = {
 		culture = bantoid
 		religion = animist
-		size = 2500
+		size = 3225
 	}
 
 	soldiers = {
 		culture = bantoid
 		religion = animist
-		size = 625
-	}
-
-	farmers = {
-		culture = bantoid
-		religion = animist
-		size = 34025
+		size = 800
 	}
 
 	slaves = {
 		culture = bantoid
 		religion = animist
-		size = 17000
-	}
-
-	aristocrats = {
-		culture = bantoid
-		religion = animist
-		size = 325
-	}
-
-	clergymen = {
-		culture = bantoid
-		religion = animist
-		size = 175
-	}
-
-	artisans = {
-		culture = bantoid
-		religion = animist
-		size = 725
-	}
-
-	soldiers = {
-		culture = bantoid
-		religion = animist
-		size = 175
+		size = 23000
 	}
 
 	farmers = {
 		culture = bantoid
 		religion = animist
-		size = 10600
-	}
-
-	slaves = {
-		culture = bantoid
-		religion = animist
-		size = 6000
+		size = 44625
 	}
 }
 #Kwararafa Region (372000) #see Nigeria.txt for balance of region   
@@ -378,16 +270,16 @@
 		size = 950
 	}
 
-	farmers = {
-		culture = bantoid
-		religion = animist
-		size = 63575
-	}
-
 	slaves = {
 		culture = bantoid
 		religion = animist
 		size = 22000
+	}
+
+	farmers = {
+		culture = bantoid
+		religion = animist
+		size = 63575
 	}
 }
 #Adamawa Region (268000) #see Nigeria.txt for balance of region   
@@ -397,7 +289,7 @@
 	aristocrats = {
 		culture = bantoid
 		religion = sunni
-		size = 500
+		size = 775
 	}
 
 	bureaucrats = {
@@ -415,61 +307,31 @@
 	clergymen = {
 		culture = bantoid
 		religion = sunni
-		size = 250
+		size = 400
 	}
 
 	artisans = {
 		culture = bantoid
 		religion = sunni
-		size = 1050
+		size = 1625
 	}
 
 	soldiers = {
 		culture = bantoid
 		religion = sunni
-		size = 275
-	}
-
-	farmers = {
-		culture = bantoid
-		religion = sunni
-		size = 19825
-	}
-
-	aristocrats = {
-		culture = bantoid
-		religion = animist
-		size = 275
-	}
-
-	clergymen = {
-		culture = bantoid
-		religion = animist
-		size = 150
-	}
-
-	artisans = {
-		culture = bantoid
-		religion = animist
-		size = 575
-	}
-
-	soldiers = {
-		culture = bantoid
-		religion = animist
-		size = 150
-	}
-
-	farmers = {
-		culture = bantoid
-		religion = animist
-		size = 12850
+		size = 425
 	}
 
 	slaves = {
 		culture = bantoid
 		religion = animist
 		size = 4000
+	}
+
+	farmers = {
+		culture = bantoid
+		religion = sunni
+		size = 32675
 	}
 }
 #uncolonized/under the rule of Borno 1836
@@ -478,121 +340,25 @@
 	aristocrats = {
 		culture = bantoid
 		religion = sunni
-		size = 175
+		size = 475
 	}
 
 	clergymen = {
 		culture = bantoid
 		religion = sunni
-		size = 200
+		size = 400
 	}
 
 	artisans = {
 		culture = bantoid
 		religion = sunni
-		size = 175
+		size = 1075
 	}
 
 	soldiers = {
 		culture = bantoid
 		religion = sunni
-		size = 100
-	}
-
-	farmers = {
-		culture = bantoid
-		religion = sunni
-		size = 5350
-	}
-
-	aristocrats = {
-		culture = bantoid
-		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
-		culture = bantoid
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = bantoid
-		religion = sunni
-		size = 200
-	}
-
-	soldiers = {
-		culture = bantoid
-		religion = sunni
-		size = 50
-	}
-
-	farmers = {
-		culture = bantoid
-		religion = sunni
-		size = 3650
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 75
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 250
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 4575
-	}
-
-	aristocrats = {
-		culture = bantoid
-		religion = animist
-		size = 175
-	}
-
-	clergymen = {
-		culture = bantoid
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = bantoid
-		religion = animist
-		size = 450
-	}
-
-	soldiers = {
-		culture = bantoid
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = bantoid
-		religion = animist
-		size = 8275
+		size = 300
 	}
 
 	slaves = {
@@ -601,4 +367,15 @@
 		size = 3000
 	}
 
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 5000
+	}
+
+	farmers = {
+		culture = bantoid
+		religion = sunni
+		size = 16850
+	}
 }

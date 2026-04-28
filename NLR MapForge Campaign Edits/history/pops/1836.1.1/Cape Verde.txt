@@ -67,5 +67,4 @@
 		religion = catholic
 		size = 4000
 	}
-
 }

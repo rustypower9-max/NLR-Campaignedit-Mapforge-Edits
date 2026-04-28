@@ -761,13 +761,13 @@
 	aristocrats = {
 		culture = avadhi
 		religion = hindu
-		size = 650
+		size = 850
 	}
 
 	clergymen = {
 		culture = avadhi
 		religion = hindu
-		size = 700
+		size = 750
 	}
 
 	artisans = {
@@ -779,7 +779,7 @@
 	soldiers = {
 		culture = avadhi
 		religion = hindu
-		size = 850
+		size = 950
 	}
 
 	farmers = {
@@ -818,18 +818,6 @@
 		size = 70750
 	}
 
-	aristocrats = {
-		culture = avadhi
-		religion = protestant
-		size = 200
-	}
-
-	clergymen = {
-		culture = avadhi
-		religion = protestant
-		size = 50
-	}
-
 	bureaucrats = {
 		culture = avadhi
 		religion = protestant
@@ -840,12 +828,6 @@
 		culture = avadhi
 		religion = protestant
 		size = 50
-	}
-
-	soldiers = {
-		culture = avadhi
-		religion = protestant
-		size = 100
 	}
 }
 #United Provinces Region - 25884000
@@ -861,7 +843,7 @@
 	bureaucrats = {
 		culture = avadhi
 		religion = hindu
-		size = 1750
+		size = 1825
 	}
 
 	clergymen = {
@@ -922,12 +904,6 @@
 		culture = panjabi
 		religion = sunni
 		size = 204250
-	}
-
-	bureaucrats = {
-		culture = avadhi
-		religion = protestant
-		size = 75
 	}
 }
 #Panipat (1280000/320000 POPS)
@@ -2226,7 +2202,7 @@
 	bureaucrats = {
 		culture = telegu
 		religion = hindu
-		size = 250
+		size = 275
 	}
 
 	artisans = {
@@ -2251,12 +2227,6 @@
 		culture = bengali
 		religion = sunni
 		size = 1100
-	}
-
-	bureaucrats = {
-		culture = telegu
-		religion = protestant
-		size = 25
 	}
 }
 #Ruled by Native Rulers 1836 (644000)
@@ -2385,7 +2355,7 @@
 	bureaucrats = {
 		culture = rajput
 		religion = hindu
-		size = 50
+		size = 60
 	}
 
 	artisans = {
@@ -2434,12 +2404,6 @@
 		culture = avadhi
 		religion = sunni
 		size = 8325
-	}
-
-	bureaucrats = {
-		culture = rajput
-		religion = protestant
-		size = 10
 	}
 }
 #Under rule of Jaisalmer 1836  
@@ -3162,7 +3126,7 @@
 	bureaucrats = {
 		culture = marathi
 		religion = hindu
-		size = 850
+		size = 875
 	}
 
 	artisans = {
@@ -3217,12 +3181,6 @@
 		culture = avadhi
 		religion = sunni
 		size = 25950
-	}
-
-	bureaucrats = {
-		culture = marathi
-		religion = protestant
-		size = 25
 	}
 }
 #Hoshangabad (596000/149000 POPS)
@@ -4141,7 +4099,7 @@
 	bureaucrats = {
 		culture = rajput
 		religion = hindu
-		size = 350
+		size = 360
 	}
 
 	artisans = {
@@ -4196,12 +4154,6 @@
 		culture = sindi
 		religion = sunni
 		size = 20775
-	}
-
-	bureaucrats = {
-		culture = rajput
-		religion = protestant
-		size = 10
 	}
 }
 #Surat (1072000/268000 POPS) 
@@ -4559,7 +4511,7 @@
 	bureaucrats = {
 		culture = marathi
 		religion = hindu
-		size = 1500
+		size = 1750
 	}
 
 	artisans = {
@@ -4607,7 +4559,7 @@
 	clergymen = {
 		culture = sindi
 		religion = sunni
-		size = 1925
+		size = 2050
 	}
 
 	farmers = {
@@ -4618,8 +4570,8 @@
 
 	aristocrats = {
 		culture = sindi
-		religion = sunni
-		size = 500
+		religion = protestant
+		size = 1625
 	}
 
 	bureaucrats = {
@@ -4630,38 +4582,14 @@
 
 	soldiers = {
 		culture = sindi
-		religion = sunni
-		size = 1500
-	}
-
-	aristocrats = {
-		culture = sindi
 		religion = protestant
-		size = 1125
-	}
-
-	bureaucrats = {
-		culture = marathi
-		religion = protestant
-		size = 250
+		size = 4500
 	}
 
 	officers = {
 		culture = marathi
 		religion = protestant
 		size = 500
-	}
-
-	clergymen = {
-		culture = sindi
-		religion = protestant
-		size = 125
-	}
-
-	soldiers = {
-		culture = sindi
-		religion = protestant
-		size = 3000
 	}
 }
 #Nasik (796000/199000 POPS)
@@ -5014,7 +4942,7 @@
 	bureaucrats = {
 		culture = telegu
 		religion = hindu
-		size = 5000
+		size = 5075
 	}
 
 	clergymen = {
@@ -5039,12 +4967,6 @@
 		culture = telegu
 		religion = hindu
 		size = 284850
-	}
-
-	bureaucrats = {
-		culture = telegu
-		religion = protestant
-		size = 75
 	}
 }
 #Masulipatnam (1736000/434000 POPS)
@@ -5162,7 +5084,7 @@
 	bureaucrats = {
 		culture = tamil
 		religion = hindu
-		size = 2000
+		size = 2250
 	}
 
 	artisans = {
@@ -5191,14 +5113,14 @@
 
 	aristocrats = {
 		culture = telegu
-		religion = sunni
-		size = 1100
+		religion = protestant
+		size = 2475
 	}
 
 	clergymen = {
 		culture = telegu
 		religion = sunni
-		size = 1500
+		size = 1875
 	}
 
 	bureaucrats = {
@@ -5215,38 +5137,14 @@
 
 	soldiers = {
 		culture = telegu
-		religion = sunni
-		size = 1500
+		religion = protestant
+		size = 4500
 	}
 
 	farmers = {
 		culture = telegu
 		religion = sunni
 		size = 138500
-	}
-
-	aristocrats = {
-		culture = telegu
-		religion = protestant
-		size = 1375
-	}
-
-	clergymen = {
-		culture = telegu
-		religion = protestant
-		size = 375
-	}
-
-	bureaucrats = {
-		culture = tamil
-		religion = protestant
-		size = 250
-	}
-
-	soldiers = {
-		culture = telegu
-		religion = protestant
-		size = 3000
 	}
 }
 #Tanjore (1448000/362000 POPS)

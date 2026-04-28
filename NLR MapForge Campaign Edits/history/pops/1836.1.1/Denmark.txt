@@ -24,7 +24,6 @@
 		religion = protestant
 		size = 7350
 	}
-
 }
 #Jutland Region : 548000
 #Aarhus (248000/62000 POPS)
@@ -100,7 +99,7 @@
 	farmers = {
 		culture = danish
 		religion = protestant
-		size = 45000 #5k moved to 2557
+		size = 45000
 	}
 }
 #Ribe (148000/37000 POPS)
@@ -132,9 +131,8 @@
 	farmers = {
 		culture = danish
 		religion = protestant
-		size = 36000 #10k moved to 2557
+		size = 36000
 	}
-
 }
 
 # Esbjerg (Pops moved from Aalborg)
@@ -144,21 +142,25 @@
 		religion = protestant
 		size = 1650
 	}
+
 	clergymen = {
 		culture = danish
 		religion = protestant
 		size = 385
 	}
+
 	soldiers = {
 		culture = danish
 		religion = protestant
 		size = 375
 	}
+
 	aristocrats = {
 		culture = danish
 		religion = protestant
 		size = 375
 	}
+
 	farmers = {
 		culture = danish
 		religion = protestant
@@ -297,7 +299,6 @@
 		religion = protestant
 		size = 9825
 	}
-
 }
 #Archipelago Region : 616000
 #Copenhagen (392000/98000 POPS)
@@ -329,19 +330,13 @@
 	artisans = {
 		culture = danish
 		religion = protestant
-		size = 15000
+		size = 20000
 	}
 
 	artisans = {
 		culture = danish
 		religion = protestant
-		size = 15000
-	}
-
-	artisans = {
-		culture = danish
-		religion = protestant
-		size = 9000
+		size = 19000
 	}
 
 	soldiers = {
@@ -431,5 +426,4 @@
 		religion = protestant
 		size = 15250
 	}
-
 }

@@ -53,13 +53,7 @@
 	artisans = {
 		culture = caribeno
 		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = caribeno
-		religion = catholic
-		size = 4000
+		size = 14000
 	}
 
 	farmers = {
@@ -253,5 +247,4 @@
 		religion = catholic
 		size = 14000
 	}
-
 }

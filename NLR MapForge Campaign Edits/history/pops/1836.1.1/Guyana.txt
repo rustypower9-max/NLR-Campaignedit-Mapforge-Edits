@@ -3,63 +3,45 @@
 #Georgetown (58600/14650 POPS)
 2239 = {
 	aristocrats = {
-		culture = british
+		culture = afro_caribbean
 		religion = protestant
 		size = 100
 	}
 
 	bureaucrats = {
-		culture = british
+		culture = afro_caribbean
 		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 350
-	}
-
-	soldiers = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
-
-	farmers = {
-		culture = british
+		culture = afro_caribbean
 		religion = protestant
 		size = 100
 	}
 
-	clergymen = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 75
-	}
-
 	artisans = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 700
+		size = 1050
 	}
 
 	soldiers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 150
+		size = 175
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 650
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 13075
+		size = 12525
 	}
 }
 #Mahdia (4000/1000 POPS)
@@ -97,57 +79,39 @@
 #Essequibo (33000/8250 POPS)
 2243 = {
 	aristocrats = {
-		culture = british
+		culture = afro_caribbean
 		religion = protestant
 		size = 50
 	}
 
 	clergymen = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
-
-	artisans = {
-		culture = british
+		culture = afro_caribbean
 		religion = protestant
 		size = 100
 	}
 
-	soldiers = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
-
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 50
-	}
-
-	clergymen = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 75
-	}
-
 	artisans = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 300
+		size = 400
 	}
 
 	soldiers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 75
+		size = 100
+	}
+
+	farmers = {
+		culture = british
+		religion = protestant
+		size = 250
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 8550
+		size = 8350
 	}
 }
 #Biloka (4000/1000 POPS)
@@ -181,5 +145,4 @@
 		religion = animist
 		size = 900
 	}
-
 }

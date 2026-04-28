@@ -28,13 +28,7 @@
 	artisans = {
 		culture = picard
 		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = picard
-		religion = catholic
-		size = 6900
+		size = 16900
 	}
 
 	clerks = {
@@ -48,14 +42,14 @@
 		religion = catholic
 		size = 2000
 	}
-	
+
 	soldiers = {
 		culture = picard
 		religion = catholic
 		size = 10100
 	}
 
-	labourers = {
+	farmers = {
 		culture = picard
 		religion = catholic
 		size = 120000
@@ -86,7 +80,7 @@
 		religion = catholic
 		size = 1700
 	}
-	
+
 	soldiers = {
 		culture = picard
 		religion = catholic
@@ -172,13 +166,7 @@
 	artisans = {
 		culture = picard
 		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = picard
-		religion = catholic
-		size = 1100
+		size = 11100
 	}
 
 	soldiers = {
@@ -224,7 +212,6 @@
 		religion = catholic
 		size = 90250
 	}
-
 }
 #Ardennes Region (1116000)
 #Laon (528000/132000 POPS)
@@ -270,7 +257,7 @@
 		religion = catholic
 		size = 9000
 	}
-	
+
 	soldiers = {
 		culture = picard
 		religion = catholic
@@ -358,7 +345,7 @@
 		religion = catholic
 		size = 5000
 	}
-	
+
 	soldiers = {
 		culture = french
 		religion = catholic
@@ -370,7 +357,6 @@
 		religion = catholic
 		size = 69050
 	}
-
 }
 #Champagne Region (856000)
 #Troyes (252000/63000 POPS)
@@ -442,7 +428,7 @@
 		religion = catholic
 		size = 1000
 	}
-	
+
 	soldiers = {
 		culture = french
 		religion = catholic
@@ -486,7 +472,7 @@
 		religion = catholic
 		size = 5800
 	}
-	
+
 	soldiers = {
 		culture = french
 		religion = catholic
@@ -498,93 +484,50 @@
 		religion = catholic
 		size = 72500
 	}
-
 }
 #Alsace Region (976000 POPS)
 #Strasbourg (552000/138000 POPS)
 409 = {
 	aristocrats = {
 		culture = rhenish
-		religion = catholic
-		size = 300
+		religion = protestant
+		size = 700
 	}
 
 	officers = {
 		culture = rhenish
 		religion = catholic
-		size = 60
+		size = 120
 	}
 
 	bureaucrats = {
 		culture = rhenish
 		religion = catholic
-		size = 250
-	}
-
-	clergymen = {
-		culture = rhenish
-		religion = catholic
-		size = 375
-	}
-
-	artisans = {
-		culture = rhenish
-		religion = catholic
-		size = 5500
-	}
-
-	soldiers = {
-		culture = rhenish
-		religion = catholic
-		size = 350
-	}
-
-	farmers = {
-		culture = rhenish
-		religion = catholic
-		size = 36165
-	}
-
-	aristocrats = {
-		culture = rhenish
-		religion = protestant
-		size = 400
-	}
-
-	officers = {
-		culture = rhenish
-		religion = protestant
-		size = 60
-	}
-
-	bureaucrats = {
-		culture = rhenish
-		religion = protestant
-		size = 200
+		size = 450
 	}
 
 	clergymen = {
 		culture = rhenish
 		religion = protestant
-		size = 400
+		size = 775
 	}
 
 	artisans = {
 		culture = rhenish
 		religion = protestant
-		size = 6000
+		size = 11500
 	}
 
 	soldiers = {
 		culture = rhenish
 		religion = protestant
-		size = 400
+		size = 750
 	}
 
 	farmers = {
 		culture = rhenish
 		religion = protestant
-		size = 42040
+		size = 78205
 	}
 
 	clergymen = {
@@ -645,62 +588,32 @@
 410 = {
 	aristocrats = {
 		culture = rhenish
-		religion = catholic
-		size = 300
-	}
-
-	clergymen = {
-		culture = rhenish
-		religion = catholic
-		size = 300
-	}
-
-	artisans = {
-		culture = rhenish
-		religion = catholic
-		size = 1500
-	}
-
-	soldiers = {
-		culture = rhenish
-		religion = catholic
-		size = 300
-	}
-
-	farmers = {
-		culture = rhenish
-		religion = catholic
-		size = 27600
-	}
-
-	aristocrats = {
-		culture = rhenish
 		religion = protestant
-		size = 350
+		size = 650
 	}
 
 	clergymen = {
 		culture = rhenish
 		religion = protestant
-		size = 375
+		size = 675
 	}
 
 	artisans = {
 		culture = rhenish
 		religion = protestant
-		size = 2500
+		size = 4000
 	}
 
 	soldiers = {
 		culture = rhenish
 		religion = protestant
-		size = 400
+		size = 700
 	}
 
 	farmers = {
 		culture = rhenish
 		religion = protestant
-		size = 41375
+		size = 68975
 	}
 
 	artisans = {
@@ -738,7 +651,6 @@
 		religion = catholic
 		size = 27600
 	}
-
 }
 #Lorraine Region (1584000)
 #Nancy (432000/108000 POPS)
@@ -784,7 +696,7 @@
 		religion = catholic
 		size = 5200
 	}
-	
+
 	soldiers = {
 		culture = french
 		religion = catholic
@@ -864,7 +776,7 @@
 		religion = catholic
 		size = 100
 	}
-	
+
 	farmers = {
 		culture = french
 		religion = catholic
@@ -873,32 +785,32 @@
 
 	aristocrats = {
 		culture = rhenish
-		religion = protestant
-		size = 50
+		religion = catholic
+		size = 300
 	}
 
 	clergymen = {
 		culture = rhenish
-		religion = protestant
-		size = 75
+		religion = catholic
+		size = 350
 	}
 
 	artisans = {
 		culture = rhenish
 		religion = protestant
-		size = 3500
+		size = 6000
 	}
 
 	soldiers = {
 		culture = rhenish
-		religion = protestant
-		size = 100
+		religion = catholic
+		size = 800
 	}
 
 	farmers = {
 		culture = rhenish
-		religion = protestant
-		size = 6275
+		religion = catholic
+		size = 33500
 	}
 
 	artisans = {
@@ -907,40 +819,10 @@
 		size = 1500
 	}
 
-	aristocrats = {
-		culture = rhenish
-		religion = catholic
-		size = 250
-	}
-
-	clergymen = {
-		culture = rhenish
-		religion = catholic
-		size = 275
-	}
-
-	artisans = {
-		culture = rhenish
-		religion = catholic
-		size = 2500
-	}
-
 	clerks = {
 		culture = rhenish
 		religion = catholic
 		size = 50
-	}
-	
-	soldiers = {
-		culture = rhenish
-		religion = catholic
-		size = 700
-	}
-
-	farmers = {
-		culture = rhenish
-		religion = catholic
-		size = 27225
 	}
 }
 #Verdun (320000/80000 POPS)
@@ -968,7 +850,7 @@
 		religion = catholic
 		size = 1300
 	}
-	
+
 	soldiers = {
 		culture = french
 		religion = catholic
@@ -999,7 +881,7 @@
 		size = 100
 	}
 
-	labourers = {
+	farmers = {
 		culture = rhenish
 		religion = catholic
 		size = 1200
@@ -1030,14 +912,14 @@
 		religion = catholic
 		size = 1000
 	}
-	
+
 	soldiers = {
 		culture = french
 		religion = catholic
 		size = 1300
 	}
 
-	labourers = {
+	farmers = {
 		culture = french
 		religion = catholic
 		size = 93550
@@ -1060,13 +942,12 @@
 		religion = catholic
 		size = 100
 	}
-	
-	labourers = {
+
+	farmers = {
 		culture = rhenish
 		religion = catholic
 		size = 700
 	}
-
 }
 #Normandy Region (2670000)
 #Rouen (716000/179000 POPS)
@@ -1098,13 +979,7 @@
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
@@ -1206,13 +1081,7 @@
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 3500
+		size = 13500
 	}
 
 	soldiers = {
@@ -1226,7 +1095,6 @@
 		religion = catholic
 		size = 245350
 	}
-
 }
 #Brittany Region (2616000)
 #Brest (552000/138000 POPS)
@@ -1272,7 +1140,7 @@
 		religion = catholic
 		size = 3000
 	}
-	
+
 	soldiers = {
 		culture = breton
 		religion = catholic
@@ -1316,7 +1184,7 @@
 		religion = catholic
 		size = 6000
 	}
-	
+
 	soldiers = {
 		culture = breton
 		religion = catholic
@@ -1360,7 +1228,7 @@
 		religion = catholic
 		size = 3000
 	}
-	
+
 	soldiers = {
 		culture = breton
 		religion = catholic
@@ -1390,13 +1258,7 @@
 	artisans = {
 		culture = breton
 		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = breton
-		religion = catholic
-		size = 3900
+		size = 13900
 	}
 
 	clerks = {
@@ -1410,14 +1272,14 @@
 		religion = catholic
 		size = 8000
 	}
-	
+
 	soldiers = {
 		culture = breton
 		religion = catholic
 		size = 7250
 	}
 
-	labourers = {
+	farmers = {
 		culture = breton
 		religion = catholic
 		size = 88450
@@ -1454,7 +1316,7 @@
 		religion = catholic
 		size = 3000
 	}
-	
+
 	soldiers = {
 		culture = breton
 		religion = catholic
@@ -1466,7 +1328,6 @@
 		religion = catholic
 		size = 111750
 	}
-
 }
 #Ile De France Region (2132000)
 #Paris (1520000/380000 POPS)
@@ -1516,121 +1377,61 @@
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
@@ -1750,7 +1551,6 @@
 		religion = catholic
 		size = 75300
 	}
-
 }
 #Burgundy Region (1872000)
 #Dijon (384000/96000 POPS)
@@ -1892,7 +1692,6 @@
 		religion = catholic
 		size = 125800
 	}
-
 }
 #Franche Comte Region (914000)
 #Besancon (600000/150000 POPS)
@@ -1932,7 +1731,7 @@
 		religion = catholic
 		size = 1000
 	}
-	
+
 	soldiers = {
 		culture = french
 		religion = catholic
@@ -1976,7 +1775,6 @@
 		religion = catholic
 		size = 72000
 	}
-
 }
 #Pays de la Loire Region (1948800)
 #Angers (782000/195500 POPS)
@@ -2008,13 +1806,7 @@
 	artisans = {
 		culture = french
 		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 1100
+		size = 11100
 	}
 
 	soldiers = {
@@ -2023,7 +1815,7 @@
 		size = 2000
 	}
 
-	labourers = {
+	farmers = {
 		culture = french
 		religion = catholic
 		size = 177000
@@ -2119,12 +1911,11 @@
 		size = 900
 	}
 
-	labourers = {
+	farmers = {
 		culture = french
 		religion = catholic
 		size = 79450
 	}
-
 }
 #Val de Loire Region (1120000)
 #Orleans (312000/78000 POPS)
@@ -2170,7 +1961,7 @@
 		religion = catholic
 		size = 6000
 	}
-	
+
 	soldiers = {
 		culture = french
 		religion = catholic
@@ -2214,7 +2005,7 @@
 		religion = catholic
 		size = 2975
 	}
-	
+
 	soldiers = {
 		culture = french
 		religion = catholic
@@ -2258,7 +2049,7 @@
 		religion = catholic
 		size = 2975
 	}
-	
+
 	soldiers = {
 		culture = french
 		religion = catholic
@@ -2302,7 +2093,7 @@
 		religion = catholic
 		size = 5000
 	}
-	
+
 	soldiers = {
 		culture = french
 		religion = catholic
@@ -2314,7 +2105,6 @@
 		religion = catholic
 		size = 61500
 	}
-
 }
 #Poitou Region (1106000)
 #La Rochelle (454000/113500 POPS)
@@ -2424,7 +2214,6 @@
 		religion = catholic
 		size = 83200
 	}
-
 }
 #Limousin Region (1596000)
 #Limoges (288000/72000 POPS)
@@ -2534,7 +2323,6 @@
 		religion = catholic
 		size = 183600
 	}
-
 }
 #Auvergne Region (1418000)
 #Clermont-Ferrand (728000/182000 POPS)
@@ -2644,7 +2432,6 @@
 		religion = catholic
 		size = 72825
 	}
-
 }
 #Lyonnais-Dauphine Region (2588000)
 #Lyon (824000/206000 POPS)
@@ -2694,37 +2481,19 @@
 	artisans = {
 		culture = occitan
 		religion = catholic
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = occitan
 		religion = catholic
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = occitan
 		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = occitan
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = occitan
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = occitan
-		religion = catholic
-		size = 3000
+		size = 13000
 	}
 
 	soldiers = {
@@ -2838,7 +2607,7 @@
 		religion = catholic
 		size = 2000
 	}
-	
+
 	soldiers = {
 		culture = occitan
 		religion = catholic
@@ -2882,7 +2651,6 @@
 		religion = catholic
 		size = 160300
 	}
-
 }
 #Midi Region (1604000)
 #Toulouse (672000/168000 POPS)
@@ -2914,13 +2682,7 @@
 	artisans = {
 		culture = occitan
 		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = occitan
-		religion = catholic
-		size = 10000
+		size = 20000
 	}
 
 	soldiers = {
@@ -2998,7 +2760,6 @@
 		religion = catholic
 		size = 80350
 	}
-
 }
 #Aquitaine Region (1864000)
 #Bordeaux (632000/158000 POPS)
@@ -3030,25 +2791,13 @@
 	artisans = {
 		culture = occitan
 		religion = catholic
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = occitan
 		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = occitan
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = occitan
-		religion = catholic
-		size = 1100
+		size = 11100
 	}
 
 	soldiers = {
@@ -3156,7 +2905,6 @@
 		religion = catholic
 		size = 41200
 	}
-
 }
 #Languedoc Region (1668000)
 #Montpellier (724000/181000)
@@ -3188,13 +2936,7 @@
 	artisans = {
 		culture = occitan
 		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = occitan
-		religion = catholic
-		size = 1100
+		size = 11100
 	}
 
 	soldiers = {
@@ -3334,7 +3076,6 @@
 		religion = catholic
 		size = 24975
 	}
-
 }
 #Savoy Region (486800)
 ##Sardinian until 1860
@@ -3381,7 +3122,7 @@
 		religion = catholic
 		size = 2000
 	}
-	
+
 	soldiers = {
 		culture = occitan
 		religion = catholic
@@ -3425,7 +3166,6 @@
 		religion = catholic
 		size = 52175
 	}
-
 }
 #Provence Region (1268400)
 #Marseilles (384800/96200 POPS)
@@ -3457,13 +3197,7 @@
 	artisans = {
 		culture = occitan
 		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = occitan
-		religion = catholic
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
@@ -3483,7 +3217,7 @@
 		religion = catholic
 		size = 13500
 	}
-	
+
 	soldiers = {
 		culture = occitan
 		religion = catholic
@@ -3591,7 +3325,7 @@
 		religion = catholic
 		size = 3950
 	}
-	
+
 	soldiers = {
 		culture = occitan
 		religion = catholic
@@ -3641,58 +3375,32 @@
 	aristocrats = {
 		culture = occitan
 		religion = catholic
-		size = 200
-	}
-	aristocrats = {
-		culture = occitan
-		religion = catholic
-		size = 450
+		size = 650
 	}
 
 	clergymen = {
 		culture = occitan
 		religion = catholic
-		size = 200
-	}
-	clergymen = {
-		culture = occitan
-		religion = catholic
-		size = 225
+		size = 425
 	}
 
 	artisans = {
 		culture = occitan
 		religion = catholic
-		size = 4000
-	}
-	artisans = {
-		culture = occitan
-		religion = catholic
-		size = 2000
+		size = 6000
 	}
 
 	soldiers = {
 		culture = occitan
 		religion = catholic
-		size = 600
-	}
-	soldiers = {
-		culture = occitan
-		religion = catholic
-		size = 500
+		size = 1100
 	}
 
 	farmers = {
 		culture = occitan
 		religion = catholic
-		size = 20000
+		size = 34825
 	}
-	farmers = {
-		culture = occitan
-		religion = catholic
-		size = 14825
-	}
-
 }
 #Corsica Region (210000)
 #Corsica (210000/52500 POPS)
@@ -3724,15 +3432,9 @@
 	artisans = {
 		culture = corsican
 		religion = catholic
-		size = 1500
+		size = 2500
 	}
-	
-	artisans = {
-		culture = corsican
-		religion = catholic
-		size = 1000
-	}
-	
+
 	soldiers = {
 		culture = corsican
 		religion = catholic
@@ -3742,13 +3444,7 @@
 	farmers = {
 		culture = corsican
 		religion = catholic
-		size = 41800
-	}
-
-	farmers = {
-		culture = corsican
-		religion = catholic
-		size = 1000
+		size = 42800
 	}
 }
 

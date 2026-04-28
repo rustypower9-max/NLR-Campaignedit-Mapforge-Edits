@@ -166,7 +166,6 @@
 		religion = animist
 		size = 2675
 	}
-
 }
 #South Island Region (24000)
 #Dunedin (4000/1000 POPS)

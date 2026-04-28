@@ -56,61 +56,31 @@
 	aristocrats = {
 		culture = somali
 		religion = sunni
-		size = 275
+		size = 350
 	}
 
 	clergymen = {
 		culture = somali
 		religion = sunni
-		size = 150
+		size = 200
 	}
 
 	artisans = {
 		culture = somali
 		religion = sunni
-		size = 650
+		size = 900
 	}
 
 	soldiers = {
 		culture = somali
 		religion = sunni
-		size = 150
+		size = 200
 	}
 
 	farmers = {
 		culture = somali
 		religion = sunni
-		size = 13775
-	}
-
-	aristocrats = {
-		culture = somali
-		religion = animist
-		size = 75
-	}
-
-	clergymen = {
-		culture = somali
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = somali
-		religion = animist
-		size = 250
-	}
-
-	soldiers = {
-		culture = somali
-		religion = animist
-		size = 50
-	}
-
-	farmers = {
-		culture = somali
-		religion = animist
-		size = 4575
+		size = 18350
 	}
 
 	slaves = {
@@ -291,13 +261,7 @@
 	slaves = {
 		culture = somali
 		religion = animist
-		size = 7000
-	}
-
-	slaves = {
-		culture = somali
-		religion = animist
-		size = 3000
+		size = 10000
 	}
 }
 #Zayla (32000/8000 POPS)
@@ -337,61 +301,30 @@
 	aristocrats = {
 		culture = somali
 		religion = sunni
-		size = 50
+		size = 100
 	}
 
 	clergymen = {
-		culture = somali
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
 		culture = somali
 		religion = sunni
 		size = 150
 	}
 
+	artisans = {
+		culture = somali
+		religion = sunni
+		size = 350
+	}
+
 	soldiers = {
-		culture = somali
-		religion = sunni
-		size = 25
-	}
-
-	farmers = {
-		culture = somali
-		religion = sunni
-		size = 2700
-	}
-
-	aristocrats = {
-		culture = somali
-		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
 		culture = somali
 		religion = sunni
 		size = 75
 	}
 
-	artisans = {
-		culture = somali
-		religion = sunni
-		size = 200
-	}
-
-	soldiers = {
-		culture = somali
-		religion = sunni
-		size = 50
-	}
-
 	farmers = {
 		culture = somali
 		religion = sunni
-		size = 3625
+		size = 6325
 	}
-
 }

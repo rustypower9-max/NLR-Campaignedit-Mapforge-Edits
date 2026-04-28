@@ -95,13 +95,13 @@
 		size = 1500
 	}
 
-	labourers = {
+	farmers = {
 		culture = swedish
 		religion = protestant
 		size = 44025
 	}
 
-	labourers = {
+	farmers = {
 		culture = norwegian
 		religion = protestant
 		size = 16500
@@ -127,7 +127,7 @@
 		size = 3750
 	}
 
-	labourers = {
+	farmers = {
 		culture = swedish
 		religion = protestant
 		size = 27887
@@ -159,7 +159,7 @@
 		size = 3950
 	}
 
-	labourers = {
+	farmers = {
 		culture = swedish
 		religion = protestant
 		size = 38375
@@ -182,7 +182,6 @@
 		religion = protestant
 		size = 3250
 	}
-
 }
 #Svealand Region : 1178000
 #Stockholm (196000/49000 POPs)
@@ -214,19 +213,19 @@
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 15000
+		size = 20000
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 15000
+		size = 20000
 	}
-	
+
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 15000
+		size = 5000
 	}
 
 	craftsmen = {
@@ -238,13 +237,7 @@
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 10000
-	}
-	
-	soldiers = {
-		culture = swedish
-		religion = protestant
-		size = 10000
+		size = 20000
 	}
 
 	farmers = {
@@ -270,7 +263,13 @@
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 26200
+		size = 20000
+	}
+
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 6200
 	}
 
 	soldiers = {
@@ -398,13 +397,7 @@
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 11250
-	}
-
-	artisans = {
-		culture = swedish
-		religion = protestant
-		size = 11250
+		size = 22500
 	}
 
 	soldiers = {
@@ -450,7 +443,6 @@
 		religion = protestant
 		size = 64950
 	}
-
 }
 #Gotaland Region : 1457000
 #Goteborg (168000/42000 POPS)
@@ -688,5 +680,4 @@
 		religion = protestant
 		size = 90937
 	}
-
 }

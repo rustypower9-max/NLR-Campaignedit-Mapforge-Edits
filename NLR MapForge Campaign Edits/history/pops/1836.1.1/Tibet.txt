@@ -29,13 +29,7 @@
 	artisans = {
 		culture = tibetan
 		religion = gelugpa
-		size = 10000
-	}
-
-	artisans = {
-		culture = tibetan
-		religion = gelugpa
-		size = 400
+		size = 10400
 	}
 
 	soldiers = {
@@ -317,61 +311,30 @@
 	aristocrats = {
 		culture = bengali
 		religion = animist
-		size = 750
+		size = 1500
 	}
 
 	clergymen = {
 		culture = bengali
 		religion = animist
-		size = 400
+		size = 775
 	}
 
 	artisans = {
 		culture = bengali
 		religion = animist
-		size = 1950
+		size = 3850
 	}
 
 	soldiers = {
 		culture = bengali
 		religion = animist
-		size = 350
+		size = 725
 	}
 
 	farmers = {
 		culture = bengali
 		religion = animist
-		size = 35550
+		size = 70150
 	}
-
-	aristocrats = {
-		culture = bengali
-		religion = animist
-		size = 750
-	}
-
-	clergymen = {
-		culture = bengali
-		religion = animist
-		size = 375
-	}
-
-	artisans = {
-		culture = bengali
-		religion = animist
-		size = 1900
-	}
-
-	soldiers = {
-		culture = bengali
-		religion = animist
-		size = 375
-	}
-
-	farmers = {
-		culture = bengali
-		religion = animist
-		size = 34600
-	}
-
 }

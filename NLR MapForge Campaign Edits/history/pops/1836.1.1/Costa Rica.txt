@@ -3,125 +3,108 @@
 #San Jose (52000/13000 POPS)
 2201 = {
     aristocrats = {
-        culture = central_american
-        religion = catholic
-        size = 510
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 510
     }
 
     bureaucrats = {
-        culture = central_american
-        religion = catholic
-        size = 85
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 85
     }
 
     officers = {
-        culture = central_american
-        religion = catholic
-        size = 42
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 42
     }
 
     clergymen = {
-        culture = central_american
-        religion = catholic
-        size = 212
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 212
     }
 
     artisans = {
-        culture = central_american
-        religion = catholic
-        size = 1105
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 1105
     }
 
     soldiers = {
-        culture = central_american
-        religion = catholic
-        size = 212
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 212
     }
 
     farmers = {
-        culture = central_american
-        religion = catholic
-        size = 19932
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 19932
     }
 }
 #Liberia (20000/5000 POPS)
 2202 = {
     aristocrats = {
-        culture = central_american
-        religion = catholic
-        size = 255
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 255
     }
 
     clergymen = {
-        culture = central_american
-        religion = catholic
-        size = 85
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 85
     }
 
     artisans = {
-        culture = central_american
-        religion = catholic
-        size = 425
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 425
     }
 
     soldiers = {
-        culture = central_american
-        religion = catholic
-        size = 85
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 85
     }
 
     farmers = {
-        culture = central_american
-        religion = catholic
-        size = 7650
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 7650
     }
 }
 #Limon (12000/3000 POPS)
 2203 = {
     aristocrats = {
-        culture = central_american
-        religion = catholic
-        size = 127
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 127
     }
 
     clergymen = {
-        culture = central_american
-        religion = catholic
-        size = 85
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 85
     }
 
     artisans = {
-        culture = central_american
-        religion = catholic
-        size = 255
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 255
     }
 
     soldiers = {
-        culture = central_american
-        religion = catholic
-        size = 42
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 42
     }
 
     farmers = {
-        culture = central_american
-        religion = catholic
-        size = 4590
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 4590
     }
 }

@@ -5,7 +5,7 @@
 	aristocrats = {
 		culture = nilotic
 		religion = sunni
-		size = 500
+		size = 1200
 	}
 
 	bureaucrats = {
@@ -23,57 +23,19 @@
 	clergymen = {
 		culture = nilotic
 		religion = sunni
-		size = 400
+		size = 800
 	}
 
 	artisans = {
 		culture = nilotic
 		religion = sunni
-		size = 1800
+		size = 4100
 	}
 
 	soldiers = {
 		culture = nilotic
 		religion = sunni
-		size= 400
-
-	}
-
-	farmers = {
-		culture = nilotic
-		religion = sunni
-		size = 24800
-	}
-
-	aristocrats = {
-		culture = nilotic
-		religion = animist
-		size = 400
-	}
-
-	clergymen = {
-		culture = nilotic
-		religion = animist
-		size = 200
-	}
-
-	artisans = {
-		culture = nilotic
-		religion = animist
-		size = 1200
-	}
-
-	soldiers = {
-		culture = nilotic
-		religion = animist
-		size= 200
-
-	}
-
-	farmers = {
-		culture = nilotic
-		religion = animist
-		size = 22000
+		size = 800
 	}
 
 	slaves = {
@@ -82,35 +44,10 @@
 		size = 8000
 	}
 
-	aristocrats = {
-		culture = nilotic
-		religion = animist
-		size = 300
-	}
-
-	clergymen = {
-		culture = nilotic
-		religion = animist
-		size = 200
-	}
-
-	artisans = {
-		culture = nilotic
-		religion = animist
-		size = 1100
-	}
-
-	soldiers = {
-		culture = nilotic
-		religion = animist
-		size= 200
-
-	}
-
 	farmers = {
 		culture = nilotic
-		religion = animist
-		size = 18300
+		religion = sunni
+		size = 65100
 	}
 }
 #Moundou (48000/12000 POPS)
@@ -118,198 +55,13 @@
 	aristocrats = {
 		culture = nilotic
 		religion = sunni
-		size = 75
-	}
-
-	clergymen = {
-		culture = nilotic
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = nilotic
-		religion = sunni
-		size = 250
-	}
-
-	soldiers = {
-		culture = nilotic
-		religion = sunni
-		size= 50
-
-	}
-
-	farmers = {
-		culture = nilotic
-		religion = sunni
-		size = 575
-	}
-
-	aristocrats = {
-		culture = nilotic
-		religion = animist
-		size = 125
-	}
-
-	clergymen = {
-		culture = nilotic
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = nilotic
-		religion = animist
-		size = 350
-	}
-
-	soldiers = {
-		culture = nilotic
-		religion = animist
-		size= 75
-
-	}
-
-	farmers = {
-		culture = nilotic
-		religion = animist
-		size = 6375
-	}
-
-	slaves = {
-		culture = nilotic
-		religion = animist
-		size = 2000
-	}
-
-	slaves = {
-		culture = nilotic
-		religion = animist
-		size = 2000
-	}
-}
-#Bongor (36000/9000 POPS)
-1820 = {
-	aristocrats = {
-		culture = nilotic
-		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = nilotic
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = nilotic
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = nilotic
-		religion = animist
-		size= 25
-
-	}
-
-	farmers = {
-		culture = nilotic
-		religion = animist
-		size = 1800
-	}
-
-	aristocrats = {
-		culture = nilotic
-		religion = animist
-		size = 125
-	}
-
-	clergymen = {
-		culture = nilotic
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = nilotic
-		religion = animist
-		size = 350
-	}
-
-	soldiers = {
-		culture = nilotic
-		religion = animist
-		size= 75
-
-	}
-
-	farmers = {
-		culture = nilotic
-		religion = animist
-		size = 6375
-	}
-}
-#Wadai Region (488000)
-#under the rule of Wadai in 1836
-#Abeche (136000/34000 POPS)
-1821 = {
-	aristocrats = {
-		culture = nilotic
-		religion = sunni
-		size = 350
-	}
-
-	bureaucrats = {
-		culture = nilotic
-		religion = sunni
-		size = 50
-	}
-
-	officers = {
-		culture = nilotic
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = nilotic
-		religion = sunni
 		size = 200
 	}
 
-	artisans = {
-		culture = nilotic
-		religion = sunni
-		size = 1100
-	}
-
-	soldiers = {
-		culture = nilotic
-		religion = sunni
-		size= 1250
-
-	}
-
-	farmers = {
-		culture = nilotic
-		religion = sunni
-		size = 13000
-	}
-
-	aristocrats = {
-		culture = nilotic
-		religion = sunni
-		size = 150
-	}
-
 	clergymen = {
 		culture = nilotic
 		religion = sunni
-		size = 100
+		size = 125
 	}
 
 	artisans = {
@@ -321,28 +73,73 @@
 	soldiers = {
 		culture = nilotic
 		religion = sunni
-		size= 100
-
-	}
-
-	farmers = {
-		culture = nilotic
-		religion = sunni
-		size = 9000
+		size = 125
 	}
 
 	slaves = {
 		culture = nilotic
 		religion = animist
-		size = 8000
+		size = 4000
+	}
+
+	farmers = {
+		culture = nilotic
+		religion = animist
+		size = 6950
 	}
 }
-#Am Timan (168000/42000 POPS)
-1822 = {
+#Bongor (36000/9000 POPS)
+1820 = {
+	aristocrats = {
+		culture = nilotic
+		religion = animist
+		size = 150
+	}
+
+	clergymen = {
+		culture = nilotic
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = nilotic
+		religion = animist
+		size = 450
+	}
+
+	soldiers = {
+		culture = nilotic
+		religion = animist
+		size = 100
+	}
+
+	farmers = {
+		culture = nilotic
+		religion = animist
+		size = 8175
+	}
+}
+#Wadai Region (488000)
+#under the rule of Wadai in 1836
+#Abeche (136000/34000 POPS)
+1821 = {
 	aristocrats = {
 		culture = nilotic
 		religion = sunni
-		size = 550
+		size = 500
+	}
+
+	bureaucrats = {
+		culture = nilotic
+		religion = sunni
+		size = 50
+	}
+
+	officers = {
+		culture = nilotic
+		religion = sunni
+		size = 100
 	}
 
 	clergymen = {
@@ -354,61 +151,29 @@
 	artisans = {
 		culture = nilotic
 		religion = sunni
-		size = 1200
+		size = 1700
 	}
 
 	soldiers = {
 		culture = nilotic
 		religion = sunni
-		size= 300
-
-	}
-
-	farmers = {
-		culture = nilotic
-		religion = sunni
-		size = 21650
+		size = 1350
 	}
 
 	slaves = {
 		culture = nilotic
 		religion = animist
-		size = 10000
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 150
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 350
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size= 100
-
+		size = 8000
 	}
 
 	farmers = {
-		culture = bedouin
+		culture = nilotic
 		religion = sunni
-		size = 7300
+		size = 22000
 	}
 }
-#Mongo (184000/46000 POPS)
-1823 = {
+#Am Timan (168000/42000 POPS)
+1822 = {
 	aristocrats = {
 		culture = nilotic
 		religion = sunni
@@ -418,94 +183,81 @@
 	clergymen = {
 		culture = nilotic
 		religion = sunni
-		size = 350
+		size = 400
 	}
 
 	artisans = {
 		culture = nilotic
 		religion = sunni
-		size = 1450
+		size = 1550
 	}
 
 	soldiers = {
 		culture = nilotic
 		religion = sunni
-		size= 1000
-
+		size = 400
 	}
 
-	farmers = {
-		culture = nilotic
-		religion = sunni
-		size = 26500
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 150
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 300
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size= 50
-
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 5400
-	}
-
-	aristocrats = {
+	slaves = {
 		culture = nilotic
 		religion = animist
-		size = 50
+		size = 10000
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 8000
+	}
+
+	farmers = {
+		culture = nilotic
+		religion = sunni
+		size = 20950
+	}
+}
+#Mongo (184000/46000 POPS)
+1823 = {
+	aristocrats = {
+		culture = nilotic
+		religion = sunni
+		size = 850
 	}
 
 	clergymen = {
 		culture = nilotic
-		religion = animist
-		size = 100
+		religion = sunni
+		size = 600
 	}
 
 	artisans = {
 		culture = nilotic
-		religion = animist
-		size = 200
+		religion = sunni
+		size = 1950
 	}
 
 	soldiers = {
 		culture = nilotic
-		religion = animist
-		size= 50
-
-	}
-
-	farmers = {
-		culture = nilotic
-		religion = animist
-		size = 3600
+		religion = sunni
+		size = 1100
 	}
 
 	slaves = {
 		culture = nilotic
 		religion = animist
 		size = 6000
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 6000
+	}
+
+	farmers = {
+		culture = nilotic
+		religion = sunni
+		size = 29500
 	}
 }
 #Kanem Region (288000)
@@ -515,112 +267,55 @@
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 2600
+		size = 3600
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 1300
+		size = 2000
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = sunni
-		size = 5300
+		size = 8100
 	}
 
 	soldiers = {
 		culture = bedouin
 		religion = sunni
-		size= 1400
-
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 93400
-	}
-
-	aristocrats = {
-		culture = nilotic
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = nilotic
-		religion = sunni
-		size = 200
-	}
-
-	artisans = {
-		culture = nilotic
-		religion = sunni
-		size = 400
-	}
-
-	soldiers = {
-		culture = nilotic
-		religion = sunni
-		size= 100
-
-	}
-
-	farmers = {
-		culture = nilotic
-		religion = sunni
-		size = 7200
-	}
-
-	aristocrats = {
-		culture = nilotic
-		religion = sunni
-		size = 900
+		size = 2000
 	}
 
 	bureaucrats = {
-		culture = nilotic
+		culture = bedouin
 		religion = sunni
 		size = 100
 	}
 
 	officers = {
-		culture = nilotic
+		culture = bedouin
 		religion = sunni
 		size = 200
 	}
 
-	clergymen = {
-		culture = nilotic
+	slaves = {
+		culture = bedouin
 		religion = sunni
-		size = 500
-	}
-
-	artisans = {
-		culture = nilotic
-		religion = sunni
-		size = 2400
-	}
-
-	soldiers = {
-		culture = nilotic
-		religion = sunni
-		size= 500
-
+		size = 48000
 	}
 
 	farmers = {
 		culture = nilotic
 		religion = sunni
-		size = 23400
+		size = 84000
 	}
 
-	slaves = {
-		culture = nilotic
-		religion = animist
-		size = 48000
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 40000
 	}
 }
 #Zouar (72000/18000 POPS)
@@ -628,63 +323,31 @@
 	aristocrats = {
 		culture = nilotic
 		religion = sunni
-		size = 300
+		size = 325
 	}
 
 	clergymen = {
 		culture = nilotic
 		religion = sunni
-		size = 150
+		size = 200
 	}
 
 	artisans = {
 		culture = nilotic
 		religion = sunni
-		size = 800
+		size = 900
 	}
 
 	soldiers = {
 		culture = nilotic
 		religion = sunni
-		size= 175
-
+		size = 200
 	}
 
 	farmers = {
 		culture = nilotic
 		religion = sunni
-		size = 14575
-	}
-
-	aristocrats = {
-		culture = nilotic
-		religion = sunni
-		size = 25
-	}
-
-	clergymen = {
-		culture = nilotic
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = nilotic
-		religion = sunni
-		size = 100
-	}
-
-	soldiers = {
-		culture = nilotic
-		religion = sunni
-		size= 25
-
-	}
-
-	farmers = {
-		culture = nilotic
-		religion = sunni
-		size = 1800
+		size = 16375
 	}
 }
 #under the rule of Wadai in 1836
@@ -711,8 +374,7 @@
 	soldiers = {
 		culture = nilotic
 		religion = sunni
-		size= 150
-
+		size = 150
 	}
 
 	farmers = {
@@ -720,5 +382,4 @@
 		religion = sunni
 		size = 12750
 	}
-
 }

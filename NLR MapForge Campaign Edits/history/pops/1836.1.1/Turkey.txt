@@ -213,7 +213,7 @@
 		religion = jewish
 		size = 250
 	}
-	
+
 	craftsmen = {
 		culture = greek
 		religion = orthodox
@@ -337,37 +337,19 @@
 	artisans = {
 		culture = turkish
 		religion = sunni
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = turkish
 		religion = sunni
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = turkish
 		religion = sunni
-		size = 10000
-	}
-
-	artisans = {
-		culture = turkish
-		religion = sunni
-		size = 10000
-	}
-
-	artisans = {
-		culture = turkish
-		religion = sunni
-		size = 10000
-	}
-
-	artisans = {
-		culture = turkish
-		religion = sunni
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
@@ -397,25 +379,13 @@
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 10000
-	}
-
-	artisans = {
-		culture = greek
-		religion = orthodox
-		size = 10000
-	}
-
-	artisans = {
-		culture = greek
-		religion = orthodox
-		size = 9800
+		size = 19800
 	}
 
 	clerks = {
@@ -463,13 +433,7 @@
 	artisans = {
 		culture = armenian
 		religion = orthodox
-		size = 10000
-	}
-
-	artisans = {
-		culture = armenian
-		religion = orthodox
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
@@ -611,7 +575,7 @@
 		religion = orthodox
 		size = 200
 	}
-	
+
 	craftsmen = {
 		culture = greek
 		religion = orthodox
@@ -1135,13 +1099,7 @@
 	artisans = {
 		culture = turkish
 		religion = sunni
-		size = 10000
-	}
-
-	artisans = {
-		culture = turkish
-		religion = sunni
-		size = 1975
+		size = 11975
 	}
 
 	clerks = {
@@ -1177,13 +1135,7 @@
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 10000
-	}
-
-	artisans = {
-		culture = greek
-		religion = orthodox
-		size = 8900
+		size = 18900
 	}
 
 	clerks = {
@@ -1281,13 +1233,7 @@
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 3500
-	}
-
-	artisans = {
-		culture = greek
-		religion = orthodox
-		size = 100
+		size = 3600
 	}
 
 	farmers = {
@@ -2095,7 +2041,6 @@
 		religion = orthodox
 		size = 650
 	}
-
 
 	soldiers = {
 		culture = greek
@@ -3570,13 +3515,7 @@
 	farmers = {
 		culture = armenian
 		religion = orthodox
-		size = 100
-	}
-
-	farmers = {
-		culture = armenian
-		religion = orthodox
-		size = 6500
+		size = 6600
 	}
 }
 #Antioch (160000/40000 POPS)
@@ -3620,13 +3559,13 @@
 	clergymen = {
 		culture = mashriqi
 		religion = sunni
-		size = 100
+		size = 175
 	}
 
 	artisans = {
 		culture = mashriqi
 		religion = sunni
-		size = 550
+		size = 1000
 	}
 
 	soldiers = {
@@ -3638,25 +3577,7 @@
 	farmers = {
 		culture = mashriqi
 		religion = sunni
-		size = 9975
-	}
-
-	clergymen = {
-		culture = mashriqi
-		religion = orthodox
-		size = 75
-	}
-
-	artisans = {
-		culture = mashriqi
-		religion = orthodox
-		size = 450
-	}
-
-	farmers = {
-		culture = mashriqi
-		religion = orthodox
-		size = 8475
+		size = 18450
 	}
 
 	clergymen = {
@@ -3676,5 +3597,4 @@
 		religion = orthodox
 		size = 3725
 	}
-
 }

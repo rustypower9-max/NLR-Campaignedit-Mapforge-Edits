@@ -23,13 +23,7 @@
 	artisans = {
 		culture = malay
 		religion = sunni
-		size = 4000
-	}
-
-	artisans = {
-		culture = malay
-		religion = mahayana
-		size = 2250
+		size = 6250
 	}
 
 	soldiers = {
@@ -41,13 +35,7 @@
 	farmers = {
 		culture = malay
 		religion = sunni
-		size = 92025
-	}
-	
-	farmers = {
-		culture = malay
-		religion = mahayana
-		size = 32125
+		size = 124150
 	}
 
 	bureaucrats = {
@@ -81,7 +69,7 @@
 		religion = sunni
 		size = 200
 	}
-	
+
 	artisans = {
 		culture = malay
 		religion = mahayana
@@ -102,14 +90,8 @@
 
 	farmers = {
 		culture = malay
-		religion = animist
-		size = 5950
-	}
-
-	farmers = {
-		culture = malay
 		religion = sunni
-		size = 17125
+		size = 23075
 	}
 }
 #Lampung (548000/137000 POPS)
@@ -129,13 +111,7 @@
 	artisans = {
 		culture = malay
 		religion = sunni
-		size = 3500
-	}
-
-	artisans = {
-		culture = malay
-		religion = mahayana
-		size = 3450
+		size = 6950
 	}
 
 	soldiers = {
@@ -181,13 +157,7 @@
 	farmers = {
 		culture = malay
 		religion = sunni
-		size = 13850
-	}
-
-	farmers = {
-		culture = malay
-		religion = animist
-		size = 2275
+		size = 16125
 	}
 }
 #Natuna (18000/4500 POPS)
@@ -195,7 +165,7 @@
 	aristocrats = {
 		culture = malay
 		religion = sunni
-		size = 65 
+		size = 65
 	}
 
 	clergymen = {
@@ -213,19 +183,13 @@
 	soldiers = {
 		culture = malay
 		religion = sunni
-		size = 65 
+		size = 65
 	}
 
 	farmers = {
 		culture = malay
 		religion = sunni
-		size = 2700  
-	}
-
-	farmers = {
-		culture = malay
-		religion = animist
-		size = 1360 
+		size = 4060
 	}
 }
 #Siak Region (372000)
@@ -246,14 +210,8 @@
 
 	artisans = {
 		culture = malay
-		religion = sunni
-		size = 550
-	}
-
-	artisans = {
-		culture = malay
 		religion = mahayana
-		size = 950
+		size = 1500
 	}
 
 	soldiers = {
@@ -265,13 +223,7 @@
 	farmers = {
 		culture = malay
 		religion = sunni
-		size = 23775
-	}
-
-	farmers = {
-		culture = malay
-		religion = animist
-		size = 3800
+		size = 27575
 	}
 }
 #Inderagiri (96000/24000 POPS)
@@ -290,14 +242,8 @@
 
 	artisans = {
 		culture = malay
-		religion = sunni
-		size = 550
-	}
-
-	artisans = {
-		culture = malay
 		religion = mahayana
-		size = 700
+		size = 1250
 	}
 
 	soldiers = {
@@ -309,13 +255,7 @@
 	farmers = {
 		culture = malay
 		religion = sunni
-		size = 14425
-	}
-
-	farmers = {
-		culture = malay
-		religion = animist
-		size = 7575
+		size = 22000
 	}
 }
 #Siak (156000/39000 POPS)
@@ -340,14 +280,8 @@
 
 	artisans = {
 		culture = malay
-		religion = sunni
-		size = 725
-	}
-
-	artisans = {
-		culture = malay
 		religion = mahayana
-		size = 1275
+		size = 2000
 	}
 
 	soldiers = {
@@ -359,15 +293,8 @@
 	farmers = {
 		culture = malay
 		religion = sunni
-		size = 29250
+		size = 35825
 	}
-
-	farmers = {
-		culture = malay
-		religion = animist
-		size = 6575
-	}
-
 }
 #Aceh Region (444000) 
 #Ruled by Aceh 1836
@@ -400,13 +327,7 @@
 	artisans = {
 		culture = malay
 		religion = sunni
-		size = 1250
-	}
-
-	artisans = {
-		culture = malay
-		religion = mahayana
-		size = 750
+		size = 2000
 	}
 
 	soldiers = {
@@ -418,13 +339,7 @@
 	farmers = {
 		culture = malay
 		religion = sunni
-		size = 20650
-	}
-
-	farmers = {
-		culture = malay
-		religion = animist
-		size = 7475
+		size = 28125
 	}
 }
 #Medan (160000/40000 POPS)
@@ -443,14 +358,8 @@
 
 	artisans = {
 		culture = malay
-		religion = sunni
-		size = 1100
-	}
-
-	artisans = {
-		culture = malay
 		religion = mahayana
-		size = 1350
+		size = 2450
 	}
 
 	soldiers = {
@@ -462,13 +371,7 @@
 	farmers = {
 		culture = malay
 		religion = sunni
-		size = 22500
-	}
-
-	farmers = {
-		culture = malay
-		religion = animist
-		size = 13325
+		size = 35825
 	}
 }
 #Tapaktuan (156000/39000 POPS)
@@ -488,13 +391,7 @@
 	artisans = {
 		culture = malay
 		religion = sunni
-		size = 1250
-	}
-
-	artisans = {
-		culture = malay
-		religion = mahayana
-		size = 700
+		size = 1950
 	}
 
 	soldiers = {
@@ -506,13 +403,7 @@
 	farmers = {
 		culture = malay
 		religion = sunni
-		size = 20725
-	}
-
-	farmers = {
-		culture = malay
-		religion = animist
-		size = 14425
+		size = 35150
 	}
 }
 #Minangkabau Region (956000)
@@ -534,13 +425,7 @@
 	artisans = {
 		culture = malay
 		religion = sunni
-		size = 2100
-	}
-
-	artisans = {
-		culture = malay
-		religion = mahayana
-		size = 850
+		size = 2950
 	}
 
 	soldiers = {
@@ -552,13 +437,7 @@
 	farmers = {
 		culture = malay
 		religion = sunni
-		size = 37175
-	}
-
-	farmers = {
-		culture = malay
-		religion = animist
-		size = 18425
+		size = 55600
 	}
 }
 #Sibolga (528000/132000 POPS)
@@ -577,14 +456,8 @@
 
 	artisans = {
 		culture = malay
-		religion = mahayana
-		size = 3000
-	}
-
-	artisans = {
-		culture = malay
 		religion = sunni
-		size = 3750
+		size = 6750
 	}
 
 	soldiers = {
@@ -595,14 +468,8 @@
 
 	farmers = {
 		culture = malay
-		religion = animist
-		size = 33950
-	}
-
-	farmers = {
-		culture = malay
 		religion = sunni
-		size = 87125
+		size = 121075
 	}
 }
 #Bencoolen (120000/30000 POPS)
@@ -639,14 +506,8 @@
 
 	farmers = {
 		culture = malay
-		religion = animist
-		size = 12835
-	}
-
-	farmers = {
-		culture = malay
 		religion = sunni
-		size = 14625
+		size = 27460
 	}
 
 	bureaucrats = {
@@ -763,13 +624,13 @@
 		size = 2250
 	}
 
-	labourers = {
+	farmers = {
 		culture = javan
 		religion = sunni
 		size = 489875
 	}
 
-	labourers = {
+	farmers = {
 		culture = dutch
 		religion = protestant
 		size = 18425
@@ -811,78 +672,136 @@
 3254 = {
 
 	aristocrats = {
+
 		culture = javan
+
 		religion = sunni
+
 		size = 900
+
 	}
+
 
 	clergymen = {
+
 		culture = javan
+
 		religion = sunni
+
 		size = 850
+
 	}
+
 
 	artisans = {
+
 		culture = javan
+
 		religion = sunni
+
 		size = 4550
+
 	}
+
 
 	soldiers = {
+
 		culture = javan
+
 		religion = sunni
+
 		size = 1650
+
 	}
 
+
 	farmers = {
+
 		culture = javan
+
 		religion = sunni
+
 		size = 85450
+
 	}
 }
 #Cirebon (968000/242000 POPS)
 1415 = {
 
 	aristocrats = {
+
 		culture = javan
+
 		religion = sunni
+
 		size = 2200
+
 	}
+
 
 	clergymen = {
+
 		culture = dutch
+
 		religion = protestant
+
 		size = 2175
+
 	}
 
+
 	artisans = {
+
 		culture = malay
+
 		religion = mahayana
+
 		size = 4100
+
 	}
 
+
 	artisans = {
+
 		culture = javan
+
 		religion = sunni
+
 		size = 8000
+
 	}
+
 
 	soldiers = {
+
 		culture = javan
+
 		religion = sunni
+
 		size = 2550
+
 	}
 
+
 	farmers = {
+
 		culture = dutch
+
 		religion = protestant
+
 		size = 17600
+
 	}
 
+
 	farmers = {
+
 		culture = javan
+
 		religion = sunni
+
 		size = 195475
+
 	}
 }
 #Yogyakarta (536000/134000 POPS)
@@ -930,17 +849,11 @@
 		religion = sunni
 		size = 2675
 	}
-	
-	artisans = {
-		culture = javan
-		religion = sunni
-		size = 10000
-	}
 
 	artisans = {
 		culture = javan
-		religion = animist
-		size = 4000
+		religion = sunni
+		size = 14000
 	}
 
 	soldiers = {
@@ -952,13 +865,7 @@
 	farmers = {
 		culture = javan
 		religion = sunni
-		size = 217875
-	}
-
-	farmers = {
-		culture = javan
-		religion = mahayana
-		size = 38950
+		size = 256825
 	}
 }
 #Surabaya (1092000/273000 POPS)
@@ -1035,33 +942,57 @@
 1420 = {
 
 	aristocrats = {
+
 		culture = javan
+
 		religion = sunni
+
 		size = 1850
+
 	}
+
 
 	clergymen = {
+
 		culture = javan
+
 		religion = sunni
+
 		size = 1700
+
 	}
+
 
 	artisans = {
+
 		culture = javan
+
 		religion = sunni
+
 		size = 8750
+
 	}
+
 
 	soldiers = {
+
 		culture = javan
+
 		religion = sunni
+
 		size = 1600
+
 	}
 
+
 	farmers = {
+
 		culture = javan
+
 		religion = sunni
+
 		size = 163200
+
 	}
 }
 #Madura (496000/124000 POPS)
@@ -1107,7 +1038,6 @@
 		religion = mahayana
 		size = 15125
 	}
-
 }
 #Eastern Borneo Region (542000)
 #uncolonized in 1836
@@ -1242,13 +1172,7 @@
 	farmers = {
 		culture = malay
 		religion = animist
-		size = 18925
-	}
-
-	farmers = {
-		culture = malay
-		religion = sunni
-		size = 3100
+		size = 22025
 	}
 }
 #Samarinda (120000/30000 POPS)
@@ -1268,13 +1192,7 @@
 	artisans = {
 		culture = malay
 		religion = sunni
-		size = 800
-	}
-
-	artisans = {
-		culture = malay
-		religion = animist
-		size = 700
+		size = 1500
 	}
 
 	soldiers = {
@@ -1326,13 +1244,7 @@
 	farmers = {
 		culture = malay
 		religion = sunni
-		size = 25600
-	}
-
-	farmers = {
-		culture = malay
-		religion = mahayana
-		size = 8500
+		size = 34100
 	}
 }
 #Kota Waringin (152000/38000 POPS)
@@ -1398,7 +1310,6 @@
 		religion = animist
 		size = 15575
 	}
-
 }
 #Celebes Region (1040000)
 #uncolonized in 1836
@@ -1501,13 +1412,7 @@
 	farmers = {
 		culture = malay
 		religion = sunni
-		size = 22750
-	}
-
-	farmers = {
-		culture = malay
-		religion = animist
-		size = 6675
+		size = 29425
 	}
 }
 #Menado (256000/64000 POPS)
@@ -1529,7 +1434,7 @@
 		religion = sunni
 		size = 3200
 	}
-	
+
 	soldiers = {
 		culture = malay
 		religion = animist
@@ -1538,14 +1443,8 @@
 
 	farmers = {
 		culture = malay
-		religion = animist
-		size = 45100
-	}
-
-	farmers = {
-		culture = malay
 		religion = sunni
-		size = 13675
+		size = 58775
 	}
 }
 #Luwuk (100000/25000 POPS)
@@ -1675,7 +1574,6 @@
 		religion = sunni
 		size = 11025
 	}
-
 }
 #Sunda Region (1536400)
 #Ruled by Bali 1836
@@ -2297,5 +2195,4 @@
 		religion = animist
 		size = 32450
 	}
-
 }

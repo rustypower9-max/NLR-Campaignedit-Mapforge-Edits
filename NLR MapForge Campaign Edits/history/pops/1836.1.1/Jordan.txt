@@ -277,5 +277,4 @@
 		religion = sunni
 		size = 3775
 	}
-
 }

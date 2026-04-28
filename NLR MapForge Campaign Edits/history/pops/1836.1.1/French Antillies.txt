@@ -3,63 +3,33 @@
 #Martinique (190800/27450 POPS)
 2228 = {
 	aristocrats = {
-		culture = french
+		culture = afro_antillean
 		religion = catholic
 		size = 750
 	}
 
 	bureaucrats = {
-		culture = french
+		culture = afro_antillean
 		religion = catholic
 		size = 100
 	}
 
 	clergymen = {
-		culture = french
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = french
-		religion = catholic
-		size = 900
-	}
-
-	soldiers = {
-		culture = french
-		religion = catholic
-		size = 250
-	}
-
-	farmers = {
-		culture = french
-		religion = catholic
-		size = 400
-	}
-
-	clergymen = {
 		culture = afro_antillean
 		religion = catholic
-		size = 125
+		size = 175
 	}
 
 	artisans = {
 		culture = afro_antillean
 		religion = catholic
-		size = 1250
+		size = 2150
 	}
 
 	soldiers = {
 		culture = afro_antillean
 		religion = catholic
-		size = 250
-	}
-
-	farmers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 3400
+		size = 500
 	}
 
 	slaves = {
@@ -67,61 +37,43 @@
 		religion = catholic
 		size = 20000
 	}
+
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 2450
+	}
+
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 1350
+	}
 }
 #Guadeloupe (128400/32100 POPS)
 2230 = {
 	aristocrats = {
-		culture = french
+		culture = afro_antillean
 		religion = catholic
 		size = 850
 	}
 
 	clergymen = {
-		culture = french
+		culture = afro_antillean
 		religion = catholic
-		size = 50
+		size = 200
 	}
 
 	artisans = {
-		culture = french
+		culture = afro_antillean
 		religion = catholic
-		size = 1300
+		size = 2800
 	}
 
 	soldiers = {
-		culture = french
-		religion = catholic
-		size = 300
-	}
-
-	farmers = {
-		culture = french
+		culture = afro_antillean
 		religion = catholic
 		size = 600
-	}
-
-	clergymen = {
-		culture = afro_antillean
-		religion = catholic
-		size = 150
-	}
-
-	artisans = {
-		culture = afro_antillean
-		religion = catholic
-		size = 1500
-	}
-
-	soldiers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 300
-	}
-
-	farmers = {
-		culture = afro_antillean
-		religion = catholic
-		size = 3050
 	}
 
 	slaves = {
@@ -130,4 +82,15 @@
 		size = 24000
 	}
 
+	farmers = {
+		culture = french
+		religion = catholic
+		size = 3100
+	}
+
+	farmers = {
+		culture = afro_antillean
+		religion = catholic
+		size = 550
+	}
 }

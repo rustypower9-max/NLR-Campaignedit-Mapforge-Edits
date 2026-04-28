@@ -16,43 +16,19 @@
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 50
+		size = 125
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 1750
+		size = 5600
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 1100
-	}
-
-	clergymen = {
-		culture = british
-		religion = protestant
-		size = 75
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 2750
-	}
-
-	soldiers = {
-		culture = british
-		religion = protestant
-		size = 250
+		size = 300
 	}
 
 	farmers = {
@@ -72,31 +48,13 @@
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 10
+		size = 60
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 130
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 100
-	}
-
-	clergymen = {
-		culture = british
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 100
+		size = 330
 	}
 
 	soldiers = {
@@ -122,25 +80,13 @@
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 10
+		size = 60
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 230
-	}
-
-	clergymen = {
-		culture = british
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 150
+		size = 380
 	}
 
 	soldiers = {
@@ -166,43 +112,19 @@
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 20
+		size = 70
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 250
+		size = 600
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 5
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 200
-	}
-
-	clergymen = {
-		culture = british
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 150
-	}
-
-	soldiers = {
-		culture = british
-		religion = protestant
-		size = 75
+		size = 80
 	}
 
 	farmers = {
@@ -222,25 +144,13 @@
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 10
+		size = 60
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 230
-	}
-
-	clergymen = {
-		culture = british
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 200
+		size = 430
 	}
 
 	soldiers = {
@@ -254,5 +164,4 @@
 		religion = protestant
 		size = 5000
 	}
-
 }

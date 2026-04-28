@@ -5,19 +5,19 @@
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 15
+		size = 40
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 100
+		size = 1030
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 25
+		size = 50
 	}
 
 	farmers = {
@@ -37,29 +37,4 @@
 		religion = protestant
 		size = 5
 	}
-
-	clergymen = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 150
-	}
-
-	soldiers = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 780
-	}
-
 }

@@ -38,16 +38,16 @@
 		size = 250
 	}
 
-	farmers = {
-		culture = western_african
-		religion = sunni
-		size = 18125
-	}
-
 	slaves = {
 		culture = western_african
 		religion = animist
 		size = 3000
+	}
+
+	farmers = {
+		culture = western_african
+		religion = sunni
+		size = 18125
 	}
 }
 #Rosso (72000/18000 POPS) 
@@ -76,16 +76,16 @@
 		size = 175
 	}
 
-	farmers = {
-		culture = western_african
-		religion = sunni
-		size = 11400
-	}
-
 	slaves = {
 		culture = western_african
 		religion = animist
 		size = 5000
+	}
+
+	farmers = {
+		culture = western_african
+		religion = sunni
+		size = 11400
 	}
 }
 #uncolonized in 1836/ruled by Emir of Brakna  
@@ -127,16 +127,16 @@
 		size = 220
 	}
 
-	farmers = {
-		culture = western_african
-		religion = sunni
-		size = 13325
-	}
-
 	slaves = {
 		culture = western_african
 		religion = animist
 		size = 6000
+	}
+
+	farmers = {
+		culture = western_african
+		religion = sunni
+		size = 13325
 	}
 }
 #Maghama (28000/7000 POPS) 
@@ -165,16 +165,16 @@
 		size = 75
 	}
 
-	farmers = {
-		culture = western_african
-		religion = sunni
-		size = 3475
-	}
-
 	slaves = {
 		culture = western_african
 		religion = animist
 		size = 3000
+	}
+
+	farmers = {
+		culture = western_african
+		religion = sunni
+		size = 3475
 	}
 }
 #Adrar-Hodh Region (52000) 
@@ -260,43 +260,47 @@
 	aristocrats = {
 		culture = western_african
 		religion = sunni
-		size = 50
+		size = 125
 	}
 
 	clergymen = {
 		culture = western_african
 		religion = sunni
-		size = 75
+		size = 175
 	}
 
 	artisans = {
 		culture = western_african
 		religion = sunni
-		size = 150
+		size = 350
 	}
 
 	soldiers = {
 		culture = western_african
 		religion = sunni
-		size = 25
+		size = 75
 	}
 
 	farmers = {
 		culture = western_african
 		religion = sunni
-		size = 2700
+		size = 6375
 	}
-
+}
+#Rio de Oro Region (16000) #see West Sahara.txt for balance of region
+#uncolonized in 1836  
+#Bir Maghrein (16000/4000 POPS) #now part of Mauritania 
+1782 = {
 	aristocrats = {
 		culture = western_african
 		religion = sunni
-		size = 75
+		size = 60
 	}
 
 	clergymen = {
 		culture = western_african
 		religion = sunni
-		size = 100
+		size = 90
 	}
 
 	artisans = {
@@ -312,73 +316,14 @@
 	}
 
 	farmers = {
-		culture = western_african
-		religion = sunni
-		size = 3675
-	}
-}
-#Rio de Oro Region (16000) #see West Sahara.txt for balance of region
-#uncolonized in 1836  
-#Bir Maghrein (16000/4000 POPS) #now part of Mauritania 
-1782 = {
-	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 10
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 15
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size = 25
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 900
-	}
-
-	aristocrats = {
-		culture = western_african
-		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = western_african
-		religion = sunni
-		size = 150
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = sunni
-		size = 25
+		size = 1000
 	}
 
 	farmers = {
 		culture = western_african
 		religion = sunni
-		size = 2700
+		size = 2600
 	}
-
 }

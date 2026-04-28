@@ -23,91 +23,43 @@
 	clergymen = {
 		culture = bedouin
 		religion = shiite
-		size = 50
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = shiite
 		size = 100
 	}
 
-	soldiers = {
-		culture = bedouin
-		religion = shiite
-		size = 1100
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = shiite
-		size = 625
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 25
-	}
-
 	artisans = {
 		culture = bedouin
-		religion = sunni
-		size = 100
+		religion = shiite
+		size = 300
 	}
 
 	soldiers = {
 		culture = bedouin
-		religion = sunni
-		size = 25
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 1850
-	}
-
-	artisans = {
-		culture = aryan
-		religion = sunni
-		size = 50
-	}
-
-	soldiers = {
-		culture = aryan
-		religion = sunni
-		size = 25
-	}
-
-	farmers = {
-		culture = aryan
-		religion = sunni
-		size = 925
-	}
-
-	clergymen = {
-		culture = aryan
 		religion = shiite
-		size = 25
-	}
-
-	artisans = {
-		culture = aryan
-		religion = shiite
-		size = 50
-	}
-
-	farmers = {
-		culture = aryan
-		religion = shiite
-		size = 925
+		size = 1150
 	}
 
 	slaves = {
+		culture = bedouin
+		religion = shiite
+		size = 2000
+	}
+
+	farmers = {
+		culture = aryan
+		religion = sunni
+		size = 2000
+	}
+
+	farmers = {
 		culture = eastern_bantu
 		religion = animist
 		size = 2000
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 325
 	}
 }
 #Suhar (16000/4000 POPS)   
@@ -153,7 +105,89 @@
 	clergymen = {
 		culture = bedouin
 		religion = shiite
-		size = 50
+		size = 65
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = shiite
+		size = 300
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = shiite
+		size = 60
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = shiite
+		size = 5500
+	}
+}
+#Sur (24000/6000 POPS)   
+1171 = {
+	aristocrats = {
+		culture = bedouin
+		religion = shiite
+		size = 25
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = shiite
+		size = 75
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = shiite
+		size = 250
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = shiite
+		size = 75
+	}
+
+	slaves = {
+		culture = bedouin
+		religion = shiite
+		size = 1100
+	}
+
+	farmers = {
+		culture = aryan
+		religion = sunni
+		size = 1000
+	}
+
+	farmers = {
+		culture = eastern_bantu
+		religion = animist
+		size = 1100
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = sunni
+		size = 2475
+	}
+}
+#Duqm (20000/5000 POPS)   
+1172 = {
+	aristocrats = {
+		culture = bedouin
+		religion = shiite
+		size = 75
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = shiite
+		size = 100
 	}
 
 	artisans = {
@@ -171,161 +205,7 @@
 	farmers = {
 		culture = bedouin
 		religion = shiite
-		size = 4575
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 15
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size = 10
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 925
-	}
-}
-#Sur (24000/6000 POPS)   
-1171 = {
-	aristocrats = {
-		culture = bedouin
-		religion = shiite
-		size = 25
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = shiite
-		size = 50
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = shiite
-		size = 100
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = shiite
-		size = 25
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = shiite
-		size = 1800
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 25
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 100
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = sunni
-		size = 25
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 1850
-	}
-
-	artisans = {
-		culture = aryan
-		religion = sunni
-		size = 50
-	}
-
-	soldiers = {
-		culture = aryan
-		religion = sunni
-		size = 25
-	}
-
-	farmers = {
-		culture = aryan
-		religion = sunni
-		size = 925
-	}
-
-	slaves = {
-		culture = eastern_bantu
-		religion = animist
-		size = 1100
-	}
-}
-#Duqm (20000/5000 POPS)   
-1172 = {
-	aristocrats = {
-		culture = bedouin
-		religion = shiite
-		size = 75
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = shiite
-		size = 75
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = shiite
-		size = 200
-	}
-
-	soldiers = {
-		culture = bedouin
-		religion = shiite
-		size = 50
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = shiite
-		size = 3600
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 25
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 925
+		size = 4525
 	}
 }
 #Hadramaut Region (36000) #see Yemen.txt for balance of region  
@@ -353,13 +233,13 @@
 	clergymen = {
 		culture = bedouin
 		religion = shiite
-		size = 75
+		size = 100
 	}
 
 	artisans = {
 		culture = bedouin
 		religion = shiite
-		size = 200
+		size = 250
 	}
 
 	soldiers = {
@@ -371,25 +251,6 @@
 	farmers = {
 		culture = bedouin
 		religion = shiite
-		size = 3600
+		size = 4525
 	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 25
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 925
-	}
-
 }
