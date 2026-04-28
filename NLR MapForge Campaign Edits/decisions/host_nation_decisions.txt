@@ -5,11 +5,11 @@ political_decisions = {
 		alert = no
 		potential = {
 			ai = no
+			tag = LCT
 		}
 	
 		allow = {
 			NOT = { has_global_flag = host_nation_picked }
-			tag = LCT
 		}
 		
 		effect = {
