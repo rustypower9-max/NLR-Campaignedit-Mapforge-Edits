@@ -1,7 +1,6 @@
-owner = MAH
-controller = MAH
-add_core = MAH
-add_core = BER
+owner = KUT
+controller = KUT
+add_core = KUT
 add_core = HND
 add_core = MUG
 trade_goods = cotton

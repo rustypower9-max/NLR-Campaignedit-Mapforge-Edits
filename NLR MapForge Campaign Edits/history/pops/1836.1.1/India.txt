@@ -3636,13 +3636,13 @@
 	soldiers = {
 		culture = telegu
 		religion = hindu
-		size = 3500
+		size = 8500
 	}
 
 	farmers = {
 		culture = telegu
 		religion = hindu
-		size = 338250
+		size = 333250
 	}
 
 	aristocrats = {
@@ -3716,13 +3716,13 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size = 2500
+		size = 8500
 	}
 
 	farmers = {
 		culture = marathi
 		religion = hindu
-		size = 249750
+		size = 243750
 	}
 
 	aristocrats = {
@@ -3778,13 +3778,13 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size = 2000
+		size = 8000
 	}
 
 	farmers = {
 		culture = marathi
 		religion = hindu
-		size = 208350
+		size = 202350
 	}
 
 	aristocrats = {
@@ -3840,13 +3840,13 @@
 	soldiers = {
 		culture = telegu
 		religion = hindu
-		size = 1800
+		size = 7800
 	}
 
 	farmers = {
 		culture = telegu
 		religion = hindu
-		size = 176300
+		size = 170300
 	}
 
 	aristocrats = {
@@ -3902,13 +3902,13 @@
 	soldiers = {
 		culture = telegu
 		religion = hindu
-		size = 3500
+		size = 9500
 	}
 
 	farmers = {
 		culture = telegu
 		religion = hindu
-		size = 354325
+		size = 348325
 	}
 
 	aristocrats = {

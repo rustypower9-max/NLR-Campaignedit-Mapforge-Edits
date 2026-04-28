@@ -4,7 +4,7 @@ army = {
 	regiment = {
 		name= "1.Irregular Horse"
 		type = cavalry
-		home = 1283
+		home = 1287
 	}
 
 	regiment = {
@@ -40,7 +40,7 @@ army = {
 	regiment = {
 		name= "4.Hyderabad Contingent"
 		type = artillery
-		home = 1284
+		home = 1285
 	}
 
 }

@@ -1,6 +1,5 @@
-owner = MAH
-controller = MAH
-add_core = MAH
+owner = NAG
+controller = NAG
 add_core = NAG
 add_core = HND
 trade_goods = dye

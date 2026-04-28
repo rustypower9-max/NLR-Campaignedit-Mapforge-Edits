@@ -17,12 +17,22 @@ political_decisions = {
 			war = no
 		}
 		effect = {
-			ORI = {
+			MUG = {
 				all_core = {
 					add_core = THIS
 				}
 			}
-			MUG = {
+			NAG = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			BAS = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			ORI = {
 				all_core = {
 					add_core = THIS
 				}
@@ -31,6 +41,30 @@ political_decisions = {
 			set_country_flag = expanded_the_confederacy
 		}
 	}
+
+    stabilize_the_confederacy = {
+		potential = {
+			tag = MAH
+			NOT = { has_country_flag = stabilized_the_confederacy }
+		}
+		allow = {
+            has_country_flag = expanded_the_confederacy
+			all_core = { owned_by = THIS }
+			war = no
+		}
+		effect = {
+			prestige = 20
+			add_country_modifier = {
+				name = confederacy_stabilized
+				duration = 3650
+			}
+			set_country_flag = stabilized_the_confederacy
+			add_accepted_culture = rajput
+			add_accepted_culture = sindi
+			add_accepted_culture = panjabi
+		}
+	}
+
 	
 	recover_the_empire = {
 		picture = mughal_decision
@@ -49,7 +83,6 @@ political_decisions = {
 				duration = 3650
 			}
 			set_country_flag = recovered_the_empire
-			add_accepted_culture = telegu
 			add_accepted_culture = rajput
 			add_accepted_culture = sindi
 			add_accepted_culture = panjabi
@@ -128,7 +161,6 @@ political_decisions = {
 			}
 			state_n_government = 1
 			owns = 1283
-			owns = 1304
 			owns = 1313
 			owns = 1309
 			owns = 1307
@@ -136,6 +168,7 @@ political_decisions = {
 		effect = {
 			add_accepted_culture = marathi
 			add_accepted_culture = telegu
+			add_accepted_culture = tamil
 		}
 	}
 }

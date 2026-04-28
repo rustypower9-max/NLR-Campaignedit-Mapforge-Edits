@@ -1325,6 +1325,13 @@ mughals_united = {
 	research_points_modifier = 0.30
 }
 
+confederacy_stabilized = {
+	mobilisation_size = 0.01
+	global_population_growth = 0.001
+	global_pop_militancy_modifier = -0.1
+	research_points_modifier = 0.30
+}
+
 nau_united =  {
 	mobilisation_size = 0.01
 	immigrant_attract = 0.2
