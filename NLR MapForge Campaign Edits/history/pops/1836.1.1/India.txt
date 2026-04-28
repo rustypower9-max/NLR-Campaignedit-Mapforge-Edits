@@ -1382,9 +1382,9 @@
 	}
 
 	bureaucrats = {
-		culture = bengali
-		religion = hindu
-		size = 2500
+		culture = british
+		religion = protestant
+		size = 13550
 	}
 
 	artisans = {
@@ -1408,13 +1408,7 @@
 	farmers = {
 		culture = bengali
 		religion = hindu
-		size = 689500
-	}
-
-	bureaucrats = {
-		culture = british
-		religion = protestant
-		size = 50
+		size = 679500
 	}
 }
 #Gaya (3056000/764000 POPS)
@@ -1530,26 +1524,26 @@
 #Calcutta (4872000/1218000 POPS)
 1251 = {
 	aristocrats = {
-		culture = bengali
-		religion = hindu
-		size = 13600
+		culture = british
+		religion = protestant
+		size = 14150
 	}
 
 	bureaucrats = {
-		culture = bengali
-		religion = hindu
-		size = 7000
+		culture = british
+		religion = protestant
+		size = 17500
 	}
 
 	clergymen = {
 		culture = bengali
 		religion = hindu
-		size = 13250
+		size = 13300
 	}
 
 	artisans = {
-		culture = bengali
-		religion = hindu
+		culture = british
+		religion = protestant
 		size = 20000
 	}
 
@@ -1590,45 +1584,27 @@
 	}
 
 	soldiers = {
-		culture = bengali
-		religion = hindu
-		size = 16100
+		culture = british
+		religion = protestant
+		size = 22100
 	}
 
 	farmers = {
 		culture = bengali
 		religion = hindu
-		size = 1029750
+		size = 915750
 	}
 
-	aristocrats = {
+	farmers = {
 		culture = british
 		religion = protestant
-		size = 550
+		size = 100000
 	}
 
 	officers = {
 		culture = british
 		religion = protestant
 		size = 400
-	}
-
-	clergymen = {
-		culture = british
-		religion = protestant
-		size = 50
-	}
-
-	bureaucrats = {
-		culture = british
-		religion = protestant
-		size = 500
-	}
-
-	soldiers = {
-		culture = british
-		religion = protestant
-		size = 2000
 	}
 }
 #Darjeeling (3248000/812000 POPS)
@@ -1637,6 +1613,12 @@
 		culture = bengali
 		religion = hindu
 		size = 7100
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 20000
 	}
 
 	clergymen = {
@@ -1666,7 +1648,7 @@
 	farmers = {
 		culture = bengali
 		religion = hindu
-		size = 747750
+		size = 723750
 	}
 }
 #Bardwan (4456000/1114000 POPS)
@@ -1754,13 +1736,13 @@
 	soldiers = {
 		culture = bengali
 		religion = sunni
-		size = 12000
+		size = 18000
 	}
 
 	farmers = {
 		culture = bengali
 		religion = sunni
-		size = 1221000
+		size = 1161000
 	}
 }
 #Rajshahi (2332000/583000 POPS)
@@ -1830,13 +1812,13 @@
 	soldiers = {
 		culture = bengali
 		religion = sunni
-		size = 6000
+		size = 8000
 	}
 
 	farmers = {
 		culture = bengali
 		religion = sunni
-		size = 548750
+		size = 546750
 	}
 }
 #Chittagong (5884000/1471000 POPS)
@@ -1880,13 +1862,13 @@
 	soldiers = {
 		culture = bengali
 		religion = sunni
-		size = 14500
+		size = 14750
 	}
 
 	farmers = {
 		culture = bengali
 		religion = sunni
-		size = 1334000
+		size = 1324000
 	}
 
 	aristocrats = {
@@ -1905,12 +1887,6 @@
 		culture = burmese
 		religion = animist
 		size = 500
-	}
-
-	soldiers = {
-		culture = burmese
-		religion = animist
-		size = 250
 	}
 
 	farmers = {
@@ -1943,11 +1919,6 @@
 #under rule of Britain 1836
 #Gauhati (1060000/265000 POPS)
 1258 = {
-	bureaucrats = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
 
 	aristocrats = {
 		culture = bengali
@@ -1956,9 +1927,9 @@
 	}
 
 	bureaucrats = {
-		culture = bengali
-		religion = hindu
-		size = 750
+		culture = british
+		religion = protestant
+		size = 2775
 	}
 
 	clergymen = {
@@ -1982,7 +1953,7 @@
 	farmers = {
 		culture = bengali
 		religion = hindu
-		size = 191250
+		size = 189250
 	}
 
 	clergymen = {
@@ -5647,21 +5618,21 @@
 #Trankebar (14000/4000 POPS)
 3251 = {
     bureaucrats = {
-    	culture = danish
+    	culture = british
     	religion = protestant
-    	size = 50
+    	size = 25
     }
 
     clergymen = {
-    	culture = danish
+    	culture = british
     	religion = protestant
     	size = 200
     }
 
     soldiers = {
-    	culture = danish
+    	culture = british
     	religion = protestant
-    	size = 100
+    	size = 125
     }
 
     artisans = {

@@ -302,6 +302,7 @@ GCO		="countries/Gran Colombia.txt"
 
 ##HoD
 JAN 	= "countries/JanMayen.txt"
+SRI 	= "countries/Sri Lanka.txt"
 
 # Special countries...
 TIN		= 	"countries/Tiny State.txt"

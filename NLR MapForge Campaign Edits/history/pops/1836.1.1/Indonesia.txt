@@ -217,7 +217,7 @@
 	soldiers = {
 		culture = malay
 		religion = sunni
-		size = 300
+		size = 1300
 	}
 
 	farmers = {
@@ -249,7 +249,7 @@
 	soldiers = {
 		culture = malay
 		religion = sunni
-		size = 225
+		size = 1225
 	}
 
 	farmers = {
@@ -287,7 +287,7 @@
 	soldiers = {
 		culture = malay
 		religion = sunni
-		size = 375
+		size = 4375
 	}
 
 	farmers = {
@@ -431,7 +431,7 @@
 	soldiers = {
 		culture = malay
 		religion = sunni
-		size = 575
+		size = 975
 	}
 
 	farmers = {

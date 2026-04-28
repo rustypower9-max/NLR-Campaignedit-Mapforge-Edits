@@ -161,11 +161,6 @@ country_event = {
 			militancy=-1
 			consciousness=-1
 		}
-		HND = {
-			all_core = {
-				add_core = EIC
-			}
-		}
 		add_accepted_culture = marathi
         ai_chance = {
 			factor = 0.5
@@ -180,12 +175,51 @@ country_event = {
 			militancy=-1
 			consciousness=-1
 		}
-		HND = {
-			all_core = {
-				add_core = EIC
-			}
-		}
 		add_accepted_culture = avadhi
+        ai_chance = {
+			factor = 0.5
+    	}
+	}
+}
+
+country_event = {
+	id = 600136
+
+	is_triggered_only = yes
+
+	mean_time_to_happen = {
+		days = 1
+	}
+
+    title = "EVTNAME600136"
+	desc = "EVTDESC600136"
+	picture = "india_culutre"
+    option = {
+        name = "Promote Telegu"
+        any_pop = {
+			limit = {
+				OR = {
+					culture = telegu
+				}
+			}
+			militancy=-1
+			consciousness=-1
+		}
+		add_accepted_culture = telegu
+        ai_chance = {
+			factor = 0.5
+    	}
+	}
+	option = {
+        name = "Promote Rajput!"
+        any_pop = {
+			limit = {
+				culture = rajput
+			}
+			militancy=-1
+			consciousness=-1
+		}
+		add_accepted_culture = rajput
         ai_chance = {
 			factor = 0.5
     	}

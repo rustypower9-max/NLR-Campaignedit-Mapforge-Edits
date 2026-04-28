@@ -1,6 +1,6 @@
-owner = EIC
-controller = EIC
+owner = SRI
+controller = SRI
+add_core = SRI
 add_core = HND
 trade_goods = tea
 life_rating = 32
-colonial = 2

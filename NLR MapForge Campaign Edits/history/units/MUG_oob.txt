@@ -2,33 +2,33 @@ army = {
 	name = "The Army of His Imperial Majesty"
 	location = 1236
 	regiment = {
-		name= "1st Pampat Infantry"
-		type = infantry
-		home = 1237
+		name= "1st Benares Militia"
+		type = irregular
+		home = 1245
 	}
 
 	regiment = {
-		name= "1st Dehra Dun Infantry "
-		type = infantry
-		home = 1238
+		name= "2nd Benares Militia"
+		type = irregular
+		home = 1245
 	}
 
 	regiment = {
-		name= "1st Meerut Infantry"
-		type = infantry
-		home = 1239
+		name= "1st Allahabad Militia"
+		type = irregular
+		home = 1243
 	}
 	
 	regiment = {
-		name= "2nd Meerut Infantry"
-		type = infantry
-		home = 1239
+		name= "2nd Allahabad Militia"
+		type = irregular
+		home = 1243
 	}
 	
 	regiment = {
-		name= "1st Delhi Infantry"
-		type = infantry
-		home = 1236
+		name= "1st Cawnpore Militia"
+		type = irregular
+		home = 1241
 	}
 	
 	regiment = {
@@ -55,8 +55,65 @@ army = {
 		home = 1241
 	}
 	regiment = {
-		name= "1st Gorakhpur Infantry"
+		name= "1st Simla Infantry"
 		type = infantry
-		home = 1246
+		home = 1235
+	}
+}
+
+army = {
+	name = "The 2nd Army of His Imperial Majesty"
+	location = 1236
+	regiment = {
+		name= "1st Pampat Infantry"
+		type = infantry
+		home = 1237
+	}
+
+	regiment = {
+		name= "1st Dehra Dun Infantry "
+		type = infantry
+		home = 1238
+	}
+
+	regiment = {
+		name= "1st Meerut Infantry"
+		type = infantry
+		home = 1239
+	}
+	
+	regiment = {
+		name= "2nd Meerut Infantry"
+		type = infantry
+		home = 1239
+	}
+	
+	regiment = {
+		name= "1st Agra Militia"
+		type = irregular
+		home = 1240
+	}
+	regiment = {
+		name= "3rd Benares Militia"
+		type = irregular
+		home = 1245
+	}
+
+	regiment = {
+		name= "3rd Allahabad Militia"
+		type = irregular
+		home = 1243
+	}
+	
+	regiment = {
+		name= "2nd Cawnpore Militia"
+		type = irregular
+		home = 1241
+	}
+	
+	regiment = {
+		name= "3rd Cawnpore Militia"
+		type = irregular
+		home = 1241
 	}
 }

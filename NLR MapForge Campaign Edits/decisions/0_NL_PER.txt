@@ -14,30 +14,15 @@ political_decisions = {
 			owns = 1209
 		}
 		effect = {
-			KAL_1221 = {
-				any_owned = {
-					add_core = THIS
-				}
+			KAL_1221 = { add_core = THIS }
 			}
-			AFG_1214 = {
-				any_owned = {
-					add_core = THIS
-				}
+			AFG_1214 = { add_core = THIS }
 			}
-			AFG_1217 = {
-				any_owned = {
-					add_core = THIS
-				}
+			AFG_1217 = { add_core = THIS }
 			}
-			RUS_1196 = {
-				any_owned = {
-					add_core = THIS
-				}
+			RUS_1196 = { add_core = THIS }
 			}
-            TUR_923 = {
-				any_owned = {
-					add_core = THIS
-				}
+            TUR_923 = { add_core = THIS }
 			}
             add_accepted_culture = kurdish
             add_accepted_culture = mashriqi

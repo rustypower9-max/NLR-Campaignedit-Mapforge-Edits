@@ -469,7 +469,7 @@ navy = {
 
 navy = {
 	name = "Danish Indian Fleet"
-	location = 3251
+	location = 1310
 	ship = {
 		name= "Waldemar IV"
 		type = manowar
