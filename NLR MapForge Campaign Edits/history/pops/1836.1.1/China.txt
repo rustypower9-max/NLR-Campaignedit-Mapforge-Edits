@@ -445,13 +445,7 @@
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 20000
-	}
-
-	artisans = {
-		culture = manchu
-		religion = mahayana
-		size = 6700
+		size = 26700
 	}
 
 	soldiers = {
@@ -1292,24 +1286,18 @@
 		size = 502025
 	}
 }
-#Hainan (3424000/856000 POPS) 
+#Hainan (2144000/536000 POPS) 
 1499 = {
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 17125
+		size = 7125
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
 		size = 8525
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 20000
 	}
 
 	artisans = {
@@ -1327,7 +1315,7 @@
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 779050
+		size = 479050
 	}
 }
 #Shaozhou (2384000/596000 POPS)
