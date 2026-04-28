@@ -16,7 +16,7 @@ A FORK of the NLR Campaign edits done by Skars and Companionnoob. General change
 
 - Some quality of life changes (no RP debuffs on NV/Academic, removed most decisions prestige and GP requirements)
 
-- CURRENTLY A WIP: Massive pop simplification by merging cultures (Polynesian, Indian), Religions (Eastern), and the pops themselves (Polynesia, Indonesia, Indochina, China; if applicable)
+- CURRENTLY A WIP: Massive pop simplification by merging cultures (Polynesian, Indian Cultures), Religions (Eastern), and the pops themselves (if applicable)
 Taking a while due to number of entries (100K\+)
 
 
