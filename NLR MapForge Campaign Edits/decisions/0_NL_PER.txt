@@ -23,5 +23,8 @@ political_decisions = {
             add_accepted_culture = mashriqi
 			set_country_flag = restored_persian_empire
 		}
+		ai_will_do = {
+			factor = 1
+		}
 	}
 }

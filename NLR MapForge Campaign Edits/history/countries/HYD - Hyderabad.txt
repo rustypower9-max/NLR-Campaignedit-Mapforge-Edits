@@ -1,6 +1,5 @@
 capital = 1283
 primary_culture = telegu
-culture = marathi
 culture = tamil
 religion = sunni
 government = absolute_monarchy

@@ -45,6 +45,9 @@ political_decisions = {
 			badboy = 15
 			set_country_flag = expanded_the_confederacy
 		}
+		ai_will_do = {
+			factor = 1
+		}
 	}
 
     stabilize_the_confederacy = {
@@ -66,6 +69,9 @@ political_decisions = {
 			set_country_flag = stabilized_the_confederacy
 			add_accepted_culture = telegu
 			add_accepted_culture = tamil
+		}
+		ai_will_do = {
+			factor = 1
 		}
 	}
 
@@ -90,6 +96,9 @@ political_decisions = {
 			add_accepted_culture = rajput
 			add_accepted_culture = sindi
 			add_accepted_culture = panjabi
+		}
+		ai_will_do = {
+			factor = 1
 		}
 	}
 
@@ -124,6 +133,9 @@ political_decisions = {
 			}
 			set_country_flag = glory_mug
 		}
+		ai_will_do = {
+			factor = 1
+		}
 	}
 
 	acceptance_of_the_bengali = {
@@ -151,6 +163,9 @@ political_decisions = {
 			ENG_1247 = { add_core = THIS }
 			add_accepted_culture = bengali
 		}
+		ai_will_do = {
+			factor = 1
+		}
 	}
 
 	acceptance_of_the_south = {
@@ -177,6 +192,9 @@ political_decisions = {
 			add_accepted_culture = telegu
 			add_accepted_culture = tamil
 		}
+		ai_will_do = {
+			factor = 1
+		}
 	}
 
 	acceptance_of_the_north = {
@@ -202,6 +220,9 @@ political_decisions = {
 			add_accepted_culture = rajput
 			add_accepted_culture = avadhi
 			add_accepted_culture = panjabi
+		}
+		ai_will_do = {
+			factor = 1
 		}
 	}
 }

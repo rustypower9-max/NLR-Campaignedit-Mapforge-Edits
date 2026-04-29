@@ -19,7 +19,7 @@ political_decisions = {
             ENG_1247 = {
                 owned_by = THIS
             }
-            nationalism_n_imperialism = 1
+            state_n_government = 1
             war = no
         }
         effect = {
@@ -37,6 +37,9 @@ political_decisions = {
             prestige = -15
             add_accepted_culture = bengali
         }
+		ai_will_do = {
+			factor = 1
+		}
     }
 
     form_british_india_democracy = {
@@ -50,23 +53,37 @@ political_decisions = {
                 owned_by = THIS
             }
             HND = {
-                all_core = {
-                    owned_by = THIS
-                }
-            }
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
             nationalism_n_imperialism = 1
             war = no
         }
         effect = {
-            add_accepted_culture = burmese
             HND = {
                 all_core = {
                     add_core = THIS
                 }
             }
+            BUR = {
+                all_core = {
+                    add_core = THIS
+                }
+            }
+            add_accepted_culture = burmese
             change_tag = IBE
             prestige = 30
         }
+		ai_will_do = {
+			factor = 1
+		}
     }
     
     form_british_india_monarchy = {
@@ -80,24 +97,38 @@ political_decisions = {
                 owned_by = THIS
             }
             HND = {
-                all_core = {
-                    owned_by = THIS
-                }
-            }
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
             nationalism_n_imperialism = 1
             war = no
         }
         effect = {
-            add_accepted_culture = burmese
             HND = {
                 all_core = {
                     add_core = THIS
                 }
             }
+            BUR = {
+                all_core = {
+                    add_core = THIS
+                }
+            }
+            add_accepted_culture = burmese
             government = absolute_monarchy
             change_tag = IBE
             prestige = 30
         }
+		ai_will_do = {
+			factor = 1
+		}
     }
 
     second_acceptance = {
@@ -118,6 +149,9 @@ political_decisions = {
             country_event = {id = 600036 days = 0}
             set_country_flag = second_acceptance
         }
+		ai_will_do = {
+			factor = 1
+		}
     }
 
     final_acceptance = {
@@ -144,5 +178,8 @@ political_decisions = {
             country_event = {id = 600136 days = 0}
             set_country_flag = final_acceptance
         }
+		ai_will_do = {
+			factor = 1
+		}
     }
 }
