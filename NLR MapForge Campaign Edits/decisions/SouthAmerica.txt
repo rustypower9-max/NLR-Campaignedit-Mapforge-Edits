@@ -613,6 +613,8 @@ political_decisions = {
 				tag = MEX
 				tag = GCO
 				tag = LPL
+				tag = USS
+				tag = HSA
 			}
 			NOT = {
 				has_country_modifier = the_homestead_act_mexico
@@ -637,9 +639,8 @@ political_decisions = {
 		picture = enact_the_homestead_act
 		potential = {
 			OR = {
-                tag = USS
-                tag = HSA
                 primary_culture = andean
+                accepted_culture = andean
 			}
 			OR = {
 				government = hms_government

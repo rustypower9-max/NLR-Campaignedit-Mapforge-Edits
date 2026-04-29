@@ -321,7 +321,7 @@ political_decisions = {
                     }
                     add_province_modifier = {
 	                    name = cultural_unification
-	                    duration = 7300
+	                    duration = 3650
                     }
                 }            
             }
