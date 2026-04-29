@@ -176,44 +176,44 @@ political_decisions = {
 		}
 	}
 
-	banda_oriental = {
-		potential = {
-			OR = { tag = ARG
-			       tag = LPL }
-			NOT = {
-				has_country_flag = banda_oriental_is_ours
-			}
-		}
-		
-		allow = {
-			romanticism = 1
+#	banda_oriental = {
+#		potential = {
+#			OR = { tag = ARG
+#			       tag = LPL }
+#			NOT = {
+#				has_country_flag = banda_oriental_is_ours
+#			}
+#		}
+#		
+#		allow = {
+#			romanticism = 1
 #			OR = {
 #				is_secondary_power = yes
 #				is_greater_power = yes
 #			}
-		}
-		
-		effect = {
-			set_country_flag = banda_oriental_is_ours #Uruguay provinces
-			2344 = {
-				add_core = ARG
-			}
-			2345 = {
-				add_core = ARG
-			}
-			2346 = {
-				add_core = ARG
-			}
-			2347 = {
-				add_core = ARG
-			}
-
-		}
-
-		ai_will_do = {
-			factor = 1
-		}
-	}
+#		}
+#		
+#		effect = {
+#			set_country_flag = banda_oriental_is_ours #Uruguay provinces
+#			2344 = {
+#				add_core = ARG
+#			}
+#			2345 = {
+#				add_core = ARG
+#			}
+#			2346 = {
+#				add_core = ARG
+#			}
+#			2347 = {
+#				add_core = ARG
+#			}
+#
+#		}
+#
+#		ai_will_do = {
+#			factor = 1
+#		}
+#	}
 
 	our_brothers_the_gauchos = {
 		potential = {
@@ -221,7 +221,6 @@ political_decisions = {
 				tag = ARG
 				tag = LPL
 			}
-			has_country_flag = banda_oriental_is_ours
 			NOT = { has_country_flag = rio_grande_del_sur_is_ours }
 		}
 		
