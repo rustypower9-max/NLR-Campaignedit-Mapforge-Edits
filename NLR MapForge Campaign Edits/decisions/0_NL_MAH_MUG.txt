@@ -17,6 +17,8 @@ political_decisions = {
 			war = no
 		}
 		effect = {
+            release_vassal = KUT
+			inherit = KUT
 			NAG = {
 				all_core = {
 					add_core = THIS
