@@ -128,6 +128,28 @@ country_event = {
 	}
 	
 	option = {
+		name = "United States of South America"
+		USS = {
+			country_event = { id=19300 days=0 }
+		}
+		ai_chance = {
+			factor = 1
+			modifier = { factor = 0 NAU = { exists = no } }
+		}
+	}
+	
+	option = {
+		name = "Patria Grande"
+		HSA = {
+			country_event = { id=19300 days=0 }
+		}
+		ai_chance = {
+			factor = 1
+			modifier = { factor = 0 NAU = { exists = no } }
+		}
+	}
+	
+	option = {
 		name = "Nevermind."
 		clr_global_flag = statue_of_liberty_has_been_built
 	}

@@ -41,7 +41,13 @@ political_decisions = {
 	refute_manifest_destiny = {
 		picture = manifest_destiny
 		potential = {
-			tag = MEX
+		    OR = {
+			    tag = MEX
+			    AND = {
+				    primary_culture = mexican
+				    capital = 2172
+			    }
+		    }
 			USA = { has_country_flag = hasmanifestdestiny }
 			NOT = {
 				has_country_flag = treaty_of_guadalupe_hidalgo
@@ -74,29 +80,4 @@ political_decisions = {
 			USA_106 = { add_core = MEX }
 		}
 	}
-	#RENO ADDITION
-	enact_the_homestead_act_mexico = {
-		picture = enact_the_homestead_act
-		potential = {
-			OR = {
-				tag = MEX
-				tag = GCO
-			}
-			NOT = {
-				has_country_modifier = the_homestead_act_mexico
-			}
-		}
-		
-		allow = {
-			year = 1862
-			prestige = 40
-		}
-		
-		effect = {
-			add_country_modifier = {
-				name = the_homestead_act_mexico
-				duration = -1
-			}
-		}
-	}	
 }

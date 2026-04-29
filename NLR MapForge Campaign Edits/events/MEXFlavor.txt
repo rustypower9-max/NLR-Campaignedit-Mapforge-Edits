@@ -3,7 +3,13 @@ country_event = {
 	id = 44800
 
 	trigger = {
-		tag = MEX
+		OR = {
+			tag = MEX
+			AND = {
+				primary_culture = mexican
+				capital = 2172
+			}
+		}
 		year = 1909
 		war = no
 		NOT = {
@@ -78,7 +84,13 @@ country_event = {
 	id = 44801
 
 	trigger = {
-		tag = MEX
+		OR = {
+			tag = MEX
+			AND = {
+				primary_culture = mexican
+				capital = 2172
+			}
+		}
 		year = 1911
 		war = no
 		has_country_flag = Madero
@@ -141,7 +153,13 @@ country_event = {
 	id = 44802
 
 	trigger = {
-		tag = MEX
+		OR = {
+			tag = MEX
+			AND = {
+				primary_culture = mexican
+				capital = 2172
+			}
+		}
 		year = 1911
 		has_country_flag = MaderoRevolt
 		NOT = {
@@ -191,7 +209,13 @@ country_event = {
 	id = 44803
 
 	trigger = {
-		tag = MEX
+		OR = {
+			tag = MEX
+			AND = {
+				primary_culture = mexican
+				capital = 2172
+			}
+		}
 		has_country_flag = MaderoRevolt
 		year = 1911
 		NOT = {

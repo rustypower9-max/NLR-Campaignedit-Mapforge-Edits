@@ -48,11 +48,17 @@ country_event = {
 		    country_event = 600018
 		}
 		any_country = {
-			limit = { is_greater_power = yes }
+			limit = {
+                ai = no
+                is_greater_power = yes
+            }
 			treasury = 200000
 		}
 		any_country = {
-			limit = { is_greater_power = no }
+			limit = {
+                ai = no
+                is_greater_power = no
+            }
 			treasury = 100000
 		}
 		any_country = { 

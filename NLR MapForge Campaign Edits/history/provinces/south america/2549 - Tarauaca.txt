@@ -1,6 +1,7 @@
-owner = UPB
-controller = UPB
-add_core = UPB add_core = BRZ
+owner = PEU
+controller = PEU
+add_core = PEU
+add_core = BOL
 trade_goods = rubber
 life_rating = 35
 

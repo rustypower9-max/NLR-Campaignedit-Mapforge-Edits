@@ -2,7 +2,10 @@ political_decisions = {
 #Brazil
 	fatherland_volunteers = {
 		potential = {
-			tag = BRZ
+			OR = {
+                tag = BRZ
+			    tag = UPB 
+			}
 			government = hms_government
 			NOT = {
 				has_country_flag = pedro_said_it_best
@@ -21,7 +24,10 @@ political_decisions = {
 
 	the_golden_law = {
 		potential = {
-			tag = BRZ
+			OR = {
+                tag = BRZ
+			    tag = UPB 
+			}
 			OR = {
 				government = hms_government
 				government = democracy
@@ -33,7 +39,7 @@ political_decisions = {
 			}
 		}
 		allow = {
-			nationalism_n_imperialism = 1
+			state_n_government = 1
 		}
 		effect = {
 			set_country_flag = free_at_last
@@ -41,10 +47,43 @@ political_decisions = {
 				limit = {
 					pop_type = aristocrats
 				}
+				consciousness = 2
+				militancy = 5
+			}
+			political_reform = no_slavery	
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	accept_afrobrazil = {
+		potential = {
+            primary_culture = brazilian
+			OR = {
+				government = hms_government
+				government = democracy
+			}
+            
+			NOT = {
+				has_country_flag = afrobrazil_accepted
+				ruling_party_ideology = reactionary
+			}
+		}
+		allow = {
+            slavery = no_slavery
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			set_country_flag = afrobrazil_accepted
+			any_pop = {
+				limit = {
+					pop_type = aristocrats
+				}
 				consciousness = 5
 				militancy = 10
 			}
-			political_reform = no_slavery	
+            add_accepted_culture = afro_brazilian
 		}
 		ai_will_do = {
 			factor = 1
@@ -54,7 +93,9 @@ political_decisions = {
 	provincia_cisplatina={
 		picture = banda_oriental
 		potential = {
-			tag = BRZ
+			OR = {
+                tag = BRZ
+			}
 			NOT = {
 				has_country_flag = cisplatina_is_ours 
 			}
@@ -368,6 +409,604 @@ political_decisions = {
 			prestige = 3
 			plurality = 2
 			set_country_flag = establish_the_observatorio_astronomico
+		}
+	}
+
+    # La Plata
+    unite_la_plata = {
+       	picture = unite_la_plata
+        
+	    potential = {
+        		primary_culture = platinean
+            		NOT = { exists = LPL }
+        }
+        allow = {
+            war = no
+            is_mobilised = no
+            prestige = 50
+            nationalism_n_imperialism = 1
+            
+	        PRG = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = { in_sphere = THIS }
+                        owner = { vassal_of = THIS }
+                        province_id = 2420
+                    }
+				}
+            }
+            URU = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = { in_sphere = THIS }
+                        owner = { vassal_of = THIS }
+                    }
+				}
+            }
+            ARG = {
+                all_core = {
+                    OR = {
+                        owned_by = THIS
+                        owner = { in_sphere = THIS }
+                        owner = { vassal_of = THIS }
+                        province_id = 2131
+			            province_id = 2133
+			            region = BRZ_2463
+                    }
+				}
+            }
+		}
+
+        effect = {
+            prestige = 30
+            badboy = 10
+            ARG = { all_core = { add_core = LPL } } 
+            PRG = { all_core = { add_core = LPL } }
+            URU = { all_core = { add_core = LPL } }
+            BOL = { all_core = { add_core = LPL } }
+            change_tag = LPL
+            THIS = { inherit = ARG }
+            THIS = { inherit = PRG }
+            THIS = { inherit = URU }          
+            #916 = { remove_core = LPL }  #I don't get why these remove_cores exist
+           #2305 = { remove_core = LPL }  #so I removed them 
+           #2309 = { remove_core = LPL }
+           #2420 = { remove_core = LPL }	  #Except this one, don't want Mato Grosso to be Argentine
+        }
+
+        ai_will_do = { factor = 1 }
+   	}
+
+    # Gran Colombia
+    form_gran_colombia = {
+		potential = {
+			OR = {
+				tag = ECU
+				tag = CLM
+				tag = VNZ
+			}
+			NOT = {
+				exists = GCO
+			}
+		}	
+		allow = {
+			OR = {
+				GCO = {
+					all_core = {
+						owner = {
+							OR = {
+								tag = THIS
+								in_sphere = THIS
+								vassal_of = THIS
+							}
+						}
+					}
+				}
+				AND = {
+					war = no
+					prestige = 40
+					owns = 2247 #Bogota
+					owns = 2264 #Caracas
+					owns = 2279 #Quito
+				}
+			}
+		}
+		
+		effect = {
+			prestige = 10
+			any_country = {
+				limit = {
+					vassal_of = THIS
+					primary_culture = andean
+					NOT = { tag = BOL tag = PEU tag = CHL }
+				}
+				annex_to = THIS
+			}
+			any_country = {
+				limit = {
+					in_sphere = THIS
+				}
+				
+				any_owned = {
+					limit = {
+						is_core = GCO
+					}
+					secede_province = THIS
+				}
+
+			}
+			
+			2242 = { add_core = GCO } # Mahdia, VNZ core
+			2242 = { add_core = GCO } # Essequibo, VNZ core
+			
+			# some early claims we can roll with for future colombian lebensraum
+			2201 = { add_core = GCO }
+			2202 = { add_core = GCO }
+			2203 = { add_core = GCO }
+
+			change_tag = GCO
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+    central_american_overlordship = {
+        picture = central_america_decision
+		potential = {
+		    OR = {
+			    primary_culture = andean
+                accepted_culture = andean
+		    }
+			NOT = { accepted_culture = central_american }
+			FRA = {
+				OR = {
+					government = absolute_monarchy
+					government = prussian_constitutionalism
+					government = hms_government
+				}
+			}
+		}
+		allow = {
+			war = no
+			OR = {
+				ruling_party_ideology = conservative
+				ruling_party_ideology = reactionary
+			}
+            all_core = {
+                owned_by = THIS
+            }
+            nationalism_n_imperialism = 1
+            UCA = {
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+        }
+		effect = {
+            UCA = {
+                all_core = {
+                    add_core = THIS
+                }
+                annex_to = THIS
+            }
+            add_accepted_culture=central_american
+		}
+	}
+
+#Latin America / S. America in General
+
+	#RENO ADDITION: Homestead Acts
+	enact_the_homestead_act_mexico = {
+		picture = enact_the_homestead_act
+		potential = {
+			OR = {
+				tag = MEX
+				tag = GCO
+				tag = LPL
+			}
+			NOT = {
+				has_country_modifier = the_homestead_act_mexico
+			}
+		}
+		
+		allow = {
+			year = 1862
+			prestige = 40
+		}
+		
+		effect = {
+			add_country_modifier = {
+				name = the_homestead_act_mexico
+				duration = -1
+			}
+		}
+	}
+
+    # Accept the Afrolatinos
+    accept_afrolatino = {
+		picture = enact_the_homestead_act
+		potential = {
+			OR = {
+                tag = USS
+                tag = HSA
+                primary_culture = andean
+			}
+			OR = {
+				government = hms_government
+				government = democracy
+			}
+            
+			NOT = {
+				ruling_party_ideology = reactionary
+				accepted_culture = afro_caribeno
+			}
+		}
+		allow = {
+            slavery = no_slavery
+			nationalism_n_imperialism = 1
+		}
+		effect = {
+			any_pop = {
+				limit = {
+					pop_type = aristocrats
+				}
+				consciousness = 2
+				militancy = 4
+			}
+            add_accepted_culture = afro_caribeno
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+    # Call for a South American Union (Part 1)
+    call_for_south_american_union = {
+        picture = switch_to_liberty
+        potential = {
+			NOT = { tag = HSA }
+            OR = {
+                tag = GCO
+                tag = LPL
+                primary_culture = brazilian
+            }
+            capital_scope = { continent = south_america }
+            NOT = {
+                has_global_flag = the_call_for_south_american_union
+                exists = USS
+            }
+        }
+
+        allow = {
+            prestige = 50
+            nationalism_n_imperialism = 1
+            rank = 12
+            war = no
+        }
+
+        effect = {
+            set_global_flag = the_call_for_south_american_union
+            prestige = 10
+			badboy = 10
+            any_country = {
+                limit = {
+                    NOT = { 
+                        tag = THIS
+                        tag = UPB
+                    }
+                    capital_scope = {
+                        continent = south_america
+                    }
+                }
+                country_event = 555100
+            }
+            all_core = { add_core = USS }
+			BRZ = {
+				all_core = { add_core = USS }
+			}
+			##failsafes##  Kept in just in case
+			PEU = {
+				all_core = { add_core = USS }
+			}
+			BOL = {
+				all_core = { add_core = USS }
+			}
+			GCO = {
+				all_core = { add_core = USS }
+			}
+			CHL = {
+				all_core = { add_core = USS }
+			}
+			ARG = {
+				all_core = { add_core = USS }
+			}
+			URU = {
+				all_core = { add_core = USS }
+			}
+			PRG = {
+				all_core = { add_core = USS }
+			}
+        }
+        ai_will_do = {
+            factor = 1
+        }
+    }
+    
+    # Form South American Union, Part 2
+    form_USSA = {
+        picture = switch_to_freedom
+        potential = {
+			NOT = { tag = HSA }
+            OR = {
+                tag = GCO
+                tag = LPL
+                primary_culture = brazilian
+            }
+            NOT = {
+                exists = USS
+            }
+            has_global_flag = the_call_for_south_american_union
+        }
+
+        allow = {
+            prestige = 100
+            revolution_n_counterrevolution = 1
+            rank = 10
+            war = no
+            USS = {
+                all_core = {
+                    OR = {
+                        empty = yes
+                        owned_by = THIS
+                        owner = {
+                            capital_scope = {
+                                continent = south_america
+                            }
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_greater_power = no
+                        }
+                        owner = {
+                            tag = UPB
+                            OR = {
+                                in_sphere = THIS
+                                vassal_of = THIS
+                            }
+                            war = no
+                            is_greater_power = no
+                        }
+                        owner = {
+                            capital_scope = {
+                                NOT = { continent = south_america }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        effect = {
+            prestige = 20
+			badboy = 10
+            change_tag = USS
+            add_accepted_culture = andean
+            add_accepted_culture = platinean
+            add_accepted_culture = brazilian
+            any_country = {
+				limit = {
+					OR = {
+                        primary_culture = andean
+                        primary_culture = platinean
+                        primary_culture = brazilian
+                    }
+			        OR = {
+					   in_sphere = THIS
+					   vassal_of = THIS
+					}
+					NOT = {
+						tag = THIS
+					}
+				}
+				annex_to = THIS
+			}
+            any_country = {
+                limit = {
+                    any_owned_province = {
+                        is_core = USS
+                    }
+					NOT = {
+						primary_culture = andean
+						primary_culture = platinean
+						primary_culture = brazilian
+                    }
+                    OR = {
+                        in_sphere = THIS
+                        vassal_of = THIS
+                    }
+					NOT = {
+						tag = THIS
+					}
+                }
+                any_owned = {
+                    limit = {
+                        is_core = USS
+                    }
+                    secede_province = USS
+                }
+            }
+        }
+
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+    claim_patria_grande = {
+		picture = spanish_commonwealth_decision
+		potential = {
+			ai = no
+			is_culture_group = latin_american_cultures
+            OR = {
+                tag = GCO
+                tag = LPL
+                AND = {
+                    tag = MEX
+                    has_country_flag = mexican_empire
+                }
+            }
+			NOT = {
+				primary_culture = brazilian
+				has_global_flag = HSA_claimed
+                exists = HSA
+			}
+		}
+
+		allow = {
+            prestige = 50
+            nationalism_n_imperialism = 1
+            rank = 12
+            war = no
+		}
+
+		effect = {
+			set_global_flag = HSA_claimed
+			badboy = 5
+			prestige = 15
+			all_core = {
+				add_core = HSA
+			}
+			any_country = {
+				limit = {
+					is_culture_group = latin_american_cultures
+					NOT = {
+						OR = {
+							primary_culture = brazilian
+							primary_culture = caribeno
+						}
+					}
+				}
+				all_core = { add_core = HSA }
+				country_event = 4206976
+			}
+		}
+	}
+
+    form_patria_grande = {
+		picture = spanisharmada
+		potential = {
+			ai = no
+			is_culture_group = latin_american_cultures
+            has_global_flag = HSA_claimed
+			NOT = {
+				primary_culture = brazilian
+                exists = HSA
+            }
+		}
+
+		allow = {
+			revolution_n_counterrevolution = 1
+			rank = 10
+			war = no
+			MEX = {
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			UCA = {
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			GCO = {
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			PEU = {
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			CHL = {
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+			LPL = {
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
+		}
+
+		effect = {
+			badboy = 20
+			prestige = 25
+			change_tag = HSA
+            add_accepted_culture = andean
+            add_accepted_culture = platinean
+            add_accepted_culture = mexican
+            add_accepted_culture = central_american
+			any_country = {
+				limit = {
+					is_culture_group = latin_american_cultures
+					NOT = { primary_culture = brazilian }
+					OR = {
+                        vassal_of = THIS
+                        in_sphere = THIS
+                    }
+				}
+				country_event = 4206977
+			}
 		}
 	}
 
