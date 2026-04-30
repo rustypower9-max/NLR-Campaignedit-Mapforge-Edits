@@ -370,13 +370,13 @@
     soldiers = {
     	culture = malay
     	religion = sunni
-    	size = 75
+    	size = 275
     }
 
     farmers = {
     	culture = malay
     	religion = sunni
-    	size = 5425
+    	size = 5225
     }
 }
 #Kuching (88000/22000 POPS)
@@ -434,13 +434,13 @@
     soldiers = {
     	culture = malay
     	religion = sunni
-    	size = 150
+    	size = 550
     }
 
     farmers = {
     	culture = malay
     	religion = sunni
-    	size = 10100
+    	size = 9700
     }
 }
 #Api (56000/14000 POPS)
@@ -466,13 +466,13 @@
     soldiers = {
     	culture = malay
     	religion = sunni
-    	size = 150
+    	size = 1650
     }
 
     farmers = {
     	culture = malay
     	religion = sunni
-    	size = 12475
+    	size = 10975
     }
 }
 #Under the Rule of Sulu in 1836 (40000)
@@ -499,12 +499,12 @@
     soldiers = {
     	culture = malay
     	religion = sunni
-    	size = 100
+    	size = 500
     }
 
     farmers = {
     	culture = malay
     	religion = sunni
-    	size = 9225
+    	size = 8825
     }
 }

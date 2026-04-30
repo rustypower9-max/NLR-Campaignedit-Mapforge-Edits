@@ -209,13 +209,13 @@
 	soldiers = {
 		culture = filipino
 		religion = catholic
-		size = 850
+		size = 2850
 	}
 
 	farmers = {
 		culture = filipino
 		religion = catholic
-		size = 72075
+		size = 70075
 	}
 }
 #Tacloban (348000/87000 POPS)
@@ -241,13 +241,13 @@
 	soldiers = {
 		culture = filipino
 		religion = catholic
-		size = 850
+		size = 2850
 	}
 
 	farmers = {
 		culture = filipino
 		religion = catholic
-		size = 80125
+		size = 78125
 	}
 }
 #Cebu (304000/76000 POPS)

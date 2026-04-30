@@ -134,27 +134,27 @@ army = {
 	regiment = {
 		name= "2. Brigada de Infanteria"
 		type = infantry
-		home = 2211
+		home = 2123
 	}
 	regiment = {
 		name= "2. Brigada de Infanteria"
 		type = infantry
-		home = 2211
+		home = 1383
 	}
 	regiment = {
 		name= "2. Brigada de Infanteria"
 		type = artillery
-		home = 2212
+		home = 1317
 	}
 	regiment = {
 		name= "2. Brigada de Infanteria"
 		type = artillery
-		home = 2212
+		home = 1382
 	}
 	regiment = {
 		name= "2. Brigada de Infanteria"
 		type = artillery
-		home = 2222
+		home = 1317
 	}
 	regiment = {
 		name= "2. Brigada de Infanteria"
@@ -185,7 +185,7 @@ army = {
 	regiment = {
 		name= "1. Brigada de Artilleria"
 		type = artillery
-		home = 1394
+		home = 1461
 	}
 	regiment = {
 		name= "3. Brigada de Artilleria"
@@ -200,22 +200,22 @@ army = {
 	regiment = {
 		name= "5. Brigada de Artilleria"
 		type = artillery
-		home = 1317
+		home = 1460
 	}
 	regiment = {
 		name= "1. Brigada de Infanteria"
 		type = infantry
-		home = 1317
+		home = 1394
 	}
 	regiment = {
 		name= "2. Brigada de Infanteria"
 		type = infantry
-		home = 1460
+		home = 1383
 	}
 	regiment = {
 		name= "3. Brigada de Infanteria"
 		type = infantry
-		home = 1461
+		home = 1396
 	}
 	regiment = {
 		name= "4. Brigada de Infanteria"

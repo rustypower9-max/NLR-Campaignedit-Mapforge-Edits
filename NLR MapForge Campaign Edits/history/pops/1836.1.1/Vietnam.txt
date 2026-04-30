@@ -557,13 +557,13 @@
     soldiers = {
     	culture = vietnamese
     	religion = theravada
-    	size = 400
+    	size = 1400
     }
 
     farmers = {
     	culture = vietnamese
     	religion = theravada
-    	size = 39725
+    	size = 38725
     }
 }
 #Vinhlong (120000/30000 POPS)

@@ -340,6 +340,6 @@ country_event = {
         
         capital = 2447
         2447 = { life_rating = 5 }
-        521 = { life_rating = -5 }
+        521 = { life_rating = -3 } # 37 LR
 	}
 }
