@@ -3,5 +3,5 @@ controller = TIB
 add_core = TIB
 add_core = CHI
 trade_goods = cattle
-life_rating = 25
+life_rating = 35
 

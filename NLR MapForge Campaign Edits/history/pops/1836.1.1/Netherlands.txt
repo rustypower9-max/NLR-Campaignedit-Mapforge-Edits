@@ -12,13 +12,13 @@
 		religion = jewish
 		size = 150
 	}
-	
+
 	craftsmen = {
 		culture = ashkenazi
 		religion = jewish
 		size = 1350
 	}
-	
+
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
@@ -52,25 +52,19 @@
 	artisans = {
 		culture = dutch
 		religion = protestant
-		size = 15000
+		size = 20000
 	}
 
 	artisans = {
 		culture = dutch
 		religion = protestant
-		size = 15000
+		size = 20000
 	}
 
 	artisans = {
 		culture = dutch
 		religion = protestant
-		size = 15000
-	}
-
-	artisans = {
-		culture = dutch
-		religion = protestant
-		size = 13650
+		size = 18650
 	}
 
 	clerks = {
@@ -78,11 +72,13 @@
 		religion = protestant
 		size = 150
 	}
+
 	craftsmen = {
 		culture = dutch
 		religion = protestant
 		size = 5850
 	}
+
 	soldiers = {
 		culture = dutch
 		religion = protestant
@@ -100,7 +96,7 @@
 		religion = catholic
 		size = 150
 	}
-	
+
 	artisans = {
 		culture = flemish
 		religion = catholic
@@ -124,13 +120,13 @@
 	artisans = {
 		culture = dutch
 		religion = protestant
-		size = 15000
+		size = 20000
 	}
 
 	artisans = {
 		culture = dutch
 		religion = protestant
-		size = 10050
+		size = 5050
 	}
 
 	craftsmen = {
@@ -138,7 +134,7 @@
 		religion = protestant
 		size = 2700
 	}
-	
+
 	soldiers = {
 		culture = dutch
 		religion = protestant
@@ -156,7 +152,7 @@
 		religion = jewish
 		size = 300
 	}
-	
+
 	artisans = {
 		culture = ashkenazi
 		religion = jewish
@@ -186,13 +182,7 @@
 	artisans = {
 		culture = dutch
 		religion = protestant
-		size = 15000
-	}
-
-	artisans = {
-		culture = dutch
-		religion = protestant
-		size = 1500
+		size = 16500
 	}
 
 	craftsmen = {
@@ -200,7 +190,7 @@
 		religion = protestant
 		size = 1500
 	}
-	
+
 	soldiers = {
 		culture = dutch
 		religion = protestant
@@ -256,7 +246,6 @@
 		religion = catholic
 		size = 1650
 	}
-
 }
 #Limburg-Gelderland Region - 979400
 #Eindhoven (230000/57500 POPS)
@@ -353,7 +342,7 @@
 		size = 1650
 	}
 
-	labourers = {
+	farmers = {
 		culture = dutch
 		religion = protestant
 		size = 52075
@@ -378,7 +367,7 @@
 		religion = protestant
 		size = 6000
 	}
-	
+
 	clerks = {
 		culture = dutch
 		religion = protestant
@@ -446,7 +435,7 @@
 		religion = protestant
 		size = 2250
 	}
-	
+
 	soldiers = {
 		culture = dutch
 		religion = protestant
@@ -514,7 +503,7 @@
 		religion = protestant
 		size = 2250
 	}
-	
+
 	soldiers = {
 		culture = dutch
 		religion = protestant
@@ -544,7 +533,6 @@
 		religion = protestant
 		size = 2400
 	}
-
 }
 #Friesland-Groningen Region : 713800
 #Groningen (186600/46650 POPS)
@@ -597,7 +585,7 @@
 		size = 53175
 	}
 
-	labourers = {
+	farmers = {
 		culture = north_german
 		religion = protestant
 		size = 1650
@@ -760,5 +748,4 @@
 		religion = protestant
 		size = 1650
 	}
-
 }

@@ -133,64 +133,64 @@
 #New Ireland (104000/POPS) 
 1531 = {
 	aristocrats = {
-		culture = malay
-		religion = animist
+		culture = british
+		religion = protestant
 		size = 500
 	}
 
 	clergymen = {
-		culture = malay
-		religion = animist
+		culture = british
+		religion = protestant
 		size = 250
 	}
 
 	artisans = {
-		culture = malay
-		religion = animist
+		culture = british
+		religion = protestant
 		size = 1300
 	}
 
 	soldiers = {
-		culture = malay
-		religion = animist
+		culture = british
+		religion = protestant
 		size = 275
 	}
 
 	farmers = {
-		culture = malay
-		religion = animist
+		culture = british
+		religion = protestant
 		size = 23675
 	}
 }
 #New Britain (144000/POPS) 
 2537 = {
 	aristocrats = {
-		culture = malay
-		religion = animist
+		culture = british
+		religion = protestant
 		size = 700
 	}
 
 	clergymen = {
-		culture = malay
-		religion = animist
+		culture = british
+		religion = protestant
 		size = 350
 	}
 
 	artisans = {
-		culture = malay
-		religion = animist
+		culture = british
+		religion = protestant
 		size = 1800
 	}
 
 	soldiers = {
-		culture = malay
-		religion = animist
+		culture = british
+		religion = protestant
 		size = 375
 	}
 
 	farmers = {
-		culture = malay
-		religion = animist
+		culture = british
+		religion = protestant
 		size = 32775
 	}
 }

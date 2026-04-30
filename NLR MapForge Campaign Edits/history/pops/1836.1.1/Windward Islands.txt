@@ -16,49 +16,25 @@
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 50
+		size = 125
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 1750
+		size = 5600
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 50
-	}
-
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 1100
-	}
-
-	clergymen = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 75
-	}
-
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 2750
-	}
-
-	soldiers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 250
+		size = 300
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 18925
+		size = 22000
 	}
 }
 #Saint Lucia (18000/4500 POPS) #now independent
@@ -72,35 +48,17 @@
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 10
+		size = 60
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 130
-	}
-
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 100
-	}
-
-	clergymen = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 100
+		size = 330
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 50
 	}
@@ -108,7 +66,7 @@
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 4050
+		size = 4250
 	}
 }
 #Dominica (19000/4750 POPS) #now independent
@@ -122,35 +80,17 @@
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 10
+		size = 60
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 130
-	}
-
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 100
-	}
-
-	clergymen = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 150
+		size = 380
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 50
 	}
@@ -158,7 +98,7 @@
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 4250
+		size = 4500
 	}
 }
 #Grenada (30000/7500 POPS) #now independent
@@ -172,49 +112,25 @@
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 20
+		size = 70
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 250
+		size = 600
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 5
-	}
-
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 200
-	}
-
-	clergymen = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 150
-	}
-
-	soldiers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 75
+		size = 80
 	}
 
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 6725
+		size = 7000
 	}
 }
 #Saint Vincent (21000/5250 POPS) #now independent
@@ -228,35 +144,17 @@
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 10
+		size = 60
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 130
-	}
-
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 100
-	}
-
-	clergymen = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 200
+		size = 430
 	}
 
 	soldiers = {
-		culture = afro_caribbean
+		culture = british
 		religion = protestant
 		size = 50
 	}
@@ -264,7 +162,6 @@
 	farmers = {
 		culture = afro_caribbean
 		religion = protestant
-		size = 4700
+		size = 5000
 	}
-
 }

@@ -96,7 +96,6 @@ germanic = {
 		last_names = { Berg Bock Buxhoeveden Dellingshausen Derfelden Essen Engelhardt Fersen Keyserling Korff Lieven Manteuffel
 		Meyendorff Patkul Pahlen Rehbinder Rosen Stackelberg Tiesenhausen Uexküll Vietinghoff Wrangel	
 		"von Berg" "von Bock" "von Buxhoeveden" "von Dellingshausen" "von der Pahlen" "von der Recke"
-		"von Essen" "von Engelhardt" "von Fersen" "von Keyserling" "von Korff" "von Lieven"
 		"von Manteuffel" "von Meyendorff" "von Patkul" "von Rehbinder" "von Rosen"
 		"von Stackelberg" "von Tiesenhausen" "von Uexküll" "von Vietinghoff" "von Wrangel"
 		}
@@ -568,21 +567,34 @@ south_slavic = {
 		}
 	}
 	serb = {
-		color = {150 65 80}
-		first_names = { Alaksandar Blagoje Bozidar Branko Danilo Dejan Djordje Dragan Dragisa Dragoljub
-		Dragutin Draza Dusan Gavrilo Goran Janko Jovan Koca Kosta Krsto
-		Ljubisa Mihailo Milan Miliutin Milivoje Milojko Milos Miodrag Mirko Miroslav
-		Momcilo Nebojsa Nikola Pavle Peko Petar Radomir Ratko Sava Slobodan
-		Stepa Stojan Veljko Vaselien Vladimir Vojislav Zivojin Zivota Zoran Zvezdan
-		}
+    	color = {150 65 80}
+	    first_names = {
+	    Alaksandar Blagoje Bozidar Branko Danilo Dejan Djordje Dragan Dragisa Dragoljub
+	    Dragutin Draza Dusan Gavrilo Goran Janko Jovan Koca Kosta Krsto
+	    Ljubisa Mihailo Milan Miliutin Milivoje Milojko Milos Miodrag Mirko Miroslav
+	    Momcilo Nebojsa Nikola Pavle Peko Petar Radomir Ratko Sava Slobodan
+	    Stepa Stojan Veljko Vaselien Vladimir Vojislav Zivojin Zivota Zoran Zvezdan
+	    Abdulvehhab Adnan Ahmed Ali Alija Asim Atif Beriz Dzemal Dzemaludin
+	    Elvir Enver Fikret Fuad Gazi Hakija Hamdija Hamid Haris Hasan
+	    Husein Irfan Isa Ivan Izet Jusuf Mehmed Meho Mirsad Muhamed
+	    Musa Mustafa Naser Osman Raif Rasim Refik Safet Safvet Sefer
+	    Sejad Semezdin Semir Skender Sokollu Sulejman Vedad Zija Zlatko Zuko
+	    }
+	
+	    last_names = {
+	    Adzic Arandelovic Belimarkovic Blaznacac Bojovic Bozanovic Bozinovic Brankovic Damjanic Dapcevic
+	    Dragutinovic Grujic Hadzilic Horvatovic Isakovic Jankovic Jokic Jovanovic Kadijevic Karadjordjevic
+	    Lesjanin Ljubicic Maric Mihailovic Miliutinovic Miloradovic Misic Nad Nedic Novak
+	    Obrenovic Ojdanic Panic Paskas Pavkovic Pesic Petrovic Popovic Radulovic
+	    Rasic Sijan Simovic Sokolovic Stepanovic Vasiljevic Veric Vojvodic Vukotic Zivkovic
+	    Abdic Arapovic Basgic Belkic Bijedic Catic Causevic Ceric Colakovic Dizdar
+	    Dizdarevic Dzikic Dzumhur Ekrem Gradascevic Halilovic Husrev Ibisevic Ilhamija Imamovic
+	    Izetbegovic Kodro Konjic Kulenovic Lagumdzija Ljajic Ljubijankic Mehmedinovic
+	    Muradbegovic Muzurovic Osmanagic Peco Plakalo Pozderac Prazina Rizvanbegovic Sabanadzovic Salihovic
+	    Sarajlic Selimovic Silajdzic Spaho Terzic Tihic Turaljic Tukcan Ugljanin
+	    }
 
-		last_names = { Adzic Arandelovic Belimarkovic Blaznacac Bojovic Bozanovic Bozinovic Brankovic Damjanic Dapcevic
-		Dragutinovic Grujic Hadzilic Horvatovic Isakovic Jankovic Jokic Jovanovic Kadijevic Karadjordjevic
-		Lesjanin Ljubicic Maric Mihailovic Miliutinovic Miloradovic Misic Nad Nedic Novak
-		Obrenovic Ojdanic Panic Paskas Pavkovic Pesic Petrovic Popovic Radulovic
-		Rasic Sijan Simovic Sokolovic Stepanovic Vasiljevic Veric Vojvodic Vukotic Zivkovic
-		}
-		radicalism = 15
+    radicalism = 15
 	}
 	bulgarian = {
 		color = {65 150 100}
@@ -631,22 +643,6 @@ south_slavic = {
 		Kidric Komar Kopitar Kraigher Lipovsek Lipuscek Macek Maister Marinko Miklosic
 		Mravlajk Pengov Pesek Peterle Pirec Plecnik Rozman Rupnik Sarh Srebrnic
 		Tomazic Tomsic Urbancic Vega "Von Windisch-Gratz" Zagar Zerjal Zizke Zornada Zupancic
-		}
-	}
-	bosniak = {
-		color = {30 200 200}
-		first_names = { Abdulvehhab Adnan Ahmed Ali Alija Asim Atif Beriz Dzemal Dzemaludin
-		Elvir Enver Fikret Fuad Gazi Hakija Hamdija Hamid Haris Hasan
-		Husein Irfan Isa Ivan Izet Jusuf Mehmed Meho Mirsad Muhamed
-		Musa Mustafa Naser Osman Raif Rasim Refik Safet Safvet Sefer
-		Sejad Semezdin Semir Skender Sokollu Sulejman Vedad Zija Zlatko Zuko
-		}
-
-		last_names = { Abdic Arapovic Basgic Belkic Bijedic Catic Causevic Ceric Colakovic Dizdar
-		Dizdarevic Dzikic Dzumhur Ekrem Gradascevic Halilovic Husrev Ibisevic Ilhamija Imamovic
-		Isakovic Izetbegovic Kodro Konjic Kulenovic Lagumdzija Ljajic Ljubicic Ljubijankic Mehmedinovic
-		Muradbegovic Muzurovic Osmanagic Peco Plakalo Pozderac Prazina Rizvanbegovic Sabanadzovic Salihovic
-		Sarajlic Selimovic Silajdzic Sokolovic Spaho Terzic Tihic Turaljic Tukcan Ugljanin 
 		}
 	}
 	union = YUG
@@ -1136,25 +1132,18 @@ central_asian = {
 	}
 	
 	tibetan = {
-		color = {99 43 89}
-		first_names = { 
-			Tsarong Chamba Trimon Penor Gendun Jamphel Norbhu Mipham Tsepon Andruk Namgang 
-		}
-		
-		last_names = { 
-               Dzasa Wangyal Shatra Lungshar Rinpoche Chophel Shakabpa Tashi 
-		}
-		radicalism = 10
-	}
-	nepali = {
-		color = {173 123 190}
-		first_names = { Bhimsen Amar Ranjur Bhakti Jang Renaudip Shamsher "Bir Shamsher" "Deva Shamsher" "Chandra Shamsher" "Bhim Shamsher" 
-			
-		}
-		
-		last_names = { Thapa "Singh Thapa" Singh Rana "Bahadur Rana" 
-               
-		}
+	    color = {99 43 89}
+	    first_names = {
+	        Tsarong Chamba Trimon Penor Gendun Jamphel Norbhu Mipham Tsepon Andruk Namgang
+	        Bhimsen Amar Ranjur Bhakti Jang Renaudip Shamsher "Bir Shamsher" "Deva Shamsher" "Chandra Shamsher" "Bhim Shamsher"
+	    }
+	
+	    last_names = {
+	        Dzasa Wangyal Shatra Lungshar Rinpoche Chophel Shakabpa Tashi
+	        Thapa "Singh Thapa" Singh Rana "Bahadur Rana"
+	    }
+	
+	    radicalism = 10
 	}
 }
 
@@ -1171,16 +1160,6 @@ south_asian = {
                
 		}
 	}
-	oriya = {
-		color = {190 63 88}
-		first_names = { Dibvyasimhadeva Harekrushnadeva Gopinathdeva Ramachandradeva Padmanavadeva Birakishoredeva Mukundadeva
-			
-		}
-		
-		last_names = { Deva Das Rao Mohaptra Mishra
-               
-		}
-	}
 	avadhi = {
 		color = {90 64 23}
 		first_names = { Lokendra Raghuraj Vijay Vishvanath Pheran Jugal Parbhu Narayan Ishvari Udit Prasan Mahip
@@ -1192,34 +1171,17 @@ south_asian = {
 		}
 	}
 	panjabi = {
-		color = {190 180 170}
-		first_names = { Ranjit Kharak Nau Nihal Chand Kaur Shir Dhalip Diwan Jassa Hari Bhuma Nawab Banda Baba Kapur
-			
-		}
-		
-		last_names = { Singh Kunwar Bahadur Dhillon Nalwa Ahluwalia Ramgarhia Mal Mulraj
-               
-		}
-	}
-	kashmiri = {
-		color = {170 88 200}
-		first_names = { Atta Sher Muhammad Abdullah Vakil Kifayat Rahmatullah Mir Mirza Juma Mulla Mirdad Madad Azad Haji Karimdad
-			
-		}
-		
-		last_names = { Jawansher Khan "Ghafar Khan" Alokzai "Muhammad Khan" Bamzai
-               
-		}
-	}
-	gujarati = {
-		color = {99 12 89}
-		first_names = { Chetan Fakirbhai Jivraj Madhavsingh Khemchand Manubhai Bharatsingh Balwantry Chabildas Maniraj 
-			
-		}
-		
-		last_names = { Pansara Vaghela Solanki Modhvadia Mehta Baro Parmar
-               
-		}
+    	color = {190 180 170}
+
+    	first_names = {
+        Ranjit Kharak Nau Nihal Chand Kaur Shir Dhalip Diwan Jassa Hari Bhuma Nawab Banda Baba Kapur
+        Atta Sher Muhammad Abdullah Vakil Kifayat Rahmatullah Mir Mirza Juma Mulla Mirdad Madad Azad Haji Karimdad
+    	}
+
+		last_names = {
+        Singh Kunwar Bahadur Dhillon Nalwa Ahluwalia Ramgarhia Mal Mulraj
+        Jawansher Khan "Ghafar Khan" Alokzai "Muhammad Khan" Bamzai
+    	}
 	}
 	marathi = {
 		color = {190 220 10}
@@ -1242,84 +1204,52 @@ south_asian = {
 		}
 	}
 	rajput = {
-		color = {192 232 147}
-		first_names = { Sardar Fateh Muhammad Malik Umar Hayat Rai Hussain Veer Durga Bhai Rao Harsha Bhagwant "Mirza Raja" Jawapala Sawai
-			
-		}
-		
-		last_names = { "ur Rahman" Bhatti Tiwana Qaim Kunwar "Bachittar Singh" Shekha
-               
-		}
-		radicalism = 10
-	}
-	kannada = {
-		color = {82 32 170}
-		first_names = { Aliya Abbakka Amoghavarasha Basaveshwara Bijjala Guvida Harihara Kempe Krishnadeva Krisnaraja Mayuravarma Pulakesi Rani Chennamma Sagolli Tailapa Veera Vikramaditya Vishnuvardhana
-			
-		}
-		
-		last_names = { "Rama Raya" Rani Raya Bibi Wodeyar Gowda Nayaka Rayanna Ballala
-               
-		}
-	}
-	malayalam = {
-		color = {170 100 23}
-		first_names = { Cheraman Swathi Thirunal Sri Sakthan Raja Moolam Marthanda Dharma Chithira Balarama Ayilyam Saamoothiri
-			
-		}
-		
-		last_names = { Varma Kesavadas Thampuran "Rama Varma" Perumal
-               
-		}
-	}
-	tamil = {
-		color = {180 23 75}
-		first_names = { Ramayyan Seshayya Ramiengar Seshadri Shungrasoobyer Rajagopalachari Shanmukham Ramaswami Dheeran Subramania Chidambaram Sathyamurthy Vanchinathan Champakaraman
-			
-		}
-		
-		last_names = { Mudaliar Krishnamachari Rajapopalachari Sastri Dalawa
-               
-		}
-	}
-	telegu = {
-		color = {22 89 152}
-		first_names = { Vasireddy Venkatadri Uyyalawada Narasimha Veerapandiya Keneganti Alluri Potti Tanguturi Pingali Durgabai Sarojini Kandukuri
-			
-		}
-		
-		last_names = { Sitaramaraju Kattabomman Hanumathu Nayudu Deshmukh Naidu Veeresalingam Sriramulu
-               
-		}
-	}
-	baluchi = {
-		color = {132 70 171}
-		first_names = {
-			Abdullah Ahmad Azam Khudadad
-			Mehrab Mohammad Muhabbat 
-			Nasir Nawaz
-			Samandar Sherdil
-		}
-		last_names = {
-			Khan
-		}
-	}	
-	union = HND
-}
+    	color = {192 232 147}
+    	first_names = {
+    	    Sardar Fateh Muhammad Malik Umar Hayat Rai Hussain Veer Durga Bhai Rao Harsha Bhagwant "Mirza Raja" Jawapala Sawai
+	        Chetan Fakirbhai Jivraj Madhavsingh Khemchand Manubhai Bharatsingh Balwantry Chabildas Maniraj
+	    }
 
-sri_lankan = {
-	leader = indian
-	unit = IndianGC
-	sinhala = {
-		color = {74 39 40}
-		first_names = { Kirtisri Vikrama Sri Vijaya Viraparakkama Vimala Rajasingha Senarat  Anagarika Wimalaratne
-			
-		}
-		
-		last_names = { Dharmasurya Narendrasimha Rajasimha Rajadhirajasimha Doraisami
-               
-		}
+	    last_names = {
+	        "ur Rahman" Bhatti Tiwana Qaim Kunwar "Bachittar Singh" Shekha
+	        Pansara Vaghela Solanki Modhvadia Mehta Baro Parmar
+	    }
+
+	    radicalism = 10
 	}
+    tamil = {
+    	color = {180 23 75}
+
+    	first_names = {
+        	Ramayyan Seshayya Ramiengar Seshadri Shungrasoobyer Rajagopalachari Shanmukham Ramaswami Dheeran Subramania Chidambaram Sathyamurthy Vanchinathan Champakaraman
+        	Cheraman Swathi Thirunal Sri Sakthan Raja Moolam Marthanda Dharma Chithira Balarama Ayilyam Saamoothiri
+        	Kirtisri Vikrama Sri Vijaya Viraparakkama Vimala Rajasingha Senarat Anagarika Wimalaratne
+        	Amoghavarasha Basaveshwara Bijjala Harihara Krishnadeva Krisnaraja Mayuravarma Vikramaditya Vishnuvardhana
+    	}
+
+    	last_names = {
+    	    Mudaliar Krishnamachari Rajapopalachari Sastri Dalawa
+    	    Varma Kesavadas Thampuran "Rama Varma" Perumal
+    	    Dharmasurya Narendrasimha Rajasimha Rajadhirajasimha Doraisami
+	        "Rama Raya" Raya Ballala
+ 	   }
+	}
+    telegu = {
+    	color = {22 89 152}
+
+    	first_names = {
+    	    Vasireddy Venkatadri Uyyalawada Narasimha Veerapandiya Keneganti Alluri Potti Tanguturi Pingali Durgabai Sarojini Kandukuri
+    	    Dibvyasimhadeva Harekrushnadeva Gopinathdeva Ramachandradeva Padmanavadeva Birakishoredeva Mukundadeva
+	        Aliya Abbakka Guvida Kempe Pulakesi Rani Chennamma Sagolli Tailapa Veera
+	    }
+
+	    last_names = {
+	        Sitaramaraju Kattabomman Hanumathu Nayudu Deshmukh Naidu Veeresalingam Sriramulu
+	        Deva Das Rao Mohaptra Mishra
+	        Rani Bibi Wodeyar Gowda Nayaka Rayanna
+	    }
+	}
+	union = HND
 }
 
 southeast_asian = {
@@ -1407,24 +1337,17 @@ southeast_asian = {
 		}
 	}
 	burmese = {
-		color = {99 87 27}
-		first_names = { Thibaw Mindon Pagan Tharawadi Gabyidaw Bodawphaya Maung Singu Hsinbyushin Naungdawkyi Alaungphaya Maha Minkyaw Zeya
-			
-		}
-		
-		last_names = { Min Bagyidaw Bandula "Ne Myo" Myo Thura Dabayin
-               
-		}
-	}
-	asian_minor = {
-		color = {99 150 72}
-		first_names = { Abdul Vijaya Rajkumari Aurobindo Chandrashekhar Gopal Motilal Sardar Sarojini Subhas Srinivasa Mridula Gupinath Chittaranjan
-			
-		}
-		
-		last_names = { Singh Prasad Ambedkar Khan Pandit Besant Sarabhai Gaidinliu Iyengar Baharjee Naidu
-               
-		}
+   		color = {99 87 27}
+
+    	first_names = {
+        	Thibaw Mindon Pagan Tharawadi Gabyidaw Bodawphaya Maung Singu Hsinbyushin Naungdawkyi Alaungphaya Maha Minkyaw Zeya
+        	Abdul Vijaya Rajkumari Aurobindo Chandrashekhar Gopal Motilal Sardar Sarojini Subhas Srinivasa Mridula Gupinath Chittaranjan
+    	}
+
+    	last_names = {
+        	Min Bagyidaw Bandula "Ne Myo" Myo Thura Dabayin
+        	Singh Prasad Ambedkar Khan Pandit Besant Sarabhai Gaidinliu Iyengar Baharjee Naidu
+    	}
 	}
 	kachin = {
 		color = {255 98 76}
@@ -1534,24 +1457,17 @@ east_asian = {
 oceanic = {
 	leader = nativeamerican
 	polynesian = {
-		color = {89 35 168}
-		first_names = { Finau Ulukalala Taufa'ahau Tupou Taupe Havaiki Lika Longotahi Vaopuka "Te Taulu" Tavita Malietoa Iosefo William 
+	color = {89 35 168}
+	first_names = {
+		Finau Ulukalala Taufa'ahau Tupou Taupe Havaiki Lika Longotahi Vaopuka
+		"Te Taulu" Tavita Malietoa Iosefo William
+		Potatau Tukaroto Matutaera Tawhiao Mahuta "Te Rata" Koroki "Te Ata-i" Rangi-Kahu
+		Tem Makiatia Takahihi Tikoro Hakana Hakapeke Wekeia Poiaka Maehua Tawehi
 		}
-		last_names = { Ma'ufanga Feletoa Moengangongo Tuabayi Maeakafa "Te Fuli" Ielemia
-		}
-	}
-	maori = {
-		color = {95 14 187}
-		first_names = { Potatau Tukaroto Matutaera Tawhiao Mahuta "Te Rata" Koroki "Te Ata-i" Rangi-Kahu 
-		}
-		last_names = { Wherowhero Kenena Raouparah Herangi Ataarangikaahu 
-		}
-	}
-	micronesian = {
-		color = {68 213 88}
-		first_names = { Tem Makiatia Takahihi Tikoro Hakana Hakapeke Wekeia Poiaka Maehua Tawehi
-		}
-		last_names = { Tetabo Namoriki Karotu Tawaia Baiteke Binoka Bauro Tokatake Panena Mensile Sapwasap Totonu 
+	last_names = {
+		Ma'ufanga Feletoa Moengangongo Tuabayi Maeakafa "Te Fuli" Ielemia
+		Wherowhero Kenena Rauparaha Herangi Atairangikaahu
+		Tetabo Namoriki Karotu Tawaia Baiteke Binoka Bauro Tokatake Panena Mensile Sapwasap Totonu
 		}
 	}
 }

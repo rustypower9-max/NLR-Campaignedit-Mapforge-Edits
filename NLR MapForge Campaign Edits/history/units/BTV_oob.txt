@@ -168,23 +168,6 @@ army = {
 
 }
 
-
-army = {
-	name = "K.N.I.L."
-	location = 1413
-	regiment = {
-		name = "1e Indische Brigade"
-		type = infantry
-		home = 1413
-	}
-
-	regiment = {
-		name = "Banisaren Korps"
-		type = irregular
-		home = 1421
-	}
-}
-
 navy = {
 	name = "Koninklijke Marine"
 	location = 375 #Amsterdam

@@ -75,5 +75,4 @@
 		religion = catholic
 		size = 46425
 	}
-
 }

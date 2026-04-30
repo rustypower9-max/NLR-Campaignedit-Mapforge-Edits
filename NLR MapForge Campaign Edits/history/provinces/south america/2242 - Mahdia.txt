@@ -1,7 +1,6 @@
 owner = GBR
 controller = GBR
 add_core = VNZ
-add_core = GCO
 trade_goods = tropical_wood
 life_rating = 35
 colonial = 2

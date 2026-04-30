@@ -1,6 +1,7 @@
-owner = DAI
-controller = DAI
+owner = SPA
+controller = SPA
 add_core = DAI
 trade_goods = grain
-life_rating = 30
+life_rating = 35
+colonial = 2
 

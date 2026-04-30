@@ -18,6 +18,12 @@ army = {
 		type = infantry
 		home = 2283
 	}
+    
+	regiment = {
+		name= "4. Brigada de Artilleria"
+		type = artillery
+		home = 2282
+	}
 
 }
 

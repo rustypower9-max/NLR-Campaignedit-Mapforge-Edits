@@ -5,55 +5,43 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 22000
+		size = 25975
 	}
 
 	bureaucrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 10750
+		size = 11000
 	}
 
 	officers = {
 		culture = beifaren
 		religion = mahayana
-		size = 7600
+		size = 7750
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 11375
+		size = 13400
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
@@ -65,91 +53,25 @@
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 11500
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1045725
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3550
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1800
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8950
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1800
+		size = 13775
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 162900
+		size = 179000
 	}
 
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 425
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 225
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 1050
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 225
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 650
 	}
 
 	farmers = {
 		culture = beifaren
-		religion = sunni
-		size = 19075
-	}
-
-	bureaucrats = {
-		culture = manchu
 		religion = mahayana
-		size = 250
-	}
-
-	officers = {
-		culture = manchu
-		religion = mahayana
-		size = 150
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 250
+		size = 1048050
 	}
 }
 #Chizhou (5088000/1272000 POPS)
@@ -157,91 +79,49 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 23750
+		size = 25400
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 12000
+		size = 12850
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 9400
+		size = 23600
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 11900
+		size = 12750
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 84000
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 1080950
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1650
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 850
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 4200
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 850
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 76450
+		size = 1073400
 	}
 }
 #Fengyang (2224000/556000 POPS)
@@ -249,73 +129,37 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 10750
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 5500
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 7200
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 5450
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 495100
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 200
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 125
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 600
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 125
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
 		size = 10950
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 5625
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 7800
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 5575
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 506050
 	}
 }
 #Huizhou (4476000/1119000 POPS)
@@ -323,91 +167,43 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 21000
+		size = 21825
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 10775
+		size = 11200
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 3850
+		size = 16375
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 10800
+		size = 11225
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 980575
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 825
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 425
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 2525
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 425
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 37800
+		size = 1018375
 	}
 }
 #Luzhou (4484000/1121000 POPS)
@@ -415,91 +211,43 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 22100
+		size = 22350
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 11125
+		size = 11250
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 5400
+		size = 16050
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 11100
+		size = 11225
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 1008275
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 250
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 125
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 650
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 125
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 11850
+		size = 1020125
 	}
 }
 #Ningguo (4312000/1078000 POPS)
@@ -519,37 +267,19 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 4000
+		size = 14000
 	}
 
 	soldiers = {
@@ -581,25 +311,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 3600
+		size = 13600
 	}
 
 	soldiers = {
@@ -631,37 +349,19 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 2250
+		size = 12250
 	}
 
 	soldiers = {
@@ -693,13 +393,7 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
@@ -722,18 +416,18 @@
 }
 #Fengtian Region (2888000)
 #under the rule of China in 1836
-#Mukden (2128000/532000 POPS)
+#Mukden (1288000/270000 POPS)
 1479 = {
 	aristocrats = {
 		culture = manchu
 		religion = mahayana
-		size = 8000
+		size = 4175
 	}
 
 	bureaucrats = {
 		culture = manchu
 		religion = mahayana
-		size = 1300
+		size = 3300
 	}
 
 	officers = {
@@ -745,219 +439,87 @@
 	clergymen = {
 		culture = manchu
 		religion = mahayana
-		size = 4250
+		size = 5375
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = manchu
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = manchu
-		religion = mahayana
-		size = 1100
+		size = 26700
 	}
 
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 8000
+		size = 9150
+	}
+
+	farmers = {
+		culture = korean
+		religion = mahayana
+		size = 49000
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 32000
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 31000
 	}
 
 	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 376750
-	}
-
-	aristocrats = {
-		culture = korean
-		religion = mahayana
-		size = 950
-	}
-
-	clergymen = {
-		culture = korean
-		religion = mahayana
-		size = 500
-	}
-
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 2450
-	}
-
-	soldiers = {
-		culture = korean
-		religion = mahayana
-		size = 500
-	}
-
-	farmers = {
-		culture = korean
-		religion = mahayana
-		size = 44600
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 625
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 325
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 1600
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 325
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 29125
-	}
-
-	aristocrats = {
-		culture = mongol
-		religion = gelugpa
-		size = 600
-	}
-
-	clergymen = {
-		culture = mongol
-		religion = gelugpa
-		size = 300
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 1550
-	}
-
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 325
-	}
-
-	farmers = {
-		culture = mongol
-		religion = gelugpa
-		size = 28225
+		size = 116700
 	}
 }
-#Jinzhou (680000/170000 POPS)
+#Jinzhou (468000/117000 POPS)
 1480 = {
 	aristocrats = {
 		culture = manchu
 		religion = mahayana
-		size = 2800
+		size = 2000
 	}
 
 	clergymen = {
 		culture = manchu
 		religion = mahayana
-		size = 1400
+		size = 1700
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 7100
+		size = 8500
 	}
 
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 1425
+		size = 1725
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 14000
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 14000
 	}
 
 	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 129275
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 250
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 150
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 700
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 150
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 12750
-	}
-
-	aristocrats = {
-		culture = mongol
-		religion = gelugpa
-		size = 250
-	}
-
-	clergymen = {
-		culture = mongol
-		religion = gelugpa
-		size = 150
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 700
-	}
-
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 150
-	}
-
-	farmers = {
-		culture = mongol
-		religion = gelugpa
-		size = 12750
+		size = 86775
 	}
 }
 #Port Arthur (80000/15000 POPS)
@@ -965,61 +527,37 @@
 	aristocrats = {
 		culture = manchu
 		religion = mahayana
-		size = 250
+		size = 350
 	}
 
 	clergymen = {
 		culture = manchu
 		religion = mahayana
-		size = 150
+		size = 200
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 750
+		size = 1000
 	}
 
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 150
+		size = 200
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 5000
 	}
 
 	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 13700
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 100
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 50
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 250
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 50
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 4550
+		size = 13250
 	}
 }
 #Fujian Region (20728000)
@@ -1029,175 +567,61 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 6700
+		size = 21475
 	}
 
 	bureaucrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4350
+		size = 4500
 	}
 
 	officers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4000
+		size = 4250
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3375
+		size = 10825
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 6850
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 14100
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3175
+		size = 10525
 	}
 
 	farmers = {
-		culture = nanfaren
+		culture = manchu
 		religion = mahayana
-		size = 298100
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
 		size = 600
 	}
 
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 300
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 1500
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 300
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 27300
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 13500
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 6800
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3950
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 6500
-	}
-
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 588250
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 675
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 350
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1800
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 350
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 32825
-	}
-
-	bureaucrats = {
-		culture = manchu
-		religion = mahayana
-		size = 150
-	}
-
-	officers = {
-		culture = manchu
-		religion = mahayana
-		size = 250
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 200
+		size = 945875
 	}
 }
 #Jianning (2520000/630000POPS)
@@ -1205,103 +629,37 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3800
+		size = 12500
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1950
+		size = 6300
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 9700
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11500
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1950
+		size = 6325
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 176600
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 500
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 250
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 1250
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 250
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 22750
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8200
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 4100
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 550
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 4125
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 374025
+		size = 573375
 	}
 }
 #Quanzhou (2804000/701000 POPS)
@@ -1309,79 +667,37 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4700
+		size = 13400
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 2375
+		size = 6750
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1900
+		size = 13700
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 2400
+		size = 6800
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 216625
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8700
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 4375
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1800
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 4400
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 396725
+		size = 613350
 	}
 }
 #Tingzhou (6064000/1516000 POPS)
@@ -1389,13 +705,637 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3900
+		size = 29900
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1975
+		size = 15200
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 15800
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 15150
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1379950
+	}
+}
+#Zhangzhou (5132000/1283000 POPS)
+1487 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 6800
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 3450
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 17225
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 3450
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 311575
+	}
+}
+#Gansu Region (16020000)
+#under the rule of China in 1836
+#Gansu (6048000/1512000 POPS)
+1488 = {
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 29950
+	}
+
+	bureaucrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 4600
+	}
+
+	officers = {
+		culture = beifaren
+		religion = mahayana
+		size = 4000
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 15175
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 15700
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 15150
+	}
+
+	farmers = {
+		culture = turkic
+		religion = sunni
+		size = 8000
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 478000
+	}
+
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 1100
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 880325
+	}
+}
+#Gongchang (2256000/554000 POPS)
+1489 = {
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 10750
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 5650
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 8200
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 5650
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 568250
+	}
+}
+#Lanzhou (3592000/898000 POPS)
+1490 = {
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 17400
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 9025
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 24900
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 9000
+	}
+
+	farmers = {
+		culture = turkic
+		religion = sunni
+		size = 4000
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 169000
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 644650
+	}
+}
+#Ningxia (956000/239000 POPS)
+1491 = {
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 4650
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 2400
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 12050
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 2400
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 66975
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 150600
+	}
+}
+#Pingliang (3168000/792000 POPS)
+1492 = {
+	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 15800
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 7900
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 19600
+	}
+
+	soldiers = {
+		culture = beifaren
+		religion = mahayana
+		size = 7950
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 720750
+	}
+}
+#Guangdong Region (21706000)
+#under the rule of China in 1836
+#Canton (4532000/1133000 POPS)
+1493 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 22075
+	}
+
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 4550
+	}
+
+	officers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 5550
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11350
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20750
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11900
+	}
+
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 1300
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 915775
+	}
+}
+#Chaozhou (3600000/900000 POPS)
+1494 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 17650
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 4500
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 5050
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 9025
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 814775
+	}
+}
+#Gaozhou (3788000/947000 POPS)
+1495 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 18350
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 9450
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 7450
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 9500
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 862250
+	}
+}
+#Hong Kong (6000/21500 POPS) #OLD (6000/1500 POPS)
+1496 = {
+	bureaucrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 100
+	}
+
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 225
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 250
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 275
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 250
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 21375
+	}
+}
+#Waizao (2200000/550000 POPS)
+1497 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 9950
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 5000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 7500
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 5525
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 502025
+	}
+}
+#Hainan (2144000/536000 POPS) 
+1499 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 7125
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 8525
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 22800
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 8600
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 479050
+	}
+}
+#Shaozhou (2384000/596000 POPS)
+1500 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11825
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 5975
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20000
 	}
 
 	artisans = {
@@ -1407,1579 +1347,13 @@
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1950
+		size = 5950
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 178375
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 16000
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8125
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 600
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8100
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 739175
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5100
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5400
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5100
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 462400
-	}
-}
-#Zhangzhou (5132000/1283000 POPS)
-1487 = {
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 4750
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2400
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2400
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 216450
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2050
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1050
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5225
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1050
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 95125
-	}
-}
-#Gansu Region (16020000)
-#under the rule of China in 1836
-#Gansu (6048000/1512000 POPS)
-1488 = {
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 19000
-	}
-
-	bureaucrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 4250
-	}
-
-	officers = {
-		culture = beifaren
-		religion = mahayana
-		size = 3750
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 9625
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 7950
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 9100
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 864225
-	}
-
-	aristocrats = {
-		culture = turkic
-		religion = sunni
-		size = 125
-	}
-
-	clergymen = {
-		culture = turkic
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = turkic
-		religion = sunni
-		size = 400
-	}
-
-	soldiers = {
-		culture = turkic
-		religion = sunni
-		size = 75
-	}
-
-	farmers = {
-		culture = turkic
-		religion = sunni
-		size = 7325
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 1325
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 675
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 3350
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 675
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 60975
-	}
-
-	aristocrats = {
-		culture = mongol
-		religion = gelugpa
-		size = 9500
-	}
-
-	clergymen = {
-		culture = mongol
-		religion = gelugpa
-		size = 4800
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 10000
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 10000
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 4000
-	}
-
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 4800
-	}
-
-	farmers = {
-		culture = mongol
-		religion = gelugpa
-		size = 434900
-	}
-
-	bureaucrats = {
-		culture = manchu
-		religion = mahayana
-		size = 350
-	}
-
-	officers = {
-		culture = manchu
-		religion = mahayana
-		size = 250
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 500
-	}
-}
-#Gongchang (2256000/554000 POPS)
-1489 = {
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 10500
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 5500
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 7500
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 5500
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 555500
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 250
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 150
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 700
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 150
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 12750
-	}
-}
-#Lanzhou (3592000/898000 POPS)
-1490 = {
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 13500
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 7000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 4900
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 7000
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 635600
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 500
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 250
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 1350
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 275
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 24600
-	}
-
-	aristocrats = {
-		culture = turkic
-		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
-		culture = turkic
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = turkic
-		religion = sunni
-		size = 200
-	}
-
-	soldiers = {
-		culture = turkic
-		religion = sunni
-		size = 25
-	}
-
-	farmers = {
-		culture = turkic
-		religion = sunni
-		size = 3650
-	}
-
-	aristocrats = {
-		culture = mongol
-		religion = gelugpa
-		size = 3350
-	}
-
-	clergymen = {
-		culture = mongol
-		religion = gelugpa
-		size = 1700
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 8450
-	}
-
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 1700
-	}
-
-	farmers = {
-		culture = mongol
-		religion = gelugpa
-		size = 153800
-	}
-}
-#Ningxia (956000/239000 POPS)
-1491 = {
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 3000
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 1525
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 7600
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1525
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 138350
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 350
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 200
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 1100
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 200
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 18250
-	}
-
-	aristocrats = {
-		culture = mongol
-		religion = gelugpa
-		size = 1300
-	}
-
-	clergymen = {
-		culture = mongol
-		religion = gelugpa
-		size = 675
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 3350
-	}
-
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 675
-	}
-
-	farmers = {
-		culture = mongol
-		religion = gelugpa
-		size = 60975
-	}
-}
-#Pingliang (3168000/792000 POPS)
-1492 = {
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 15300
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 7650
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 8300
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 7675
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 697075
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 500
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 250
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 1300
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 275
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 23675
-	}
-}
-#Guangdong Region (21706000)
-#under the rule of China in 1836
-#Canton (4532000/1133000 POPS)
-1493 = {
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 4250
-	}
-
-	bureaucrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 4050
-	}
-
-	officers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5250
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2250
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 7250
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2250
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 168400
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 1050
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 550
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 2700
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 550
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 49400
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 725
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 375
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1850
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 375
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 33675
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 3250
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 1650
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 8200
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 1650
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 149250
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 300
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 150
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 800
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 175
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 14575
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 12500
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 6375
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 9950
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 6400
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 501775
-	}
-
-	bureaucrats = {
-		culture = manchu
-		religion = mahayana
-		size = 500
-	}
-
-	officers = {
-		culture = manchu
-		religion = mahayana
-		size = 300
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 500
-	}
-}
-#Chaozhou (3600000/900000 POPS)
-1494 = {
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 7400
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3725
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8650
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3750
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 339475
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 500
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 275
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1400
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 275
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 25550
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 9750
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 500
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5000
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 449750
-	}
-}
-#Gaozhou (3788000/947000 POPS)
-1495 = {
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 350
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 200
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 950
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 200
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 17300
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 18000
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 9250
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 6500
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 9300
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 844950
-	}
-}
-#Hong Kong (6000/1500 POPS)
-1496 = {
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 25
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 75
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 25
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1375
-	}
-}
-#Waizao (2200000/550000 POPS)
-1497 = {
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3200
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1600
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8050
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1625
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 146525
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 925
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 475
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 4850
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 975
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 89775
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5825
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2925
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 4600
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2925
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 265725
-	}
-}
-#Hainan (3424000/856000 POPS) 
-1499 = {
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3700
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1850
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 9300
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1875
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 169275
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 12325
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 6175
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 950
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 6200
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 563350
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 1100
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 500
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 2550
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 525
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 46425
-	}
-}
-#Shaozhou (2384000/596000 POPS)
-1500 = {
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2325
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1175
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5900
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1200
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 107400
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5500
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2775
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3800
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2750
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 251175
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 4000
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2025
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 100
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2000
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 183875
+		size = 542450
 	}
 }
 #Zhaoqing (1772000/443000 POPS)
@@ -2999,19 +1373,7 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2150
+		size = 22150
 	}
 
 	soldiers = {
@@ -3030,69 +1392,33 @@
 #Macao (22000/5500 POPS) 
 1498 = {
 	bureaucrats = {
-		culture = portuguese
-		religion = catholic
+		culture = nanfaren
+		religion = mahayana
 		size = 5
 	}
 
 	clergymen = {
-		culture = portuguese
-		religion = catholic
-		size = 10
-	}
-
-	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 210
-	}
-
-	soldiers = {
-		culture = portuguese
-		religion = catholic
-		size = 25
-	}
-
-	clergymen = {
 		culture = nanfaren
-		religion = catholic
-		size = 15
+		religion = mahayana
+		size = 75
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = catholic
-		size = 935
+		size = 1345
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = catholic
-		size = 50
+		size = 125
 	}
 
 	farmers = {
-		culture = nanfaren
+		culture = portuguese
 		religion = catholic
 		size = 250
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 50
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 200
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 50
 	}
 
 	farmers = {
@@ -3100,7 +1426,6 @@
 		religion = mahayana
 		size = 3700
 	}
-
 }
 #Guangxi Region (8572000)
 #under the rule of China in 1836
@@ -3109,157 +1434,55 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1825
+		size = 12325
 	}
 
 	bureaucrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1350
+		size = 1500
 	}
 
 	officers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 2150
+		size = 2225
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 925
+		size = 6225
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4600
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 11050
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 925
+		size = 6375
 	}
 
 	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 79850
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 7850
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 3950
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 9700
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 3950
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 358550
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2450
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1250
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 6250
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1250
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 112800
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 200
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 500
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 9100
-	}
-
-	bureaucrats = {
 		culture = manchu
 		religion = mahayana
-		size = 150
+		size = 375
 	}
 
-	officers = {
-		culture = manchu
+	farmers = {
+		culture = nanfaren
 		religion = mahayana
-		size = 75
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 150
+		size = 559925
 	}
 }
 #Guilin (4668000/1167000 POPS)
@@ -3267,145 +1490,43 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5200
+		size = 23050
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 2600
+		size = 11650
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3050
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 18350
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 2625
+		size = 11700
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 237525
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 10500
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 5300
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 6550
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 5325
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 483325
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 6175
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3125
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5600
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3125
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 283975
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 1175
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 625
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 3150
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 625
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 59225
+		size = 1064050
 	}
 }
 #Pangle (1424000/356000 POPS)
@@ -3413,121 +1534,31 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1500
+		size = 6895
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 800
+		size = 3595
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4000
+		size = 17800
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 800
+		size = 3585
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 72900
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 3100
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 1600
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 7900
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 1600
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 143800
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2275
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1175
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5850
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1175
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 106525
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 20
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 20
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 50
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 10
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 900
+		size = 324125
 	}
 }
 #Guizhou Region (5516000)
@@ -3537,157 +1568,49 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5275
+		size = 5725
 	}
 
 	bureaucrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 575
+		size = 625
 	}
 
 	officers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1350
+		size = 1375
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 2675
+		size = 3375
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3350
+		size = 14450
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 2575
+		size = 2900
 	}
 
 	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 241025
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 100
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 500
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 250
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 50
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 4550
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 1775
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 300
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 150
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 750
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 150
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 13650
-	}
-
-	bureaucrats = {
 		culture = manchu
 		religion = mahayana
-		size = 50
+		size = 175
 	}
 
-	officers = {
-		culture = manchu
+	farmers = {
+		culture = nanfaren
 		religion = mahayana
-		size = 25
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 100
+		size = 260825
 	}
 }
 #Anshun (1876000/469000 POPS)
@@ -3695,127 +1618,31 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5500
+		size = 8775
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
+		size = 4750
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5000
+		size = 23450
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3000
+		size = 4700
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 273500
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 2400
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 1225
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 6100
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 1225
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 111050
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 750
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 400
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 1950
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 400
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 35500
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 125
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 125
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 400
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 75
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 7375
+		size = 427425
 	}
 }
 #Zhenyuan (2484000/621000 POPS)
@@ -3823,103 +1650,37 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 9000
+		size = 12350
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4550
+		size = 6225
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2750
+		size = 11025
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4550
+		size = 6225
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 414150
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 2250
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 1150
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 5700
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 1150
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 103750
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 1100
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 525
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 2575
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 525
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 47375
+		size = 565275
 	}
 }
 #Henan Region (28372000)
@@ -3929,127 +1690,61 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 18250
+		size = 19300
 	}
 
 	bureaucrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 5000
+		size = 5250
 	}
 
 	officers = {
 		culture = beifaren
 		religion = mahayana
-		size = 6850
+		size = 7000
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 9175
+		size = 9730
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 5650
+		size = 8895
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 9150
+		size = 10800
+	}
+
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 1500
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 817525
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 1050
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 550
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 2750
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 550
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 49600
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = jewish
-		size = 5
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = jewish
-		size = 495
-	}
-
-	bureaucrats = {
-		culture = manchu
-		religion = mahayana
-		size = 250
-	}
-
-	officers = {
-		culture = manchu
-		religion = mahayana
-		size = 150
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 1100
+		size = 865625
 	}
 }
 #Guide (3248000/812000 POPS)
@@ -4057,79 +1752,37 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 15400
+		size = 16150
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 7750
+		size = 8150
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 8750
+		size = 20650
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 7750
+		size = 8125
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 704350
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 750
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 400
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 1900
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 375
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 34575
+		size = 738925
 	}
 }
 #Henan (3304000/826000 POPS)
@@ -4137,79 +1790,37 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 15500
+		size = 16250
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 7875
+		size = 8275
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 9325
+		size = 21275
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 7875
+		size = 8275
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 716425
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 750
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 400
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 1950
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 400
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 35500
+		size = 751925
 	}
 }
 #Huaiqing (4524000/1131000 POPS)
@@ -4217,91 +1828,43 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 21500
+		size = 22550
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 10775
+		size = 11325
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 3825
+		size = 16525
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 10775
+		size = 11325
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 980125
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 1050
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 550
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 2700
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 550
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 49050
+		size = 1029175
 	}
 }
 #Chenzhou (3268000/817000 POPS)
@@ -4309,79 +1872,37 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 15250
+		size = 15975
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 7875
+		size = 8250
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 9000
+		size = 20850
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 7800
+		size = 8175
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 710075
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 725
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 375
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 1850
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 375
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 33675
+		size = 743750
 	}
 }
 #Nanyang (3100000/775000 POPS)
@@ -4401,25 +1922,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 8750
+		size = 18750
 	}
 
 	soldiers = {
@@ -4451,25 +1960,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6700
+		size = 16700
 	}
 
 	soldiers = {
@@ -4501,37 +1998,19 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 1500
+		size = 11500
 	}
 
 	soldiers = {
@@ -4553,139 +2032,61 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 15000
+		size = 15725
 	}
 
 	bureaucrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 6600
+		size = 6950
 	}
 
 	officers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 6275
+		size = 6400
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 8000
+		size = 8375
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
+		size = 21900
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 8000
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 714650
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 400
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 200
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 1050
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 225
+		size = 9500
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 21225
+		size = 23100
 	}
 
-	aristocrats = {
-		culture = nanfaren
-		religion = sunni
-		size = 325
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = sunni
-		size = 175
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = sunni
-		size = 850
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = sunni
-		size = 175
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 1575
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = sunni
-		size = 15475
-	}
-
-	bureaucrats = {
-		culture = manchu
 		religion = mahayana
-		size = 350
-	}
-
-	officers = {
-		culture = manchu
-		religion = mahayana
-		size = 125
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 1100
+		size = 726675
 	}
 }
 #Dean (4128000/1032000 POPS)
@@ -4705,37 +2106,19 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1575
+		size = 11575
 	}
 
 	soldiers = {
@@ -4755,453 +2138,25 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 15750
+		size = 16375
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 8000
+		size = 8325
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 9500
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 7950
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 723800
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 325
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 175
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 850
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 175
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 15475
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = sunni
-		size = 300
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = sunni
-		size = 150
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = sunni
-		size = 800
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = sunni
-		size = 175
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = sunni
-		size = 14575
-	}
-}
-#Anlu (3328000/832000 POPS)
-1519 = {
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 15000
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 7750
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8750
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 7750
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 702750
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 825
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 425
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 2100
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 425
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 38225
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = sunni
-		size = 325
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = sunni
-		size = 175
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = sunni
-		size = 900
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = sunni
-		size = 200
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = sunni
-		size = 16400
-	}
-}
-#Jingzhou (3264000/816000 POPS)
-1520 = {
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 15000
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8000
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 729000
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = sunni
-		size = 300
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = sunni
-		size = 150
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = sunni
-		size = 800
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = sunni
-		size = 175
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = sunni
-		size = 14575
-	}
-}
-#Shinan (3244000/811000 POPS)
-1521 = {
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 15000
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 7750
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8750
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 7750
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 705750
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 650
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 350
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 1750
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 350
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 31900
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = sunni
-		size = 20
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = sunni
-		size = 20
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = sunni
-		size = 50
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = sunni
-		size = 10
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = sunni
-		size = 900
-	}
-}
-#Wuchang (3324000/831000 POPS)
-1522 = {
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 16000
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8500
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1500
+		size = 21150
 	}
 
 	soldiers = {
@@ -5211,39 +2166,179 @@
 	}
 
 	farmers = {
-		culture = nanfaren
+		culture = beifaren
 		religion = mahayana
-		size = 755700
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = sunni
-		size = 20
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = sunni
-		size = 20
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = sunni
-		size = 50
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = sunni
-		size = 10
+		size = 17000
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = sunni
-		size = 900
+		religion = mahayana
+		size = 736850
+	}
+}
+#Anlu (3328000/832000 POPS)
+1519 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 16150
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 8350
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 21750
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 8375
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 42000
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 715375
+	}
+}
+#Jingzhou (3264000/816000 POPS)
+1520 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 15300
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 8150
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20800
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 8175
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 743575
+	}
+}
+#Shinan (3244000/811000 POPS)
+1521 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 15670
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 8120
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20550
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 8110
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 35000
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 703550
+	}
+}
+#Wuchang (3324000/831000 POPS)
+1522 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 16020
+	}
+
+	clergymen = {
+		culture = nanfaren
+		religion = mahayana
+		size = 8520
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 21550
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 8310
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 756600
 	}
 }
 #Xiangyang (3788000/947000 POPS)
@@ -5251,109 +2346,49 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 15500
+		size = 18320
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 8000
+		size = 9470
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
+		size = 7300
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 8025
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 730475
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 2800
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 1450
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 7250
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1450
+		size = 9485
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 131050
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = sunni
-		size = 20
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = sunni
-		size = 20
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = sunni
-		size = 50
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = sunni
-		size = 10
+		size = 144000
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = sunni
-		size = 900
+		religion = mahayana
+		size = 718425
 	}
 }
 #Hunan Region (20584000)
@@ -5363,121 +2398,61 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 20475
+		size = 20500
 	}
 
 	bureaucrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4300
+		size = 4500
 	}
 
 	officers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5050
+		size = 5150
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10275
+		size = 10325
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1350
+		size = 11500
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10275
+		size = 11050
+	}
+
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 1050
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 924225
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 150
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 2750
-	}
-
-	bureaucrats = {
-		culture = manchu
-		religion = mahayana
-		size = 200
-	}
-
-	officers = {
-		culture = manchu
-		religion = mahayana
-		size = 100
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 750
+		size = 925925
 	}
 }
 #Changde (1616000/404000 POPS)
@@ -5485,67 +2460,31 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 7200
+		size = 7950
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3650
+		size = 4050
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8250
+		size = 20200
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3650
+		size = 4050
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 368650
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 750
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 400
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 1950
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 400
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 35500
+		size = 404150
 	}
 }
 #Baoqing (3852000/963000 POPS)
@@ -5553,85 +2492,43 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 16500
+		size = 18900
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 8500
+		size = 9750
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2000
+		size = 8150
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 8400
+		size = 9650
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 764600
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2400
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1250
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 6150
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1250
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 111950
+		size = 876550
 	}
 }
 #Hengzhou (3796000/949000 POPS)
@@ -5639,153 +2536,75 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 16800
+		size = 18800
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 8450
+		size = 9500
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2300
+		size = 7450
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 8475
+		size = 9525
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 769975
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2000
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1050
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5150
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1050
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 93750
+		size = 863725
 	}
 }
-#Yuezhou (1192000/298000 POPS)
+#Yuezhou (1592000/398000 POPS)
 1528 = {
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4850
+		size = 5900
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 2450
+		size = 4000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2200
+		size = 14900
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 2450
+		size = 3000
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 222050
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 1050
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 550
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 2700
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 550
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 49150
+		size = 371200
 	}
 }
 #Yongshun (3028000/757000 POPS)
@@ -5805,25 +2624,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 7850
+		size = 17850
 	}
 
 	soldiers = {
@@ -5843,79 +2650,37 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 12500
+		size = 14800
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 6300
+		size = 7475
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1400
+		size = 17250
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 6300
+		size = 7475
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 571500
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2300
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1175
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5850
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1175
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 106500
+		size = 678000
 	}
 }
 #Inner Mongolia Region (1176000)
@@ -5931,73 +2696,49 @@
 	bureaucrats = {
 		culture = mongol
 		religion = gelugpa
-		size = 225
+		size = 250
 	}
 
 	officers = {
 		culture = mongol
 		religion = gelugpa
-		size = 225
+		size = 300
 	}
 
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
-		size = 1050
+		size = 1125
 	}
 
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-		size = 4200
+		size = 4400
 	}
 
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size = 1050
+		size = 2150
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 3900
+	}
+
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 1200
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-		size = 95250
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 75
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 200
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 3625
-	}
-
-	bureaucrats = {
-		culture = manchu
-		religion = mahayana
-		size = 25
-	}
-
-	officers = {
-		culture = manchu
-		religion = mahayana
-		size = 75
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 1100
+		size = 93775
 	}
 }
 #Jirim Chuulghan (152000/38000 POPS)
@@ -6005,79 +2746,43 @@
 	aristocrats = {
 		culture = mongol
 		religion = gelugpa
-		size = 650
+		size = 675
 	}
 
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
-		size = 325
+		size = 375
 	}
 
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-		size = 1375
+		size = 1550
 	}
 
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size = 1100
+		size = 1125
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 2000
+	}
+
+	farmers = {
+		culture = siberian
+		religion = animist
+		size = 2000
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-		size = 30650
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 25
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 100
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1875
-	}
-
-	aristocrats = {
-		culture = siberian
-		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = siberian
-		religion = animist
-		size = 25
-	}
-
-	artisans = {
-		culture = siberian
-		religion = animist
-		size = 75
-	}
-
-	soldiers = {
-		culture = siberian
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = siberian
-		religion = animist
-		size = 1850
+		size = 30375
 	}
 }
 #Ulaan Chab Chuulghan (132000/33000 POPS)
@@ -6123,13 +2828,13 @@
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
-		size = 1125
+		size = 1150
 	}
 
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-		size = 5600
+		size = 5700
 	}
 
 	soldiers = {
@@ -6139,27 +2844,15 @@
 	}
 
 	farmers = {
-		culture = mongol
-		religion = gelugpa
-		size = 101925
-	}
-
-	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 25
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 100
+		size = 2000
 	}
 
 	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1875
+		culture = mongol
+		religion = gelugpa
+		size = 101800
 	}
 }
 #Jiangsu Region (37612000)
@@ -6169,219 +2862,117 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11500
+		size = 18250
 	}
 
 	bureaucrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 6850
+		size = 9500
 	}
 
 	officers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5950
+		size = 9250
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5250
+		size = 8575
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 6000
+		size = 15000
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5250
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 443300
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 6750
-	}
-
-	bureaucrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 2375
-	}
-
-	officers = {
-		culture = beifaren
-		religion = mahayana
-		size = 3050
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 3325
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 9000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 3350
+		size = 9700
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 284525
+		size = 332375
 	}
 
-	bureaucrats = {
+	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 275
+		size = 1625
 	}
 
-	officers = {
-		culture = manchu
+	farmers = {
+		culture = nanfaren
 		religion = mahayana
-		size = 250
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 1100
+		size = 393825
 	}
 }
 #Huaian (3148000/787000 POPS)
 1536 = {
 	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1050
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 575
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2750
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 550
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 50075
-	}
-
-	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 14600
+		size = 15650
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 7325
+		size = 7900
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6600
+		size = 19350
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 7325
+		size = 7875
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 55000
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 666150
+		size = 661225
 	}
 }
 #Changzhou (6124000/1531000 POPS)
@@ -6389,100 +2980,58 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 26725
+		size = 30525
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 13400
+		size = 15350
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 6850
+		size = 16600
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 13375
+		size = 15325
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 194000
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1216650
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 3800
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 1950
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 9750
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1950
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 176550
+		size = 1199200
 	}
 }
-#Shanghai (268000/71000 POPS)
+#Shanghai (484000/121000 POPS) #OLD (268000/71000 POPS)
 1538 = {
 	aristocrats = {
 		culture = nanfaren
@@ -6493,25 +3042,25 @@
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 675
+		size = 1675
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 3350
+		size = 5350
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 675
+		size = 1675
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 61000
+		size = 101000
 	}
 }
 #Suzhou (4968000/1242000 POPS)
@@ -6519,91 +3068,49 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 21225
+		size = 24775
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10650
+		size = 12475
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3100
+		size = 22100
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10625
+		size = 12425
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 180000
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 966400
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 3550
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 1825
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 9000
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1800
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 163825
+		size = 950225
 	}
 }
 #Taicangzhou (5528000/1382000 POPS)
@@ -6611,97 +3118,55 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 22150
+		size = 27600
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11075
+		size = 13825
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5400
+		size = 9100
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11075
+		size = 13825
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 274000
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1008300
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 5450
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 2750
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 3700
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 2750
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 249350
+		size = 983650
 	}
 }
 #Tongzhou (5520000/1380000 POPS)
@@ -6709,251 +3174,143 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 25750
+		size = 27500
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 12925
+		size = 13850
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 4500
+		size = 9000
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 12900
+		size = 13800
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 90000
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1173925
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 1750
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 925
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 4500
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 900
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 81925
+		size = 1165850
 	}
 }
 #Xuzhou (2156000/539000 POPS)
 1542 = {
 	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2350
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1200
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5950
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1200
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 108250
-	}
-
-	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 8350
+		size = 10700
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 4225
+		size = 5425
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 1100
+		size = 7050
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 4200
+		size = 5400
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 118950
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 382225
+		size = 371525
 	}
 }
 #Yangzhou (3348000/837000 POPS)
 1543 = {
 	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2200
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1125
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5600
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1125
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 101950
-	}
-
-	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 14000
+		size = 16200
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 7500
+		size = 8625
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6250
+		size = 21850
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 7250
+		size = 8375
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 112000
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 660000
+		size = 649950
 	}
 }
 #Zhenjiang (3120000/790000 POPS)
@@ -6961,79 +3318,43 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11650
+		size = 15700
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5875
+		size = 7950
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 9250
+		size = 19500
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5850
+		size = 7900
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 205000
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 532375
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 4050
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 2075
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 250
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 2050
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 186575
+		size = 513950
 	}
 }
 #Jiangxi Region (25864000)
@@ -7043,175 +3364,61 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 13825
 	}
 
 	bureaucrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4325
+		size = 6150
 	}
 
 	officers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4900
+		size = 6500
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5000
+		size = 6975
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5050
+		size = 14700
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5025
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 451175
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 3100
-	}
-
-	bureaucrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 1625
-	}
-
-	officers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1425
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 1550
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 7800
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1575
+		size = 7475
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 140075
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 25
+		size = 157150
 	}
 
 	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 1800
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 700
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 375
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1750
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 350
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 31825
-	}
-
-	bureaucrats = {
 		culture = manchu
 		religion = mahayana
-		size = 200
+		size = 875
 	}
 
-	officers = {
-		culture = manchu
+	farmers = {
+		culture = nanfaren
 		religion = mahayana
-		size = 175
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 500
+		size = 466850
 	}
 }
 #Guangxin (2960000/740000 POPS)
@@ -7219,103 +3426,43 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10500
+		size = 14750
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5250
+		size = 7400
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 6300
+		size = 17000
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5275
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 478675
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 3025
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 1525
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 7600
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1525
+		size = 7425
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 138325
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 1225
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 625
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 3100
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 625
+		size = 152000
 	}
 
 	farmers = {
 		culture = nanfaren
-		religion = animist
-		size = 56425
+		religion = mahayana
+		size = 521425
 	}
 }
 #Jian (6692000/1673000 POPS)
@@ -7323,103 +3470,49 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11500
+		size = 33400
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5800
+		size = 16800
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 8900
+		size = 20000
+	}
+
+	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 23650
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5800
+		size = 16750
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 526000
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 21900
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 11000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 4750
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10950
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 996400
+		size = 1522400
 	}
 }
 #Jianchang (1656000/414000 POPS)
@@ -7427,67 +3520,31 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5750
+		size = 8250
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 2900
+		size = 4150
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 4400
+		size = 20700
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 2900
+		size = 4175
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 262050
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2500
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1250
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 6300
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1275
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 114675
+		size = 376725
 	}
 }
 #Jiujiang (3924000/981000 POPS)
@@ -7495,109 +3552,49 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 15100
+		size = 19550
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 7550
+		size = 9800
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 7800
+		size = 9050
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 7575
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 687975
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 3825
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 1925
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 9650
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1950
+		size = 9850
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 175650
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 625
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 325
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1600
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 325
+		size = 193000
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 29775
+		size = 700400
 	}
 }
 #Ganzhou (4940000/1235000 POPS)
@@ -7605,91 +3602,43 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 23500
+		size = 24650
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11750
+		size = 12350
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8800
+		size = 21750
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11775
+		size = 12375
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1070175
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = sunni
-		size = 1150
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = sunni
-		size = 600
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = sunni
-		size = 2950
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = sunni
-		size = 600
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = sunni
-		size = 53700
+		size = 1123875
 	}
 }
 #Raozhou (2916000/729000 POPS)
@@ -7697,89 +3646,59 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11500
+		size = 14500
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5800
+		size = 7300
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8900
+		size = 16450
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5800
+		size = 7325
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 151000
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 526000
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 3000
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 1500
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 7550
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 1525
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 137425
+		size = 512425
 	}
 }
 #Manchuria Region (6764000)
 #under the rule of China in 1836
-#Qiqihar (2784700/696175 POPS)
+#Qiqihar (1512000/378000 POPS) #OLD (2784700/696175 POPS)
 1552 = {
 	aristocrats = {
 		culture = manchu
 		religion = mahayana
-		size = 13750
+		size = 7825
 	}
 
 	bureaucrats = {
 		culture = manchu
 		religion = mahayana
-		size = 2300
+		size = 4300
 	}
 
 	officers = {
@@ -7791,209 +3710,113 @@
 	clergymen = {
 		culture = manchu
 		religion = mahayana
-		size = 6925
+		size = 4975
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = manchu
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = manchu
-		religion = mahayana
-		size = 4550
+		size = 14800
 	}
 
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 8000
+		size = 8050
+	}
+
+	farmers = {
+		culture = korean
+		religion = mahayana
+		size = 5000
 	}
 
 	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 624100
-	}
-
-	aristocrats = {
-		culture = korean
-		religion = mahayana
-		size = 75
-	}
-
-	clergymen = {
-		culture = korean
-		religion = mahayana
-		size = 50
-	}
-
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 250
-	}
-
-	soldiers = {
-		culture = korean
-		religion = mahayana
-		size = 50
-	}
-
-	farmers = {
-		culture = korean
-		religion = mahayana
-		size = 4575
+		size = 323675
 	}
 }
-#Aigun (1524000/381000 POPS)
+#Aigun (1092000/273000 POPS)
 1553 = {
 	aristocrats = {
 		culture = manchu
 		religion = mahayana
-		size = 7550
+		size = 3600
 	}
 
 	clergymen = {
 		culture = manchu
 		religion = mahayana
-		size = 3800
+		size = 3875
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = manchu
-		religion = mahayana
-		size = 8900
+		size = 19050
 	}
 
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 3800
+		size = 3825
+	}
+
+	farmers = {
+		culture = siberian
+		religion = animist
+		size = 3000
 	}
 
 	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 343950
-	}
-
-	aristocrats = {
-		culture = siberian
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = siberian
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = siberian
-		religion = animist
-		size = 150
-	}
-
-	soldiers = {
-		culture = siberian
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = siberian
-		religion = animist
-		size = 2700
+		size = 243650
 	}
 }
-#Ninguta (1068000/267000 POPS)
+#Ninguta (844000/211000 POPS)
 1554 = {
 	aristocrats = {
 		culture = manchu
 		religion = mahayana
-		size = 4500
+		size = 3200
 	}
 
 	clergymen = {
 		culture = manchu
 		religion = mahayana
-		size = 2300
+		size = 2700
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = manchu
-		religion = mahayana
-		size = 1500
+		size = 13400
 	}
 
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 2300
+		size = 2700
+	}
+
+	farmers = {
+		culture = korean
+		religion = mahayana
+		size = 38000
 	}
 
 	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 208400
-	}
-
-	aristocrats = {
-		culture = korean
-		religion = mahayana
-		size = 700
-	}
-
-	clergymen = {
-		culture = korean
-		religion = mahayana
-		size = 400
-	}
-
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 1900
-	}
-
-	soldiers = {
-		culture = korean
-		religion = mahayana
-		size = 400
-	}
-
-	farmers = {
-		culture = korean
-		religion = mahayana
-		size = 34600
+		size = 155000
 	}
 }
 #Jilin (1136000/284000 POPS)
@@ -8001,67 +3824,37 @@
 	aristocrats = {
 		culture = manchu
 		religion = mahayana
-		size = 4900
+		size = 5550
 	}
 
 	clergymen = {
 		culture = manchu
 		religion = mahayana
-		size = 2550
+		size = 2900
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = manchu
-		religion = mahayana
-		size = 2500
+		size = 14200
 	}
 
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 2500
+		size = 2850
+	}
+
+	farmers = {
+		culture = korean
+		religion = mahayana
+		size = 34000
 	}
 
 	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 227550
-	}
-
-	aristocrats = {
-		culture = korean
-		religion = mahayana
-		size = 650
-	}
-
-	clergymen = {
-		culture = korean
-		religion = mahayana
-		size = 350
-	}
-
-	artisans = {
-		culture = korean
-		religion = mahayana
-		size = 1700
-	}
-
-	soldiers = {
-		culture = korean
-		religion = mahayana
-		size = 350
-	}
-
-	farmers = {
-		culture = korean
-		religion = mahayana
-		size = 30950
+		size = 224500
 	}
 }
 #Manzhouli (251300/62825 POPS)
@@ -8069,61 +3862,37 @@
 	aristocrats = {
 		culture = manchu
 		religion = mahayana
-		size = 1250
+		size = 1300
 	}
 
 	clergymen = {
 		culture = manchu
 		religion = mahayana
-		size = 625
+		size = 700
 	}
 
 	artisans = {
 		culture = manchu
 		religion = mahayana
-		size = 3150
+		size = 3300
 	}
 
 	soldiers = {
 		culture = manchu
 		religion = mahayana
-		size = 1100
+		size = 1125
+	}
+
+	farmers = {
+		culture = siberian
+		religion = animist
+		size = 3000
 	}
 
 	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 53800
-	}
-
-	aristocrats = {
-		culture = siberian
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = siberian
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = siberian
-		religion = animist
-		size = 150
-	}
-
-	soldiers = {
-		culture = siberian
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = siberian
-		religion = animist
-		size = 2700
+		size = 53500
 	}
 }
 #Qinghai Region (1248000)
@@ -8133,359 +3902,155 @@
 	aristocrats = {
 		culture = tibetan
 		religion = gelugpa
-		size = 1800
+		size = 2175
 	}
 
 	bureaucrats = {
 		culture = tibetan
 		religion = gelugpa
-		size = 175
+		size = 200
 	}
 
 	officers = {
 		culture = tibetan
 		religion = gelugpa
-		size = 300
+		size = 325
 	}
 
 	clergymen = {
 		culture = tibetan
 		religion = gelugpa
-		size = 900
+		size = 1175
 	}
 
 	artisans = {
 		culture = tibetan
 		religion = gelugpa
-		size = 4550
+		size = 5675
 	}
 
 	soldiers = {
 		culture = tibetan
 		religion = gelugpa
-		size = 925
-	}
-
-	farmers = {
-		culture = tibetan
-		religion = gelugpa
-		size = 82200
-	}
-
-	aristocrats = {
-		culture = turkic
-		religion = sunni
-		size = 25
-	}
-
-	clergymen = {
-		culture = turkic
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = turkic
-		religion = sunni
-		size = 100
-	}
-
-	soldiers = {
-		culture = turkic
-		religion = sunni
-		size = 25
+		size = 1250
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-		size = 1800
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 125
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 25
+		size = 2000
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = sunni
-		size = 1800
-	}
-
-	aristocrats = {
-		culture = mongol
-		religion = gelugpa
-		size = 350
-	}
-
-	clergymen = {
-		culture = mongol
-		religion = gelugpa
-		size = 175
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 900
-	}
-
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 175
+		size = 2000
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-		size = 16400
+		size = 18000
 	}
 
-	bureaucrats = {
+	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 25
+		size = 150
 	}
 
-	officers = {
-		culture = manchu
-		religion = mahayana
-		size = 25
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 100
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 80050
 	}
 }
-#Balekungomi (364000/91000 POPS)
+#Balekungomi (580000/145000 POPS)
 1557 = {
 	aristocrats = {
 		culture = tibetan
 		religion = gelugpa
-		size = 1500
+		size = 2770
 	}
 
 	clergymen = {
 		culture = tibetan
 		religion = gelugpa
-		size = 750
+		size = 920
 	}
 
 	artisans = {
 		culture = tibetan
 		religion = gelugpa
-		size = 3800
+		size = 6550
 	}
 
 	soldiers = {
 		culture = tibetan
 		religion = gelugpa
-		size = 775
+		size = 935
+	}
+
+	farmers = {
+		culture = turkic
+		religion = animist
+		size = 36000
+	}
+
+	farmers = {
+		culture = mongol
+		religion = gelugpa
+		size = 1000
 	}
 
 	farmers = {
 		culture = tibetan
 		religion = gelugpa
-		size = 69175
-	}
-
-	aristocrats = {
-		culture = turkic
-		religion = animist
-		size = 250
-	}
-
-	clergymen = {
-		culture = turkic
-		religion = animist
-		size = 150
-	}
-
-	artisans = {
-		culture = turkic
-		religion = animist
-		size = 700
-	}
-
-	soldiers = {
-		culture = turkic
-		religion = animist
-		size = 150
-	}
-
-	farmers = {
-		culture = turkic
-		religion = animist
-		size = 12750
-	}
-
-	aristocrats = {
-		culture = mongol
-		religion = gelugpa
-		size = 20
-	}
-
-	clergymen = {
-		culture = mongol
-		religion = gelugpa
-		size = 20
-	}
-
-	artisans = {
-		culture = mongol
-		religion = gelugpa
-		size = 50
-	}
-
-	soldiers = {
-		culture = mongol
-		religion = gelugpa
-		size = 10
-	}
-
-	farmers = {
-		culture = mongol
-		religion = gelugpa
-		size = 900
+		size = 95825
 	}
 }
 #Kegudo (432000/108000 POPS)
 1558 = {
 	aristocrats = {
-		culture = tibetan
-		religion = gelugpa
-		size = 700
-	}
-
-	clergymen = {
-		culture = tibetan
-		religion = gelugpa
-		size = 400
-	}
-
-	artisans = {
-		culture = tibetan
-		religion = gelugpa
-		size = 1900
-	}
-
-	soldiers = {
-		culture = tibetan
-		religion = gelugpa
-		size = 400
-	}
-
-	farmers = {
-		culture = tibetan
-		religion = gelugpa
-		size = 34600
-	}
-
-	aristocrats = {
-		culture = turkic
-		religion = sunni
-		size = 225
-	}
-
-	clergymen = {
-		culture = turkic
-		religion = sunni
-		size = 125
-	}
-
-	artisans = {
-		culture = turkic
-		religion = sunni
-		size = 600
-	}
-
-	soldiers = {
-		culture = turkic
-		religion = sunni
-		size = 125
-	}
-
-	farmers = {
-		culture = turkic
-		religion = sunni
-		size = 10925
-	}
-
-	aristocrats = {
-		culture = turkic
-		religion = animist
-		size = 200
-	}
-
-	clergymen = {
-		culture = turkic
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = turkic
-		religion = animist
-		size = 550
-	}
-
-	soldiers = {
-		culture = turkic
-		religion = animist
-		size = 125
-	}
-
-	farmers = {
-		culture = turkic
-		religion = animist
-		size = 10025
-	}
-
-	aristocrats = {
 		culture = mongol
 		religion = gelugpa
-		size = 925
+		size = 2050
 	}
 
 	clergymen = {
 		culture = mongol
 		religion = gelugpa
-		size = 475
+		size = 1100
 	}
 
 	artisans = {
 		culture = mongol
 		religion = gelugpa
-		size = 2350
+		size = 5400
 	}
 
 	soldiers = {
 		culture = mongol
 		religion = gelugpa
-		size = 475
+		size = 1125
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 38000
+	}
+
+	farmers = {
+		culture = turkic
+		religion = sunni
+		size = 23000
 	}
 
 	farmers = {
 		culture = mongol
 		religion = gelugpa
-		size = 42775
+		size = 37325
 	}
 }
 #Shaanxi Region (9100000)
@@ -8495,349 +4060,169 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 15000
+		size = 15800
 	}
 
 	bureaucrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 1850
+		size = 1925
 	}
 
 	officers = {
 		culture = beifaren
 		religion = mahayana
-		size = 2200
+		size = 2275
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 7500
+		size = 7900
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
+		size = 12100
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 7500
+		size = 8425
+	}
+
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 650
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 685300
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 800
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 400
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 2100
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 425
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 38225
-	}
-
-	bureaucrats = {
-		culture = manchu
-		religion = mahayana
-		size = 75
-	}
-
-	officers = {
-		culture = manchu
-		religion = mahayana
-		size = 75
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 500
+		size = 722875
 	}
 }
-#Yenan (1088000/272000 POPS)
+#Yenan (1888000/472000 POPS) #OLD (1088000/272000 POPS)
 1561 = {
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 5050
+		size = 5375
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 2550
+		size = 5725
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 2700
+		size = 13600
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 2550
+		size = 2750
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 231150
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 325
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 175
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 900
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 200
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 16400
+		size = 447550
 	}
 }
 #Hanzhong (3492000/873000 POPS)
 1562 = {
 	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 7750
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 3900
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 9400
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 3900
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 353050
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 825
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 425
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 2150
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 450
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 39150
-	}
-
-	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 8825
+		size = 17400
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4425
+		size = 8750
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2100
+		size = 23650
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4425
+		size = 8775
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 431000
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 402225
+		size = 363425
 	}
 }
-#Shangzhou (1352000/338000 POPS)
+#Shangzhou (2324000/581000 POPS)
 2062 = {
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 6325
+		size = 6700
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 3175
+		size = 6375
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 5900
+		size = 7000
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3200
+		size = 3400
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 289400
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 375
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 200
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 1100
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 200
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 18225
+		size = 507625
 	}
 }
 #Shandong Region (28572000)
@@ -8847,133 +4232,67 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 28100
+		size = 29500
 	}
 
 	bureaucrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 6700
+		size = 7000
 	}
 
 	officers = {
 		culture = beifaren
 		religion = mahayana
-		size = 6900
+		size = 7200
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 14100
+		size = 14800
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 400
+		size = 13950
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 14100
+		size = 16325
+	}
+
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 2100
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 1265600
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 1400
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 700
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 3550
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 725
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 64625
-	}
-
-	bureaucrats = {
-		culture = manchu
-		religion = mahayana
-		size = 300
-	}
-
-	officers = {
-		culture = manchu
-		religion = mahayana
-		size = 300
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 1500
+		size = 1328125
 	}
 }
 #Caozhou (3704000/926000 POPS)
@@ -8993,25 +4312,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
@@ -9049,25 +4356,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
@@ -9088,18 +4383,18 @@
 		size = 827200
 	}
 }
-#Qingdao (24000/6000 POPS)
+#Qingdao (24000/16000 POPS) #OLD (24000/6000 POPS)
 1566 = {
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 100
+		size = 150
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 50
+		size = 150
 	}
 
 	artisans = {
@@ -9111,13 +4406,13 @@
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 75
+		size = 275
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 5475
+		size = 15475
 	}
 }
 #Qingzhou (3936000/984000 POPS)
@@ -9137,25 +4432,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
@@ -9193,25 +4476,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
@@ -9232,36 +4503,36 @@
 		size = 839025
 	}
 }
-#Weihaiwei (28000/7000 POPS)
+#Weihaiwei (28000/17000 POPS) #OLD (28000/7000 POPS)
 1569 = {
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 125
+		size = 175
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 75
+		size = 175
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 350
+		size = 750
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 75
+		size = 275
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 6375
+		size = 16375
 	}
 }
 #Wuling (3696000/924000 POPS)
@@ -9281,25 +4552,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
@@ -9337,25 +4596,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
@@ -9383,121 +4630,61 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 21800
+		size = 22050
 	}
 
 	bureaucrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 3250
+		size = 3350
 	}
 
 	officers = {
 		culture = beifaren
 		religion = mahayana
-		size = 3700
+		size = 3825
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 11000
+		size = 11150
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 4750
+		size = 15450
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 10950
+		size = 11475
+	}
+
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 600
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 988950
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 250
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 150
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 700
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 150
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 12750
-	}
-
-	bureaucrats = {
-		culture = manchu
-		religion = mahayana
-		size = 100
-	}
-
-	officers = {
-		culture = manchu
-		religion = mahayana
-		size = 125
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 375
+		size = 1001100
 	}
 }
 #Fenzhou (3412000/853000 POPS)
@@ -9505,85 +4692,37 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 16850
+		size = 17000
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 8450
+		size = 8550
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 2200
+		size = 22650
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 8450
+		size = 8550
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 768050
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 150
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 450
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 100
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 8200
+		size = 776250
 	}
 }
 #Luan (3748000/937000 POPS)
@@ -9591,85 +4730,43 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 18550
+		size = 18700
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 9300
+		size = 9375
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6450
+		size = 6850
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 9300
+		size = 9375
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 845400
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 150
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 400
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 75
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 7300
+		size = 852700
 	}
 }
 #Pingyang (3392000/848000 POPS)
@@ -9677,147 +4774,69 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 16800
+		size = 16925
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 8400
+		size = 8475
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 2050
+		size = 22400
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 8425
+		size = 8500
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 765325
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 125
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 350
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 75
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 6375
+		size = 771700
 	}
 }
-#Datong (232000/58000 POPS)
+#Datong (632000/158000 POPS) #OLD (232000/58000 POPS)
 1576 = {
 	aristocrats = {
+		culture = beifaren
+		religion = mahayana
+		size = 1625
+	}
+
+	clergymen = {
+		culture = beifaren
+		religion = mahayana
+		size = 1600
+	}
+
+	artisans = {
+		culture = beifaren
+		religion = mahayana
+		size = 4900
+	}
+
+	soldiers = {
 		culture = beifaren
 		religion = mahayana
 		size = 1100
 	}
 
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 550
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 2800
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 575
-	}
-
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 50975
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 25
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 100
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 25
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 1800
+		size = 152775
 	}
 }
 #Sichuan Region (34604000)
@@ -9839,25 +4858,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
@@ -9889,13 +4896,13 @@
 	bureaucrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 6125
+		size = 6250
 	}
 
 	officers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 8550
+		size = 8700
 	}
 
 	clergymen = {
@@ -9907,37 +4914,19 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
@@ -9949,31 +4938,19 @@
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5800
+		size = 6550
+	}
+
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 1025
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 474150
-	}
-
-	bureaucrats = {
-		culture = manchu
-		religion = mahayana
-		size = 125
-	}
-
-	officers = {
-		culture = manchu
-		religion = mahayana
-		size = 150
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 750
+		size = 473125
 	}
 }
 #Baotung (4268000/1067000 POPS)
@@ -9993,37 +4970,19 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3350
+		size = 13350
 	}
 
 	soldiers = {
@@ -10043,139 +5002,49 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 9900
+		size = 20200
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5000
+		size = 10250
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5000
+		size = 11050
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5000
+		size = 10225
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 40000
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 454100
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 7300
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 3750
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 8500
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 3700
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 336750
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 2200
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 1100
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 5550
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 1125
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 101025
-	}
-
-	aristocrats = {
-		culture = tibetan
-		religion = gelugpa
-		size = 800
-	}
-
-	clergymen = {
-		culture = tibetan
-		religion = gelugpa
-		size = 400
-	}
-
-	artisans = {
-		culture = tibetan
-		religion = gelugpa
-		size = 2000
-	}
-
-	soldiers = {
-		culture = tibetan
-		religion = gelugpa
-		size = 400
-	}
-
-	farmers = {
-		culture = tibetan
-		religion = gelugpa
-		size = 36400
+		size = 888275
 	}
 }
 #Kuizhou (4292000/1073000 POPS)
@@ -10195,37 +5064,19 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3650
+		size = 13650
 	}
 
 	soldiers = {
@@ -10245,133 +5096,43 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 11000
+		size = 13775
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5550
+		size = 7050
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 7650
+		size = 14950
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5550
+		size = 7025
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 39000
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 503250
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 1800
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 2000
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 1050
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 5250
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 1050
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 95650
-	}
-
-	aristocrats = {
-		culture = tibetan
-		religion = gelugpa
-		size = 750
-	}
-
-	clergymen = {
-		culture = tibetan
-		religion = gelugpa
-		size = 400
-	}
-
-	artisans = {
-		culture = tibetan
-		religion = gelugpa
-		size = 1950
-	}
-
-	soldiers = {
-		culture = tibetan
-		religion = gelugpa
-		size = 400
-	}
-
-	farmers = {
-		culture = tibetan
-		religion = gelugpa
-		size = 35500
+		size = 597200
 	}
 }
 #Shunqing (4580000/1145000 POPS)
@@ -10391,37 +5152,19 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 7250
+		size = 17250
 	}
 
 	soldiers = {
@@ -10453,25 +5196,13 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 7800
+		size = 17800
 	}
 
 	soldiers = {
@@ -10491,103 +5222,43 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 8550
+		size = 14350
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4300
+		size = 7250
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1450
+		size = 16100
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4300
+		size = 7250
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 183950
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 390400
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 2150
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 1100
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 5450
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 1100
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 99200
-	}
-
-	aristocrats = {
-		culture = tibetan
-		religion = gelugpa
-		size = 3650
-	}
-
-	clergymen = {
-		culture = tibetan
-		religion = gelugpa
-		size = 1850
-	}
-
-	artisans = {
-		culture = tibetan
-		religion = gelugpa
-		size = 9200
-	}
-
-	soldiers = {
-		culture = tibetan
-		religion = gelugpa
-		size = 1850
-	}
-
-	farmers = {
-		culture = tibetan
-		religion = gelugpa
-		size = 167400
+		size = 473050
 	}
 }
 #Yazhou (2528000/632000 POPS)
@@ -10595,133 +5266,43 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 9025
+		size = 12550
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4525
+		size = 6325
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2600
+		size = 11600
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4525
+		size = 6325
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = gelugpa
+		size = 163000
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 411325
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 125
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 400
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 75
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 7325
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 150
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 450
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 8200
-	}
-
-	aristocrats = {
-		culture = tibetan
-		religion = gelugpa
-		size = 3250
-	}
-
-	clergymen = {
-		culture = tibetan
-		religion = gelugpa
-		size = 1625
-	}
-
-	artisans = {
-		culture = tibetan
-		religion = gelugpa
-		size = 8150
-	}
-
-	soldiers = {
-		culture = tibetan
-		religion = gelugpa
-		size = 1625
-	}
-
-	farmers = {
-		culture = tibetan
-		religion = gelugpa
-		size = 148350
+		size = 412200
 	}
 }
 #Yunnan Region (5652000)
@@ -10731,297 +5312,87 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 13500
+		size = 15125
 	}
 
 	bureaucrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 675
+		size = 700
 	}
 
 	officers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1375
+		size = 1400
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 6750
+		size = 7525
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3800
+		size = 17700
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 6775
+		size = 7825
 	}
 
 	farmers = {
-		culture = nanfaren
+		culture = manchu
 		religion = mahayana
-		size = 612825
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = sunni
-		size = 200
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = sunni
-		size = 500
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = sunni
-		size = 100
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = sunni
-		size = 9100
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 100
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
 		size = 300
 	}
 
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 75
-	}
-
 	farmers = {
 		culture = nanfaren
-		religion = animist
-		size = 5475
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 200
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 500
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 9000
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 1125
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 525
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 2600
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 525
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 47325
-	}
-
-	bureaucrats = {
-		culture = manchu
 		religion = mahayana
-		size = 25
-	}
-
-	officers = {
-		culture = manchu
-		religion = mahayana
-		size = 25
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 250
+		size = 683425
 	}
 }
 #Dali (1216000/304000 POPS)
 1602 = {
 	aristocrats = {
 		culture = nanfaren
-		religion = mahayana
-		size = 125
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 75
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 350
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 75
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 6375
-	}
-
-	aristocrats = {
-		culture = nanfaren
 		religion = animist
-		size = 5400
+		size = 6050
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = animist
-		size = 2750
+		size = 3100
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = animist
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 3500
+		size = 15200
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = animist
-		size = 2700
+		size = 3050
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = animist
-		size = 245650
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 525
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 275
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 1350
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 275
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 24575
+		size = 276600
 	}
 }
 #Paer (1420000/355000 POPS)
@@ -11029,181 +5400,31 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 2200
+		size = 6900
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1100
+		size = 3600
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 5500
+		size = 17750
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1100
+		size = 3600
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 100100
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = sunni
-		size = 200
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = sunni
-		size = 50
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = sunni
-		size = 3650
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 1700
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 900
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 4400
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 900
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 80100
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 200
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 50
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 3650
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 625
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 325
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 1600
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 325
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 29175
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2275
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1175
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 5850
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1175
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 106525
+		size = 323200
 	}
 }
 #Zhejiang Region (9948000)
@@ -11213,249 +5434,111 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 5450
+		size = 8350
 	}
 
 	bureaucrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 1550
+		size = 1600
 	}
 
 	officers = {
 		culture = beifaren
 		religion = mahayana
-		size = 2475
+		size = 2550
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 2750
+		size = 4250
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 8000
+		size = 16000
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 2750
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 210450
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2725
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1375
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 7450
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1375
+		size = 4750
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 104075
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 200
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 50
+		size = 148000
 	}
 
 	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 3650
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 125
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 350
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 75
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 6375
-	}
-
-	bureaucrats = {
 		culture = manchu
 		religion = mahayana
-		size = 50
+		size = 625
 	}
 
-	officers = {
-		culture = manchu
+	farmers = {
+		culture = beifaren
 		religion = mahayana
-		size = 75
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 500
+		size = 175925
 	}
 }
 #Huzhou (376000/94000 POPS)
 1605 = {
 	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 725
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 375
-	}
-
-	artisans = {
-		culture = beifaren
+		culture = nanfaren
 		religion = mahayana
 		size = 1850
 	}
 
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 375
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 33675
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1125
-	}
-
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 575
+		size = 950
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 2850
+		size = 4700
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 575
+		size = 950
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 37000
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 51875
+		size = 48550
 	}
 }
 #Jiaxing (344000/86000 POPS)
@@ -11463,61 +5546,37 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 950
+		size = 1675
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 475
+		size = 850
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 2400
+		size = 4300
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 500
+		size = 875
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 38000
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 43675
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 725
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 375
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1900
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 375
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 34625
+		size = 40300
 	}
 }
 #Jinhua (2064000/516000 POPS)
@@ -11525,103 +5584,37 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 8375
+		size = 10225
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4200
+		size = 5150
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1050
+		size = 5800
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4250
+		size = 5225
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 383125
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 250
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 150
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 700
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 150
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 12750
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 1600
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 800
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 4050
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 825
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 73725
+		size = 469600
 	}
 }
 #Ningbo (1156000/289000 POPS)
@@ -11629,123 +5622,75 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 3325
+		size = 5750
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 1675
+		size = 2900
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 8350
+		size = 14450
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 1675
+		size = 2900
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 122000
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 151975
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2425
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1225
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 6100
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1225
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 111025
+		size = 141000
 	}
 }
 #Shaoxing (872000/218000 POPS)
 1609 = {
 	aristocrats = {
-		culture = beifaren
-		religion = mahayana
-		size = 1725
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = mahayana
-		size = 875
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 4400
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = mahayana
-		size = 900
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 80100
-	}
-
-	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 2550
+		size = 4275
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1325
+		size = 2200
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 6500
+		size = 10900
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1300
+		size = 2200
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 88000
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 118325
+		size = 110425
 	}
 }
 #Taizhou (1684000/421000 POPS)
@@ -11765,19 +5710,7 @@
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1050
+		size = 21050
 	}
 
 	soldiers = {
@@ -11797,73 +5730,31 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 8350
+		size = 8750
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4225
+		size = 4425
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1100
+		size = 22150
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 4200
+		size = 4425
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 382225
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = animist
-		size = 400
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = animist
-		size = 200
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = animist
-		size = 1050
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = animist
-		size = 225
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = animist
-		size = 19125
+		size = 401350
 	}
 }
 #Zhili Region (34868000)
@@ -11873,181 +5764,85 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 24050
+		size = 26900
 	}
 
 	bureaucrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 9100
+		size = 11350
 	}
 
 	officers = {
 		culture = beifaren
 		religion = mahayana
-		size = 6000
+		size = 9500
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 12050
+		size = 13000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 4000
+		size = 5100
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 11550
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = mahayana
-		size = 998650
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 850
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 450
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 1100
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 450
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 31250
-	}
-
-	aristocrats = {
-		culture = manchu
-		religion = mahayana
-		size = 2000
-	}
-
-	bureaucrats = {
-		culture = manchu
-		religion = mahayana
-		size = 2250
-	}
-
-	officers = {
-		culture = manchu
-		religion = mahayana
-		size = 3500
-	}
-
-	clergymen = {
-		culture = manchu
-		religion = mahayana
-		size = 500
-	}
-
-	artisans = {
-		culture = manchu
-		religion = mahayana
-		size = 10000
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 12000
+		size = 24000
 	}
 
 	farmers = {
 		culture = manchu
 		religion = mahayana
-		size = 10750
+		size = 41000
+	}
+
+	farmers = {
+		culture = beifaren
+		religion = mahayana
+		size = 999650
 	}
 }
 #Chengde (6420000/1605000 POPS)
@@ -12055,103 +5850,49 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 31750
+		size = 32000
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 16000
+		size = 16150
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 9550
+		size = 20250
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 15900
+		size = 16050
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 1447800
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 250
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 150
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 700
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 150
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 12750
+		size = 1460550
 	}
 }
 #Daming (3364000/841000 POPS)
@@ -12171,31 +5912,13 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 2050
+		size = 22050
 	}
 
 	soldiers = {
@@ -12227,37 +5950,19 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 6200
+		size = 16200
 	}
 
 	soldiers = {
@@ -12289,37 +5994,19 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 5350
+		size = 15350
 	}
 
 	soldiers = {
@@ -12339,103 +6026,49 @@
 	aristocrats = {
 		culture = beifaren
 		religion = mahayana
-		size = 29025
+		size = 29775
 	}
 
 	clergymen = {
 		culture = beifaren
 		religion = mahayana
-		size = 14525
+		size = 14925
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 2600
+		size = 14550
 	}
 
 	soldiers = {
 		culture = beifaren
 		religion = mahayana
-		size = 14525
+		size = 14925
 	}
 
 	farmers = {
 		culture = beifaren
 		religion = mahayana
-		size = 1321325
-	}
-
-	aristocrats = {
-		culture = beifaren
-		religion = sunni
-		size = 750
-	}
-
-	clergymen = {
-		culture = beifaren
-		religion = sunni
-		size = 400
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = sunni
-		size = 1950
-	}
-
-	soldiers = {
-		culture = beifaren
-		religion = sunni
-		size = 400
-	}
-
-	farmers = {
-		culture = beifaren
-		religion = sunni
-		size = 35500
+		size = 1356825
 	}
 }
 #Zhongding (5240000/1310000 POPS)
@@ -12455,37 +6088,19 @@
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = beifaren
 		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = beifaren
-		religion = mahayana
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
@@ -12505,69 +6120,50 @@
 		religion = mahayana
 		size = 1192125
 	}
-
 }
 #Guangzhouwan Region (40000)
 #under the rule of China in 1836
-#Guangzhouwan (40000/10000 POPS)
+#Guangzhouwan (40000/20000 POPS) #OLD (40000/10000 POPS)
 3249 = {
+	aristocrats = {
+		culture = nanfaren
+		religion = mahayana
+		size = 200
+	}
+
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 10
+		size = 200
 	}
 
 	artisans = {
+		culture = nanfaren
+		religion = mahayana
+		size = 1700
+	}
+
+	soldiers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 300
+	}
+
+	bureaucrats = {
 		culture = nanfaren
 		religion = mahayana
 		size = 100
 	}
 
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10
-	}
-
 	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 250
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 40
-	}
-	
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 90
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 1400
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 90
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 8000
-	}
-	
-	bureaucrats = {
 		culture = manchu
 		religion = mahayana
-		size = 10
+		size = 100
+	}
+
+	farmers = {
+		culture = nanfaren
+		religion = mahayana
+		size = 18150
 	}
 }

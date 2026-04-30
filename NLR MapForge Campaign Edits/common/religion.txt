@@ -25,6 +25,11 @@ christian = {
 		color = { 0 0.5 0.7 }
 		
 	}
+
+	jewish = {
+		icon = 7
+		color = { 0.3 0.5 0.3 }
+	}
 }
 
 muslim = {
@@ -40,11 +45,6 @@ muslim = {
 		color = { 0 0.8 0 }
 		
 	}
-
-	jewish = {
-		icon = 7
-		color = { 0.3 0.5 0.3 }
-	}	
 }
 
 eastern = {

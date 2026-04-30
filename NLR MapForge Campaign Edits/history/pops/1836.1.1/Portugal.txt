@@ -28,15 +28,9 @@
 	artisans = {
 		culture = portuguese
 		religion = catholic
-		size = 10000
+		size = 15500
 	}
 
-	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 5500
-	}
-	
 	soldiers = {
 		culture = portuguese
 		religion = catholic
@@ -112,7 +106,6 @@
 		religion = catholic
 		size = 130500
 	}
-
 }
 #Beira-Estremadura Region (1060000)
 #Lisbon (348000/87000 POPS)
@@ -144,37 +137,19 @@
 	artisans = {
 		culture = portuguese
 		religion = catholic
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = portuguese
 		religion = catholic
-		size = 10000
+		size = 20000
 	}
 
 	artisans = {
 		culture = portuguese
 		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 10000
-	}
-
-	artisans = {
-		culture = portuguese
-		religion = catholic
-		size = 5000
+		size = 15000
 	}
 
 	clerks = {
@@ -182,13 +157,13 @@
 		religion = catholic
 		size = 25
 	}
-	
+
 	craftsmen = {
 		culture = portuguese
 		religion = catholic
 		size = 3475
 	}
-	
+
 	soldiers = {
 		culture = portuguese
 		religion = catholic
@@ -296,7 +271,6 @@
 		religion = catholic
 		size = 22800
 	}
-
 }
 #Alentejo-Algarve Region (372000)
 #Evora (156000/39000 POPS)
@@ -406,7 +380,6 @@
 		religion = catholic
 		size = 27025
 	}
-
 }
 #Azores & Madeira Region (308000)
 #Azores (204000/51000 POPS)
@@ -484,5 +457,4 @@
 		religion = catholic
 		size = 23825
 	}
-
 }

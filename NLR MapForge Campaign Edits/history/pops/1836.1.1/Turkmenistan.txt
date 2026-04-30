@@ -45,49 +45,31 @@
 	clergymen = {
 		culture = turkic
 		religion = sunni
-		size = 275
-	}
-
-	artisans = {
-		culture = turkic
-		religion = sunni
-		size = 1250
-	}
-
-	soldiers = {
-		culture = turkic
-		religion = sunni
 		size = 300
 	}
 
-	farmers = {
+	artisans = {
 		culture = turkic
 		religion = sunni
-		size = 25675
-	}
-
-	clergymen = {
-		culture = aryan
-		religion = shiite
-		size = 25
-	}
-
-	artisans = {
-		culture = aryan
-		religion = shiite
-		size = 200
+		size = 1450
 	}
 
 	soldiers = {
-		culture = aryan
-		religion = shiite
-		size = 25
+		culture = turkic
+		religion = sunni
+		size = 325
 	}
 
 	farmers = {
 		culture = aryan
 		religion = shiite
-		size = 3750
+		size = 4000
+	}
+
+	farmers = {
+		culture = turkic
+		religion = sunni
+		size = 25425
 	}
 }
 #Kizil Arvut (88000/22000 POPS)   
@@ -101,49 +83,31 @@
 	clergymen = {
 		culture = turkic
 		religion = sunni
-		size = 175
-	}
-
-	artisans = {
-		culture = turkic
-		religion = sunni
-		size = 850
-	}
-
-	soldiers = {
-		culture = turkic
-		religion = sunni
 		size = 200
 	}
 
-	farmers = {
+	artisans = {
 		culture = turkic
 		religion = sunni
-		size = 17400
-	}
-
-	clergymen = {
-		culture = aryan
-		religion = shiite
-		size = 25
-	}
-
-	artisans = {
-		culture = aryan
-		religion = shiite
-		size = 150
+		size = 1000
 	}
 
 	soldiers = {
-		culture = aryan
-		religion = shiite
-		size = 25
+		culture = turkic
+		religion = sunni
+		size = 225
 	}
 
 	farmers = {
 		culture = aryan
 		religion = shiite
-		size = 2800
+		size = 3000
+	}
+
+	farmers = {
+		culture = turkic
+		religion = sunni
+		size = 17200
 	}
 }
 #under the rule of Bukhara in 1836  
@@ -152,91 +116,36 @@
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-		size = 25
+		size = 475
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-		size = 25
+		size = 300
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-		size = 100
+		size = 1600
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-		size = 25
-	}
-
-	farmers = {
-		culture = turkic
-		religion = sunni
-		size = 1825
-	}
-
-	aristocrats = {
-		culture = turkic
-		religion = sunni
-		size = 400
-	}
-
-	clergymen = {
-		culture = turkic
-		religion = sunni
-		size = 225
-	}
-
-	artisans = {
-		culture = turkic
-		religion = sunni
-		size = 1100
-	}
-
-	soldiers = {
-		culture = turkic
-		religion = sunni
-		size = 250
-	}
-
-	farmers = {
-		culture = turkic
-		religion = sunni
-		size = 21025
-	}
-
-	aristocrats = {
-		culture = aryan
-		religion = shiite
-		size = 50
-	}
-
-	clergymen = {
-		culture = aryan
-		religion = shiite
-		size = 50
-	}
-
-	artisans = {
-		culture = aryan
-		religion = shiite
-		size = 400
-	}
-
-	soldiers = {
-		culture = aryan
-		religion = shiite
-		size = 75
+		size = 350
 	}
 
 	farmers = {
 		culture = aryan
 		religion = shiite
-		size = 7425
+		size = 8000
 	}
 
+	farmers = {
+		culture = turkic
+		religion = sunni
+		size = 22275
+	}
 }

@@ -37,74 +37,74 @@
 		size = 30250
 	}
 }
-#Bodo (56000/14000 POPS)
+#Bodo (56000/34000 POPS)
 306 = {
 	clergymen = {
 		culture = norwegian
 		religion = protestant
-		size = 50
+		size = 350
 	}
 
 	artisans = {
 		culture = norwegian
 		religion = protestant
-		size = 750
+		size = 1250
 	}
 
 	soldiers = {
-		culture = norwegian
-		religion = protestant
-		size = 100
-	}
-
-	farmers = {
-		culture = norwegian
-		religion = protestant
-		size = 12100
-	}
-
-	farmers = {
-		culture = finnish
-		religion = protestant
-		size = 1100
-	}
-}
-#Hammerfest (36000/9000 POPS)
-307 = {
-	clergymen = {
-		culture = norwegian
-		religion = protestant
-		size = 50
-	}
-
-	artisans = {
 		culture = norwegian
 		religion = protestant
 		size = 500
 	}
 
-	soldiers = {
-		culture = norwegian
-		religion = protestant
-		size = 50
-	}
-
 	farmers = {
 		culture = norwegian
 		religion = protestant
-		size = 4400
-	}
-
-	farmers = {
-		culture = sami
-		religion = protestant
-		size = 2000
+		size = 27100
 	}
 
 	farmers = {
 		culture = finnish
 		religion = protestant
-		size = 2000
+		size = 6100
+	}
+}
+#Hammerfest (36000/29000 POPS)
+307 = {
+	clergymen = {
+		culture = norwegian
+		religion = protestant
+		size = 250
+	}
+
+	artisans = {
+		culture = norwegian
+		religion = protestant
+		size = 1000
+	}
+
+	soldiers = {
+		culture = norwegian
+		religion = protestant
+		size = 500
+	}
+
+	farmers = {
+		culture = norwegian
+		religion = protestant
+		size = 14400
+	}
+
+	farmers = {
+		culture = sami
+		religion = protestant
+		size = 7000
+	}
+
+	farmers = {
+		culture = finnish
+		religion = protestant
+		size = 7000
 	}
 }
 #Alesund (72000/18000 POPS)
@@ -132,14 +132,13 @@
 		religion = protestant
 		size = 16825
 	}
-
 }
-#Jan Mayen (60/15 POPS)
+#Jan Mayen (2060/515 POPS)
 3246 = {
 	farmers = {
 		culture = norwegian
 		religion = protestant
-		size = 15
+		size = 515
 	}
 }
 
@@ -182,12 +181,12 @@
 		size = 38200
 	}
 }
-#Christiansand (164000/41000 POPS)
+#Christiansand (404000/101000 POPS)
 310 = {
 	clergymen = {
 		culture = norwegian
 		religion = protestant
-		size = 175
+		size = 975
 	}
 
 	artisans = {
@@ -199,21 +198,21 @@
 	soldiers = {
 		culture = norwegian
 		religion = protestant
-		size = 1100
+		size = 2100
 	}
 
 	farmers = {
 		culture = norwegian
 		religion = protestant
-		size = 37825
+		size = 97825
 	}
 }
-#Skien (68000/17000 POPS)
+#Skien (108000/27000 POPS)
 311 = {
 	clergymen = {
 		culture = norwegian
 		religion = protestant
-		size = 75
+		size = 275
 	}
 
 	artisans = {
@@ -225,13 +224,13 @@
 	soldiers = {
 		culture = norwegian
 		religion = protestant
-		size = 100
+		size = 500
 	}
 
 	farmers = {
 		culture = norwegian
 		religion = protestant
-		size = 16075
+		size = 26075
 	}
 }
 #Drammen (132000/33000 POPS)
@@ -259,27 +258,26 @@
 		religion = protestant
 		size = 31125
 	}
-
 }
 #Ostlandet Region - 352000
-#Christiania (108000/27000 POPS)
+#Christiania (228000/57000 POPS)
 313 = {
 	bureaucrats = {
 		culture = norwegian
 		religion = protestant
-		size = 500
+		size = 1000
 	}
 
 	officers = {
 		culture = norwegian
 		religion = protestant
-		size = 100
+		size = 150
 	}
 
 	clergymen = {
 		culture = norwegian
 		religion = protestant
-		size = 125
+		size = 625
 	}
 
 	artisans = {
@@ -291,13 +289,13 @@
 	soldiers = {
 		culture = norwegian
 		religion = protestant
-		size = 1100
+		size = 2100
 	}
 
 	farmers = {
 		culture = norwegian
 		religion = protestant
-		size = 18275
+		size = 48275
 	}
 }
 #Hamar (80000/20000 POPS)
@@ -352,12 +350,12 @@
 		size = 22425
 	}
 }
-#Frederiksstad (68000/17000 POPS)
+#Frederiksstad (108000/27000 POPS)
 316 = {
 	clergymen = {
 		culture = norwegian
 		religion = protestant
-		size = 75
+		size = 275
 	}
 
 	artisans = {
@@ -369,13 +367,12 @@
 	soldiers = {
 		culture = norwegian
 		religion = protestant
-		size = 150
+		size = 550
 	}
 
 	farmers = {
 		culture = norwegian
 		religion = protestant
-		size = 16025
+		size = 26025
 	}
-
 }

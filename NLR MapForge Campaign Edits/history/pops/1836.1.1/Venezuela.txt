@@ -503,25 +503,25 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 200
+		size = 210
 	}
 
 	artisans = {
 		culture = andean
 		religion = catholic
-		size = 700
+		size = 750
 	}
 
 	soldiers = {
 		culture = andean
 		religion = catholic
-		size = 150
+		size = 160
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 12275
+		size = 13205
 	}
 
 	clergymen = {
@@ -552,30 +552,6 @@
 		culture = afro_caribeno
 		religion = catholic
 		size = 2000
-	}
-
-	clergymen = {
-		culture = andean
-		religion = catholic
-		size = 10
-	}
-
-	artisans = {
-		culture = andean
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = andean
-		religion = catholic
-		size = 10
-	}
-
-	farmers = {
-		culture = andean
-		religion = catholic
-		size = 930
 	}
 }
 #Valera (128000/32000 POPS)
@@ -1020,5 +996,4 @@
 		religion = animist
 		size = 900
 	}
-
 }

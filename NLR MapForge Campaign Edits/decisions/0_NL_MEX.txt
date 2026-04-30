@@ -2,7 +2,13 @@ political_decisions = {
     mexican_empire = {
         picture = empire_mexico_decision
 		potential = {
-			tag = MEX
+		    OR = {
+			    tag = MEX
+			    AND = {
+				    primary_culture = mexican
+				    capital = 2172
+			    }
+		    }
 			government = democracy
 			NOT = { has_country_flag = mexican_empire }
 			FRA = {
@@ -24,15 +30,16 @@ political_decisions = {
             }
             nationalism_n_imperialism = 1
             UCA = {
-                all_core ={
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            vassal_of = THIS
-                        }
-                    }
-                }
-            }
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
         }
 		effect = {
 			government = hms_government
@@ -57,38 +64,38 @@ political_decisions = {
 	acquire_cuba = {
         picture = central_america_decision
 		potential = {
-			tag = MEX
+		    OR = {
+			    primary_culture = mexican
+			    primary_culture = andean
+			    accepted_culture = andean
+		    }
 			NOT = { accepted_culture = caribeno } 
 		}
 		allow = {
 			war = no
             nationalism_n_imperialism = 1
             CUB = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                vassal_of = THIS
-                                in_sphere = THIS
-                            }
-                        }
-                    }
-                }
-            }
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
             HAI = {
-                all_core = {
-                    OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                vassal_of = THIS
-                                in_sphere = THIS
-                            }
-                        }
-                    }
-                }
-            }
+				all_core = {
+					owner = {
+						OR = {
+							tag = THIS
+							in_sphere = THIS
+							vassal_of = THIS
+						}
+					}
+				}
+			}
 		}
 		effect = {
 			CUB = {
@@ -113,10 +120,14 @@ political_decisions = {
     retake_texas = {
         picture = texas_decision
         potential = {
-            OR = {
+		    OR = {
                 tag = USA
-                tag = MEX
-            }
+			    tag = MEX
+			    AND = {
+				    primary_culture = mexican
+				    capital = 2172
+			    }
+		    }
             NOT = {USA = {accepted_culture = texan}}
             NOT = {MEX = {accepted_culture = texan}}
         }

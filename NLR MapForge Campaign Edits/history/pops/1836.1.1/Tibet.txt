@@ -29,13 +29,7 @@
 	artisans = {
 		culture = tibetan
 		religion = gelugpa
-		size = 10000
-	}
-
-	artisans = {
-		culture = tibetan
-		religion = gelugpa
-		size = 400
+		size = 10400
 	}
 
 	soldiers = {
@@ -282,7 +276,7 @@
 		size = 69175
 	}
 }
-#Tawang (836000/209000 POPS) #now NEFA in India  asian_minor = Chin 
+#Tawang (836000/209000 POPS) #now NEFA in India
 1593 = {
 	aristocrats = {
 		culture = tibetan
@@ -315,63 +309,32 @@
 	}
 
 	aristocrats = {
-		culture = kachin
+		culture = bengali
 		religion = animist
-		size = 750
+		size = 1500
 	}
 
 	clergymen = {
-		culture = kachin
+		culture = bengali
 		religion = animist
-		size = 400
+		size = 775
 	}
 
 	artisans = {
-		culture = kachin
+		culture = bengali
 		religion = animist
-		size = 1950
+		size = 3850
 	}
 
 	soldiers = {
-		culture = kachin
+		culture = bengali
 		religion = animist
-		size = 350
+		size = 725
 	}
 
 	farmers = {
-		culture = kachin
+		culture = bengali
 		religion = animist
-		size = 35550
+		size = 70150
 	}
-
-	aristocrats = {
-		culture = asian_minor
-		religion = animist
-		size = 750
-	}
-
-	clergymen = {
-		culture = asian_minor
-		religion = animist
-		size = 375
-	}
-
-	artisans = {
-		culture = asian_minor
-		religion = animist
-		size = 1900
-	}
-
-	soldiers = {
-		culture = asian_minor
-		religion = animist
-		size = 375
-	}
-
-	farmers = {
-		culture = asian_minor
-		religion = animist
-		size = 34600
-	}
-
 }

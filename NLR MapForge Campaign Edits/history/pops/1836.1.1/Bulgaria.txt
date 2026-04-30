@@ -191,13 +191,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 26350
-	}
-
-	farmers = {
-		culture = bulgarian
-		religion = orthodox
-		size = 26350
+		size = 52700
 	}
 
 	clergymen = {
@@ -380,7 +374,6 @@
 		size = 850
 	}
 
-
 	soldiers = {
 		culture = bulgarian
 		religion = orthodox
@@ -498,13 +491,13 @@
 	clergymen = {
 		culture = bulgarian
 		religion = orthodox
-		size = 75
+		size = 125
 	}
 
 	artisans = {
 		culture = bulgarian
 		religion = orthodox
-		size = 450
+		size = 650
 	}
 
 	soldiers = {
@@ -516,25 +509,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 13475
-	}
-
-	clergymen = {
-		culture = bulgarian
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = bulgarian
-		religion = sunni
-		size = 200
-	}
-
-	farmers = {
-		culture = bulgarian
-		religion = sunni
-		size = 2750
+		size = 16225
 	}
 
 	clergymen = {
@@ -608,13 +583,13 @@
 	clergymen = {
 		culture = bulgarian
 		religion = orthodox
-		size = 75
+		size = 100
 	}
 
 	artisans = {
 		culture = bulgarian
 		religion = orthodox
-		size = 450
+		size = 550
 	}
 
 	soldiers = {
@@ -626,25 +601,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 11375
-	}
-
-	clergymen = {
-		culture = bulgarian
-		religion = sunni
-		size = 25
-	}
-
-	artisans = {
-		culture = bulgarian
-		religion = sunni
-		size = 100
-	}
-
-	farmers = {
-		culture = bulgarian
-		religion = sunni
-		size = 1875
+		size = 13250
 	}
 }
 #Burgas (196000/49000 POPS)
@@ -682,13 +639,13 @@
 	clergymen = {
 		culture = bulgarian
 		religion = orthodox
-		size = 175
+		size = 250
 	}
 
 	artisans = {
 		culture = bulgarian
 		religion = orthodox
-		size = 550
+		size = 650
 	}
 
 	soldiers = {
@@ -700,25 +657,7 @@
 	farmers = {
 		culture = bulgarian
 		religion = orthodox
-		size = 25175
-	}
-
-	clergymen = {
-		culture = bulgarian
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = bulgarian
-		religion = sunni
-		size = 100
-	}
-
-	farmers = {
-		culture = bulgarian
-		religion = sunni
-		size = 3750
+		size = 28925
 	}
 
 	clergymen = {
@@ -744,7 +683,6 @@
 		religion = orthodox
 		size = 4850
 	}
-
 }
 #Dobruja Region (84000) #see Romania.txt for balance of Region  
 #under the rule of the Ottoman Empire in 1836 
@@ -753,7 +691,7 @@
 	clergymen = {
 		culture = bulgarian
 		religion = orthodox
-		size = 50 
+		size = 50
 	}
 
 	artisans = {
@@ -777,7 +715,7 @@
 	clergymen = {
 		culture = romanian
 		religion = orthodox
-		size = 75 
+		size = 75
 	}
 
 	artisans = {
@@ -789,19 +727,19 @@
 	soldiers = {
 		culture = romanian
 		religion = orthodox
-		size = 100 
+		size = 100
 	}
 
 	farmers = {
 		culture = romanian
 		religion = orthodox
-		size = 4625 
+		size = 4625
 	}
 
 	aristocrats = {
 		culture = turkish
 		religion = sunni
-		size = 400 
+		size = 400
 	}
 
 	clergymen = {
@@ -825,6 +763,6 @@
 	farmers = {
 		culture = turkish
 		religion = sunni
-		size = 5100  
+		size = 5100
 	}
 }

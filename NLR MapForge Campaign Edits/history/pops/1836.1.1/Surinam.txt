@@ -3,48 +3,30 @@
 #Paramaribo (48640/12160 POPS)
 2240 = {
 	aristocrats = {
-		culture = dutch
+		culture = afro_caribbean
 		religion = protestant
 		size = 25
 	}
 
 	bureaucrats = {
-		culture = dutch
+		culture = afro_caribbean
 		religion = protestant
 		size = 10
 	}
 
 	artisans = {
-		culture = dutch
+		culture = afro_caribbean
 		religion = protestant
-		size = 50
+		size = 1800
 	}
 
 	soldiers = {
-		culture = dutch
+		culture = afro_caribbean
 		religion = protestant
-		size = 75
+		size = 100
 	}
 
 	clergymen = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 25
-	}
-
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 1750
-	}
-
-	farmers = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 1200
-	}
-
-	soldiers = {
 		culture = afro_caribbean
 		religion = protestant
 		size = 25
@@ -54,6 +36,18 @@
 		culture = afro_caribbean
 		religion = animist
 		size = 9000
+	}
+
+	farmers = {
+		culture = dutch
+		religion = protestant
+		size = 160
+	}
+
+	farmers = {
+		culture = afro_caribbean
+		religion = protestant
+		size = 1040
 	}
 }
 #Aperina (8000/2000 POPS)
@@ -87,5 +81,4 @@
 		religion = animist
 		size = 1750
 	}
-
 }

@@ -3,21 +3,15 @@
 #Belize (7200/1800 POPS)
 2190 = {
 	artisans = {
-		culture = british
+		culture = afro_caribbean
 		religion = protestant
-		size = 25
+		size = 125
 	}
 
 	clergymen = {
 		culture = afro_caribbean
 		religion = protestant
 		size = 15
-	}
-
-	artisans = {
-		culture = afro_caribbean
-		religion = protestant
-		size = 100
 	}
 
 	soldiers = {
@@ -31,5 +25,4 @@
 		religion = protestant
 		size = 1650
 	}
-
 }

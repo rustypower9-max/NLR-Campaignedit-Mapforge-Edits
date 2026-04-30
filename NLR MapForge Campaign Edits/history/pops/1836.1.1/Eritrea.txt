@@ -3,67 +3,43 @@
 #Massawa (28000/7000 POPS)  
 1849 = {
 	aristocrats = {
-		culture = ethiopian
+		culture = bedouin
 		religion = sunni
-		size = 50
+		size = 125
 	}
 
 	clergymen = {
-		culture = ethiopian
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = ethiopian
+		culture = bedouin
 		religion = sunni
 		size = 150
 	}
 
-	soldiers = {
-		culture = ethiopian
+	artisans = {
+		culture = bedouin
 		religion = sunni
-		size = 25
+		size = 350
 	}
 
-	farmers = {
-		culture = ethiopian
+	soldiers = {
+		culture = bedouin
 		religion = sunni
-		size = 2700
+		size = 70
 	}
 
 	bureaucrats = {
-		culture = misri
+		culture = bedouin
 		religion = sunni
 		size = 5
 	}
 
-	soldiers = {
+	farmers = {
+		culture = ethiopian
+		religion = sunni
+		size = 3000
+	}
+
+	farmers = {
 		culture = misri
-		religion = sunni
-		size = 20
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = sunni
-		size = 75
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 200
-	}
-
-	soldiers = {
-		culture = bedouin
 		religion = sunni
 		size = 25
 	}
@@ -71,7 +47,7 @@
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 3600
+		size = 3275
 	}
 }
 #Assab (44000/11000 POPS)  
@@ -79,61 +55,31 @@
 	aristocrats = {
 		culture = ethiopian
 		religion = sunni
-		size = 125
-	}
-
-	clergymen = {
-		culture = ethiopian
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = ethiopian
-		religion = sunni
-		size = 350
-	}
-
-	soldiers = {
-		culture = ethiopian
-		religion = sunni
-		size = 75
-	}
-
-	farmers = {
-		culture = ethiopian
-		religion = sunni
-		size = 6375
-	}
-
-	aristocrats = {
-		culture = ethiopian
-		religion = sunni
-		size = 75
-	}
-
-	clergymen = {
-		culture = ethiopian
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = ethiopian
-		religion = sunni
 		size = 200
 	}
 
+	clergymen = {
+		culture = ethiopian
+		religion = sunni
+		size = 150
+	}
+
+	artisans = {
+		culture = ethiopian
+		religion = sunni
+		size = 550
+	}
+
 	soldiers = {
 		culture = ethiopian
 		religion = sunni
-		size = 50
+		size = 125
 	}
 
 	farmers = {
 		culture = ethiopian
 		religion = sunni
-		size = 3600
+		size = 9975
 	}
 }
 #under the rule of Ethiopia in 1836  
@@ -142,7 +88,7 @@
 	aristocrats = {
 		culture = ethiopian
 		religion = coptic
-		size = 225
+		size = 375
 	}
 
 	bureaucrats = {
@@ -160,55 +106,25 @@
 	clergymen = {
 		culture = ethiopian
 		religion = coptic
-		size = 125
+		size = 200
 	}
 
 	artisans = {
 		culture = ethiopian
 		religion = coptic
-		size = 600
+		size = 1000
 	}
 
 	soldiers = {
 		culture = ethiopian
 		religion = coptic
-		size = 125
+		size = 200
 	}
 
 	farmers = {
 		culture = ethiopian
 		religion = coptic
-		size = 10825
-	}
-
-	aristocrats = {
-		culture = ethiopian
-		religion = sunni
-		size = 150
-	}
-
-	clergymen = {
-		culture = ethiopian
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = ethiopian
-		religion = sunni
-		size = 400
-	}
-
-	soldiers = {
-		culture = ethiopian
-		religion = sunni
-		size = 75
-	}
-
-	farmers = {
-		culture = ethiopian
-		religion = sunni
-		size = 7300
+		size = 18125
 	}
 }
 #Akordat (28000/7000 POPS)  
@@ -242,5 +158,4 @@
 		religion = coptic
 		size = 6375
 	}
-
 }

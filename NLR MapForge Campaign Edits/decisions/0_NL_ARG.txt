@@ -9,9 +9,11 @@ political_decisions = {
 			state_and_government = 1
 			all_core = { owned_by = THIS }
 			PEU = { all_core = { owned_by = THIS } }
+			CHL = { all_core = { owned_by = THIS } }
 		}
-		effect = { 
-			PEU = { all_core = { add_core = THIS } } 
+		effect = {
+			PEU = { all_core = { add_core = THIS } }
+			CHL = { all_core = { add_core = THIS } }
 			set_country_flag = take_peru_arg
 			prestige = 20
 		}
@@ -26,6 +28,7 @@ political_decisions = {
 			ARG = { all_core = { owned_by = THIS } } 
 			BOL = { all_core = { owned_by = THIS } }
 			PEU = { all_core = { owned_by = THIS } } 
+			CHL = { all_core = { owned_by = THIS } } 
 			revolution_n_counterrevolution = 1 
 		}
 		effect = { 

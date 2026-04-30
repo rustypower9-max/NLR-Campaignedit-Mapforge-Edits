@@ -1,7 +1,7 @@
-owner = PLC
-controller = PLC
+owner = RUS
+controller = RUS
 add_core = LIT
-add_core = PLC
+add_core = RUS
 add_core = BYE
 trade_goods = wool
 life_rating = 35

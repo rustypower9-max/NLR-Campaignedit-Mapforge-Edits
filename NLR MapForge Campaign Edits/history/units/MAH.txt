@@ -1,10 +1,11 @@
 army = {
 	name = "Marathan Army"
 	location = 1299
+    
 	regiment = {
-		name= "1. Marathan Legion"
+		name= "1.Marathan Legion"
 		type = infantry
-		home = 1292
+		home = 1272
 	}
 
 	regiment = {
@@ -18,10 +19,11 @@ army = {
 		type = infantry
 		home = 1291
 	}
+
 	regiment = {
 		name= "4. Marathan Legion"
 		type = infantry
-		home = 1292
+		home = 1278
 	}
 
 	regiment = {
@@ -44,7 +46,7 @@ army = {
 	regiment = {
 		name= "8.Marathan Legion"
 		type = irregular
-		home = 1280
+		home = 1276
 	}
 
 	regiment = {
@@ -52,74 +54,12 @@ army = {
 		type = irregular
 		home = 1299
 	}
+
 	regiment = {
 		name= "10.Marathan Legion"
 		type = irregular
 		home = 1299
 	}
-
-}
-
-army = {
-	name = "Army of Nagpur"
-	location = 1277
-	regiment = {
-		name= "10. Marathan Legion"
-		type = infantry
-		home = 1279
-	}
-
-	regiment = {
-		name= "9.Marathan Legion"
-		type = infantry
-		home = 1279
-	}
-
-	regiment = {
-		name= "8.Marathan Legion"
-		type = infantry
-		home = 1279
-	}
-	regiment = {
-		name= "7. Marathan Legion"
-		type = infantry
-		home = 1277
-	}
-
-	regiment = {
-		name= "6.Marathan Legion"
-		type = infantry
-		home = 1277
-	}
-
-	regiment = {
-		name= "5.Marathan Legion"
-		type = irregular
-		home = 1277
-	}
-	regiment = {
-		name= "4. Marathan Legion"
-		type = irregular
-		home = 1278
-	}
-
-	regiment = {
-		name= "3.Marathan Legion"
-		type = irregular
-		home = 1276
-	}
-
-	regiment = {
-		name= "2.Marathan Legion"
-		type = irregular
-		home = 1275
-	}
-	regiment = {
-		name= "1.Marathan Legion"
-		type = irregular
-		home = 1272
-	}
-
 }
 
 army = {
@@ -132,7 +72,7 @@ army = {
 	}
 
 	regiment = {
-		name= "7.Marathan Legion"
+		name= "9.Marathan Legion"
 		type = infantry
 		home = 1295
 	}
@@ -143,7 +83,7 @@ army = {
 		home = 1296
 	}
 	regiment = {
-		name= "9. Marathan Legion"
+		name= "7. Marathan Legion"
 		type = infantry
 		home = 1297
 	}
@@ -159,10 +99,11 @@ army = {
 		type = irregular
 		home = 1275
 	}
+
 	regiment = {
-		name= "4. Marathan Legion"
+		name= "4.Marathan Legion"
 		type = irregular
-		home = 1281
+		home = 1275
 	}
 
 	regiment = {
@@ -189,9 +130,9 @@ army = {
 	name = "Army of Gwalior"
 	location = 1270
 	regiment = {
-		name= "10. Marathan Legion"
+		name= "6.Marathan Legion"
 		type = infantry
-		home = 1275
+		home = 1295
 	}
 
 	regiment = {
@@ -212,9 +153,9 @@ army = {
 	}
 
 	regiment = {
-		name= "6.Marathan Legion"
+		name= "10. Marathan Legion"
 		type = infantry
-		home = 1295
+		home = 1270
 	}
 
 	regiment = {

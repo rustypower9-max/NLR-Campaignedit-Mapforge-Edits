@@ -3,7 +3,6 @@ primary_culture = south_german
 culture = serb
 culture = hungarian
 culture = romanian
-culture = bosniak
 culture = croat
 culture = slovak
 culture = polish

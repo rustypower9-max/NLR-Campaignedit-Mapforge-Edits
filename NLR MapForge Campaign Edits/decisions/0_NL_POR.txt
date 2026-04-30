@@ -2,7 +2,10 @@ political_decisions = {
 	portuguese_civil_code = {
 		picture = enact_the_homestead_act
 		potential = {
-			tag = UPB
+            OR = {
+                tag = UPB
+                tag = POR
+            }
 			state_n_government = 1
 			NOT = { has_country_flag = portuguese_civil_code }
 		}
@@ -29,7 +32,10 @@ political_decisions = {
 	}
     the_regenerador = {
 		potential = {
-			tag = UPB
+            OR = {
+                tag = UPB
+                tag = POR
+            }
 			NOT = { has_global_flag = portuguese_regeneration }
 			year = 1851
 			NOT = { year = 1875 }
@@ -80,7 +86,6 @@ political_decisions = {
 
 	instituto_industrial_de_lisboa = {
 		potential = {
-			tag = UPB
 			has_global_flag = portuguese_regeneration
 			OR = {
 				tag = POR

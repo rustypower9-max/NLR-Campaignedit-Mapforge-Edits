@@ -3,190 +3,164 @@
 #Managua (192000/48000 POPS)
 2197 = {
     aristocrats = {
-        culture = central_american
-        religion = catholic
-        size = 1785
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 1785
     }
 
     bureaucrats = {
-        culture = central_american
-        religion = catholic
-        size = 170
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 170
     }
 
     officers = {
-        culture = central_american
-        religion = catholic
-        size = 127
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 127
     }
 
     clergymen = {
-        culture = central_american
-        religion = catholic
-        size = 807
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 807
     }
 
     artisans = {
-        culture = central_american
-        religion = catholic
-        size = 4080
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 4080
     }
 
     soldiers = {
-        culture = central_american
-        religion = catholic
-        size = 807
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 807
     }
 
     farmers = {
-        culture = central_american
-        religion = catholic
-        size = 73822
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 73822
     }
 }
 #Rivas (40000/10000 POPS)
 2198 = {
     aristocrats = {
-        culture = central_american
-        religion = catholic
-        size = 467
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 467
     }
 
     clergymen = {
-        culture = central_american
-        religion = catholic
-        size = 170
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 170
     }
 
     artisans = {
-        culture = central_american
-        religion = catholic
-        size = 850
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 850
     }
 
     soldiers = {
-        culture = central_american
-        religion = catholic
-        size = 170
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 170
     }
 
     farmers = {
-        culture = central_american
-        religion = catholic
-        size = 15342
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 15342
     }
 }
 #Esteli (48000/12000 POPS)
 2199 = {
     aristocrats = {
-        culture = central_american
-        religion = catholic
-        size = 552
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 552
     }
 
     clergymen = {
-        culture = central_american
-        religion = catholic
-        size = 212
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 212
     }
 
     artisans = {
-        culture = central_american
-        religion = catholic
-        size = 1020
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 1020
     }
 
     soldiers = {
-        culture = central_american
-        religion = catholic
-        size = 212
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 212
     }
 
     farmers = {
-        culture = central_american
-        religion = catholic
-        size = 20102
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 20102
     }
 }
 #Bluefields (12000/3000 POPS)
 2200 = {
     aristocrats = {
-        culture = central_american
-        religion = catholic
-        size = 25
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 25
     }
 
     clergymen = {
-        culture = central_american
-        religion = catholic
-        size = 42
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 42
     }
 
     artisans = {
-        culture = central_american
-        religion = catholic
-        size = 85
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 85
     }
 
     soldiers = {
-        culture = central_american
-        religion = catholic
-        size = 17
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 17
     }
 
     farmers = {
-        culture = central_american
-        religion = catholic
-        size = 1530
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 1530
     }
 
     clergymen = {
-        culture = afro_caribbean
-        religion = catholic
-        size = 50
-        militancy = 9
+    	culture = afro_caribbean
+    	religion = catholic
+    	size = 50
     }
 
     artisans = {
-        culture = afro_caribbean
-        religion = catholic
-        size = 100
-        militancy = 9
+    	culture = afro_caribbean
+    	religion = catholic
+    	size = 100
     }
 
     soldiers = {
-        culture = afro_caribbean
-        religion = catholic
-        size = 50
-        militancy = 9
+    	culture = afro_caribbean
+    	religion = catholic
+    	size = 50
     }
 
     farmers = {
-        culture = afro_caribbean
-        religion = catholic
-        size = 1800
-        militancy = 9
+    	culture = afro_caribbean
+    	religion = catholic
+    	size = 1800
     }
 }

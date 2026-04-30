@@ -88,5 +88,4 @@
 		religion = animist
 		size = 101850
 	}
-
 }

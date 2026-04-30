@@ -465,61 +465,31 @@
 	aristocrats = {
 		culture = north_caucasian
 		religion = orthodox
-		size = 150
-	}
-
-	clergymen = {
-		culture = north_caucasian
-		religion = orthodox
-		size = 75
-	}
-
-	artisans = {
-		culture = north_caucasian
-		religion = orthodox
-		size = 450
-	}
-
-	soldiers = {
-		culture = north_caucasian
-		religion = orthodox
-		size = 100
-	}
-
-	farmers = {
-		culture = north_caucasian
-		religion = orthodox
-		size = 8225
-	}
-
-	aristocrats = {
-		culture = north_caucasian
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = north_caucasian
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = north_caucasian
-		religion = sunni
 		size = 250
 	}
 
+	clergymen = {
+		culture = north_caucasian
+		religion = orthodox
+		size = 125
+	}
+
+	artisans = {
+		culture = north_caucasian
+		religion = orthodox
+		size = 700
+	}
+
 	soldiers = {
 		culture = north_caucasian
-		religion = sunni
-		size = 50
+		religion = orthodox
+		size = 150
 	}
 
 	farmers = {
 		culture = north_caucasian
-		religion = sunni
-		size = 4550
+		religion = orthodox
+		size = 12775
 	}
 }
 #Kars Region (76000) #see Turkey.txt for balance of region  
@@ -558,20 +528,20 @@
 
 	clergymen = {
 		culture = georgian
-		religion = orthodox
-		size = 75
+		religion = sunni
+		size = 200
 	}
 
 	artisans = {
 		culture = georgian
-		religion = orthodox
-		size = 200
+		religion = sunni
+		size = 800
 	}
 
 	farmers = {
 		culture = georgian
-		religion = orthodox
-		size = 3725
+		religion = sunni
+		size = 14975
 	}
 
 	aristocrats = {
@@ -580,28 +550,9 @@
 		size = 200
 	}
 
-	clergymen = {
-		culture = georgian
-		religion = sunni
-		size = 125
-	}
-
-	artisans = {
-		culture = georgian
-		religion = sunni
-		size = 600
-	}
-
 	soldiers = {
 		culture = georgian
 		religion = sunni
 		size = 125
 	}
-
-	farmers = {
-		culture = georgian
-		religion = sunni
-		size = 11250
-	}
-
 }

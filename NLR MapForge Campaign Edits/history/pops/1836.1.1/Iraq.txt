@@ -23,25 +23,25 @@
 	clergymen = {
 		culture = mashriqi
 		religion = sunni
-		size = 250
+		size = 325
 	}
 
 	artisans = {
 		culture = mashriqi
 		religion = sunni
-		size = 1250
+		size = 1650
 	}
 
 	soldiers = {
 		culture = mashriqi
 		religion = sunni
-		size = 2100
+		size = 2200
 	}
 
 	farmers = {
 		culture = mashriqi
 		religion = sunni
-		size = 21000
+		size = 28425
 	}
 
 	aristocrats = {
@@ -121,30 +121,6 @@
 		religion = sunni
 		size = 11150
 	}
-
-	clergymen = {
-		culture = mashriqi
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = mashriqi
-		religion = catholic
-		size = 400
-	}
-
-	soldiers = {
-		culture = mashriqi
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = mashriqi
-		religion = catholic
-		size = 7425
-	}
 }
 #Arbil (104000/26000 POPS)
 924 = {
@@ -157,13 +133,13 @@
 	clergymen = {
 		culture = mashriqi
 		religion = sunni
-		size = 50
+		size = 75
 	}
 
 	artisans = {
 		culture = mashriqi
 		religion = sunni
-		size = 250
+		size = 350
 	}
 
 	soldiers = {
@@ -175,7 +151,7 @@
 	farmers = {
 		culture = mashriqi
 		religion = sunni
-		size = 4575
+		size = 6450
 	}
 
 	aristocrats = {
@@ -231,24 +207,6 @@
 		religion = sunni
 		size = 11325
 	}
-
-	clergymen = {
-		culture = mashriqi
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = mashriqi
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = mashriqi
-		religion = catholic
-		size = 1875
-	}
 }
 #Kirkuk (160000/40000 POPS)
 925 = {
@@ -261,13 +219,13 @@
 	clergymen = {
 		culture = mashriqi
 		religion = sunni
-		size = 50
+		size = 75
 	}
 
 	artisans = {
 		culture = mashriqi
 		religion = sunni
-		size = 300
+		size = 400
 	}
 
 	soldiers = {
@@ -279,7 +237,7 @@
 	farmers = {
 		culture = mashriqi
 		religion = sunni
-		size = 6075
+		size = 7950
 	}
 
 	aristocrats = {
@@ -335,24 +293,6 @@
 		religion = sunni
 		size = 19075
 	}
-
-	clergymen = {
-		culture = mashriqi
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = mashriqi
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = mashriqi
-		religion = catholic
-		size = 1875
-	}
 }
 #Iraq Region (644000)
 #under the rule of Ottoman Empire in 1836
@@ -361,7 +301,7 @@
 	aristocrats = {
 		culture = mashriqi
 		religion = sunni
-		size = 1100
+		size = 1150
 	}
 
 	bureaucrats = {
@@ -379,31 +319,25 @@
 	clergymen = {
 		culture = mashriqi
 		religion = sunni
-		size = 400
+		size = 575
 	}
 
 	artisans = {
 		culture = mashriqi
 		religion = sunni
-		size = 10000
-	}
-
-	artisans = {
-		culture = mashriqi
-		religion = sunni
-		size = 1700
+		size = 15350
 	}
 
 	soldiers = {
 		culture = mashriqi
 		religion = sunni
-		size = 2100
+		size = 2200
 	}
 
 	farmers = {
 		culture = mashriqi
 		religion = sunni
-		size = 20450
+		size = 29475
 	}
 
 	aristocrats = {
@@ -440,72 +374,6 @@
 		culture = turkish
 		religion = sunni
 		size = 3200
-	}
-
-	aristocrats = {
-		culture = mashriqi
-		religion = shiite
-		size = 50
-	}
-
-	clergymen = {
-		culture = mashriqi
-		religion = shiite
-		size = 50
-	}
-
-	artisans = {
-		culture = mashriqi
-		religion = shiite
-		size = 150
-	}
-
-	farmers = {
-		culture = mashriqi
-		religion = shiite
-		size = 2750
-	}
-
-	clergymen = {
-		culture = mashriqi
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = mashriqi
-		religion = catholic
-		size = 2000
-	}
-
-	soldiers = {
-		culture = mashriqi
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = mashriqi
-		religion = catholic
-		size = 3850
-	}
-
-	clergymen = {
-		culture = mashriqi
-		religion = orthodox
-		size = 75
-	}
-
-	artisans = {
-		culture = mashriqi
-		religion = orthodox
-		size = 1500
-	}
-
-	farmers = {
-		culture = mashriqi
-		religion = orthodox
-		size = 2425
 	}
 
 	clergymen = {
@@ -617,13 +485,13 @@
 	clergymen = {
 		culture = mashriqi
 		religion = sunni
-		size = 125
+		size = 150
 	}
 
 	artisans = {
 		culture = mashriqi
 		religion = sunni
-		size = 600
+		size = 650
 	}
 
 	soldiers = {
@@ -635,7 +503,7 @@
 	farmers = {
 		culture = mashriqi
 		religion = sunni
-		size = 10975
+		size = 11900
 	}
 
 	aristocrats = {
@@ -691,43 +559,25 @@
 		religion = sunni
 		size = 3650
 	}
-
-	clergymen = {
-		culture = mashriqi
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = mashriqi
-		religion = catholic
-		size = 50
-	}
-
-	farmers = {
-		culture = mashriqi
-		religion = catholic
-		size = 925
-	}
 }
 #Karbala (100000/25000 POPS)
 929 = {
 	aristocrats = {
 		culture = mashriqi
-		religion = sunni
-		size = 125
+		religion = shiite
+		size = 475
 	}
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
-		size = 75
+		religion = shiite
+		size = 225
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
-		size = 400
+		religion = shiite
+		size = 1050
 	}
 
 	soldiers = {
@@ -738,8 +588,8 @@
 
 	farmers = {
 		culture = mashriqi
-		religion = sunni
-		size = 7300
+		religion = shiite
+		size = 19150
 	}
 
 	aristocrats = {
@@ -765,85 +615,31 @@
 		religion = sunni
 		size = 3675
 	}
-
-	aristocrats = {
-		culture = mashriqi
-		religion = shiite
-		size = 350
-	}
-
-	clergymen = {
-		culture = mashriqi
-		religion = shiite
-		size = 150
-	}
-
-	artisans = {
-		culture = mashriqi
-		religion = shiite
-		size = 650
-	}
-
-	farmers = {
-		culture = mashriqi
-		religion = shiite
-		size = 100
-	}
-
-	farmers = {
-		culture = mashriqi
-		religion = shiite
-		size = 11750
-	}
 }
 #Kut (100000/25000 POPS)
 930 = {
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 75
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 200
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 3650
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = shiite
-		size = 25
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = shiite
-		size = 50
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = shiite
 		size = 100
 	}
 
+	clergymen = {
+		culture = bedouin
+		religion = sunni
+		size = 125
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = sunni
+		size = 300
+	}
+
 	farmers = {
 		culture = bedouin
-		religion = shiite
-		size = 1825
+		religion = sunni
+		size = 5475
 	}
 
 	aristocrats = {
@@ -928,74 +724,50 @@
 
 	clergymen = {
 		culture = mashriqi
-		religion = sunni
-		size = 75
+		religion = shiite
+		size = 275
 	}
 
 	artisans = {
 		culture = mashriqi
-		religion = sunni
-		size = 150
+		religion = shiite
+		size = 1200
 	}
 
 	soldiers = {
 		culture = mashriqi
-		religion = sunni
-		size = 50
+		religion = shiite
+		size = 150
 	}
 
 	farmers = {
 		culture = mashriqi
-		religion = sunni
-		size = 2975
+		religion = shiite
+		size = 22250
 	}
 
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 350
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 6500
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = shiite
-		size = 75
+		size = 175
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = shiite
-		size = 75
+		size = 125
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = shiite
-		size = 250
+		religion = sunni
+		size = 600
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = shiite
-		size = 4600
+		religion = sunni
+		size = 11100
 	}
 
 	aristocrats = {
@@ -1003,49 +775,25 @@
 		religion = shiite
 		size = 375
 	}
-
-	clergymen = {
-		culture = mashriqi
-		religion = shiite
-		size = 200
-	}
-
-	artisans = {
-		culture = mashriqi
-		religion = shiite
-		size = 1050
-	}
-
-	soldiers = {
-		culture = mashriqi
-		religion = shiite
-		size = 100
-	}
-
-	farmers = {
-		culture = mashriqi
-		religion = shiite
-		size = 19275
-	}
 }
 #Nasiriyya (152000/38000 POPS)
 933 = {
 	aristocrats = {
 		culture = bedouin
-		religion = sunni
-		size = 75
+		religion = shiite
+		size = 175
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 75
+		size = 125
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
-		size = 200
+		religion = shiite
+		size = 500
 	}
 
 	soldiers = {
@@ -1056,32 +804,8 @@
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
-		size = 3600
-	}
-
-	aristocrats = {
-		culture = bedouin
 		religion = shiite
-		size = 100
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = shiite
-		size = 50
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = shiite
-		size = 300
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = shiite
-		size = 5550
+		size = 9150
 	}
 
 	aristocrats = {
@@ -1119,49 +843,25 @@
 	aristocrats = {
 		culture = bedouin
 		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = bedouin
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = sunni
-		size = 300
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = sunni
-		size = 5550
-	}
-
-	aristocrats = {
-		culture = bedouin
-		religion = shiite
-		size = 75
+		size = 175
 	}
 
 	clergymen = {
 		culture = bedouin
 		religion = shiite
-		size = 75
+		size = 125
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = shiite
-		size = 250
+		religion = sunni
+		size = 550
 	}
 
 	farmers = {
 		culture = bedouin
-		religion = shiite
-		size = 4600
+		religion = sunni
+		size = 10150
 	}
 
 	aristocrats = {
@@ -1193,5 +893,4 @@
 		religion = shiite
 		size = 11925
 	}
-
 }

@@ -5,165 +5,80 @@
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1500
+		size = 4500
 	}
 
 	bureaucrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 400
+		size = 450
 	}
 
 	officers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 725
+		size = 750
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1225
+		size = 3625
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 6150
+		size = 18150
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1250
+		size = 3700
+	}
+
+	farmers = {
+		culture = manchu
+		religion = mahayana
+		size = 125
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 110625
-	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3000
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2400
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2000
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2400
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 220200
-	}
-
-	bureaucrats = {
-		culture = manchu
-		religion = mahayana
-		size = 50
-	}
-
-	officers = {
-		culture = manchu
-		religion = mahayana
-		size = 25
-	}
-
-	soldiers = {
-		culture = manchu
-		religion = mahayana
-		size = 50
+		size = 330700
 	}
 }
-#Tainan (1528000/382000 POPS) #now part of Taiwan  
+#Tainan (1808000/452000 POPS) #now part of Taiwan  
 2562 = {
 	aristocrats = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1525
+		size = 5025
 	}
 
 	clergymen = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1325
+		size = 5825
 	}
 
 	artisans = {
 		culture = nanfaren
 		religion = mahayana
-		size = 6600
+		size = 19100
 	}
 
 	soldiers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 1325
+		size = 3825
 	}
 
 	farmers = {
 		culture = nanfaren
 		religion = mahayana
-		size = 121225
+		size = 418225
 	}
-
-	aristocrats = {
-		culture = nanfaren
-		religion = mahayana
-		size = 3500
-	}
-
-	clergymen = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2500
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 10000
-	}
-
-	artisans = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2500
-	}
-
-	soldiers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 2500
-	}
-
-	farmers = {
-		culture = nanfaren
-		religion = mahayana
-		size = 229000
-	}
-
 }

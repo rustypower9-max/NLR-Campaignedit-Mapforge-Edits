@@ -501,25 +501,25 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 3000
+		size = 3025
 	}
 
 	artisans = {
 		culture = andean
 		religion = catholic
-		size = 650
+		size = 750
 	}
 
 	soldiers = {
 		culture = andean
 		religion = catholic
-		size = 3000
+		size = 3025
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 50000
+		size = 51850
 	}
 
 	clergymen = {
@@ -551,30 +551,6 @@
 		religion = catholic
 		size = 4000
 	}
-
-	clergymen = {
-		culture = andean
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = andean
-		religion = catholic
-		size = 100
-	}
-
-	soldiers = {
-		culture = andean
-		religion = catholic
-		size = 25
-	}
-
-	farmers = {
-		culture = andean
-		religion = catholic
-		size = 1850
-	}
 }
 #Barranquilla (132000/33000 POPS)
 2255 = {
@@ -587,25 +563,25 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 125
+		size = 135
 	}
 
 	artisans = {
 		culture = andean
 		religion = catholic
-		size = 650
+		size = 700
 	}
 
 	soldiers = {
 		culture = andean
 		religion = catholic
-		size = 1100
+		size = 1110
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 10575
+		size = 11505
 	}
 
 	clergymen = {
@@ -636,30 +612,6 @@
 		culture = afro_caribeno
 		religion = catholic
 		size = 3000
-	}
-
-	clergymen = {
-		culture = andean
-		religion = catholic
-		size = 10
-	}
-
-	artisans = {
-		culture = andean
-		religion = catholic
-		size = 50
-	}
-
-	soldiers = {
-		culture = andean
-		religion = catholic
-		size = 10
-	}
-
-	farmers = {
-		culture = andean
-		religion = catholic
-		size = 930
 	}
 }
 #Cauca Region (300000)
@@ -773,49 +725,25 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 100
+		size = 175
 	}
 
 	artisans = {
 		culture = andean
 		religion = catholic
-		size = 550
+		size = 850
 	}
 
 	soldiers = {
 		culture = andean
 		religion = catholic
-		size = 125
+		size = 200
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 9875
-	}
-
-	clergymen = {
-		culture = andean
-		religion = catholic
-		size = 75
-	}
-
-	artisans = {
-		culture = andean
-		religion = catholic
-		size = 300
-	}
-
-	soldiers = {
-		culture = andean
-		religion = catholic
-		size = 75
-	}
-
-	farmers = {
-		culture = andean
-		religion = catholic
-		size = 5550
+		size = 15425
 	}
 }
 #Buenaventura (60000/15000 POPS)
@@ -891,49 +819,25 @@
 	clergymen = {
 		culture = andean
 		religion = catholic
-		size = 100
+		size = 150
 	}
 
 	artisans = {
 		culture = andean
 		religion = catholic
-		size = 450
+		size = 1000
 	}
 
 	soldiers = {
 		culture = andean
 		religion = catholic
-		size = 100
+		size = 225
 	}
 
 	farmers = {
 		culture = andean
 		religion = catholic
-		size = 7925
-	}
-
-	clergymen = {
-		culture = andean
-		religion = catholic
-		size = 50
-	}
-
-	artisans = {
-		culture = andean
-		religion = catholic
-		size = 550
-	}
-
-	soldiers = {
-		culture = andean
-		religion = catholic
-		size = 125
-	}
-
-	farmers = {
-		culture = andean
-		religion = catholic
-		size = 10275
+		size = 18200
 	}
 }
 #Rio Negro Region (128000) #see Brazil.txt for balance of region
@@ -1167,5 +1071,4 @@
 		religion = animist
 		size = 2700
 	}
-
 }

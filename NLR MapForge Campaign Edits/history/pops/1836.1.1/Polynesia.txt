@@ -23,13 +23,13 @@
 	clergymen = {
 		culture = polynesian
 		religion = protestant
-		size = 250
+		size = 275
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = protestant
-		size = 1150
+		size = 1250
 	}
 
 	soldiers = {
@@ -41,25 +41,7 @@
 	farmers = {
 		culture = polynesian
 		religion = protestant
-		size = 20025
-	}
-
-	clergymen = {
-		culture = polynesian
-		religion = catholic
-		size = 25
-	}
-
-	artisans = {
-		culture = polynesian
-		religion = catholic
-		size = 100
-	}
-
-	farmers = {
-		culture = polynesian
-		religion = catholic
-		size = 2000
+		size = 22025
 	}
 }
 #uncolonized in 1836
@@ -558,5 +540,4 @@
 		religion = animist
 		size = 675
 	}
-
 }

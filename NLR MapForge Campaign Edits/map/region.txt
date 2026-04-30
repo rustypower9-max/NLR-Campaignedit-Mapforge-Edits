@@ -116,7 +116,9 @@ SPA_474 = { 474 476 } #this is just Galicia - so Portugal can take it
 
 SPA_477 = { 477 479 480 481 482 483 486 475 478 } #Leon-Castilla-Galicia
 
-SPA_492 = { 492 493 494 495 496 497 } #Vasconia-Aragon
+SPA_492 = { 492 493 494 } #Vasconia
+
+SPA_495 = { 495 496 497 } #Aragon
 
 SPA_498 = { 498 499 500 501 502 }
 
@@ -694,7 +696,9 @@ CHI_1600 = { 1600 1594 1598 2607 1597 1595 1596 1599 } #Xinjiang
 
 CHI_1578 = { 1578 1580 1582 1585 1586 } #Sichuan
 
-CHI_1601 = { 1601 1506 1602 1603 1505 1507 } #Yunnan
+CHI_1601 = { 1601 1602 1603 } #Yunnan
+
+CHI_1602 = { 1506 1505 1507 } #Guizhou
 
 CHI_1504 = { 1502 1503 1504 1527 1530 } #Guangxi
 

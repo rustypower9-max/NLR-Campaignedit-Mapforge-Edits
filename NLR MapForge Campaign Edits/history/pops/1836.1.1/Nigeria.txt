@@ -5,32 +5,25 @@
 	aristocrats = {
 		culture = volta
 		religion = animist
-		size = 1550
+		size = 1600
 	}
 
 	clergymen = {
 		culture = volta
 		religion = animist
-		size = 800
+		size = 900
 	}
 
 	artisans = {
 		culture = volta
 		religion = animist
-		size = 3200
+		size = 3400
 	}
 
 	soldiers = {
 		culture = volta
 		religion = animist
-		size= 1050
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 37400
+		size = 1100
 	}
 
 	slaves = {
@@ -39,35 +32,10 @@
 		size = 36000
 	}
 
-	aristocrats = {
-		culture = volta
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = volta
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 200
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 50
-
-	}
-
 	farmers = {
 		culture = volta
 		religion = animist
-		size = 3600
+		size = 41000
 	}
 }
 #Abeokuta (784000/196000 POPS)
@@ -75,32 +43,25 @@
 	aristocrats = {
 		culture = volta
 		religion = animist
-		size = 3650
+		size = 3850
 	}
 
 	clergymen = {
 		culture = volta
 		religion = animist
-		size = 1850
+		size = 1950
 	}
 
 	artisans = {
 		culture = volta
 		religion = animist
-		size = 7500
+		size = 8000
 	}
 
 	soldiers = {
 		culture = volta
 		religion = animist
-		size= 2000
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 133000
+		size = 2100
 	}
 
 	slaves = {
@@ -109,35 +70,10 @@
 		size = 38000
 	}
 
-	aristocrats = {
-		culture = volta
-		religion = animist
-		size = 200
-	}
-
-	clergymen = {
-		culture = volta
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 500
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 100
-
-	}
-
 	farmers = {
 		culture = volta
 		religion = animist
-		size = 9100
+		size = 142100
 	}
 }
 #Ibadan (1160000/290000 POPS)
@@ -169,32 +105,25 @@
 	artisans = {
 		culture = volta
 		religion = animist
-		size = 10000
-	}
-	
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 1700
+		size = 11700
 	}
 
 	soldiers = {
 		culture = volta
 		religion = animist
-		size= 3000
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 203400
+		size = 3000
 	}
 
 	slaves = {
 		culture = volta
 		religion = animist
 		size = 62000
+	}
+
+	farmers = {
+		culture = volta
+		religion = animist
+		size = 203400
 	}
 }
 #Ife (872000/218000 POPS)
@@ -214,26 +143,13 @@
 	artisans = {
 		culture = volta
 		religion = animist
-		size = 10000
-	}
-	
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 800
+		size = 10800
 	}
 
 	soldiers = {
 		culture = volta
 		religion = animist
-		size= 2200
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 158600
+		size = 2200
 	}
 
 	slaves = {
@@ -241,81 +157,49 @@
 		religion = animist
 		size = 40000
 	}
+
+	farmers = {
+		culture = volta
+		religion = animist
+		size = 158600
+	}
 }
 #Ilorin (248000/62000 POPS) african_Minor includes Nupe
 1927 = {
 	aristocrats = {
 		culture = volta
 		religion = animist
-		size = 950
+		size = 1200
 	}
 
 	clergymen = {
 		culture = volta
 		religion = animist
-		size = 525
+		size = 700
 	}
 
 	artisans = {
 		culture = volta
 		religion = animist
-		size = 2500
+		size = 3000
 	}
 
 	soldiers = {
 		culture = volta
 		religion = animist
-		size= 1100
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 39025
+		size = 1225
 	}
 
 	slaves = {
 		culture = volta
 		religion = animist
-		size = 6000
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = animist
-		size = 250
-	}
-
-	clergymen = {
-		culture = volta
-		religion = animist
-		size = 175
-	}
-
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 500
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 125
-
+		size = 8000
 	}
 
 	farmers = {
 		culture = volta
 		religion = animist
-		size = 9050
-	}
-
-	slaves = {
-		culture = volta
-		religion = animist
-		size = 2000
+		size = 48075
 	}
 }
 #Edo Region (1676000)
@@ -325,7 +209,7 @@
 	aristocrats = {
 		culture = volta
 		religion = animist
-		size = 4250
+		size = 5650
 	}
 
 	bureaucrats = {
@@ -343,76 +227,31 @@
 	clergymen = {
 		culture = volta
 		religion = animist
-		size = 2150
+		size = 2850
 	}
 
 	artisans = {
 		culture = volta
 		religion = animist
-		size = 8600
+		size = 11500
 	}
 
 	soldiers = {
 		culture = volta
 		religion = animist
-		size= 3000
-
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 2000
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 123100
+		size = 5750
 	}
 
 	slaves = {
 		culture = volta
 		religion = animist
-		size = 70000
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = animist
-		size = 1400
-	}
-
-	clergymen = {
-		culture = volta
-		religion = animist
-		size = 700
-	}
-
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 2900
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 750
-
+		size = 92000
 	}
 
 	farmers = {
 		culture = volta
 		religion = animist
-		size = 44250
-	}
-
-	slaves = {
-		culture = volta
-		religion = animist
-		size = 22000
+		size = 167350
 	}
 }
 #Lokoja (332000/83000 POPS)
@@ -420,112 +259,37 @@
 	aristocrats = {
 		culture = volta
 		religion = animist
-		size = 575
+		size = 3225
 	}
 
 	clergymen = {
 		culture = volta
 		religion = animist
-		size = 300
+		size = 1625
 	}
 
 	artisans = {
 		culture = volta
 		religion = animist
-		size = 1175
+		size = 6550
 	}
 
 	soldiers = {
 		culture = volta
 		religion = animist
-		size= 300
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 18650
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 8000
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = animist
-		size = 1100
-	}
-
-	clergymen = {
-		culture = volta
-		religion = animist
-		size = 550
-	}
-
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 2250
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 575
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 35525
+		size = 1675
 	}
 
 	slaves = {
 		culture = volta
 		religion = animist
-		size = 16000
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = animist
-		size = 1550
-	}
-
-	clergymen = {
-		culture = volta
-		religion = animist
-		size = 775
-	}
-
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 3125
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 800
-
+		size = 42000
 	}
 
 	farmers = {
 		culture = volta
 		religion = animist
-		size = 45750
-	}
-
-	slaves = {
-		culture = volta
-		religion = animist
-		size = 26000
+		size = 107925
 	}
 }
 #Warri (1232000/308000 POPS) volta includes Ijaw
@@ -535,7 +299,7 @@
 		religion = animist
 		size = 6150
 	}
-	
+
 	bureaucrats = {
 		culture = volta
 		religion = animist
@@ -551,39 +315,25 @@
 	artisans = {
 		culture = volta
 		religion = animist
-		size = 10000
-	}
-	
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 2350
+		size = 12350
 	}
 
 	soldiers = {
 		culture = volta
 		religion = animist
-		size= 3000
-
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 100
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 205300
+		size = 3100
 	}
 
 	slaves = {
 		culture = volta
 		religion = animist
 		size = 78000
+	}
+
+	farmers = {
+		culture = volta
+		religion = animist
+		size = 205300
 	}
 }
 #ruled by Benin in 1836
@@ -592,106 +342,37 @@
 	aristocrats = {
 		culture = volta
 		religion = animist
-		size = 850
+		size = 1450
 	}
 
 	clergymen = {
 		culture = volta
 		religion = animist
-		size = 450
+		size = 750
 	}
 
 	artisans = {
 		culture = volta
 		religion = animist
-		size = 2200
+		size = 3700
 	}
 
 	soldiers = {
 		culture = volta
 		religion = animist
-		size= 450
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 34050
+		size = 1850
 	}
 
 	slaves = {
 		culture = volta
 		religion = animist
-		size = 6000
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = animist
-		size = 200
-	}
-
-	clergymen = {
-		culture = volta
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 600
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 1150
-
+		size = 12000
 	}
 
 	farmers = {
 		culture = volta
 		religion = animist
-		size = 9950
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = animist
-		size = 400
-	}
-
-	clergymen = {
-		culture = volta
-		religion = animist
-		size = 200
-	}
-
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 900
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 250
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 14250
-	}
-
-	slaves = {
-		culture = volta
-		religion = animist
-		size = 6000
+		size = 58250
 	}
 }
 #Oil Rivers Region (1580000)
@@ -719,20 +400,19 @@
 	soldiers = {
 		culture = volta
 		religion = animist
-		size= 1100
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 37000
+		size = 1100
 	}
 
 	slaves = {
 		culture = volta
 		religion = animist
 		size = 14000
+	}
+
+	farmers = {
+		culture = volta
+		religion = animist
+		size = 37000
 	}
 }
 #Awka (1264000/316000 POPS)
@@ -752,39 +432,25 @@
 	artisans = {
 		culture = volta
 		religion = animist
-		size = 10000
-	}
-	
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 2650
+		size = 12650
 	}
 
 	soldiers = {
 		culture = volta
 		religion = animist
-		size= 3000
-
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 900
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 214000
+		size = 3900
 	}
 
 	slaves = {
 		culture = volta
 		religion = animist
 		size = 76000
+	}
+
+	farmers = {
+		culture = volta
+		religion = animist
+		size = 214000
 	}
 }
 #Calabar (840000/210000 POPS)
@@ -794,7 +460,7 @@
 		religion = animist
 		size = 4150
 	}
-	
+
 	bureaucrats = {
 		culture = volta
 		religion = animist
@@ -816,20 +482,19 @@
 	soldiers = {
 		culture = volta
 		religion = animist
-		size= 2100
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 149250
+		size = 2100
 	}
 
 	slaves = {
 		culture = volta
 		religion = animist
 		size = 44000
+	}
+
+	farmers = {
+		culture = volta
+		religion = animist
+		size = 149250
 	}
 }
 #Aruchukwu (832000/208000 POPS)
@@ -839,7 +504,7 @@
 		religion = animist
 		size = 4150
 	}
-	
+
 	bureaucrats = {
 		culture = volta
 		religion = animist
@@ -861,20 +526,19 @@
 	soldiers = {
 		culture = volta
 		religion = animist
-		size= 2400
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 157000
+		size = 2400
 	}
 
 	slaves = {
 		culture = volta
 		religion = animist
 		size = 34000
+	}
+
+	farmers = {
+		culture = volta
+		religion = animist
+		size = 157000
 	}
 }
 #Kwararafa Region (548000)
@@ -902,20 +566,19 @@
 	soldiers = {
 		culture = volta
 		religion = animist
-		size= 950
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 62550
+		size = 950
 	}
 
 	slaves = {
 		culture = volta
 		religion = animist
 		size = 23000
+	}
+
+	farmers = {
+		culture = volta
+		religion = animist
+		size = 62550
 	}
 }
 #Tukari (176000/44000 POPS)
@@ -941,20 +604,19 @@
 	soldiers = {
 		culture = volta
 		religion = animist
-		size= 450
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 34250
+		size = 450
 	}
 
 	slaves = {
 		culture = volta
 		religion = animist
 		size = 8000
+	}
+
+	farmers = {
+		culture = volta
+		religion = animist
+		size = 34250
 	}
 }
 #Borgu Region (56000) #see Benin.txt for balance of region  
@@ -963,33 +625,26 @@
 1938 = {
 	aristocrats = {
 		culture = volta
-		religion = animist
-		size = 25
+		religion = sunni
+		size = 250
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
-		size = 50
+		religion = sunni
+		size = 175
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
-		size = 100
+		religion = sunni
+		size = 600
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
-		size= 25
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 1800
+		religion = sunni
+		size = 150
 	}
 
 	slaves = {
@@ -998,35 +653,10 @@
 		size = 2000
 	}
 
-	aristocrats = {
-		culture = volta
-		religion = sunni
-		size = 225
-	}
-
-	clergymen = {
-		culture = volta
-		religion = sunni
-		size = 125
-	}
-
-	artisans = {
-		culture = volta
-		religion = sunni
-		size = 500
-	}
-
-	soldiers = {
-		culture = volta
-		religion = sunni
-		size= 125
-
-	}
-
 	farmers = {
 		culture = volta
 		religion = sunni
-		size = 9025
+		size = 10825
 	}
 }
 #Nupe-Jos Region (600000)
@@ -1036,161 +666,49 @@
 	aristocrats = {
 		culture = volta
 		religion = sunni
-		size = 375
+		size = 1000
 	}
 
 	bureaucrats = {
 		culture = volta
 		religion = sunni
-		size = 25
+		size = 50
 	}
 
 	officers = {
 		culture = volta
 		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
-		culture = volta
-		religion = sunni
-		size = 200
-	}
-
-	artisans = {
-		culture = volta
-		religion = sunni
-		size = 1100
-	}
-
-	soldiers = {
-		culture = volta
-		religion = sunni
-		size= 200
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = sunni
-		size = 18150
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = volta
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 200
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 50
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 3650
-	}
-
-	slaves = {
-		culture = volta
-		religion = animist
-		size = 3000
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = sunni
-		size = 375
-	}
-
-	bureaucrats = {
-		culture = volta
-		religion = sunni
-		size = 25
-	}
-
-	officers = {
-		culture = volta
-		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
-		culture = volta
-		religion = sunni
-		size = 400
-	}
-
-	artisans = {
-		culture = volta
-		religion = sunni
-		size = 775
-	}
-
-	soldiers = {
-		culture = volta
-		religion = sunni
-		size= 1100
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = sunni
-		size = 10375
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = animist
-		size = 200
-	}
-
-	clergymen = {
-		culture = volta
-		religion = animist
 		size = 100
 	}
 
+	clergymen = {
+		culture = volta
+		religion = sunni
+		size = 750
+	}
+
 	artisans = {
 		culture = volta
-		religion = animist
-		size = 550
+		religion = sunni
+		size = 2625
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
-		size= 125
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 10025
+		religion = sunni
+		size = 1475
 	}
 
 	slaves = {
 		culture = volta
 		religion = animist
-		size = 3000
+		size = 6000
+	}
+
+	farmers = {
+		culture = volta
+		religion = sunni
+		size = 42200
 	}
 }
 #Bida (68000/17000 POPS) #african_Minor includes Gwari
@@ -1216,20 +734,19 @@
 	soldiers = {
 		culture = volta
 		religion = animist
-		size= 175
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 10625
+		size = 175
 	}
 
 	slaves = {
 		culture = volta
 		religion = animist
 		size = 5000
+	}
+
+	farmers = {
+		culture = volta
+		religion = animist
+		size = 10625
 	}
 }
 #Abuja (64000/16000 POPS) #african_Minor includes Gwari and Chamba
@@ -1255,14 +772,7 @@
 	soldiers = {
 		culture = volta
 		religion = animist
-		size= 175
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 10725
+		size = 175
 	}
 
 	slaves = {
@@ -1270,143 +780,49 @@
 		religion = animist
 		size = 4000
 	}
+
+	farmers = {
+		culture = volta
+		religion = animist
+		size = 10725
+	}
 }
 #Bauchi (152000/38000 POPS) #african_Minor includes Chamba
 1942 = {
 	aristocrats = {
 		culture = volta
 		religion = sunni
-		size = 150
+		size = 700
 	}
 
 	clergymen = {
-		culture = volta
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
 		culture = volta
 		religion = sunni
 		size = 450
 	}
 
-	soldiers = {
-		culture = volta
-		religion = sunni
-		size= 100
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = sunni
-		size = 8200
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = sunni
-		size = 375
-	}
-
-	clergymen = {
-		culture = volta
-		religion = sunni
-		size = 200
-	}
-
 	artisans = {
 		culture = volta
 		religion = sunni
-		size = 775
+		size = 1725
 	}
 
 	soldiers = {
 		culture = volta
 		religion = sunni
-		size= 1100
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = sunni
-		size = 12600
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = volta
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 150
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 25
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 2700
+		size = 1300
 	}
 
 	slaves = {
 		culture = volta
 		religion = animist
-		size = 2000
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = animist
-		size = 125
-	}
-
-	clergymen = {
-		culture = volta
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 350
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 75
-
+		size = 4000
 	}
 
 	farmers = {
 		culture = volta
-		religion = animist
-		size = 6375
-	}
-
-	slaves = {
-		culture = volta
-		religion = animist
-		size = 2000
+		religion = sunni
+		size = 29875
 	}
 }
 #Jos (52000/13000 POPS) #african_Minor includes Chamba
@@ -1414,69 +830,37 @@
 	aristocrats = {
 		culture = volta
 		religion = sunni
-		size = 125
+		size = 225
 	}
 
 	clergymen = {
 		culture = volta
 		religion = sunni
-		size = 75
+		size = 150
 	}
 
 	artisans = {
 		culture = volta
 		religion = sunni
-		size = 300
+		size = 600
 	}
 
 	soldiers = {
 		culture = volta
 		religion = sunni
-		size= 75
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = sunni
-		size = 4425
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = animist
-		size = 100
-	}
-
-	clergymen = {
-		culture = volta
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 300
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 75
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 5475
+		size = 150
 	}
 
 	slaves = {
 		culture = volta
 		religion = animist
 		size = 2000
+	}
+
+	farmers = {
+		culture = volta
+		religion = sunni
+		size = 9900
 	}
 }
 #Gombe (48000/12000 POPS)
@@ -1484,69 +868,37 @@
 	aristocrats = {
 		culture = volta
 		religion = sunni
-		size = 175
+		size = 200
 	}
 
 	clergymen = {
 		culture = volta
 		religion = sunni
-		size = 100
+		size = 150
 	}
 
 	artisans = {
 		culture = volta
 		religion = sunni
-		size = 400
+		size = 500
 	}
 
 	soldiers = {
 		culture = volta
 		religion = sunni
-		size= 100
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = sunni
-		size = 7225
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = volta
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 25
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 1800
+		size = 125
 	}
 
 	slaves = {
 		culture = volta
 		religion = animist
 		size = 2000
+	}
+
+	farmers = {
+		culture = volta
+		religion = sunni
+		size = 9025
 	}
 }
 #Hausaland Region (3056000)
@@ -1556,63 +908,25 @@
 	aristocrats = {
 		culture = volta
 		religion = sunni
-		size = 2625
+		size = 4275
 	}
 
 	clergymen = {
 		culture = volta
 		religion = sunni
-		size = 1325
+		size = 2150
 	}
 
 	artisans = {
 		culture = volta
 		religion = sunni
-		size = 6600
+		size = 10150
 	}
 
 	soldiers = {
 		culture = volta
 		religion = sunni
-		size= 1325
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = sunni
-		size = 120125
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = animist
-		size = 550
-	}
-
-	clergymen = {
-		culture = volta
-		religion = animist
-		size = 325
-	}
-
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 1500
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 300
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 27325
+		size = 2150
 	}
 
 	slaves = {
@@ -1621,35 +935,10 @@
 		size = 14000
 	}
 
-	aristocrats = {
-		culture = volta
-		religion = sunni
-		size = 1100
-	}
-
-	clergymen = {
-		culture = volta
-		religion = sunni
-		size = 500
-	}
-
-	artisans = {
-		culture = volta
-		religion = sunni
-		size = 2050
-	}
-
-	soldiers = {
-		culture = volta
-		religion = sunni
-		size= 525
-
-	}
-
 	farmers = {
 		culture = volta
 		religion = sunni
-		size = 32925
+		size = 180375
 	}
 }
 #Kebbi (252000/63000 POPS)
@@ -1657,371 +946,13 @@
 	aristocrats = {
 		culture = volta
 		religion = sunni
-		size = 800
+		size = 1200
 	}
 
 	clergymen = {
 		culture = volta
 		religion = sunni
-		size = 400
-	}
-
-	artisans = {
-		culture = volta
-		religion = sunni
-		size = 2050
-	}
-
-	soldiers = {
-		culture = volta
-		religion = sunni
-		size= 425
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = sunni
-		size = 37325
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = volta
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 25
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 1800
-	}
-
-	slaves = {
-		culture = volta
-		religion = animist
-		size = 1100
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = sunni
-		size = 375
-	}
-
-	clergymen = {
-		culture = volta
-		religion = sunni
-		size = 200
-	}
-
-	artisans = {
-		culture = volta
-		religion = sunni
-		size = 800
-	}
-
-	soldiers = {
-		culture = volta
-		religion = sunni
-		size= 1100
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = sunni
-		size = 16625
-	}
-}
-#Katsina (656000/164000 POPS)
-1947 = {
-	aristocrats = {
-		culture = volta
-		religion = sunni
-		size = 1925
-	}
-
-	clergymen = {
-		culture = volta
-		religion = sunni
-		size = 975
-	}
-
-	artisans = {
-		culture = volta
-		religion = sunni
-		size = 4900
-	}
-
-	soldiers = {
-		culture = volta
-		religion = sunni
-		size= 1100
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = sunni
-		size = 90100
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = animist
-		size = 525
-	}
-
-	clergymen = {
-		culture = volta
-		religion = animist
-		size = 275
-	}
-
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 1400
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 300
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 25500
-	}
-
-	slaves = {
-		culture = volta
-		religion = animist
-		size = 14000
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = sunni
-		size = 725
-	}
-
-	clergymen = {
-		culture = volta
-		religion = sunni
-		size = 375
-	}
-
-	artisans = {
-		culture = volta
-		religion = sunni
-		size = 1500
-	}
-
-	soldiers = {
-		culture = volta
-		religion = sunni
-		size= 375
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = sunni
-		size = 20025
-	}
-}
-#Sokoto (888000/220000 POPS)
-1948 = {
-	aristocrats = {
-		culture = volta
-		religion = sunni
-		size = 2325
-	}
-
-	bureaucrats = {
-		culture = volta
-		religion = sunni
-		size = 125
-	}
-
-	officers = {
-		culture = volta
-		religion = sunni
-		size = 250
-	}
-
-	clergymen = {
-		culture = volta
-		religion = sunni
-		size = 1175
-	}
-
-	artisans = {
-		culture = volta
-		religion = sunni
-		size = 5850
-	}
-
-	soldiers = {
-		culture = volta
-		religion = sunni
-		size= 1175
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = sunni
-		size = 106025
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = animist
-		size = 575
-	}
-
-	clergymen = {
-		culture = volta
-		religion = animist
-		size = 300
-	}
-
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 1500
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 300
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 27325
-	}
-
-	slaves = {
-		culture = volta
-		religion = animist
-		size = 13000
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = sunni
-		size = 1325
-	}
-
-	bureaucrats = {
-		culture = volta
-		religion = sunni
-		size = 150
-	}
-
-	officers = {
-		culture = volta
-		religion = sunni
-		size = 450
-	}
-
-	clergymen = {
-		culture = volta
-		religion = sunni
-		size = 675
-	}
-
-	artisans = {
-		culture = volta
-		religion = sunni
-		size = 2700
-	}
-
-	soldiers = {
-		culture = volta
-		religion = sunni
-		size= 675
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = sunni
-		size = 48025
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = sunni
-		size = 100
-	}
-
-	clergymen = {
-		culture = volta
-		religion = sunni
-		size = 50
-	}
-
-	artisans = {
-		culture = volta
-		religion = sunni
-		size = 300
-	}
-
-	soldiers = {
-		culture = volta
-		religion = sunni
-		size= 75
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = sunni
-		size = 5475
-	}
-}
-#Hadejia (416000/104000 POPS)
-1949 = {
-	aristocrats = {
-		culture = volta
-		religion = sunni
-		size = 1150
-	}
-
-	clergymen = {
-		culture = volta
-		religion = sunni
-		size = 600
+		size = 650
 	}
 
 	artisans = {
@@ -2033,45 +964,133 @@
 	soldiers = {
 		culture = volta
 		religion = sunni
-		size= 600
+		size = 1550
+	}
 
+	slaves = {
+		culture = volta
+		religion = animist
+		size = 1100
 	}
 
 	farmers = {
 		culture = volta
 		religion = sunni
-		size = 53700
+		size = 55750
 	}
-
+}
+#Katsina (656000/164000 POPS)
+1947 = {
 	aristocrats = {
 		culture = volta
-		religion = animist
-		size = 225
+		religion = sunni
+		size = 3175
 	}
 
 	clergymen = {
 		culture = volta
-		religion = animist
-		size = 125
+		religion = sunni
+		size = 1625
 	}
 
 	artisans = {
 		culture = volta
-		religion = animist
-		size = 600
+		religion = sunni
+		size = 7800
 	}
 
 	soldiers = {
 		culture = volta
-		religion = animist
-		size= 125
+		religion = sunni
+		size = 1775
+	}
 
+	slaves = {
+		culture = volta
+		religion = animist
+		size = 14000
 	}
 
 	farmers = {
 		culture = volta
+		religion = sunni
+		size = 135625
+	}
+}
+#Sokoto (888000/220000 POPS)
+1948 = {
+	aristocrats = {
+		culture = volta
+		religion = sunni
+		size = 4325
+	}
+
+	bureaucrats = {
+		culture = volta
+		religion = sunni
+		size = 275
+	}
+
+	officers = {
+		culture = volta
+		religion = sunni
+		size = 700
+	}
+
+	clergymen = {
+		culture = volta
+		religion = sunni
+		size = 2200
+	}
+
+	artisans = {
+		culture = volta
+		religion = sunni
+		size = 10350
+	}
+
+	soldiers = {
+		culture = volta
+		religion = sunni
+		size = 2225
+	}
+
+	slaves = {
+		culture = volta
 		religion = animist
-		size = 10925
+		size = 13000
+	}
+
+	farmers = {
+		culture = volta
+		religion = sunni
+		size = 186850
+	}
+}
+#Hadejia (416000/104000 POPS)
+1949 = {
+	aristocrats = {
+		culture = volta
+		religion = sunni
+		size = 2025
+	}
+
+	clergymen = {
+		culture = volta
+		religion = sunni
+		size = 1050
+	}
+
+	artisans = {
+		culture = volta
+		religion = sunni
+		size = 4875
+	}
+
+	soldiers = {
+		culture = volta
+		religion = sunni
+		size = 1075
 	}
 
 	slaves = {
@@ -2080,35 +1099,10 @@
 		size = 7000
 	}
 
-	aristocrats = {
-		culture = volta
-		religion = sunni
-		size = 650
-	}
-
-	clergymen = {
-		culture = volta
-		religion = sunni
-		size = 325
-	}
-
-	artisans = {
-		culture = volta
-		religion = sunni
-		size = 1325
-	}
-
-	soldiers = {
-		culture = volta
-		religion = sunni
-		size= 350
-
-	}
-
 	farmers = {
 		culture = volta
 		religion = sunni
-		size = 23350
+		size = 87975
 	}
 }
 #Adamawa Region (140000) #see Cameroun.txt for balance of region   
@@ -2118,137 +1112,37 @@
 	aristocrats = {
 		culture = volta
 		religion = sunni
-		size = 50
+		size = 600
 	}
 
 	clergymen = {
 		culture = volta
 		religion = sunni
-		size = 50
+		size = 375
 	}
 
 	artisans = {
 		culture = volta
 		religion = sunni
-		size = 200
+		size = 1475
 	}
 
 	soldiers = {
 		culture = volta
 		religion = sunni
-		size= 50
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = sunni
-		size = 3650
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = volta
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 25
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 1800
+		size = 1350
 	}
 
 	slaves = {
 		culture = volta
 		religion = animist
-		size = 1100
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = sunni
-		size = 225
-	}
-
-	clergymen = {
-		culture = volta
-		religion = sunni
-		size = 125
-	}
-
-	artisans = {
-		culture = volta
-		religion = sunni
-		size = 525
-	}
-
-	soldiers = {
-		culture = volta
-		religion = sunni
-		size= 1100
-
+		size = 5100
 	}
 
 	farmers = {
 		culture = volta
 		religion = sunni
-		size = 10125
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = animist
-		size = 300
-	}
-
-	clergymen = {
-		culture = volta
-		religion = animist
-		size = 150
-	}
-
-	artisans = {
-		culture = volta
-		religion = animist
-		size = 650
-	}
-
-	soldiers = {
-		culture = volta
-		religion = animist
-		size= 175
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = animist
-		size = 10725
-	}
-
-	slaves = {
-		culture = volta
-		religion = animist
-		size = 4000
+		size = 26300
 	}
 }
 #Borno Region (2544000)
@@ -2288,14 +1182,7 @@
 	soldiers = {
 		culture = volta
 		religion = sunni
-		size= 2400
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = sunni
-		size = 160000
+		size = 2400
 	}
 
 	slaves = {
@@ -2303,83 +1190,19 @@
 		religion = animist
 		size = 60000
 	}
+
+	farmers = {
+		culture = volta
+		religion = sunni
+		size = 160000
+	}
 }
 #Nguru (768000/192000 POPS)
 1952 = {
 	aristocrats = {
 		culture = volta
 		religion = sunni
-		size = 2200
-	}
-
-	clergymen = {
-		culture = volta
-		religion = sunni
-		size = 1300
-	}
-
-	artisans = {
-		culture = volta
-		religion = sunni
-		size = 4800
-	}
-
-	soldiers = {
-		culture = volta
-		religion = sunni
-		size= 1200
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = sunni
-		size = 74500
-	}
-
-	slaves = {
-		culture = volta
-		religion = animist
-		size = 36000
-	}
-
-	aristocrats = {
-		culture = volta
-		religion = sunni
-		size = 1300
-	}
-
-	clergymen = {
-		culture = volta
-		religion = sunni
-		size = 700
-	}
-
-	artisans = {
-		culture = volta
-		religion = sunni
-		size = 3600
-	}
-
-	soldiers = {
-		culture = volta
-		religion = sunni
-		size= 800
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = sunni
-		size = 65600
-	}
-}
-#Dikoa (816000/204000 POPS)
-1953 = {
-	aristocrats = {
-		culture = volta
-		religion = sunni
-		size = 3900
+		size = 3500
 	}
 
 	clergymen = {
@@ -2391,20 +1214,13 @@
 	artisans = {
 		culture = volta
 		religion = sunni
-		size = 7900
+		size = 8400
 	}
 
 	soldiers = {
 		culture = volta
 		religion = sunni
-		size= 2000
-
-	}
-
-	farmers = {
-		culture = volta
-		religion = sunni
-		size = 144200
+		size = 2000
 	}
 
 	slaves = {
@@ -2413,35 +1229,53 @@
 		size = 36000
 	}
 
-	aristocrats = {
-		culture = bedouin
+	farmers = {
+		culture = volta
 		religion = sunni
-		size = 100
+		size = 140100
+	}
+}
+#Dikoa (816000/204000 POPS)
+1953 = {
+	aristocrats = {
+		culture = volta
+		religion = sunni
+		size = 4000
 	}
 
 	clergymen = {
-		culture = bedouin
+		culture = volta
 		religion = sunni
-		size = 200
+		size = 2200
 	}
 
 	artisans = {
-		culture = bedouin
+		culture = volta
 		religion = sunni
-		size = 400
+		size = 8300
 	}
 
 	soldiers = {
-		culture = bedouin
+		culture = volta
 		religion = sunni
-		size= 100
+		size = 2100
+	}
 
+	slaves = {
+		culture = volta
+		religion = animist
+		size = 36000
 	}
 
 	farmers = {
 		culture = bedouin
 		religion = sunni
-		size = 7200
+		size = 8000
 	}
 
+	farmers = {
+		culture = volta
+		religion = sunni
+		size = 143400
+	}
 }

@@ -5,61 +5,31 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 50
+		size = 200
 	}
 
 	clergymen = {
 		culture = bantu
 		religion = animist
-		size = 75
+		size = 175
 	}
 
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 150
+		size = 600
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 25
+		size = 125
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 2700
-	}
-
-	aristocrats = {
-		culture = bantu
-		religion = animist
-		size = 150
-	}
-
-	clergymen = {
-		culture = bantu
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = bantu
-		religion = animist
-		size = 450
-	}
-
-	soldiers = {
-		culture = bantu
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = bantu
-		religion = animist
-		size = 8200
+		size = 10900
 	}
 }
 #Mayumbe (32000/8000 POPS) 
@@ -132,61 +102,30 @@
 	aristocrats = {
 		culture = bantu
 		religion = animist
-		size = 150
+		size = 325
 	}
 
 	clergymen = {
-		culture = bantu
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = bantu
-		religion = animist
-		size = 400
-	}
-
-	soldiers = {
-		culture = bantu
-		religion = animist
-		size = 75
-	}
-
-	farmers = {
-		culture = bantu
-		religion = animist
-		size = 7300
-	}
-
-	aristocrats = {
 		culture = bantu
 		religion = animist
 		size = 175
 	}
 
-	clergymen = {
-		culture = bantu
-		religion = animist
-		size = 100
-	}
-
 	artisans = {
 		culture = bantu
 		religion = animist
-		size = 500
+		size = 900
 	}
 
 	soldiers = {
 		culture = bantu
 		religion = animist
-		size = 100
+		size = 175
 	}
 
 	farmers = {
 		culture = bantu
 		religion = animist
-		size = 9125
+		size = 16425
 	}
-
 }

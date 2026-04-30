@@ -5,61 +5,31 @@
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-		size = 775
+		size = 950
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-		size = 400
+		size = 475
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-		size = 2000
+		size = 2500
 	}
 
 	soldiers = {
-		culture = turkic
-		religion = sunni
-		size = 400
-	}
-
-	farmers = {
-		culture = turkic
-		religion = sunni
-		size = 36425
-	}
-
-	aristocrats = {
-		culture = turkic
-		religion = sunni
-		size = 175
-	}
-
-	clergymen = {
-		culture = turkic
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
 		culture = turkic
 		religion = sunni
 		size = 500
 	}
 
-	soldiers = {
-		culture = turkic
-		religion = sunni
-		size = 100
-	}
-
 	farmers = {
 		culture = turkic
 		religion = sunni
-		size = 9150
+		size = 45575
 	}
 }
 #Badakhshan Region (212000) 
@@ -101,61 +71,30 @@
 	aristocrats = {
 		culture = turkic
 		religion = sunni
-		size = 350
+		size = 425
 	}
 
 	clergymen = {
 		culture = turkic
 		religion = sunni
-		size = 175
+		size = 250
 	}
 
 	artisans = {
 		culture = turkic
 		religion = sunni
-		size = 850
+		size = 1025
 	}
 
 	soldiers = {
 		culture = turkic
 		religion = sunni
-		size = 175
+		size = 200
 	}
 
 	farmers = {
 		culture = turkic
 		religion = sunni
-		size = 17450
+		size = 21100
 	}
-
-	aristocrats = {
-		culture = turkic
-		religion = sunni
-		size = 75
-	}
-
-	clergymen = {
-		culture = turkic
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = turkic
-		religion = sunni
-		size = 175
-	}
-
-	soldiers = {
-		culture = turkic
-		religion = sunni
-		size = 25
-	}
-
-	farmers = {
-		culture = turkic
-		religion = sunni
-		size = 3650
-	}
-
 }

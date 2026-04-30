@@ -161,5 +161,4 @@
 		religion = orthodox
 		size = 7525
 	}
-
 }

@@ -666,6 +666,8 @@ found_the_school_of_military_aviation_desc;The School of Military Aviation (Escu
 ##### Brazil #####;;;;;;;x;
 the_golden_law_title;Enact Lei Aurea;;;;Spanish Loc;;;x
 the_golden_law_desc;Lei Aurea, or the Golden Law, abolished slavery once and for all throughout Brazil. The law contained only two artices;;;;x;;;;;;;
+accept_afrobrazil_title;Advance Racial Equality;;;;Spanish Loc;;;x
+accept_afrobrazil_desc;It has been several years since Lei Áurea brought an end to slavery in Brazil. Yet freedom in name has not brought equality in practice. Former slaves and their descendants continue to face discrimination, exclusion, and poverty. If our nation is to move forward as one, we must take steps to integrate Afro-Brazilians fully into society and guarantee their civil rights.;;;;x;;;;;;;
 provincia_cisplatina_title;Reclaim Provincia Cisplatina;;;;Spanish Loc;;;x
 provincia_cisplatina_desc;The Provincia Cisplatina was brazilian once, and shall be brazilian again!;;;;Spanish Loc;;;x
 cisplatina_is_ours;The Cisplatina is ours;;;;Spanish Loc;;;x
@@ -679,6 +681,20 @@ gateway_to_harbor_desc;Many immigrants from around the world will pass through o
 ##### Ecuador #####;;;;;;;x;
 establish_the_observatorio_astronomico_title;Establish the Observatorio Astronomico;;;;Spanish Loc;;;x
 establish_the_observatorio_astronomico_desc;Quito's location high in the Andes and straddling the Equator has long encouraged scientists to visit the city to study the stars. With the support of the Jesuits and support from British, French, American and German scientific groups, it has been proposed that the Ecuadorian government help fund the construction of a new observatory based on the use of the latest scientific methods and tools. Should we support the project?;;;;Spanish Loc;;;x
+##### Latin America #####;;;;;;;x;
+accept_afrolatino_title;Advance Racial Equality;;;;Spanish Loc;;;x
+accept_afrolatino_desc;The abolition of slavery across our republic marked a turning point in our history, yet its legacy endures. Afro-descendant communities, though legally free, continue to face barriers to full participation in national life - economic hardship, social exclusion, and the lingering weight of old prejudices. If we are to build a truly united and modern nation, we must recognize these injustices and take meaningful steps to secure equal rights, opportunity, and representation for all citizens, regardless of origin.;;;;x;;;;;;;
+call_for_south_american_union_title;Call for South American Union;;;;;;;;;;;;;
+call_for_south_american_union_desc;With our dominant position in South America we can now start to lobby for a union of all the South American people. While this will have no immediate effect, it will be the first stepping stone to create the United States of South America.;;;;;;;;;;;;;
+EVTNAME555100;The Call for South American Union;;;;;;;;;;;;;
+EVTDESC555100;Now that one of the South American nations has become a Great Power, some people started wondering if it might be possible to create a union similiar to the United States of America. The idea seems preposterous today, but who knows what the future may hold for South America?;;;;;;;;;;;;;
+EVTOPTA555100;We will have to keep an eye on this;;;;;;;;;;;;;
+form_USSA_title;Unite South America;;;;;;;;;;;;;
+form_USSA_desc;Now that we are in a dominant position in South America, the time has come to unite the continent under one banner. The USCA may have failed, but we have learned much from mediocrity - we will not make the same mistakes. Unite, oh brothers! Forward to glory!;;;;;;;;;;;;;
+claim_patria_grande_title;Claim Patria Grande;;;;;;;;;;;;;
+claim_patria_grande_desc;The dream of uniting all of the Hispanic-American people's from the former Spanish colonies in America into a single entity has been a concept most people often thought as impossible, but with our current position, we can take the first step.;;;;;;;;;;;;;
+form_patria_grande_title;Form Patria Grande;;;;;;;;;;;;;
+form_patria_grande_desc;§R Gain 20 infamy !§ \n Now we have all the land of Patria Grande under our control, it's time to celebrate the birth of our new nation! \n\n You need to annex, have in sphere or in a vassal the lands of the next countries: Mexico, USCA, Colombia, Venezuela, Ecuador, Peru, Bolivia, Argentina, Paraguay and Uruguay.;;;;;;;;;;;;;
 #############################################;;;;;;;x;
 #Localisations for POD Archaeological Excavation Decisions;;;;Spanish Loc;;;x;
 #############################################;;;;;;;x;

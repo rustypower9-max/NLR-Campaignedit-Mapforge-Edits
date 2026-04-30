@@ -247,6 +247,8 @@ DUA_social_liberal;Parti Démocratique;;;;;;;;;;;;x
 DUA_socialist_1;Parti Socialiste;;;;;;;;;;;;x
 DUA_socialist_2;Parti Travailliste;;;;;;;;;;;;x
 IBE;Indo-British Empire;;;;;;;;;;;;x
+IBE_presidential_dictatorship;Indo-British Raj;;;;;;;;;;;;x
+IBE_democracy;Indo-British Republic;;;;;;;;;;;;x
 IBE_ADJ;Indo-British;;;;;;;;;;;;x
 RER;Republica Riograndense;;;;;;;;;;;;x
 RER_ADJ;Riograndensian;;;;;;;;;;;;x
@@ -277,3 +279,34 @@ ABE_hms_government;Austro-Bavarian Empire;;;;;Spanish Loc;;;x
 ABE_democracy;Austro-Bavarian Republic;;;;;;Spanish Loc;;;x
 IMP;The Commonwealth of Nations;;;;;;;x
 IMP_ADJ;Commonwealth;;;;;;;x
+USS;United States of South America;;;;;;;;;;;;;
+USS_ADJ;South American;;;;;;;;;;;;;
+USS_proletarian_dictatorship;South American People's Union;;;;;;;;;;;;;
+USS_fascist_dictatorship;Grand Union of South America;;;;;;;;;;;;;
+USS_absolute_monarchy;The South American Empire;;;;;;;;;;;;;
+USS_prussian_constitutionalism;The South American Empire;;;;;;;;;;;;;
+USS_democracy;The Union of South American Republics;;;;;;;;;;;;;
+USS_hms_government;The South American Empire;;;;;;;;;;;;;
+USS_conservative;Conservative Party;;;;;;;;;;;;;
+USS_liberal;Liberal Party;;;;;;;;;;;;;
+USS_reactionary;Nationalist Party;;;;;;;;;;;;;
+USS_radical;Radical Party;;;;;;;;;;;;;
+USS_socialist;Socialist Party;;;;;;;;;;;;;
+USS_communist;Communist Party;;;;;;;;;;;;;
+USS_fascist;Fascist Party;;;;;;;;;;;;;
+HSA;Patria Grande;;;;;;;;;;;;;
+HSA_ADJ;Hispanic;;;;;;;;;;;;;
+HSA_absolute_monarchy;Hispanic Kingdom;;;;;;;;;;;;;
+HSA_hms_government;Hispanic Empire;;;;;;;;;;;;;
+HSA_prussian_constitutionalism;Hispanic Kingdom;;;;;;;;;;;;;
+HSA_fascist_dictatorship;La Raza;;;;;;;;;;;;;
+HSA_proletarian_dictatorship;La Raza Commune;;;;;;;;;;;;;
+HSA_democracy;Patria Grande;;;;;;;;;;;;;
+HSA_presidential_dictatorship;Patria Grande;;;;;;;;;;;;;
+HSA_conservative;Partido Constitucional;;;;;;;;;;;;;
+HSA_liberal;Partido Progresista;;;;;;;;;;;;;
+HSA_reactionary;Partido Nacional;;;;;;;;;;;;;
+HSA_radical;Partido Radical;;;;;;;;;;;;;
+HSA_socialist;Partido Socialista Hispano;;;;;;;;;;;;;
+HSA_communist;Partido Comunista Nacional;;;;;;;;;;;;;
+HSA_fascist;Partido Nacional Patriota;;;;;;;;;;;;;

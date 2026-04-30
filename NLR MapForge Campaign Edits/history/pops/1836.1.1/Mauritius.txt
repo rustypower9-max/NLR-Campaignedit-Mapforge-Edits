@@ -4,60 +4,36 @@
 2125 = {
 	bureaucrats = {
 		culture = british
-		religion = protestant
-		size = 20
-	}
-
-	clergymen = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 130
-	}
-
-	soldiers = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
-
-	aristocrats = {
-		culture = french
 		religion = catholic
 		size = 50
 	}
 
-	bureaucrats = {
-		culture = french
-		religion = catholic
-		size = 30
+	clergymen = {
+		culture = british
+		religion = protestant
+		size = 45
 	}
 
 	artisans = {
-		culture = french
+		culture = british
 		religion = catholic
-		size = 180
-	}
-
-	clergymen = {
-		culture = french
-		religion = catholic
-		size = 20
+		size = 310
 	}
 
 	soldiers = {
-		culture = french
+		culture = british
+		religion = protestant
+		size = 45
+	}
+
+	aristocrats = {
+		culture = british
 		religion = catholic
-		size = 20
+		size = 50
 	}
 
 	farmers = {
-		culture = french
+		culture = british
 		religion = catholic
 		size = 200
 	}
@@ -93,5 +69,4 @@
 		religion = catholic
 		size = 175
 	}
-
 }

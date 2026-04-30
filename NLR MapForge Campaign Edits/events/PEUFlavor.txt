@@ -7,7 +7,13 @@ country_event = {
 	news_desc_short = "EVTDESC46800_NEWS_SHORT"
 
 	trigger = {
-		tag = PEU
+		OR = {
+		    tag = PEU
+		    AND = {
+			    primary_culture = andean
+			    capital = 2295
+		    }
+		}
 		year = 1911
 		war = no
 		owns = 2302 #Cusco

@@ -19,5 +19,23 @@ army = {
 		home = 1244
 	}
 
+	regiment = {
+		name= "4.Garhwali Infantry"
+		type = irregular
+		home = 1246
+	}
+
+	regiment = {
+		name= "5.Garhwali Infantry"
+		type = irregular
+		home = 1246
+	}
+
+	regiment = {
+		name= "6.Garhwali Infantry"
+		type = irregular
+		home = 1246
+	}
+
 }
 

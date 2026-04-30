@@ -16,208 +16,64 @@
 
 	clergymen = {
 		culture = western_african
-		religion = protestant
-		size = 50
+		religion = animist
+		size = 650
 	}
 
 	artisans = {
 		culture = western_african
-		religion = protestant
-		size = 100
+		religion = animist
+		size = 3300
 	}
 
 	soldiers = {
 		culture = western_african
 		religion = protestant
-		size = 75
+		size = 1625
 	}
 
 	farmers = {
 		culture = western_african
-		religion = protestant
-		size = 740
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = protestant
-		size = 25
-	}
-
-	artisans = {
-		culture = western_african
-		religion = protestant
-		size = 200
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = protestant
-		size = 1550
-	}
-
-	farmers = {
-		culture = western_african
-		religion = protestant
-		size = 2325
+		religion = animist
+		size = 56390
 	}
 
 	aristocrats = {
 		culture = western_african
 		religion = animist
-		size = 875
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = animist
-		size = 450
-	}
-
-	artisans = {
-		culture = western_african
-		religion = animist
-		size = 2350
-	}
-
-	farmers = {
-		culture = western_african
-		religion = animist
-		size = 41325
-	}
-
-	aristocrats = {
-		culture = western_african
-		religion = sunni
-		size = 150
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = western_african
-		religion = sunni
-		size = 450
-	}
-
-	farmers = {
-		culture = western_african
-		religion = sunni
-		size = 8325
-	}
-
-	aristocrats = {
-		culture = western_african
-		religion = animist
-		size = 75
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = western_african
-		religion = animist
-		size = 200
-	}
-
-	farmers = {
-		culture = western_african
-		religion = animist
-		size = 3675
+		size = 1100
 	}
 }
 #Harper (204000/51000 POPS) 
 1888 = {
 	clergymen = {
 		culture = western_african
-		religion = protestant
-		size = 10
-	}
-
-	artisans = {
-		culture = western_african
-		religion = protestant
-		size = 10
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = protestant
-		size = 10
-	}
-
-	farmers = {
-		culture = western_african
-		religion = protestant
-		size = 50
-	}
-	
-	aristocrats = {
-		culture = western_african
 		religion = animist
-		size = 750
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = animist
-		size = 375
+		size = 510
 	}
 
 	artisans = {
 		culture = western_african
 		religion = animist
-		size = 1900
+		size = 2560
 	}
 
 	soldiers = {
 		culture = western_african
 		religion = animist
-		size = 375
+		size = 510
 	}
 
 	farmers = {
 		culture = western_african
 		religion = animist
-		size = 34520
+		size = 46420
 	}
 
 	aristocrats = {
 		culture = western_african
 		religion = animist
-		size = 250
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = animist
-		size = 125
-	}
-
-	artisans = {
-		culture = western_african
-		religion = animist
-		size = 650
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = animist
-		size = 125
-	}
-
-	farmers = {
-		culture = western_african
-		religion = animist
-		size = 11850
+		size = 1000
 	}
 }
 #uncolonized in 1836
@@ -225,258 +81,95 @@
 1889 = {
 	clergymen = {
 		culture = western_african
-		religion = protestant
-		size = 10
-	}
-
-	artisans = {
-		culture = western_african
-		religion = protestant
-		size = 10
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = protestant
-		size = 10
-	}
-
-	farmers = {
-		culture = western_african
-		religion = protestant
-		size = 50
-	}
-	
-	aristocrats = {
-		culture = western_african
 		religion = sunni
-		size = 475
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = sunni
-		size = 250
+		size = 310
 	}
 
 	artisans = {
 		culture = western_african
 		religion = sunni
-		size = 1250
+		size = 1560
 	}
 
 	soldiers = {
 		culture = western_african
 		religion = sunni
-		size = 250
+		size = 335
 	}
 
 	farmers = {
 		culture = western_african
 		religion = sunni
-		size = 22695
+		size = 28220
 	}
 
 	aristocrats = {
 		culture = western_african
-		religion = animist
-		size = 100
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = western_african
-		religion = animist
-		size = 300
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = animist
-		size = 75
-	}
-
-	farmers = {
-		culture = western_african
-		religion = animist
-		size = 5475
+		religion = sunni
+		size = 575
 	}
 }
 #Gbarnga (132000/33000 POPS) 
 1890 = {
 	clergymen = {
 		culture = western_african
-		religion = protestant
-		size = 10
+		religion = sunni
+		size = 335
 	}
 
 	artisans = {
 		culture = western_african
-		religion = protestant
-		size = 10
+		religion = sunni
+		size = 1660
 	}
 
 	soldiers = {
 		culture = western_african
-		religion = protestant
-		size = 10
+		religion = sunni
+		size = 360
 	}
 
 	farmers = {
 		culture = western_african
-		religion = protestant
-		size = 50
+		religion = sunni
+		size = 30020
 	}
 
 	aristocrats = {
 		culture = western_african
 		religion = sunni
-		size = 200
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = sunni
-		size = 100
-	}
-
-	artisans = {
-		culture = western_african
-		religion = sunni
-		size = 550
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = sunni
-		size = 125
-	}
-
-	farmers = {
-		culture = western_african
-		religion = sunni
-		size = 10025
-	}
-
-	aristocrats = {
-		culture = western_african
-		religion = animist
-		size = 425
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = animist
-		size = 225
-	}
-
-	artisans = {
-		culture = western_african
-		religion = animist
-		size = 1100
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = animist
-		size = 225
-	}
-
-	farmers = {
-		culture = western_african
-		religion = animist
-		size = 19945
+		size = 625
 	}
 }
 #Zwedru (168000/42000 POPS) 
 1891 = {
 	clergymen = {
 		culture = western_african
-		religion = protestant
-		size = 10
-	}
-
-	artisans = {
-		culture = western_african
-		religion = protestant
-		size = 10
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = protestant
-		size = 10
-	}
-
-	farmers = {
-		culture = western_african
-		religion = protestant
-		size = 50
-	}
-	
-	aristocrats = {
-		culture = western_african
 		religion = animist
-		size = 225
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = animist
-		size = 250
+		size = 460
 	}
 
 	artisans = {
 		culture = western_african
 		religion = animist
-		size = 1150
+		size = 2110
 	}
 
 	soldiers = {
 		culture = western_african
 		religion = animist
-		size = 170
+		size = 380
 	}
 
 	farmers = {
 		culture = western_african
 		religion = animist
-		size = 21175
+		size = 38725
 	}
 
 	aristocrats = {
 		culture = western_african
 		religion = animist
-		size = 150
+		size = 375
 	}
-
-	clergymen = {
-		culture = western_african
-		religion = animist
-		size = 200
-	}
-
-	artisans = {
-		culture = western_african
-		religion = animist
-		size = 950
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = animist
-		size = 200
-	}
-
-	farmers = {
-		culture = western_african
-		religion = animist
-		size = 17500
-	}
-
 }

@@ -57,13 +57,13 @@
 	clergymen = {
 		culture = bedouin
 		religion = sunni
-		size = 50
+		size = 100
 	}
 
 	artisans = {
 		culture = bedouin
-		religion = sunni
-		size = 100
+		religion = shiite
+		size = 250
 	}
 
 	soldiers = {
@@ -74,26 +74,8 @@
 
 	farmers = {
 		culture = bedouin
-		religion = sunni
-		size = 1850
-	}
-
-	clergymen = {
-		culture = bedouin
 		religion = shiite
-		size = 50
-	}
-
-	artisans = {
-		culture = bedouin
-		religion = shiite
-		size = 150
-	}
-
-	farmers = {
-		culture = bedouin
-		religion = shiite
-		size = 2800
+		size = 4650
 	}
 }
 #Doha (8000/2000 POPS) #now part of Qatar 
@@ -205,5 +187,4 @@
 		religion = sunni
 		size = 4125
 	}
-
 }

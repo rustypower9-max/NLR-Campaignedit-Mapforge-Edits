@@ -307,5 +307,4 @@
 		religion = shiite
 		size = 4500
 	}
-
 }

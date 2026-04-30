@@ -581,5 +581,4 @@
 		religion = jewish
 		size = 750
 	}
-
 }

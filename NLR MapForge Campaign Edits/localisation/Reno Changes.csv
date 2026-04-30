@@ -1,3 +1,97 @@
+#############################################;;;;;;;;;;;;;;x
+#National Focuses;;;;;;;;;;;;;;x
+#############################################;;;;;;;;;;;;;;x
+tier_1_focus;Tier 1;;;;;;;;;x;;;;
+tier_2_focus;Tier 2;;;;;;;;;x;;;;
+tier_3_focus;Tier 3;;;;;;;;;x;;;;
+tier_4_focus;Tier 4;;;;;;;;;x;;;;
+tier_5_focus;Tier 5;;;;;;;;;x;;;;
+tier_6_focus;Tier 6;;;;;;;;;x;;;;
+pop_needs_reduction;Reduce POP Needs;;;;;;;;;x;;;;
+clerks_craftsmen;Promote Craftsmen and Clerks;;;;;;;;;x;;;;
+input_clerks;Promote Clerks and Reduce Factory Inputs;;;;;;;;;x;;;;
+output_clerks;Promote Clerks and Increase Factory Outputs;;;;;;;;;x;;;;
+input_craftsmen;Promote Craftsmen and Reduce Factory Inputs;;;;;;;;;x;;;;
+output_craftsmen;Promote Craftsmen and Increase Factory Outputs;;;;;;;;;x;;;;
+factory_input_output_bonus;Reduce Factory Inputs and Increase Factory Outputs;;;;;;;;;x;;;;
+input_output_craftsmen;Promote Craftsmen and Reduce Factory Inputs as well as Increase Factory Outputs;;;;;;;;;x;;;;
+input_output_clerks;Promote Clerks and Reduce Factory Inputs as well as Increase Factory Outputs;;;;;;;;;x;;;;
+input_output_soldiers;Promote Soldiers and Reduce Factory Inputs as well as Increase Factory Outputs;;;;;;;;;x;;;;
+reduce_factory_input_output_bonus;Increase Factory Inputs and Decrease Factory Outputs of Rival;;;;;;;;;x;;;;
+input_output_rgos;Reduce Factory Inputs, Increase Factory Outputs, and Increase Mining/Farming Efficiency;;;;;;;;;x;;;;
+soldier_assimilation_bonus;Promote Soldiers and Boost Assimilation Rate;;;;;;;;;x;;;;
+craftsmen_assimilation_bonus;Promote Craftsmen and Boost Assimilation Rate;;;;;;;;;x;;;;
+factory_input_bonus;Reduce Factory Inputs;;;;;;;;;x;;;;
+factory_output_bonus;Increase Factory Outputs;;;;;;;;;x;;;;
+mining_bonus;Bonus Mining Efficiency;;;;;;;;;x;;;;
+farming_bonus;Bonus Farming Efficiency;;;;;;;;;x;;;;
+assimilation_bonus;Bonus Assimilation Rate;;;;;;;;;x;;;;
+internal_migration;Internal Migrant Priority;;;;;;;;;x;;;;
+bureaucrat_migration_bonus;Promote Bureaucrats and Increase Internal Migrant Priority;;;;;;;;;x;;;;
+internal_push;Increased Migration Push;;;;;;;;;x;;;;
+ship_focus;Ship Repair Speed;;;;;;;;;x;;;;
+militancy_and_reform_focus;Raise Reform Desire and Militancy;;;;;;;;;x;;;;
+mine_and_farm_bonus;Bonus Mining and Farming Efficiency;;;;;;;;;x;;;;
+promote_aristocrats;Encourage Aristocrats Tier 1;Encourager les aristocrates ;Aristokraten fördern;;Potenciar aristócratas ;;;;;;;;;x;;;;
+promote_artisans;Encourage Artisans Tier 1;Encourager les artisans ;Handwerker fördern;;Potenciar artesanos ;;;;;;;;;x;;;;
+promote_bureaucrats;Encourage Bureaucrats Tier 1;Encourager les bureaucrates ;BEokraten fördern;;Potenciar burócratas ;;;;;;;;;x;;;;
+promote_capitalists;Encourage Capitalists Tier 1;Encourager les capitalistes ;Kapitalisten fördern;;Potenciar capitalistas ;;;;;;;;;x;;;;
+promote_clergymen;Encourage Clergymen Tier 1;Encourager les membres du clergE;Geistliche fördern;;Potenciar clérigos ;;;;;;;;;x;;;;
+promote_clerks;Encourage Clerks Tier 1;Encourager les employés ;Angestellte fördern;;Potenciar oficinistas ;;;;;;;;;x;;;;
+promote_craftsmen;Encourage Craftsmen Tier 1;Encourager les ouvriers ;Facharbeiter fördern;;Potenciar obreros ;;;;;;;;;x;;;;
+promote_farmers;Encourage Farmers Tier 1;Encourager les fermiers ;Bauern fördern;;Potenciar campesinos ;;;;;;;;;x;;;;
+promote_labourers;Encourage Labourers Tier 1;Encourager les mineurs ;Arbeiter fördern;;Potenciar peones ;;;;;;;;;x;;;;
+promote_officers;Encourage Officers Tier 1;Encourager les officiers ;Offiziere fördern;;Potenciar oficiales ;;;;;;;;;x;;;;
+promote_soldiers;Encourage Soldiers Tier 1;Encourager les soldats ;Soldaten fördern;;Potenciar soldados ;;;;;;;;;x;;;;
+promote_bureaucrats_2;Encourage Bureaucrats Tier 2;;;;;;;;;x;;;;
+promote_capitalists_2;Encourage Capitalists Tier 2;;;;;;;;;x;;;;
+promote_clergymen_2;Encourage Clergymen Tier 2;;;;;;;;;x;;;;
+promote_clerks_2;Encourage Clerks Tier 2;;;;;;;;;x;;;;
+promote_craftsmen_2;Encourage Craftsmen Tier 2;;;;;;;;;x;;;;
+promote_officers_2;Encourage Officers Tier 2;;;;;;;;;x;;;;
+promote_soldiers_2;Encourage Soldiers Tier 2;;;;;;;;;x;;;;
+promote_bureaucrats_3;Encourage Bureaucrats Tier 3;;;;;;;;;x;;;;
+promote_capitalists_3;Encourage Capitalists Tier 3;;;;;;;;;x;;;;
+promote_clergymen_3;Encourage Clergymen Tier 3;;;;;;;;;x;;;;
+promote_clerks_3;Encourage Clerks Tier 3;;;;;;;;;x;;;;
+promote_craftsmen_3;Encourage Craftsmen Tier 3;;;;;;;;;x;;;;
+promote_officers_3;Encourage Officers Tier 3;;;;;;;;;x;;;;
+promote_soldiers_3;Encourage Soldiers Tier 3;;;;;;;;;x;;;;
+promote_bureaucrats_4;Encourage Bureaucrats Tier 4;;;;;;;;;x;;;;
+promote_capitalists_4;Encourage Capitalists Tier 4;;;;;;;;;x;;;;
+promote_clergymen_4;Encourage Clergymen Tier 4;;;;;;;;;x;;;;
+promote_clerks_4;Encourage Clerks Tier 4;;;;;;;;;x;;;;
+promote_craftsmen_4;Encourage Craftsmen Tier 4;;;;;;;;;x;;;;
+promote_officers_4;Encourage Officers Tier 4;;;;;;;;;x;;;;
+promote_soldiers_4;Encourage Soldiers Tier 4;;;;;;;;;x;;;;
+promote_bureaucrats_5;Encourage Bureaucrats Tier 5;;;;;;;;;x;;;;
+promote_capitalists_5;Encourage Capitalists Tier 5;;;;;;;;;x;;;;
+promote_clergymen_5;Encourage Clergymen Tier 5;;;;;;;;;x;;;;
+promote_clerks_5;Encourage Clerks Tier 5;;;;;;;;;x;;;;
+promote_craftsmen_5;Encourage Craftsmen Tier 5;;;;;;;;;x;;;;
+promote_officers_5;Encourage Officers Tier 5;;;;;;;;;x;;;;
+promote_soldiers_5;Encourage Soldiers Tier 5;;;;;;;;;x;;;;
+promote_bureaucrats_6;Encourage Bureaucrats Tier 6;;;;;;;;;x;;;;
+promote_capitalists_6;Encourage Capitalists Tier 6;;;;;;;;;x;;;;
+promote_clergymen_6;Encourage Clergymen Tier 6;;;;;;;;;x;;;;
+promote_clerks_6;Encourage Clerks Tier 6;;;;;;;;;x;;;;
+promote_craftsmen_6;Encourage Craftsmen Tier 6;;;;;;;;;x;;;;
+promote_officers_6;Encourage Officers Tier 6;;;;;;;;;x;;;;
+promote_soldiers_6;Encourage Soldiers Tier 6;;;;;;;;;x;;;;
+production_focus;Production ;Production ;Produktion;;Producción ;;;;;;;;;x;;;;
+automation_focus;Encourage Automotive Industry ;Encourager l'industrie automobile ;Automobilindustrie fördern;;Potenciar industria automotriz ;;;;;;;;;x;;;;
+electrical_focus;Encourage Electrical Industry ;Encourager l'industrie électrique ;Elektroindustrie fördern;;Potenciar industria eléctrica ;;;;;;;;;x;;;;
+chemical_focus;Encourage Chemical Industry ;Encourager l'industrie chimique ;Chemische Industrie fördern;;Potenciar industria quúŠica ;;;;;;;;;x;;;;
+shipping_focus;Encourage Shipping Industry ;Encourager l'industrie navale ;Schifffahrtsindustrie fördern;;Potenciar industria naval ;;;;;;;;;x;;;;
+textile_focus;Encourage Textile Industry ;Encourager l'industrie textile ;Textilindustrie fördern;;Potenciar industria textil ;;;;;;;;;x;;;;
+wood_focus;Encourage Wood Industry ;Encourager l'industrie du bois ;Holzindustrie fördern;;Potenciar industria maderera ;;;;;;;;;x;;;;
+basic_industry_focus;Encourage Basic Industry ;Encourager l'industrie de base ;Grundstoffindustrie fördern;;Potenciar industria básica ;;;;;;;;;x;;;;
+armaments_focus;Encourage Armaments Industry ;Encourager l'industrie de l'armement ;Waffenindustrie fördern;;Potenciar industria de armamentos ;;;;;;;;;x;;;;
+consumer_focus;Encourage Consumer Goods Industry ;Encourager l'industrie des biens de consommation ;GebrauchsgEerindustrie fördern;;Potenciar industria de bienes de consumo ;;;;;;;;;x;;;;
+railroad_build_desc;Capitalists §Y$VAL$§W% more likely to build railroads.;§Y$VAL$%§W des capitalistes ont plutôt tendance Econstruire des chemins de fer.;Kapitalisten bauen §Y$VAL$§W% mit größerer Wahrscheinlichkeit Eisenbahnen.;;Un §Y$VAL$§W% de capitalistas prefieren construir ferrocarriles.;;;;;;;;;x;;;;
+immigration_focus_desc;Migrants §Y$VAL$§W% more likely to choose region.;§Y$VAL$%§W des immigrants ont plutôt tendance Echoisir une région.;Einwanderer wählen diese Region mit um §Y$VAL$§W% größerer Wahrscheinlichkeit aus.;;Un §Y$VAL$§W% de inmigrantes prefieren elegir región.;;;;;;;;;x;;;;
+colony_focus_desc;Increase colony level by about §Y$VAL$§W% each month.;Augmenter le niveau de la colonie d'environ §Y$VAL$%§W tous les mois.;Kolonialstufe monatlich um §Y$VAL$§W% erhöhen.;;Incrementa el nivel de colonia en torno a un §Y$VAL$§W% cada mes.;;;;;;;;;x;;;;
+REMOVE_FOCUS;Remove Focus;Supprimer la cause;Fokus entfernen;;Quitar prioridad;;;;;;;;;x;;;;
 #############State Nations (Pero Credit)##############;;;;;;;;;;;;;;x
 TIN;§GTiny State Flag\n§WThis province is in a state that meets the following criteria:\n§Y1836 - 1870 §WLess than 100k POPs\n§Y1870 - 1900 §WLess than 150k POPs\n§Y1900+ §WLess than 200k POPs\n\n§RWarscore Costs (0.5x For Great Wars)\n§WThis province is in a state that has the following costs:\n§YAcquire Core: §W4% Warscore\n§YAcquire State: §W12% Warscore\n§YDemand Concession: §W8% Warscore\n§YPlace in the Sun: §W4% Warscore\n§YFree Peoples: §W12% Warscore\n§YTake Capital: §W66% Warscore;;;;;;;;;;;;;x
 SMA;§GSmall State Flag\n§WThis province is in a state that meets the following criteria:\n§Y1836 - 1870 §W100k to 450k POPs\n§Y1870 - 1900 §W150k to 650k POPs\n§Y1900+ §W200k to 800k POPs\n\n§RWarscore Costs (0.5x For Great Wars)\n§WThis province is in a state that has the following costs:\n§YAcquire Core: §W12% Warscore\n§YAcquire State: §W24% Warscore\n§YDemand Concession: §W16% Warscore\n§YPlace in the Sun: §W8% Warscore\n§YFree Peoples: §W24% Warscore\n§YTake Capital: §W66% Warscore;;;;;;;;;;;;;x
@@ -79,8 +173,8 @@ player_alliances_title;Ally All Player Nations;;;;Ally Todos los jugadores de la
 player_alliances_desc;Automatically allies all player nations. DO NOT SPAM.;;;;Alía automáticamente todas las naciones de los jugadores. NO HACER SPAM.;;;x
 assert_on_steppe_title;Assert Ourselves in Central Asia;;;;Afirmarnos en Asia Central;;;x
 assert_on_steppe_desc;The Major Powers chaffing at our periphery is inclining us to attempt projecting into the steppe, but who could possibly own such a vast region with land ownership? The real value is the people themselves.;;;;Las grandes potencias que se agitan en nuestra periferia nos inclinan a intentar proyectarnos en la estepa, pero ?quien podría poseer una región tan vasta con la propiedad de la tierra? El verdadero valor es la propia gente.;;;x
-enact_the_homestead_act_mexico_title;The Mexican Homestead Act;;;;Ley de Asentamientos Rurales de Mexico;;;x
-enact_the_homestead_act_mexico_desc;During this time period, there were land reforms in Mexico very similar to the United States Homestead Act.;;;;Durante este periodo de tiempo, hubo reformas agrarias en Mexico muy similares a la Homestead Act de Estados Unidos.;;;x
+enact_the_homestead_act_mexico_title;The Latin Homestead Act;;;;Ley de Asentamientos Rurales de Latinoamérica;;;x
+enact_the_homestead_act_mexico_desc;Across Latin America, vast tracts of land remain underutilized while rural populations struggle to secure livelihoods. Inspired by foreign land reforms, we can enact policies to distribute land to settlers and small farmers, encouraging agricultural development, frontier expansion, and social stability throughout the region.;;;;Durante este periodo, amplias extensiones de tierra en América Latina permanecen subutilizadas mientras la población rural lucha por subsistir. Inspirados por reformas agrarias extranjeras, podemos implementar políticas para distribuir tierras a colonos y pequeños agricultores, fomentando el desarrollo agrícola, la expansión de la frontera y la estabilidad social en toda la región.;;;x
 #############################################;;;;;;;x
 double_down_in_the_balkans_title;Double Down in the Balkans;;;;Doblete en los Balcanes;;;x
 double_down_in_the_balkans_desc;For too long have the peoples of the Balkans thwarted our efforts of expansion. Let us focus all our attention to the re-education and assimilation of these barbaric peoples.;;;;Durante demasiado tiempo los pueblos de los Balcanes han frustrado nuestros esfuerzos de expansión. Centremos toda nuestra atención en la reeducación y asimilación de estos pueblos bárbaros.;;;x
@@ -249,6 +343,18 @@ UNIT_BUILD_TIME_IW;$VAL$ days.;;;;;;;x
 #############################################;;;;;;;x
 #Additional Inventions;;;;;;;x
 #############################################;;;;;;;x
+pop_shift_invention_1;§GPOP Bonus Promotion Event 1;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_1_desc;Your first promotion bonus invention has been completed! With this bonus, you may choose which POP type receives a bonus to passive promotion chance. You will only be able to see this bonus in the population menu under a specific pop group, then mouse over their promotion chance to whatever it is you gave a bonus to! §GYou will be able to reset these bonuses at anytime using the Clear All National Promotion Bonuses decision.;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_2;§GTier 2 National Focus Unlock;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_2_desc;Your Tier 2 National Focuses have unlocked!;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_3;§GTier 3 National Focus Unlock;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_3_desc;Your Tier 3 National Focuses have unlocked!;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_4;§GTier 4 National Focus Unlock;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_4_desc;Your Tier 4 National Focuses have unlocked!;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_5;§GTier 5 National Focus Unlock;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_5_desc;Your Tier 5 National Focuses have unlocked!;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_6;§GTier 6 National Focus Unlock;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
+pop_shift_invention_6_desc;Your Tier 6 National Focuses have unlocked!;;;;;;;;;;;;;;;;;;;;x,,,,,;;;;;;;;;;;;;;;;;;;;
 industrial_tanneries;Industrial Tanneries;;;;Curtiembres industriales;;;x
 industrial_tanneries_desc;In the Victorian era tanneries were often close to the abattoirs and so the skins would often arrive at the tannery fresh and unsalted. With industrial levels of meat consumption, it was inevitable that the leather industry advance as well.;;;;En la epoca victoriana, las curtidurías solían estar cerca de los mataderos, por lo que las pieles solían llegar a la curtiduría frescas y sin salar. Con los niveles industriales de consumo de carne, era inevitable que la industria del cuero avanzara tambien.;;;x
 offensive_infantry_activation;Activate Offensive Infantry;;;;Activar la infantería ofensiva;;;x

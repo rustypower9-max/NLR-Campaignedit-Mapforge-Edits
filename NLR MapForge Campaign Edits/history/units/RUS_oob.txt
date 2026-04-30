@@ -651,6 +651,18 @@ army = {
 		home = 1075
 		type = infantry
 	}
+    
+	regiment = {
+		name= "2.1-ya Gvardeiskaya Pekhotnaya Diviziya"
+		type = infantry
+		home = 946
+	}
+
+    regiment = {
+		name= "3.1-ya Grenaderskaya Diviziya"
+		type = artillery
+		home = 945
+	}
 
 	regiment = {
 		name= "2.7-ya Pekhotnaya Diviziya"
@@ -662,6 +674,30 @@ army = {
 		name = "3.7-ya Pekhotnaya Diviziya"
 		home = 1011
 		type = hussar
+	}
+
+	regiment = {
+		name= "1.a Lipinki Łużyckie"
+		type = infantry
+		home = 948
+	}
+
+	regiment = {
+		name= "2.a Lipinki Pilżudskie"
+		type = infantry
+		home = 948
+	}
+
+	regiment = {
+		name= "1. Mysłowice"
+		type = artillery
+		home = 948
+	}
+
+	regiment = {
+		name= "2. Mysłowice"
+		type = artillery
+		home = 949
 	}
 }
 

@@ -59,25 +59,19 @@
 	soldiers = {
 		culture = caribeno
 		religion = catholic
-		size = 450
+		size = 2850
 	}
 
 	farmers = {
 		culture = caribeno
 		religion = catholic
-		size = 40850
+		size = 38850
 	}
 
 	artisans = {
 		culture = afro_caribeno
 		religion = catholic
 		size = 1100
-	}
-
-	soldiers = {
-		culture = afro_caribeno
-		religion = catholic
-		size = 400
 	}
 
 	farmers = {
@@ -91,5 +85,4 @@
 		religion = catholic
 		size = 10000
 	}
-
 }

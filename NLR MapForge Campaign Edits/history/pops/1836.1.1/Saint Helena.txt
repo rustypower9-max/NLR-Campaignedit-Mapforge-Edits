@@ -53,5 +53,4 @@
 		religion = protestant
 		size = 25
 	}
-
 }

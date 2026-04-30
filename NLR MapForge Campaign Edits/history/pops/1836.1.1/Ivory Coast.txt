@@ -23,8 +23,7 @@
 	soldiers = {
 		culture = western_african
 		religion = animist
-		size= 275
-
+		size = 275
 	}
 
 	farmers = {
@@ -44,75 +43,37 @@
 	aristocrats = {
 		culture = western_african
 		religion = animist
-		size = 225
+		size = 950
 	}
 
 	clergymen = {
-		culture = western_african
-		religion = animist
-		size = 125
-	}
-
-	artisans = {
 		culture = western_african
 		religion = animist
 		size = 500
 	}
 
-	soldiers = {
-		culture = western_african
-		religion = animist
-		size= 125
-
-	}
-
-	farmers = {
-		culture = western_african
-		religion = animist
-		size = 8025
-	}
-
-	slaves = {
-		culture = western_african
-		religion = animist
-		size = 3000
-	}
-
-	aristocrats = {
-		culture = western_african
-		religion = animist
-		size = 725
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = animist
-		size = 375
-	}
-
 	artisans = {
 		culture = western_african
 		religion = animist
-		size = 1500
+		size = 2000
 	}
 
 	soldiers = {
 		culture = western_african
 		religion = animist
-		size= 375
-
+		size = 500
 	}
 
 	farmers = {
 		culture = western_african
 		religion = animist
-		size = 22025
+		size = 30050
 	}
 
 	slaves = {
 		culture = western_african
 		religion = animist
-		size = 10000
+		size = 13000
 	}
 }
 #Grand Bassam (88000/22000 POPS)
@@ -138,8 +99,7 @@
 	soldiers = {
 		culture = western_african
 		religion = animist
-		size= 225
-
+		size = 225
 	}
 
 	farmers = {
@@ -158,33 +118,32 @@
 1895 = {
 	aristocrats = {
 		culture = western_african
-		religion = animist
-		size = 225
+		religion = sunni
+		size = 275
 	}
 
 	clergymen = {
 		culture = western_african
-		religion = animist
-		size = 125
+		religion = sunni
+		size = 200
 	}
 
 	artisans = {
 		culture = western_african
-		religion = animist
-		size = 600
+		religion = sunni
+		size = 750
 	}
 
 	soldiers = {
 		culture = western_african
-		religion = animist
-		size= 125
-
+		religion = sunni
+		size = 150
 	}
 
 	farmers = {
 		culture = western_african
-		religion = animist
-		size = 8925
+		religion = sunni
+		size = 11625
 	}
 
 	slaves = {
@@ -192,100 +151,37 @@
 		religion = animist
 		size = 2000
 	}
-
-	aristocrats = {
-		culture = western_african
-		religion = sunni
-		size = 50
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = sunni
-		size = 75
-	}
-
-	artisans = {
-		culture = western_african
-		religion = sunni
-		size = 150
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = sunni
-		size= 25
-
-	}
-
-	farmers = {
-		culture = western_african
-		religion = sunni
-		size = 2700
-	}
 }
 #Man (80000/20000 POPS)
 1896 = {
 	aristocrats = {
 		culture = western_african
 		religion = sunni
-		size = 150
+		size = 575
 	}
 
 	clergymen = {
 		culture = western_african
 		religion = sunni
-		size = 75
+		size = 300
 	}
 
 	artisans = {
 		culture = western_african
 		religion = sunni
-		size = 400
+		size = 1500
 	}
 
 	soldiers = {
 		culture = western_african
 		religion = sunni
-		size= 75
-
+		size = 300
 	}
 
 	farmers = {
 		culture = western_african
 		religion = sunni
-		size = 7300
-	}
-
-	aristocrats = {
-		culture = western_african
-		religion = animist
-		size = 425
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = animist
-		size = 225
-	}
-
-	artisans = {
-		culture = western_african
-		religion = animist
-		size = 1100
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = animist
-		size= 225
-
-	}
-
-	farmers = {
-		culture = western_african
-		religion = animist
-		size = 15025
+		size = 22325
 	}
 
 	slaves = {
@@ -317,8 +213,7 @@
 	soldiers = {
 		culture = western_african
 		religion = animist
-		size= 250
-
+		size = 250
 	}
 
 	farmers = {
@@ -340,13 +235,13 @@
 	aristocrats = {
 		culture = western_african
 		religion = sunni
-		size = 600
+		size = 1125
 	}
 
 	bureaucrats = {
 		culture = western_african
 		religion = sunni
-		size = 345
+		size = 470
 	}
 
 	officers = {
@@ -358,63 +253,25 @@
 	clergymen = {
 		culture = western_african
 		religion = sunni
-		size = 375
+		size = 675
 	}
 
 	artisans = {
 		culture = western_african
 		religion = sunni
-		size = 1800
+		size = 3300
 	}
 
 	soldiers = {
 		culture = western_african
 		religion = sunni
-		size= 1105
-
+		size = 1405
 	}
 
 	farmers = {
 		culture = western_african
 		religion = sunni
-		size = 20000
-	}
-
-	aristocrats = {
-		culture = western_african
-		religion = animist
-		size = 525
-	}
-	
-	bureaucrats = {
-		culture = western_african
-		religion = animist
-		size = 125
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = animist
-		size = 300
-	}
-
-	artisans = {
-		culture = western_african
-		religion = animist
-		size = 1500
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = animist
-		size= 300
-
-	}
-
-	farmers = {
-		culture = western_african
-		religion = animist
-		size = 27375
+		size = 47375
 	}
 
 	slaves = {
@@ -428,63 +285,31 @@
 	aristocrats = {
 		culture = western_african
 		religion = sunni
-		size = 600
+		size = 975
 	}
 
 	clergymen = {
 		culture = western_african
 		religion = sunni
-		size = 300
+		size = 525
 	}
 
 	artisans = {
 		culture = western_african
 		religion = sunni
-		size = 1650
+		size = 2700
 	}
 
 	soldiers = {
 		culture = western_african
 		religion = sunni
-		size= 1450
-
+		size = 1675
 	}
 
 	farmers = {
 		culture = western_african
 		religion = sunni
-		size = 20000
-	}
-
-	aristocrats = {
-		culture = western_african
-		religion = animist
-		size = 375
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = animist
-		size = 225
-	}
-
-	artisans = {
-		culture = western_african
-		religion = animist
-		size = 1050
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = animist
-		size= 225
-
-	}
-
-	farmers = {
-		culture = western_african
-		religion = animist
-		size = 19125
+		size = 39125
 	}
 
 	slaves = {
@@ -500,94 +325,31 @@
 	aristocrats = {
 		culture = western_african
 		religion = sunni
-		size = 900
+		size = 1275
 	}
 
 	clergymen = {
 		culture = western_african
 		religion = sunni
-		size = 450
+		size = 825
 	}
 
 	artisans = {
 		culture = western_african
 		religion = sunni
-		size = 1950
+		size = 3150
 	}
 
 	soldiers = {
 		culture = western_african
 		religion = sunni
-		size= 1200
-
+		size = 1425
 	}
 
 	farmers = {
 		culture = western_african
 		religion = sunni
-		size = 34500
-	}
-
-	aristocrats = {
-		culture = western_african
-		religion = sunni
-		size = 225
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = sunni
-		size = 150
-	}
-
-	artisans = {
-		culture = western_african
-		religion = sunni
-		size = 750
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = sunni
-		size= 150
-
-	}
-
-	farmers = {
-		culture = western_african
-		religion = sunni
-		size = 13725
-	}
-
-	aristocrats = {
-		culture = western_african
-		religion = animist
-		size = 150
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = animist
-		size = 225
-	}
-
-	artisans = {
-		culture = western_african
-		religion = animist
-		size = 450
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = animist
-		size= 75
-
-	}
-
-	farmers = {
-		culture = western_african
-		religion = animist
-		size = 8100
+		size = 56325
 	}
 
 	slaves = {
@@ -595,5 +357,4 @@
 		religion = animist
 		size = 9000
 	}
-
 }

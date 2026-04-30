@@ -3,88 +3,76 @@
 #San Salvador (260000/65000 POPS)
 2191 = {
     aristocrats = {
-        culture = central_american
-        religion = catholic
-        size = 2422
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 2422
     }
 
     bureaucrats = {
-        culture = central_american
-        religion = catholic
-        size = 1000
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 1000
     }
 
     officers = {
-        culture = central_american
-        religion = catholic
-        size = 212
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 212
     }
 
     clergymen = {
-        culture = central_american
-        religion = catholic
-        size = 2300
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 2300
     }
 
     artisans = {
-        culture = central_american
-        religion = catholic
-        size = 5525
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 5525
     }
 
     soldiers = {
-        culture = central_american
-        religion = catholic
-        size = 3000
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 3000
     }
 
     farmers = {
-        culture = central_american
-        religion = catholic
-        size = 160000
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 160000
     }
 }
 #San Miguel (156000/44000 POPS)
 2192 = {
     aristocrats = {
-        culture = central_american
-        religion = catholic
-        size = 1615
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 1615
     }
 
     clergymen = {
-        culture = central_american
-        religion = catholic
-        size = 2000
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 2000
     }
 
     artisans = {
-        culture = central_american
-        religion = catholic
-        size = 3740
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 3740
     }
 
     soldiers = {
-        culture = central_american
-        religion = catholic
-        size = 2000
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 2000
     }
 
     farmers = {
-        culture = central_american
-        religion = catholic
-        size = 129879   
-        militancy = 9
+    	culture = central_american
+    	religion = catholic
+    	size = 129879
     }
 }

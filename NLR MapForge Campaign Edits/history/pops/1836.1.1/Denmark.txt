@@ -1,30 +1,29 @@
 #Faroe Islands Region (7000)
-#Torshavn (7000/1750 POPS)
+#Torshavn (29000/7750 POPS)
 253 = {
 	bureaucrats = {
 		culture = danish
 		religion = protestant
-		size = 22
+		size = 50
 	}
 
 	clergymen = {
 		culture = danish
 		religion = protestant
-		size = 112
+		size = 100
 	}
 
 	artisans = {
 		culture = danish
 		religion = protestant
-		size = 207
+		size = 250
 	}
 
 	farmers = {
 		culture = danish
 		religion = protestant
-		size = 2362
+		size = 7350
 	}
-
 }
 #Jutland Region : 548000
 #Aarhus (248000/62000 POPS)
@@ -100,7 +99,7 @@
 	farmers = {
 		culture = danish
 		religion = protestant
-		size = 45000 #5k moved to 2557
+		size = 45000
 	}
 }
 #Ribe (148000/37000 POPS)
@@ -132,9 +131,8 @@
 	farmers = {
 		culture = danish
 		religion = protestant
-		size = 36000 #10k moved to 2557
+		size = 36000
 	}
-
 }
 
 # Esbjerg (Pops moved from Aalborg)
@@ -144,25 +142,29 @@
 		religion = protestant
 		size = 1650
 	}
+
 	clergymen = {
 		culture = danish
 		religion = protestant
-		size = 187
+		size = 385
 	}
+
 	soldiers = {
 		culture = danish
 		religion = protestant
 		size = 375
 	}
+
 	aristocrats = {
 		culture = danish
 		religion = protestant
 		size = 375
 	}
+
 	farmers = {
 		culture = danish
 		religion = protestant
-		size = 21600
+		size = 31600
 	}
 }
 	
@@ -297,7 +299,6 @@
 		religion = protestant
 		size = 9825
 	}
-
 }
 #Archipelago Region : 616000
 #Copenhagen (392000/98000 POPS)
@@ -329,19 +330,13 @@
 	artisans = {
 		culture = danish
 		religion = protestant
-		size = 15000
+		size = 20000
 	}
 
 	artisans = {
 		culture = danish
 		religion = protestant
-		size = 15000
-	}
-
-	artisans = {
-		culture = danish
-		religion = protestant
-		size = 9000
+		size = 19000
 	}
 
 	soldiers = {
@@ -406,12 +401,12 @@
 		size = 61875
 	}
 }
-#Bornholm (16000/4000 POPS)
+#Bornholm (56000/14000 POPS)
 374 = {
 	clergymen = {
 		culture = danish
 		religion = protestant
-		size = 75
+		size = 175
 	}
 
 	artisans = {
@@ -423,13 +418,12 @@
 	soldiers = {
 		culture = danish
 		religion = protestant
-		size = 75
+		size = 475
 	}
 
 	farmers = {
 		culture = danish
 		religion = protestant
-		size = 5250
+		size = 15250
 	}
-
 }

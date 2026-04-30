@@ -1,11 +1,10 @@
 political_decisions = {
 
-caribeno_SPA = {
+    caribeno_SPA = {
 		picture = grant
 		potential = {
 			tag = SPA
-		}
-		NOT = {has_country_flag = caribeno_accepted}
+            NOT = {has_country_flag = caribeno_accepted}
 		}
 		allow = {
 			owns = 2209
@@ -15,19 +14,19 @@ caribeno_SPA = {
 		effect = {
 			add_accepted_culture = caribeno
 			add_accepted_culture = afro_caribeno
-			set_country_flag = caribeno_are_accepted_SPA
+			set_country_flag = caribeno_accepted
 		}
 		ai_will_do = {
 			factor = 1
-		set_country_flag = caribeno_accepted
 		}
 	}
-santo_domingo_is_back = {
+
+    santo_domingo_is_back = {
 		picture = grant
 		potential = {
 			tag = SPA
 			NOT = { has_country_flag = santo_domingo_reclaimed }
-			has_country_flag = cuba_unlocked
+			has_country_flag = caribeno_accepted
 		}
 		
 		allow = {
@@ -38,10 +37,7 @@ santo_domingo_is_back = {
 		}
 		
 		effect = {
-			add_core = 2214
-			add_core = 2216
-			add_core = 2215
-			add_core = 2213
+			HAI_2213 = { add_core = THIS }
 			prestige = 5
 			set_country_flag = santo_domingo_reclaimed
 		}
@@ -49,30 +45,29 @@ santo_domingo_is_back = {
 			factor = 1
 		}
 	}
-filipino_citizenship = {
+	
+    filipino_citizenship = {
 		picture = grant
 		potential = {
 			tag = SPA
-	NOT = {has_country_flag = filipino_citzenship}
+	        NOT = { has_country_flag = filipino_citizenship_granted }
 		}
 		allow = {
-			PHI = {
-				all_core = {
-					owned_by = THIS
-				}
-			}
+			SPA_1455 = {owned_by = THIS}
+			SPA_1459 = {owned_by = THIS}
+			SPA_1463 = {owned_by = THIS}
 			war = no
 			nationalism_n_imperialism = 1
 		}
 		effect = {
-			PHI = {
-				all_core = {
-					add_core = THIS
-				}
-			}
+			SPA_1455 = { add_core = THIS }
+			SPA_1459 = { add_core = THIS }
+			SPA_1463 = { add_core = THIS }
 			add_accepted_culture = filipino
+			set_country_flag = filipino_citizenship_granted
 		}
-	set_country_flag = filipino_citzenship
+		ai_will_do = {
+			factor = 1
+		}
 	}
-	
 }

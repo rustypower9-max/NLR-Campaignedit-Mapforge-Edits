@@ -103,6 +103,7 @@
 		religion = jewish
 		size = 3850
 	}
+
 	craftsmen = {
 		culture = sephardic
 		religion = jewish
@@ -194,6 +195,7 @@
 		religion = orthodox
 		size = 13150
 	}
+
 	craftsmen = {
 		culture = greek
 		religion = orthodox
@@ -297,6 +299,7 @@
 		religion = jewish
 		size = 190
 	}
+
 	craftsmen = {
 		culture = greek
 		religion = orthodox
@@ -384,6 +387,7 @@
 		religion = sunni
 		size = 9475
 	}
+
 	craftsmen = {
 		culture = greek
 		religion = orthodox
@@ -445,6 +449,7 @@
 		religion = sunni
 		size = 1675
 	}
+
 	craftsmen = {
 		culture = greek
 		religion = orthodox
@@ -524,6 +529,7 @@
 		religion = sunni
 		size = 5275
 	}
+
 	craftsmen = {
 		culture = greek
 		religion = orthodox
@@ -543,7 +549,7 @@
 	aristocrats = {
 		culture = greek
 		religion = orthodox
-		size = 325
+		size = 2925
 	}
 
 	bureaucrats = {
@@ -561,91 +567,25 @@
 	clergymen = {
 		culture = greek
 		religion = orthodox
-		size = 50
+		size = 1075
 	}
 
 	artisans = {
 		culture = greek
 		religion = orthodox
-		size = 500
-	}
-
-	aristocrats = {
-		culture = greek
-		religion = orthodox
-		size = 2600
-	}
-
-	clergymen = {
-		culture = greek
-		religion = orthodox
-		size = 125
-	}
-
-	artisans = {
-		culture = greek
-		religion = orthodox
-		size = 1100
+		size = 2650
 	}
 
 	soldiers = {
 		culture = greek
 		religion = orthodox
-		size = 100
+		size = 3300
 	}
 
 	farmers = {
 		culture = greek
 		religion = orthodox
-		size = 9075
-	}
-
-	clergymen = {
-		culture = greek
-		religion = orthodox
-		size = 150
-	}
-
-	artisans = {
-		culture = greek
-		religion = orthodox
-		size = 250
-	}
-
-	soldiers = {
-		culture = greek
-		religion = orthodox
-		size = 200
-	}
-
-	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 25700
-	}
-
-	clergymen = {
-		culture = greek
-		religion = orthodox
-		size = 750
-	}
-
-	artisans = {
-		culture = greek
-		religion = orthodox
-		size = 800
-	}
-
-	soldiers = {
-		culture = greek
-		religion = orthodox
-		size = 3000
-	}
-
-	farmers = {
-		culture = greek
-		religion = orthodox
-		size = 100000
+		size = 134775
 	}
 
 	craftsmen = {
@@ -709,6 +649,7 @@
 		religion = orthodox
 		size = 49000
 	}
+
 	craftsmen = {
 		culture = greek
 		religion = orthodox
@@ -720,7 +661,7 @@
 #Corfu (112200/28000 POPS)
 826 = {
 	bureaucrats = {
-		culture = british
+		culture = french
 		religion = protestant
 		size = 5
 	}
@@ -1408,7 +1349,7 @@
 		religion = orthodox
 		size = 3000
 	}
-	
+
 	craftsmen = {
 		culture = greek
 		religion = orthodox
@@ -1781,5 +1722,4 @@
 		religion = orthodox
 		size = 9375
 	}
-
 }

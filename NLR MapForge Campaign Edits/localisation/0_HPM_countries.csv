@@ -544,6 +544,21 @@ SLW_ADJ;Sulawesian;;;;Celebesense;;;x
 SLW_absolute_monarchy;Bone Sultanate;;;;Sultanato de Bone;;;x
 SLW_prussian_constitutionalism;Bone Sultanate;;;;Sultanato de Bone;;;x
 SLW_hms_government;Bone Sultanate;;;;Sultanato de Bone;;;x
+SRI;Sri Lanka;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+SRI_ADJ;Sri Lankan;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+SRI_absolute_monarchy;Ceylon;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+SRI_prussian_constitutionalism;Ceylon;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+SRI_hms_government;Ceylon;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+SRI_absolute_monarchy_ADJ;Ceylonian;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+SRI_prussian_constitutionalism_ADJ;Ceylonian;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+SRI_hms_government_ADJ;Ceylonian;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+SRI_conservative;Royal Faction;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+SRI_liberal;The Liberal Faction;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+SRI_reactionary;The Nationalist Faction;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+SRI_anarcho_liberal;The Radical Faction;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+SRI_socialist;The Socialist Faction;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+SRI_communist;The Communist Faction;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+SRI_fascist;The Fascist Faction;;;;;;;;;;;;;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 SUL;Sulu;;;;Jolo;;;x
 SUL_ADJ;Sulu;;;;Joloana;;;x
 SUL_conservative;Conservatist Faction;;;;Facci�n Conservadora;;;x

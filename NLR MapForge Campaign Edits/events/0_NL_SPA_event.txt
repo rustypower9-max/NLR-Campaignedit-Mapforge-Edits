@@ -1,0 +1,365 @@
+country_event = {
+	id = 610010
+	title = "Catalan Uprising"
+	desc = "EVTDESC610010"
+
+	trigger = {
+		tag = NPS
+        NOT = { has_country_modifier = recent_catalan_uprising }
+        NOT = { has_country_flag = an_end_to_dissent }
+        NOT = { has_country_flag = catalan_dissenters_shot }
+	}
+
+	mean_time_to_happen = {
+		months = 60
+		modifier = {
+			factor = 0.9
+			average_consciousness = 4
+		}
+		modifier = {
+			factor = 0.8
+			average_consciousness = 7
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 4
+		}
+		modifier = {
+			factor = 0.8
+			average_militancy = 7
+		}
+		modifier = {
+			factor = 0.9
+			political_reform_want = 0.1
+		}
+		modifier = {
+			factor = 0.9
+			political_reform_want = 0.25
+		}
+		modifier = {
+			factor = 0.9
+			num_of_revolts = 1
+		}
+		modifier = {
+			factor = 0.8
+			num_of_revolts = 5
+		}
+	}
+
+    option = {
+		name = "We will restore order"
+        SPA_495 = {
+            any_owned = {
+                add_province_modifier = {
+	                name = nationalist_agitation
+	                duration = 730
+                }
+            }
+        }
+        SPA_503 = {
+            any_owned = {
+                add_province_modifier = {
+	                name = nationalist_agitation
+	                duration = 730
+                }
+            }
+        }
+        add_country_modifier = {
+	        name = recent_catalan_uprising
+	        duration = 730
+        }
+		war_exhaustion = 5
+	}
+
+	option = {
+		name = "Make an example out of them. The rest will fall in line"
+        SPA_495 = {
+		    any_pop = {
+		    	limit = {
+		    		has_pop_culture = catalan
+    			}
+	    		reduce_pop = 0.9
+	    	}
+        }
+        SPA_503 = {
+		    any_pop = {
+		    	limit = {
+		    		has_pop_culture = catalan
+    			}
+	    		reduce_pop = 0.9
+	    	}
+        }
+        any_owned = {
+            limit = { NOT = {is_core = NPS } }
+            any_pop = {
+                limit = { has_pop_culture = catalan }
+                militancy = -2
+                }
+            any_pop = {
+                limit = { NOT = { has_pop_culture = catalan } }
+                militancy = 2
+            }
+        }
+	 	war_exhaustion = 10
+        set_country_flag = catalan_dissenters_shot
+    }
+}
+
+country_event = {
+	id = 610020
+	title = "Basque Carbombs"
+	desc = "EVTDESC610020"
+
+	trigger = {
+		tag = NPS
+        NOT = { has_country_modifier = recent_basque_uprising }
+        NOT = { has_country_flag = an_end_to_dissent }
+        NOT = { has_country_flag = basque_dissenters_shot }
+	}
+
+	mean_time_to_happen = {
+		months = 60
+		modifier = {
+			factor = 0.9
+			average_consciousness = 4
+		}
+		modifier = {
+			factor = 0.8
+			average_consciousness = 7
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 4
+		}
+		modifier = {
+			factor = 0.8
+			average_militancy = 7
+		}
+		modifier = {
+			factor = 0.9
+			political_reform_want = 0.1
+		}
+		modifier = {
+			factor = 0.9
+			political_reform_want = 0.25
+		}
+		modifier = {
+			factor = 0.9
+			num_of_revolts = 1
+		}
+		modifier = {
+			factor = 0.8
+			num_of_revolts = 5
+		}
+	}
+
+	option = {
+		name = "Crush the resistance"
+		SPA_492 = {
+            any_owned = {
+                add_province_modifier = {
+	                name = nationalist_agitation
+	                duration = 730
+                }
+            }
+        }
+        add_country_modifier = {
+	        name = recent_basque_uprising
+	        duration = 730
+        }
+		war_exhaustion = 5
+	}
+	option = {
+		name = "Make a decree banning cars"
+        SPA_492 = {
+		    any_pop = {
+		    	limit = {
+		    		has_pop_culture = basque
+    			}
+	    		reduce_pop = 0.9
+	    	}
+        }
+        any_owned = {
+            limit = { NOT = {is_core = NPS } }
+            any_pop = {
+                limit = { has_pop_culture = basque }
+                militancy = -2
+                }
+            any_pop = {
+                limit = { NOT = { has_pop_culture = basque } }
+                militancy = 2
+            }
+        }
+	    war_exhaustion = 10
+        set_country_flag = basque_dissenters_shot
+    }
+}
+
+country_event = {
+	id = 610030
+	title = "Galician Revolt"
+	desc = "EVTDESC610030"
+
+	trigger = {
+		tag = NPS
+        NOT = { has_country_modifier = recent_galician_uprising }
+        NOT = { has_country_flag = an_end_to_dissent }
+        NOT = { has_country_flag = galician_dissenters_shot }
+	}
+
+	mean_time_to_happen = {
+		months = 60
+		modifier = {
+			factor = 0.9
+			average_consciousness = 4
+		}
+		modifier = {
+			factor = 0.8
+			average_consciousness = 7
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 4
+		}
+		modifier = {
+			factor = 0.8
+			average_militancy = 7
+		}
+		modifier = {
+			factor = 0.9
+			political_reform_want = 0.1
+		}
+		modifier = {
+			factor = 0.9
+			political_reform_want = 0.25
+		}
+		modifier = {
+			factor = 0.9
+			num_of_revolts = 1
+		}
+		modifier = {
+			factor = 0.8
+			num_of_revolts = 5
+		}
+	}
+
+	option = {
+		name = "Crush the resistance"
+		SPA_474 = {
+            any_owned = {
+                add_province_modifier = {
+	                name = nationalist_agitation
+	                duration = 730
+                }
+            }
+        }
+        add_country_modifier = {
+	        name = recent_galician_uprising
+	        duration = 730
+        }
+		war_exhaustion = 5
+	}
+    option = {
+		name = "I am going to murder you - rusty"
+        SPA_474 = {
+            any_pop = {
+	    		reduce_pop = 0.9
+                militancy = -2
+            }
+        }
+	    war_exhaustion = 10
+	    set_country_flag = galician_dissenters_shot
+    }
+}
+
+country_event = {
+	id = 610040
+	title = "Andalucians Protest"
+	desc = "EVTDESC610040"
+
+	trigger = {
+		tag = NPS
+        NOT = { has_country_modifier = recent_andalucian_uprising }
+        NOT = { has_country_flag = an_end_to_dissent }
+        NOT = { has_country_flag = andalucian_dissenters_shot }
+	}
+
+	mean_time_to_happen = {
+		months = 60
+		modifier = {
+			factor = 0.9
+			average_consciousness = 4
+		}
+		modifier = {
+			factor = 0.8
+			average_consciousness = 7
+		}
+		modifier = {
+			factor = 0.9
+			average_militancy = 4
+		}
+		modifier = {
+			factor = 0.8
+			average_militancy = 7
+		}
+		modifier = {
+			factor = 0.9
+			political_reform_want = 0.1
+		}
+		modifier = {
+			factor = 0.9
+			political_reform_want = 0.25
+		}
+		modifier = {
+			factor = 0.9
+			num_of_revolts = 1
+		}
+		modifier = {
+			factor = 0.8
+			num_of_revolts = 5
+		}
+	}
+
+	option = {
+		name = "Crush the resistance"
+		SPA_512 = {
+            any_owned = {
+                add_province_modifier = {
+	                name = nationalist_agitation
+	                duration = 730
+                }
+            }
+        }
+        SPA_513 = {
+            any_owned = {
+                add_province_modifier = {
+	                name = nationalist_agitation
+	                duration = 730
+                }
+            }
+        }
+        add_country_modifier = {
+	        name = recent_andalucian_uprising
+	        duration = 730
+        }
+		war_exhaustion = 5
+	}
+
+	option = {
+		name = "Dissenters get shot"
+        SPA_512 = {
+            any_pop = {
+	    		reduce_pop = 0.9
+                militancy = -2
+            }
+        }
+        SPA_513 = {
+            any_pop = {
+	    		reduce_pop = 0.9
+                militancy = -2
+            }
+        }
+	    war_exhaustion = 10
+	    set_country_flag = andalucian_dissenters_shot
+    }
+}

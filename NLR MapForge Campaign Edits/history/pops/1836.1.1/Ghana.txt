@@ -209,6 +209,44 @@
 	aristocrats = {
 		culture = western_african
 		religion = animist
+		size = 725
+	}
+
+	clergymen = {
+		culture = western_african
+		religion = animist
+		size = 400
+	}
+
+	artisans = {
+		culture = western_african
+		religion = animist
+		size = 1750
+	}
+
+	soldiers = {
+		culture = western_african
+		religion = animist
+		size = 400
+	}
+
+	farmers = {
+		culture = western_african
+		religion = animist
+		size = 33725
+	}
+
+	slaves = {
+		culture = western_african
+		religion = animist
+		size = 3000
+	}
+}
+#Tamale (60000/15000 POPS)  
+1913 = {
+	aristocrats = {
+		culture = western_african
+		religion = animist
 		size = 275
 	}
 
@@ -221,37 +259,7 @@
 	artisans = {
 		culture = western_african
 		religion = animist
-		size = 600
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = animist
-		size = 150
-	}
-
-	farmers = {
-		culture = western_african
-		religion = animist
-		size = 12825
-	}
-
-	aristocrats = {
-		culture = western_african
-		religion = animist
-		size = 325
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = animist
-		size = 175
-	}
-
-	artisans = {
-		culture = western_african
-		religion = animist
-		size = 850
+		size = 675
 	}
 
 	soldiers = {
@@ -263,111 +271,13 @@
 	farmers = {
 		culture = western_african
 		religion = animist
-		size = 15475
+		size = 10725
 	}
 
 	slaves = {
 		culture = western_african
 		religion = animist
 		size = 3000
-	}
-
-	aristocrats = {
-		culture = western_african
-		religion = animist
-		size = 125
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = western_african
-		religion = animist
-		size = 300
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = animist
-		size = 75
-	}
-
-	farmers = {
-		culture = western_african
-		religion = animist
-		size = 5425
-	}
-}
-#Tamale (60000/15000 POPS)  
-1913 = {
-	aristocrats = {
-		culture = western_african
-		religion = animist
-		size = 100
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = western_african
-		religion = animist
-		size = 300
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = animist
-		size = 75
-	}
-
-	farmers = {
-		culture = western_african
-		religion = animist
-		size = 5475
-	}
-
-	slaves = {
-		culture = western_african
-		religion = animist
-		size = 3000
-	}
-
-	aristocrats = {
-		culture = western_african
-		religion = animist
-		size = 175
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = western_african
-		religion = animist
-		size = 375
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = western_african
-		religion = animist
-		size = 5250
 	}
 }
 #Togo Region (136000) #see Togo.txt for balance of region
@@ -377,73 +287,37 @@
 	aristocrats = {
 		culture = western_african
 		religion = animist
-		size = 225
+		size = 575
 	}
 
 	clergymen = {
 		culture = western_african
 		religion = animist
-		size = 125
+		size = 300
 	}
 
 	artisans = {
 		culture = western_african
 		religion = animist
-		size = 500
+		size = 1225
 	}
 
 	soldiers = {
 		culture = western_african
 		religion = animist
-		size = 125
+		size = 325
 	}
 
 	farmers = {
 		culture = western_african
 		religion = animist
-		size = 9025
+		size = 20575
 	}
 
 	slaves = {
 		culture = western_african
 		religion = animist
-		size = 2000
-	}
-
-	aristocrats = {
-		culture = western_african
-		religion = animist
-		size = 350
-	}
-
-	clergymen = {
-		culture = western_african
-		religion = animist
-		size = 175
-	}
-
-	artisans = {
-		culture = western_african
-		religion = animist
-		size = 725
-	}
-
-	soldiers = {
-		culture = western_african
-		religion = animist
-		size = 200
-	}
-
-	farmers = {
-		culture = western_african
-		religion = animist
-		size = 11550
-	}
-
-	slaves = {
-		culture = western_african
-		religion = animist
-		size = 5000
+		size = 7000
 	}
 }
 #uncolonized in 1836/under the rule of Asante
@@ -484,5 +358,4 @@
 		religion = animist
 		size = 2000
 	}
-
 }

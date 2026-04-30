@@ -5,61 +5,31 @@
 	aristocrats = {
 		culture = eastern_bantu
 		religion = animist
-		size = 125
+		size = 175
 	}
 
 	clergymen = {
-		culture = eastern_bantu
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = eastern_bantu
-		religion = animist
-		size = 325
-	}
-
-	soldiers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 75
-	}
-
-	farmers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 6375
-	}
-
-	aristocrats = {
-		culture = eastern_bantu
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = eastern_bantu
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
 		culture = eastern_bantu
 		religion = animist
 		size = 150
 	}
 
+	artisans = {
+		culture = eastern_bantu
+		religion = animist
+		size = 475
+	}
+
 	soldiers = {
 		culture = eastern_bantu
 		religion = animist
-		size = 25
+		size = 100
 	}
 
 	farmers = {
 		culture = eastern_bantu
 		religion = animist
-		size = 2700
+		size = 9075
 	}
 
 	slaves = {
@@ -73,7 +43,7 @@
 	aristocrats = {
 		culture = eastern_bantu
 		religion = animist
-		size = 225
+		size = 375
 	}
 
 	bureaucrats = {
@@ -91,55 +61,25 @@
 	clergymen = {
 		culture = eastern_bantu
 		religion = animist
-		size = 125
+		size = 225
 	}
 
 	artisans = {
 		culture = eastern_bantu
 		religion = animist
-		size = 500
+		size = 950
 	}
 
 	soldiers = {
 		culture = eastern_bantu
 		religion = animist
-		size = 125
+		size = 225
 	}
 
 	farmers = {
 		culture = eastern_bantu
 		religion = animist
-		size = 7950
-	}
-
-	aristocrats = {
-		culture = eastern_bantu
-		religion = animist
-		size = 150
-	}
-
-	clergymen = {
-		culture = eastern_bantu
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = eastern_bantu
-		religion = animist
-		size = 450
-	}
-
-	soldiers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 8200
+		size = 16150
 	}
 
 	slaves = {
@@ -153,61 +93,31 @@
 	aristocrats = {
 		culture = eastern_bantu
 		religion = animist
-		size = 100
+		size = 300
 	}
 
 	clergymen = {
 		culture = eastern_bantu
 		religion = animist
-		size = 50
+		size = 150
 	}
 
 	artisans = {
 		culture = eastern_bantu
 		religion = animist
-		size = 250
+		size = 800
 	}
 
 	soldiers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 75
-	}
-
-	farmers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 1525
-	}
-
-	aristocrats = {
 		culture = eastern_bantu
 		religion = animist
 		size = 200
 	}
 
-	clergymen = {
-		culture = eastern_bantu
-		religion = animist
-		size = 100
-	}
-
-	artisans = {
-		culture = eastern_bantu
-		religion = animist
-		size = 550
-	}
-
-	soldiers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 125
-	}
-
 	farmers = {
 		culture = eastern_bantu
 		religion = animist
-		size = 10025
+		size = 11550
 	}
 
 	slaves = {
@@ -221,359 +131,13 @@
 	aristocrats = {
 		culture = eastern_bantu
 		religion = animist
-		size = 100
+		size = 375
 	}
 
 	clergymen = {
-		culture = eastern_bantu
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = eastern_bantu
-		religion = animist
-		size = 250
-	}
-
-	soldiers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 75
-	}
-
-	farmers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 3525
-	}
-
-	aristocrats = {
-		culture = eastern_bantu
-		religion = animist
-		size = 150
-	}
-
-	clergymen = {
-		culture = eastern_bantu
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = eastern_bantu
-		religion = animist
-		size = 400
-	}
-
-	soldiers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 75
-	}
-
-	farmers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 7300
-	}
-
-	slaves = {
-		culture = eastern_bantu
-		religion = animist
-		size = 2000
-	}
-
-	aristocrats = {
-		culture = eastern_bantu
-		religion = animist
-		size = 75
-	}
-
-	clergymen = {
-		culture = eastern_bantu
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = eastern_bantu
-		religion = animist
-		size = 250
-	}
-
-	soldiers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 50
-	}
-
-	farmers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 4575
-	}
-
-	aristocrats = {
-		culture = eastern_bantu
-		religion = animist
-		size = 50
-	}
-
-	clergymen = {
-		culture = eastern_bantu
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = eastern_bantu
-		religion = animist
-		size = 200
-	}
-
-	soldiers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 50
-	}
-
-	farmers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 3650
-	}
-}
-#Kafue Region (228000) #see Namibia.txt for balance of region 
-#uncolonized in 1836/ruled by Lozi in 1836
-#Kabwe (28000/7000 POPS) 
-2012 = {
-	aristocrats = {
-		culture = eastern_bantu
-		religion = animist
-		size = 75
-	}
-
-	clergymen = {
-		culture = eastern_bantu
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = eastern_bantu
-		religion = animist
-		size = 200
-	}
-
-	soldiers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 50
-	}
-
-	farmers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 1575
-	}
-
-	aristocrats = {
-		culture = eastern_bantu
-		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = eastern_bantu
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = eastern_bantu
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 1800
-	}
-
-	slaves = {
-		culture = eastern_bantu
-		religion = animist
-		size = 3000
-	}
-}
-#Senanga (52000/13000 POPS) 
-2013 = {
-	aristocrats = {
 		culture = eastern_bantu
 		religion = animist
 		size = 225
-	}
-
-	bureaucrats = {
-		culture = eastern_bantu
-		religion = animist
-		size = 10
-	}
-
-	officers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 65
-	}
-
-	clergymen = {
-		culture = eastern_bantu
-		religion = animist
-		size = 125
-	}
-
-	artisans = {
-		culture = eastern_bantu
-		religion = animist
-		size = 500
-	}
-
-	soldiers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 125
-	}
-
-	farmers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 8950
-	}
-
-	aristocrats = {
-		culture = eastern_bantu
-		religion = animist
-		size = 10
-	}
-
-	clergymen = {
-		culture = eastern_bantu
-		religion = animist
-		size = 25
-	}
-
-	artisans = {
-		culture = eastern_bantu
-		religion = animist
-		size = 50
-	}
-
-	soldiers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 15
-	}
-
-	farmers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 900
-	}
-
-	slaves = {
-		culture = eastern_bantu
-		religion = animist
-		size = 2000
-	}
-}
-#Kasempa (40000/10000 POPS) 
-2014 = {
-	aristocrats = {
-		culture = eastern_bantu
-		religion = animist
-		size = 150
-	}
-
-	clergymen = {
-		culture = eastern_bantu
-		religion = animist
-		size = 75
-	}
-
-	artisans = {
-		culture = eastern_bantu
-		religion = animist
-		size = 325
-	}
-
-	soldiers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 100
-	}
-
-	farmers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 4350
-	}
-
-	aristocrats = {
-		culture = eastern_bantu
-		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = eastern_bantu
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
-		culture = eastern_bantu
-		religion = animist
-		size = 100
-	}
-
-	soldiers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 25
-	}
-
-	farmers = {
-		culture = eastern_bantu
-		religion = animist
-		size = 1800
-	}
-
-	slaves = {
-		culture = eastern_bantu
-		religion = animist
-		size = 3000
-	}
-}
-#Monzo (108000/27000 POPS) 
-2015 = {
-	aristocrats = {
-		culture = eastern_bantu
-		religion = animist
-		size = 475
-	}
-
-	clergymen = {
-		culture = eastern_bantu
-		religion = animist
-		size = 250
 	}
 
 	artisans = {
@@ -591,37 +155,47 @@
 	farmers = {
 		culture = eastern_bantu
 		religion = animist
-		size = 20025
+		size = 19050
 	}
 
+	slaves = {
+		culture = eastern_bantu
+		religion = animist
+		size = 2000
+	}
+}
+#Kafue Region (228000) #see Namibia.txt for balance of region 
+#uncolonized in 1836/ruled by Lozi in 1836
+#Kabwe (28000/7000 POPS) 
+2012 = {
 	aristocrats = {
-		culture = eastern_bantu
-		religion = animist
-		size = 25
-	}
-
-	clergymen = {
-		culture = eastern_bantu
-		religion = animist
-		size = 50
-	}
-
-	artisans = {
 		culture = eastern_bantu
 		religion = animist
 		size = 100
 	}
 
+	clergymen = {
+		culture = eastern_bantu
+		religion = animist
+		size = 100
+	}
+
+	artisans = {
+		culture = eastern_bantu
+		religion = animist
+		size = 300
+	}
+
 	soldiers = {
 		culture = eastern_bantu
 		religion = animist
-		size = 25
+		size = 75
 	}
 
 	farmers = {
 		culture = eastern_bantu
 		religion = animist
-		size = 1800
+		size = 3375
 	}
 
 	slaves = {
@@ -629,5 +203,130 @@
 		religion = animist
 		size = 3000
 	}
+}
+#Senanga (52000/13000 POPS) 
+2013 = {
+	aristocrats = {
+		culture = eastern_bantu
+		religion = animist
+		size = 235
+	}
 
+	bureaucrats = {
+		culture = eastern_bantu
+		religion = animist
+		size = 10
+	}
+
+	officers = {
+		culture = eastern_bantu
+		religion = animist
+		size = 65
+	}
+
+	clergymen = {
+		culture = eastern_bantu
+		religion = animist
+		size = 150
+	}
+
+	artisans = {
+		culture = eastern_bantu
+		religion = animist
+		size = 550
+	}
+
+	soldiers = {
+		culture = eastern_bantu
+		religion = animist
+		size = 140
+	}
+
+	farmers = {
+		culture = eastern_bantu
+		religion = animist
+		size = 9850
+	}
+
+	slaves = {
+		culture = eastern_bantu
+		religion = animist
+		size = 2000
+	}
+}
+#Kasempa (40000/10000 POPS) 
+2014 = {
+	aristocrats = {
+		culture = eastern_bantu
+		religion = animist
+		size = 175
+	}
+
+	clergymen = {
+		culture = eastern_bantu
+		religion = animist
+		size = 125
+	}
+
+	artisans = {
+		culture = eastern_bantu
+		religion = animist
+		size = 425
+	}
+
+	soldiers = {
+		culture = eastern_bantu
+		religion = animist
+		size = 125
+	}
+
+	farmers = {
+		culture = eastern_bantu
+		religion = animist
+		size = 6150
+	}
+
+	slaves = {
+		culture = eastern_bantu
+		religion = animist
+		size = 3000
+	}
+}
+#Monzo (108000/27000 POPS) 
+2015 = {
+	aristocrats = {
+		culture = eastern_bantu
+		religion = animist
+		size = 500
+	}
+
+	clergymen = {
+		culture = eastern_bantu
+		religion = animist
+		size = 300
+	}
+
+	artisans = {
+		culture = eastern_bantu
+		religion = animist
+		size = 1200
+	}
+
+	soldiers = {
+		culture = eastern_bantu
+		religion = animist
+		size = 275
+	}
+
+	farmers = {
+		culture = eastern_bantu
+		religion = animist
+		size = 21825
+	}
+
+	slaves = {
+		culture = eastern_bantu
+		religion = animist
+		size = 3000
+	}
 }
