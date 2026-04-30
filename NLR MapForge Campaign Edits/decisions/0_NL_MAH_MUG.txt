@@ -45,6 +45,10 @@ political_decisions = {
 				}
 			}
 			badboy = 15
+            add_country_modifier = {
+                name = maratha_momentum
+                duration = 1825
+            }
 			set_country_flag = expanded_the_confederacy
 		}
 		ai_will_do = {
@@ -64,6 +68,7 @@ political_decisions = {
 		}
 		effect = {
 			prestige = 20
+            plurality = 0.1
 			add_country_modifier = {
 				name = confederacy_stabilized
 				duration = 3650
@@ -173,9 +178,7 @@ political_decisions = {
 	acceptance_of_the_south = {
 		picture = mysore_decision
 		potential = {
-			OR = {
-				tag = MUG
-			}
+			tag = MUG
 			NOT = {accepted_culture = telegu}
 		}
 		allow = {
@@ -200,11 +203,9 @@ political_decisions = {
 	}
 
 	acceptance_of_the_north = {
-		picture = mysore_decision
+		picture = map_india
 		potential = {
-			OR = {
-				tag = MAH
-			}
+			tag = MAH
 			NOT = {accepted_culture = rajput}
 		}
 		allow = {
@@ -222,6 +223,45 @@ political_decisions = {
 			add_accepted_culture = rajput
 			add_accepted_culture = avadhi
 			add_accepted_culture = panjabi
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	solidify_center = {
+		picture = map_india
+		potential = {
+			OR = {
+				tag = HYD
+			}
+			NOT = {accepted_culture = rajput}
+		}
+		allow = {
+			war = no
+			all_core = {
+				owned_by = THIS
+			}
+			owns = 1297
+			owns = 1274
+			owns = 1277
+			owns = 1261
+		}
+		effect = {
+            prestige = 15
+            ENG_1297 = { add_core = THIS }
+            ENG_1275 = { add_core = THIS }
+            NAG_1277 = { add_core = THIS }
+			ORI = {
+				all_core = {
+					add_core = THIS
+				}
+			}
+            add_country_modifier = {
+				name = deccan_consolidated
+				duration = 3650
+			}
+			add_accepted_culture = marathi
 		}
 		ai_will_do = {
 			factor = 1

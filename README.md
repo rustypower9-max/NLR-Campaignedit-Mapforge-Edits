@@ -24,6 +24,10 @@ Nation-specific changes include:
 
 - Created (?) Portugal-Brazil, giving them Portugal [Rusty please check, idk what you did there]
 
+- Gave Protugal-Brazil a choice between becoming a new world nation (unlocks S.American superformables) or Old World focus (Iberia formable)
+
+- Added in late game Latin American Superformables (South American Union and Patria Grande), some QOL changes (accepting the african diaspora, generic decision to conquer cuba, Latin Homestead acts for regionals MEX Empire GCO and LPL)
+
 - Split Spain into napoleonic Spain, localized entriely within Spain and being in (S)pain, as well as the Spanish exiles present in most of the vanilla Spanish colonies
 
 - Split the Batavian Republic into a mainland Dutch part (still Batavian Republic) and Dutch exiles
@@ -40,8 +44,14 @@ Nation-specific changes include:
 
 - Denmark-Norway vs Sweden: Reduced Swedish starting population (Falun 550K \-\> 250K), increased Danish core population (200K, spread over Denmark + Norway). Corstedt teleported Danish Indian garisson back to Europe
 
-- Decolonized Indonesia, annexed Canada into the Commonwealth to compensate for the loss of Indonesia
+- Decolonized Indonesia + New Guinea, annexed Canada into the Commonwealth to compensate for the losses
 
 - Buffed Persia: Kurdish and Mashriqi accepted on "Restore Persian Empire" decision. Moved Mosul coring decision from PUIR to "Restore persian Empire" as well. 
+
+- EIC Changes: Consolidated EIC into Bengal\&Bihar, released the rest. Split bengali accepted off of EIC India formation decision into their own decision. Gave EIC optional decision (late game) to accept more Indians in return for losing any claims to the British throne (English/Scottish accepted) 
+
+- Adjusted Maratha: Less starting Land, some starting cores (for revanchism), Mughal style expansion into the south (decision to get S. India cores, then second decision to get S. Indian accepteds once conquering those cores)
+
+- Gave Hyderabad some starting reforms \+ decision to get Marathi accepted
 
 - WIP: US-Commonwealth dynamic

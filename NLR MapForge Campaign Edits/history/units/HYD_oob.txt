@@ -3,26 +3,26 @@ army = {
 	location = 1283
 	regiment = {
 		name= "1.Irregular Horse"
-		type = cavalry
+		type = irregular
 		home = 1287
 	}
 
 	regiment = {
-		name= "2.Irregular Horse"
-		type = cavalry
-		home = 1278
-	}
-
-	regiment = {
-		name= "3.Irregular Horse"
-		type = cavalry
+		name= "2.Irregular"
+		type = irregular
 		home = 1310
 	}
 
 	regiment = {
-		name= "1.Hyderabad Contingent"
-		type = infantry
-		home = 1307
+		name= "3.Irregular"
+		type = irregular
+		home = 1285
+	}
+
+	regiment = {
+		name= "Boomstick"
+		type = artillery
+		home = 1286
 	}
 
 	regiment = {
@@ -39,7 +39,7 @@ army = {
 
 	regiment = {
 		name= "4.Hyderabad Contingent"
-		type = artillery
+		type = infantry
 		home = 1285
 	}
 
@@ -58,13 +58,13 @@ army = {
 
 	regiment = {
 		name= "7.Hyderabadi Legion"
-		type = irregular
+		type = infantry
 		home = 1287
 	}
 
 	regiment = {
 		name= "8.Hyderabadi Legion"
-		type = irregular
+		type = infantry
 		home = 1306
 	}
 	regiment = {
@@ -75,7 +75,7 @@ army = {
 
 	regiment = {
 		name= "6.Hyderabadi Legion"
-		type = irregular
+		type = cavalry
 		home = 1304
 	}
 
@@ -120,13 +120,13 @@ army = {
 
 	regiment = {
 		name= "7.Hyderabadi Legion"
-		type = irregular
+		type = infantry
 		home = 1304
 	}
 
 	regiment = {
 		name= "8.Hyderabadi Legion"
-		type = irregular
+		type = infantry
 		home = 1304
 	}
 	regiment = {
@@ -137,7 +137,7 @@ army = {
 
 	regiment = {
 		name= "6.Hyderabadi Legion"
-		type = irregular
+		type = cavalry
 		home = 1304
 	}
 

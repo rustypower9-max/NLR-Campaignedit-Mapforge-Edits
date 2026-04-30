@@ -151,10 +151,12 @@ CANAL_11;The Settler Strait;;;;;;;x
 CHI_1086;Kouriles Islands;;;;;;;x 
 JAP_1087;Sakhalin;;;;;;;x
 true_german;A True German King;;;;;;;x 
-mughals_united;Mughal Empire Reclaimed;;;;;;;x 
-mughals_united_desc;The Mughal Empire as been united at last !;;;;;;;x 
+mughals_united;Mughal Empire Restored;;;;;;;x 
+mughals_united_desc;The Mughal Empire has been restored, its authority once more recognized across the subcontinent.;;;;;;;x 
 confederacy_stabilized;Stabilized Confederacy;;;;;;;x 
-confederacy_stabilized_desc;Our conquests have been secured, allowing for stable rule and continued growth;;;;;;;x 
+confederacy_stabilized_desc;Our conquests have been secured, allowing the confederacy to govern its vast domains with renewed stability.;;;;;;;x 
+deccan_consolidated;Consolidated Deccan;;;;;;;x 
+deccan_consolidated_desc;The Deccan has been firmly brought under our control, its administration strengthened and its resources secured as the foundation of our power.;;;;;;;x 
 USA_2556;Carolina;;;;;;;x 
 nau_united;End of the 13 colonies;;;;;;;x
 nau_united_desc;Now that we are the last english speaking country of the new world it's our duty to accept all immigrants !;;;;;;;x
