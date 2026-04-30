@@ -1,5 +1,6 @@
 capital = 749
-primary_culture = Italian #Unused culture to let Italians assimilate
+primary_culture = north_italian
+culture = south_italian
 religion = catholic
 government = hms_government
 plurality = 0.12

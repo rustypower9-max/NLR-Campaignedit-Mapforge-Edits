@@ -8,7 +8,7 @@ A FORK of the NLR Campaign edits done by Skars and Companionnoob. General change
 
 - Removed autocracy NV, buffed other NV effects
 
-- LR bump in Indochina (Standard 35), Indonesia (32), Chinese treaty ports \& periphery (35)
+- LR bump in Indochina , Chinese treaty ports \& periphery (Standard 35)
 
 - Adjusted Chinese pops / genocide event to account for China rules: Yunnan (state) \& Tibet -40\%, reduced Manchuria to 1.7M starting pop, reduced high pop treaty ports (Hainan, Taiwan) starting pops below 1.05M (Large)
 
@@ -16,8 +16,7 @@ A FORK of the NLR Campaign edits done by Skars and Companionnoob. General change
 
 - Some quality of life changes (no RP debuffs on NV/Academic, removed most decisions prestige and GP requirements)
 
-- CURRENTLY A WIP: Massive pop simplification by merging cultures (Polynesian, Indian Cultures), Religions (Eastern), and the pops themselves (if applicable)
-Taking a while due to number of entries (100K\+)
+- Massive pop simplification by merging cultures (Polynesian, Indian Cultures), Religions, and the pops themselves (if applicable)
 
 
 - And other changes I migth've forgot (check the commit log)

@@ -1,7 +1,7 @@
 political_decisions = {
 	form_south_german_confederation = {
 		potential = {
-			is_greater_power = yes
+			#is_greater_power = yes
 			primary_culture = south_german
 			NOT = {
 				OR = {
@@ -64,7 +64,7 @@ political_decisions = {
 	austrian_form_south_german_confederation = {
 		potential = {
 			tag = AUS
-			is_greater_power = yes
+			#is_greater_power = yes
 			primary_culture = south_german
 			NOT = {
 				exists = GER
@@ -133,7 +133,7 @@ political_decisions = {
 	
 	form_north_german_confederation = {
 		potential = {
-			is_greater_power = yes
+			#is_greater_power = yes
 			primary_culture = north_german
 			NOT = { 	
 				tag = GCF 
@@ -269,7 +269,7 @@ political_decisions = {
 		}
 		
 		allow = {
-			is_greater_power = yes
+			#is_greater_power = yes
 			invention = national_fraternity
 			prestige = 45
 			war = no
@@ -320,7 +320,7 @@ political_decisions = {
 		}
 		
 		allow = {
-			is_greater_power = yes
+			#is_greater_power = yes
 			prestige = 45
 			war = no
 			ITA = {
@@ -384,7 +384,7 @@ political_decisions = {
 							}
 						}
 					}
-					is_greater_power = yes
+					#is_greater_power = yes
 					prestige = 45
 					war = no
 				}
