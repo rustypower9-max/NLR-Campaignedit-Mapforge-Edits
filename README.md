@@ -18,7 +18,6 @@ A FORK of the NLR Campaign edits done by Skars and Companionnoob. General change
 
 - Massive pop simplification by merging cultures (Polynesian, Indian Cultures), Religions, and the pops themselves (if applicable)
 
-
 - And other changes I migth've forgot (check the commit log)
 
 Nation-specific changes include:

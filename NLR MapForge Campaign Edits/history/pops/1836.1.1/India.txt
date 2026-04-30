@@ -871,37 +871,37 @@
 	}
 
 	aristocrats = {
-		culture = panjabi
+		culture = rajput
 		religion = sunni
 		size = 2750
 	}
 
 	bureaucrats = {
-		culture = panjabi
+		culture = rajput
 		religion = sunni
 		size = 3500
 	}
 
 	clergymen = {
-		culture = panjabi
+		culture = rajput
 		religion = sunni
 		size = 2750
 	}
 
 	artisans = {
-		culture = panjabi
+		culture = rajput
 		religion = sunni
 		size = 24000
 	}
 
 	soldiers = {
-		culture = panjabi
+		culture = rajput
 		religion = sunni
 		size = 2750
 	}
 
 	farmers = {
-		culture = panjabi
+		culture = rajput
 		religion = sunni
 		size = 204250
 	}
