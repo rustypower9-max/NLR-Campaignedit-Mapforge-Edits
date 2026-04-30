@@ -48,10 +48,12 @@ Nation-specific changes include:
 
 - Buffed Persia: Kurdish and Mashriqi accepted on "Restore Persian Empire" decision. Moved Mosul coring decision from PUIR to "Restore persian Empire" as well. 
 
-- EIC Changes: Consolidated EIC into Bengal\&Bihar, released the rest. Split bengali accepted off of EIC India formation decision into their own decision. Gave EIC optional decision (late game) to accept more Indians in return for losing any claims to the British throne (English/Scottish accepted) 
+- EIC Changes: Consolidated EIC into Bengal\&Bihar, released the rest. More starting Units. Split Bengali accepted off of EIC India formation decision into their own decision. Gave EIC optional decision (late game) to accept more Indians in return for losing any claims to the British throne (English/Scottish accepted) 
 
-- Adjusted Maratha: Less starting Land, some starting cores (for revanchism), Mughal style expansion into the south (decision to get S. India cores, then second decision to get S. Indian accepteds once conquering those cores)
+- Adjusted Maratha: Less starting Land and Units, some starting cores (revanchism), Mughal style expansion into the south (decision to get S. India cores, then second decision to get S. Indian accepteds once conquering those cores)
 
 - Gave Hyderabad some starting reforms \+ decision to get Marathi accepted
 
 - WIP: US-Commonwealth dynamic
+
+- And more (again, check the commits)!
