@@ -68,7 +68,7 @@ political_decisions = {
 		}
 		effect = {
 			prestige = 20
-            plurality = 0.1
+            plurality = 0.05
 			add_country_modifier = {
 				name = confederacy_stabilized
 				duration = 3650

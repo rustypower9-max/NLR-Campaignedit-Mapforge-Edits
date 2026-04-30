@@ -1342,6 +1342,8 @@ deccan_consolidated = {
 	research_points_modifier = 0.3
 	administrative_efficiency = 0.1
 	tax_efficiency = 0.05
+	mine_rgo_eff = 0.1
+	farm_rgo_eff = 0.1
 }
 
 nau_united =  {
