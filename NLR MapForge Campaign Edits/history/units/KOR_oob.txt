@@ -2,21 +2,33 @@ army = {
 	name = "Korean Imperial Army"
 	location = 1624
 	regiment = {
-		name= "1.¨Royal Guard"
-		type = irregular
+		name= "1. Royal Guard"
+		type = infantry
 		home = 1624
 	}
 
 	regiment = {
 		name= "2. Royal Guard"
-		type = irregular
+		type = infantry
 		home = 1636
 	}
 
 	regiment = {
 		name= "3. Royal Guard"
-		type = irregular
+		type = infantry
 		home = 1628
+	}
+
+	regiment = {
+		name= "4. Royal Guard"
+		type = infantry
+		home = 1624
+	}
+
+	regiment = {
+		name= "5. Royal Guard"
+		type = infantry
+		home = 1624
 	}
 
 	regiment = {
@@ -37,27 +49,81 @@ army = {
 		home = 1627
 	}
 
+	regiment = {
+		name= "4. Infantry"
+		type = irregular
+		home = 1630
+	}
+
+	regiment = {
+		name= "5. Infantry"
+		type = irregular
+		home = 1631
+	}
+
 }
 
 army = {
 	name = "Northern Army"
 	location = 1623
 	regiment = {
-		name= "4. Infantry"
+		name= "6. Infantry"
 		type = irregular
 		home = 1619
 	}
 
 	regiment = {
-		name= "5. Infantry"
+		name= "7. Infantry"
 		type = irregular
 		home = 1620
 	}
 
 	regiment = {
-		name= "6. Infantry"
+		name= "8. Infantry"
 		type = irregular
 		home = 1622
+	}
+
+	regiment = {
+		name= "9. Infantry"
+		type = irregular
+		home = 1622
+	}
+
+	regiment = {
+		name= "10. Infantry"
+		type = irregular
+		home = 1623
+	}
+
+	regiment = {
+		name= "11. Infantry"
+		type = irregular
+		home = 1623
+	}
+
+	regiment = {
+		name= "12. Infantry"
+		type = irregular
+		home = 1621
+	}
+
+	regiment = {
+		name= "13. Infantry"
+		type = irregular
+		home = 1621
+	}
+
+	regiment = {
+		name= "14. Infantry"
+		type = irregular
+		home = 1619
+	}
+
+	regiment = {
+		name= "15. Infantry"
+		type = irregular
+		home = 1620
 	}
 
 }
@@ -66,21 +132,39 @@ army = {
 	name = "Southern Army"
 	location = 1634
 	regiment = {
-		name= "7. Infantry"
+		name= "16. Infantry"
 		type = irregular
 		home = 1632
 	}
 
 	regiment = {
-		name= "8. Infantry"
+		name= "17. Infantry"
 		type = irregular
 		home = 1635
 	}
 
 	regiment = {
-		name= "9. Infantry"
+		name= "18. Infantry"
 		type = irregular
 		home = 1634
+	}
+
+	regiment = {
+		name= "6. Royal Guard"
+		type = infantry
+		home = 1631
+	}
+
+	regiment = {
+		name= "7. Royal Guard"
+		type = infantry
+		home = 1636
+	}
+
+	regiment = {
+		name= "8. Royal Guard"
+		type = infantry
+		home = 1637
 	}
 
 }
