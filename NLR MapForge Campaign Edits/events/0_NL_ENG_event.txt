@@ -65,18 +65,11 @@ country_event = {
 				add_core = THIS
 			}
 		}
-		all_core = {
-			limit = {
-					NOT = { life_rating = 50 }
-				}
-				life_rating = 20
-		}
 		USA_178 = { add_core = GBR }
 		USA_223 = { add_core = GBR }
 		USA_232 = { add_core = GBR }
 		USA_243 = { add_core = GBR }
 		USA_247 = { add_core = GBR }
-		set_country_flag = capital_canada
         ai_chance = {
 			factor = 0.6
     	}

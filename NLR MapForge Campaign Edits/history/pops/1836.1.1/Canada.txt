@@ -1609,7 +1609,7 @@
 	soldiers = {
 		culture = anglo_canadian
 		religion = catholic
-		size = 30
+		size = 2030
 	}
 
 	farmers = {
@@ -1822,7 +1822,7 @@
 	soldiers = {
 		culture = anglo_canadian
 		religion = protestant
-		size = 200
+		size = 2200
 	}
 
 	farmers = {
@@ -1848,7 +1848,7 @@
 	soldiers = {
 		culture = anglo_canadian
 		religion = protestant
-		size = 175
+		size = 2175
 	}
 
 	farmers = {
@@ -2179,7 +2179,7 @@
 	soldiers = {
 		culture = french_canadian
 		religion = catholic
-		size = 400
+		size = 2400
 	}
 
 	farmers = {
@@ -2373,7 +2373,7 @@
 	soldiers = {
 		culture = french_canadian
 		religion = catholic
-		size = 150
+		size = 2150
 	}
 
 	farmers = {

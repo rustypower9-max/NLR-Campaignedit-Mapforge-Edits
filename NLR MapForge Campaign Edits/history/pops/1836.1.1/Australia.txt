@@ -23,7 +23,7 @@
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 4000
+		size = 2000
 	}
 
 	farmers = {
@@ -283,7 +283,7 @@
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 4000
+		size = 2000
 	}
 
 	farmers = {
@@ -517,7 +517,7 @@
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 4000
+		size = 2000
 	}
 
 	farmers = {
@@ -1008,7 +1008,7 @@
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 4000
+		size = 2000
 	}
 
 	farmers = {

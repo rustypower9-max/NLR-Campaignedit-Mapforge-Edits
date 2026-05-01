@@ -58,7 +58,7 @@ country_event = {
 
 		option = {
 		name = "Give me Liberty or Give me Death"
-		prestige = 4
+		prestige = 10
 		any_pop = {
 			militancy = 1
 			consciousness = 3
