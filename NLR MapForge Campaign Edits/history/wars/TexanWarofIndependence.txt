@@ -10,14 +10,9 @@ name = "Texan War of Independence"
 	# country - 3rd party
 	# state_province_id - target state capital
 	war_goal = {
-		casus_belli = conquest
+		casus_belli = conquest_low
 		actor = MEX
 		receiver = TEX
 	}
 
-}
-
-1936.4.21 = {
-	rem_attacker = MEX
-	rem_defender = TEX
 }
