@@ -17,7 +17,7 @@ political_decisions = {
 			war = no
 		}
 		effect = {
-            release_vassal = KUT
+			release_vassal = KUT
 			inherit = KUT
 			NAG = {
 				all_core = {
@@ -45,10 +45,6 @@ political_decisions = {
 				}
 			}
 			badboy = 15
-            add_country_modifier = {
-                name = maratha_momentum
-                duration = 1825
-            }
 			set_country_flag = expanded_the_confederacy
 		}
 		ai_will_do = {
@@ -205,7 +201,10 @@ political_decisions = {
 	acceptance_of_the_north = {
 		picture = map_india
 		potential = {
-			tag = MAH
+			OR = {
+				tag = MAH
+				tag = HYD
+			}
 			NOT = {accepted_culture = rajput}
 		}
 		allow = {
