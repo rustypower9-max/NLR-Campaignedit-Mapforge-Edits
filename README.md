@@ -20,15 +20,13 @@ A FORK of the NLR Campaign edits done by Skars and Companionnoob. General change
 
 Nation-specific changes include:
 
-- Created (?) Portugal-Brazil, giving them Portugal [Rusty please check, idk what you did there]
+- Added in late game Latin American Superformables (South American Union and Patria Grande), and some S. American QOL changes (accepting the african diaspora, generic decision to conquer cuba, Latin Homestead acts for regionals MEX Empire GCO and LPL)
 
-- Gave Protugal-Brazil a choice between becoming a new world nation (unlocks S.American superformables) or Old World focus (Iberia formable)
+- Gave Protugal-Brazil Portugal, and a choice between becoming a new world nation (unlocks S.American superformables) or Old World focus (Iberia formable)
 
-- Added in late game Latin American Superformables (South American Union and Patria Grande), some QOL changes (accepting the african diaspora, generic decision to conquer cuba, Latin Homestead acts for regionals MEX Empire GCO and LPL)
+- Gave Mexico an additional Expansion decision (Phillipines) and a way to further encroach on the Midwest (at the cost of no superformable)
 
-- Gave Mexico an additional Expansion decision (Phillipines) and a way to further enroach on the Midwest (at the cost of no superformable)
-
-- Split Spain into Napoleonic Spain, localized entriely within Spain and being in (S)pain, as well as the Spanish exiles present in most of the vanilla Spanish colonies
+- Split Spain into Napoleonic Spain, localized entirely within Spain and being in (S)pain, as well as the Spanish exiles present in most of the vanilla Spanish colonies
 
 - Split the Batavian Republic into a mainland Dutch part (still Batavian Republic) and Dutch exiles
 
