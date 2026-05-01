@@ -44,62 +44,7 @@ country_event = {
     title = "EVTNAME600034"
 	desc = "EVTDESC600034"
 	picture = "debate"
-    option = {
-        name = "Establish the Capital in South Africa large life to afrikaaner and english cowboys"
-        any_pop = {
-            limit = {
-                culture = boer
-            }
-			militancy=-2
-			consciousness=-2
-		}
-		SAF = {
-            all_core = {
-                add_core = GBR
-            }
-        }
-        add_accepted_culture = boer
-        GBR = {capital = 2087}
-        clr_country_flag = new_world_nation
-        ai_chance = {
-			factor = 0.4
-    	}
-	}
-	option = {
-        name = "Let the Capital in Sydney large life to australasia"
-        any_pop = {
-            limit = {
-                culture = british
-            }
-			militancy=-1
-			consciousness=-1
-		}
-		AST = {
-			all_core=  {
-				add_core = THIS
-			}
-		}
-		NZL = {
-			all_core=  {
-				add_core = THIS
-			}
-		}
-		CAN = {
-			all_core=  {
-				add_core = THIS
-			}
-		}
-		all_core = {
-			limit = {
-					NOT = { life_rating = 60 }
-				}
-				life_rating = 20
-		}
-        ai_chance = {
-			factor = 0.6
-    	}
-	}
-	option = {
+   		option = {
         name = "the grandplank... The Imperial Federation"
         any_pop = {
 			militancy=-3
@@ -126,11 +71,11 @@ country_event = {
 				}
 				life_rating = 20
 		}
-		USA_178 = { add_core = CAN }
-		USA_223 = { add_core = CAN }
-		USA_232 = { add_core = CAN }
-		USA_243 = { add_core = CAN }
-		USA_247 = { add_core = CAN }
+		USA_178 = { add_core = GBR }
+		USA_223 = { add_core = GBR }
+		USA_232 = { add_core = GBR }
+		USA_243 = { add_core = GBR }
+		USA_247 = { add_core = GBR }
 		set_country_flag = capital_canada
         ai_chance = {
 			factor = 0.6
