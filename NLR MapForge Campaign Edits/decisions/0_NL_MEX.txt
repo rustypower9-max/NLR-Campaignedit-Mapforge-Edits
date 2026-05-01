@@ -11,13 +11,6 @@ political_decisions = {
 		    }
 			government = democracy
 			NOT = { has_country_flag = mexican_empire }
-			FRA = {
-				OR = {
-					government = absolute_monarchy
-					government = prussian_constitutionalism
-					government = hms_government
-				}
-			}
 		}
 		allow = {
 			war = no
@@ -65,9 +58,11 @@ political_decisions = {
         picture = central_america_decision
 		potential = {
 		    OR = {
-			    primary_culture = mexican
-			    primary_culture = andean
-			    accepted_culture = andean
+				tag = MEX
+				tag = GCO
+				tag = LPL
+				tag = HSA
+				tag = USS
 		    }
 			NOT = { accepted_culture = caribeno } 
 		}
@@ -128,8 +123,7 @@ political_decisions = {
 				    capital = 2172
 			    }
 		    }
-            NOT = {USA = {accepted_culture = texan}}
-            NOT = {MEX = {accepted_culture = texan}}
+            NOT = { accepted_culture = texan }
         }
         allow ={
             state_n_government = 1
@@ -158,5 +152,50 @@ political_decisions = {
             add_accepted_culture = texan
             prestige = 20
         }
-    }   
+    }
+
+    mexico_philippines = {
+        picture = mexfil
+
+        potential = {
+            tag = MEX
+            NOT = { has_accepted_culture = filipino }
+        }
+
+        allow = {
+            war = no
+            nationalism_n_imperialism = 1
+
+            has_country_flag = mexican_empire
+
+            all_core = {
+                owned_by = THIS
+            }
+			SPA_1455 = {owned_by = THIS}
+			SPA_1459 = {owned_by = THIS}
+			SPA_1463 = {owned_by = THIS}
+        }
+
+        effect = {
+            prestige = 20
+
+			SPA_1455 = { add_core = THIS }
+			SPA_1459 = { add_core = THIS }
+			SPA_1463 = { add_core = THIS }
+
+            2517 = { add_core = MEX }
+            2518 = { add_core = MEX }
+    
+            add_accepted_culture = filipino
+
+            any_pop = {
+                limit = { has_pop_culture = filipino }
+                militancy = -1
+                consciousness = -1
+            }
+        }
+
+        ai_will_do = { factor = 1 }
+    }
+
 }

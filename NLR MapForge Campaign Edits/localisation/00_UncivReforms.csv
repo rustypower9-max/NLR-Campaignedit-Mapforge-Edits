@@ -648,7 +648,11 @@ treaty_of_guadalupe_hidalgo_title;Treaty of Guadalupe Hidalgo;;;;Spanish Loc;;;x
 treaty_of_guadalupe_hidalgo_desc;Should we get a convincing enough victory over the Mexicans, we will be able to force them to the negotiating table in order to discuss their surrendering of all claims to land north of the Rio Grande-- in exchange for a fair price, of course.;;;;Spanish Loc;;;x
 ##### Mexico #####;;;;;;;x;
 refute_manifest_destiny_title;Refute Manifest Destiny;;;;Spanish Loc;;;x
-refute_manifest_destiny_desc;The American claims to our frontier have proven to be little more than empty air and bluster. Those lands belong to Mexico, and no other.;;;;Spanish Loc;;;x
+refute_manifest_destiny_desc;The American claims to our parts of the frontier have proven to be little more than empty air and bluster. Those lands belong to Mexico, and no other.;;;;Spanish Loc;;;x
+manifest_mexican_destiny_title;Manifest Mexican Destiny;;;;x
+manifest_mexican_destiny_desc;§R Locks you out of forming Patria Grande!§ \n\n The American claims to our lands have been exposed for what they are, yet it is not enough to deny their so-called destiny — we must now proclaim our own. From the deserts of the west to the great river that divides the continent, these lands belong to Mexico, and to Mexico they shall return. Let the world take note: the future of North America will be written in Mexico City!;;;;x
+enforce_treaty_mex_title;Enforce the Treaty of San Antonio;;;;x
+enforce_treaty_mex_desc;Though our armies have prevailed, the governments of the north have yet to fully abandon their pretensions to the western territories. With no remaining foothold from which to contest our authority, their continued claims ring hollow. By enforcing the terms of the Treaty of San Antonio, we may compel them to formally renounce all such ambitions and bring a final settlement to the question of continental dominion. This act will cement our position, though it may stir unrest among those who still look for anglican leadership.;;;;x
 ##### Argentina #####;;;;;;;x;
 banda_oriental_title;Restore Banda Oriental;;;;Spanish Loc;;;x
 banda_oriental_desc;The Banda Oriental del Uruguay was argentinean once, and shall be argentinean again!;;;;Spanish Loc;;;x
@@ -848,6 +852,13 @@ EVTDESC44826_NEWS_MEDIUM;An agreement between the Mexican and American governmen
 EVTDESC44826_NEWS_SHORT;An agreement between the Mexican and American governments has been worked out to end the war between them, stating the entire Mexican frontier will be turned over to the United States.;;;;Spanish Loc;;;x
 EVTNAME44827;$FROMCOUNTRY$ Has Refused;;;;Spanish Loc;;;x
 EVTDESC44827;Despite having them over the figurative barrel, the $FROMCOUNTRY_ADJ$ government has refused to surrender any claims to their northern territories. So much the worse for them.;;;;Spanish Loc;;;x
+EVTDESC123577;With the Western territories under firm Mexican control, our claim on the Midwest has been shaken. The Mexican government has presented us with terms: the normalization of relations, in exchange for the recognition of their claims to all lands west of the Mississippi River. Should we refuse, war will surely be unavoidable, and perhaps the thirteen colonies may be set ablaze once more. We must now decide whether to accept this humiliating agreement or risk fighting a resurgent Mexico.;;;;x
+EVTDESC448260;$FROMCOUNTRY$ has agreed to the Treaty of San Antonio, recognizing Mexican claims to the western territories and bringing an end to the conflict between our nations. While peace has been restored, the loss marks a profound humiliation and a decisive shift in the balance of power on the continent.;;;;x
+EVTNAME448250;The Treaty of San Antonio;;;;Spanish Loc;;;x
+EVTDESC448260_NEWS_LONG;After intense negotiations, the governments of Mexico and $FROMCOUNTRY$ have reached an agreement to end hostile relations. The Treaty of San Antonio compels $FROMCOUNTRY$ to relinquish its claims to all territories west of the Mississippi River, recognizing them instead as rightfully Mexican. This dramatic reversal of fortunes signals the rise of Mexico as a dominant continental power, and a severe blow to American ambitions.;;;;x
+EVTDESC448260_NEWS_MEDIUM;Mexico and $FROMCOUNTRY$ have concluded the Treaty of San Antonio, forcing the latter to abandon its western claims in a humiliating settlement.;;;;x
+EVTDESC448260_NEWS_SHORT;$FROMCOUNTRY$ has ceded its western claims to Mexico under the Treaty of San Antonio.;;;;x
+EVTDESC448270;Despite their worsening position, the $FROMCOUNTRY_ADJ$ government has refused to recognize Mexican claims to the western territories. The question of dominance on the continent remains far from settled...;;;;x
 EVTNAME95255;Indonesian Unification;;;;Spanish Loc;;;x
 EVTDESC95255;The call has been sent out for the peoples of the East Indies to unify under a common banner, for protection against foreign imperialism and to usher in a new world power to make the Europeans tremble. The people are cheering in the streets of $CAPITAL$ at the welcome news. Will $COUNTRY$ do its part?;;;;Spanish Loc;;;x
 EVTOPTA95255;We will answer the call!;;;;Spanish Loc;;;x

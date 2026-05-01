@@ -1410,7 +1410,11 @@ the_new_colossus = {
     global_immigrant_attract = 0.4
 	global_population_growth = 0.001
 }
+mexican_destiny = {
+    global_immigrant_attract = 0.25
+	global_population_growth = 0.0005
+}
+
 capital_supply = {
     supply_limit = 1000
     icon = 17
-

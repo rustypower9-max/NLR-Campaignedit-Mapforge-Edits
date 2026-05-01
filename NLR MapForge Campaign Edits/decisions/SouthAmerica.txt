@@ -64,7 +64,6 @@ political_decisions = {
 				government = hms_government
 				government = democracy
 			}
-            
 			NOT = {
 				has_country_flag = afrobrazil_accepted
 				ruling_party_ideology = reactionary
@@ -473,7 +472,7 @@ political_decisions = {
             #916 = { remove_core = LPL }  #I don't get why these remove_cores exist
            #2305 = { remove_core = LPL }  #so I removed them 
            #2309 = { remove_core = LPL }
-           #2420 = { remove_core = LPL }	  #Except this one, don't want Mato Grosso to be Argentine
+           #2420 = { remove_core = LPL }
         }
 
         ai_will_do = { factor = 1 }
@@ -558,17 +557,11 @@ political_decisions = {
         picture = central_america_decision
 		potential = {
 		    OR = {
-			    primary_culture = andean
-                accepted_culture = andean
+				tag = GCO
+				tag = LPL
+				tag = USS
 		    }
 			NOT = { accepted_culture = central_american }
-			FRA = {
-				OR = {
-					government = absolute_monarchy
-					government = prussian_constitutionalism
-					government = hms_government
-				}
-			}
 		}
 		allow = {
 			war = no
@@ -639,8 +632,13 @@ political_decisions = {
 		picture = enact_the_homestead_act
 		potential = {
 			OR = {
-                primary_culture = andean
-                accepted_culture = andean
+				tag = GCO
+                AND = {
+				    tag = LPL
+                    accepted_culture = andean
+                }
+				tag = HSA
+				tag = USS
 			}
 			OR = {
 				government = hms_government
@@ -747,14 +745,12 @@ political_decisions = {
     form_USSA = {
         picture = switch_to_freedom
         potential = {
+            NOT = { exists = USS }
 			NOT = { tag = HSA }
             OR = {
                 tag = GCO
                 tag = LPL
                 primary_culture = brazilian
-            }
-            NOT = {
-                exists = USS
             }
             has_global_flag = the_call_for_south_american_union
         }
@@ -859,13 +855,13 @@ political_decisions = {
 		picture = spanish_commonwealth_decision
 		potential = {
 			ai = no
-			is_culture_group = latin_american_cultures
             OR = {
                 tag = GCO
                 tag = LPL
                 AND = {
                     tag = MEX
                     has_country_flag = mexican_empire
+                    NOT = { has_country_flag = manifested_mexican_destiny }
                 }
             }
 			NOT = {
@@ -909,10 +905,18 @@ political_decisions = {
 		picture = spanisharmada
 		potential = {
 			ai = no
-			is_culture_group = latin_american_cultures
             has_global_flag = HSA_claimed
+            OR = {
+                tag = GCO
+                tag = LPL
+                AND = {
+                    tag = MEX
+                    has_country_flag = mexican_empire
+                    NOT = { has_country_flag = manifested_mexican_destiny }
+                }
+            }
 			NOT = {
-				primary_culture = brazilian
+                has_country_flag = destroyed_manifest_destiny
                 exists = HSA
             }
 		}

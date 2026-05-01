@@ -116,6 +116,7 @@ country_event = {
 			militancy = 1
 			consciousness = 3
 		}
+        set_country_flag = the_new_colossus
 		add_country_modifier = { name = the_new_colossus duration = -1 }
 	}
 }

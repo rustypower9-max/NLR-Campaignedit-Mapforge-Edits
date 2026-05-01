@@ -332,6 +332,60 @@ country_event = {
 }
 
 country_event = {
+    id = 123577
+    title = "The Treaty of San Antonio"
+    desc = "EVTDESC123577"
+    picture = "treaty"
+
+    is_triggered_only = yes
+
+    option = {
+		name = "We agree to their proposal."
+		set_country_flag = treaty_of_san_antonio
+		prestige = -20
+		treasury = 500000
+		all_core = {
+			limit = {
+				is_core = MEX
+			}
+			remove_core = THIS
+		}
+		any_owned = {
+			limit = {
+				NOT = { is_core = THIS }
+				is_core = MEX
+			}
+			secede_province = MEX
+		}
+		MEX = { country_event = 448260 }
+
+        CSA = {
+            limit = {has_country_flag = southern_hospitality }
+            remove_country_flag = southern_hospitality
+            remove_country_modifier = southern_hospitality
+        }
+        USA = {
+            limit = {has_country_flag = the_new_colossus }
+            remove_country_flag = the_new_colossus
+            remove_country_modifier = the_new_colossus
+        }
+
+		ai_chance = {
+			factor = 90
+		}
+    }
+
+    option = {
+		name = "Never!"
+		MEX = { country_event = 448270 }
+
+		ai_chance = {
+			factor = 10
+		}
+    }
+}
+
+country_event = {
 
 	id = 44826
 	title = "EVTNAME44826" #Mexico Agrees
@@ -346,9 +400,13 @@ country_event = {
 	is_triggered_only = yes
 
 	option = {
-		name = "A wise move."
+		name = "Yes! With that, our dominance is all but secured."
 		prestige = 20
 		treasury = -100000
+        add_country_modifier = {
+            name = mexican_destiny
+            duration = -1
+        }
 		diplomatic_influence = {
 			who = FROM
 			value = 400
@@ -372,5 +430,48 @@ country_event = {
 	option = {
 		name = "A foolish move."
 		war_exhaustion = -20
+	}
+}
+
+country_event = {
+
+	id = 448260
+	title = "The Americans Agree!"
+	desc = "EVTDESC448260"
+	news = yes
+	news_title = "EVTNAME448250"
+	news_desc_long = "EVTDESC448260_NEWS_LONG"
+	news_desc_medium = "EVTDESC448260_NEWS_MEDIUM"
+	news_desc_short = "EVTDESC448260_NEWS_SHORT"
+	picture = "treaty"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "A wise move."
+		prestige = 20
+		treasury = -500000
+		diplomatic_influence = {
+			who = FROM
+			value = 400
+		}
+		relation = {
+			who = FROM
+			value = 200
+		}
+	}
+}
+
+country_event = {
+	id = 448270
+	title = "The Americans Refuse"
+	desc = "EVTDESC448270"
+	picture = "treaty"
+
+	is_triggered_only = yes
+
+	option = {
+		name = "A foolish move."
+		war_exhaustion = -10
 	}
 }

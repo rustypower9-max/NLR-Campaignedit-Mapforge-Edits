@@ -28,7 +28,9 @@ Nation-specific changes include:
 
 - Added in late game Latin American Superformables (South American Union and Patria Grande), some QOL changes (accepting the african diaspora, generic decision to conquer cuba, Latin Homestead acts for regionals MEX Empire GCO and LPL)
 
-- Split Spain into napoleonic Spain, localized entriely within Spain and being in (S)pain, as well as the Spanish exiles present in most of the vanilla Spanish colonies
+- Gave Mexico an additional Expansion decision (Phillipines) and a way to further enroach on the Midwest (at the cost of no superformable)
+
+- Split Spain into Napoleonic Spain, localized entriely within Spain and being in (S)pain, as well as the Spanish exiles present in most of the vanilla Spanish colonies
 
 - Split the Batavian Republic into a mainland Dutch part (still Batavian Republic) and Dutch exiles
 
