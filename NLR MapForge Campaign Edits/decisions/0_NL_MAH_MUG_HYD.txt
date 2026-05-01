@@ -205,7 +205,10 @@ political_decisions = {
 	acceptance_of_the_north = {
 		picture = map_india
 		potential = {
+            OR = {
 			tag = MAH
+			tag = HYD
+            }
 			NOT = {accepted_culture = rajput}
 		}
 		allow = {
@@ -220,8 +223,8 @@ political_decisions = {
 			owns = 1266
 		}
 		effect = {
-			add_accepted_culture = rajput
 			add_accepted_culture = avadhi
+			add_accepted_culture = rajput
 			add_accepted_culture = panjabi
 		}
 		ai_will_do = {
