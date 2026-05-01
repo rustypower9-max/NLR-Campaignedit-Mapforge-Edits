@@ -27,7 +27,7 @@ communist = 0
 liberal = 15
 anarcho_liberal = 0
 }
-slavery = no_slavery
+slavery = yes_slavery
 vote_franschise = wealth_weighted_voting
 upper_house_composition = appointed
 voting_system = jefferson_method
