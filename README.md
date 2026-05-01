@@ -10,9 +10,7 @@ A FORK of the NLR Campaign edits done by Skars and Companionnoob. General change
 
 - LR bump in Indochina , Chinese treaty ports \& periphery (Standard 35)
 
-- Adjusted Chinese pops / genocide event to account for China rules: Yunnan (state) \& Tibet -40\%, reduced Manchuria to 1.7M starting pop, reduced high pop treaty ports (Hainan, Taiwan) starting pops below 1.05M (Large)
-
-- TBD: To Genocide or not Genocide mainland China
+- Adjusted Chinese pops / genocide event to account for China rules: Mainland China Untouched, Yunnan (state) \& Tibet -40\%, reduced Manchuria to 1.7M starting pop, reduced high pop treaty ports (Hainan, Taiwan) starting pops below 1.05M (Large)
 
 - Some quality of life changes (no RP debuffs on NV/Academic, removed most decisions prestige and GP requirements)
 
@@ -33,6 +31,10 @@ Nation-specific changes include:
 - Split Spain into Napoleonic Spain, localized entriely within Spain and being in (S)pain, as well as the Spanish exiles present in most of the vanilla Spanish colonies
 
 - Split the Batavian Republic into a mainland Dutch part (still Batavian Republic) and Dutch exiles
+
+- Napoleonic Spain: Starts off with no cores outside Madrid, no accepteds except Spanish, gets them back when killing Exile Spain or waiting enough.
+
+- TBD: NPS can continue France's legacy in North Africa (annex wargoals, assimilation and internal migrant attraction)
 
 - Gave the exiles content (decisions to accept colonial pops, option to return / reconquer the mainland)
 
@@ -56,6 +58,8 @@ Nation-specific changes include:
 
 - Gave Hyderabad some starting reforms \+ decision to get Marathi accepted
 
-- WIP: US-Commonwealth dynamic
+- US: No CSA path to make Commonwealth war unavoidable
+
+- TBD: Commonwealth: Simplified capital movement: Starts in Sydney, can be moved to Ontario (US connected Ports) after conquering enough (New York)
 
 - And more (again, check the commits)!
