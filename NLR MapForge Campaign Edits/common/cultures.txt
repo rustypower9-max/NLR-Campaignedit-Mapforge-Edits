@@ -1170,19 +1170,21 @@ south_asian = {
                
 		}
 	}
-	panjabi = {
-    	color = {190 180 170}
+    panjabi = {
+    color = {190 180 170}
 
-    	first_names = {
-        Ranjit Kharak Nau Nihal Chand Kaur Shir Dhalip Diwan Jassa Hari Bhuma Nawab Banda Baba Kapur
-        Atta Sher Muhammad Abdullah Vakil Kifayat Rahmatullah Mir Mirza Juma Mulla Mirdad Madad Azad Haji Karimdad
-    	}
+        first_names = {
+            Ranjit Kharak Nau Nihal Chand Kaur Shir Dhalip Diwan Jassa Hari Bhuma Nawab Banda Baba Kapur
+            Atta Sher Muhammad Abdullah Vakil Kifayat Rahmatullah Mir Mirza Juma Mulla Mirdad Madad Azad Haji Karimdad
+            Morad Ali Nur Mohammad Sobhdar Hosayn Shahdad Mohammad Nasir Morad Karim Gholam Mir Fath
+        }
 
-		last_names = {
-        Singh Kunwar Bahadur Dhillon Nalwa Ahluwalia Ramgarhia Mal Mulraj
-        Jawansher Khan "Ghafar Khan" Alokzai "Muhammad Khan" Bamzai
-    	}
-	}
+        last_names = {
+            Singh Kunwar Bahadur Dhillon Nalwa Ahluwalia Ramgarhia Mal Mulraj
+            Jawansher Khan Ghafar Khan Alokzai Muhammad Khan Bamzai
+            Alwani Bjaeen Bhatti Bhil Bhurgari Bulfati Chandio Daudpota Gabol Kalpar Kolhi Magsi Mallaah Rajpar Sarki Sirki Solangi
+        }
+    }
 	marathi = {
 		color = {190 220 10}
 		first_names = { Venkatji Shahuji Pratapsinha Rajaram Shivaji Shambhaji Balaji Bajirao Madhava Narayan Raghunath Sawai 
@@ -1190,16 +1192,6 @@ south_asian = {
 		}
 		
 		last_names = { "Appa Sahib" "Bowa Sahib" Phadnis Narayan Rao Ballal "Baji Rao" Bhat
-               
-		}
-	}
-	sindi = {
-		color = {190 65 230}
-		first_names = { "Morad Ali" "Nur Mohammad" Sobhdar Hosayn Shahdad Mohammad Nasir Morad Karim Gholam "Mir Fath"
-			
-		}
-		
-		last_names = { Alwani Bjaeen Bhatti Bhil Bhurgari Bulfati Chandio Daudpota Gabol Kalpar Kolhi Magsi Mallaah Rajpar Sarki Sirki Solangi
                
 		}
 	}

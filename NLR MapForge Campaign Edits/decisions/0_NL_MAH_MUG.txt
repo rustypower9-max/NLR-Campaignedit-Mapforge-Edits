@@ -97,7 +97,6 @@ political_decisions = {
 			}
 			set_country_flag = recovered_the_empire
 			add_accepted_culture = rajput
-			add_accepted_culture = sindi
 			add_accepted_culture = panjabi
 		}
 		ai_will_do = {

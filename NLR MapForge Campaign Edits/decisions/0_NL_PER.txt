@@ -5,10 +5,8 @@ political_decisions = {
 			NOT = { has_country_flag = restored_persian_empire }
 		}
 		allow = {
-			PER = {
-			    all_core = {
-				    owned_by = THIS
-			    }
+			all_core = {
+			    owned_by = THIS
 			}
 			nationalism_n_imperialism = 1
 			owns = 1209
@@ -27,4 +25,55 @@ political_decisions = {
 			factor = 1
 		}
 	}
+
+
+	assert_on_steppe = {
+		picture = commodities_in_central_asia
+		alert = yes
+		potential = {
+			tag = PER
+			NOT = { has_country_flag = assert_on_steppe }
+			war = no
+		}
+		allow = {
+			AND = {
+					NOT = {	exists = BUK }
+					NOT = {	exists = KOK }
+					NOT = {	exists = KHI }
+			}
+		}
+		effect = {
+			add_accepted_culture = turkic
+			set_country_flag = assert_on_steppe
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+
+	assert_in_india = {
+		picture = map_india
+		alert = yes
+		potential = {
+			tag = PER
+			NOT = { accepted_culture = panjabi }
+			war = no
+		}
+		allow = {
+            revolution_n_counterrevolution = 1
+			all_core = {
+			    owned_by = THIS
+			}
+            owns = 1227
+            owns = 1288
+		}
+		effect = {
+			add_accepted_culture = panjabi
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
 }
