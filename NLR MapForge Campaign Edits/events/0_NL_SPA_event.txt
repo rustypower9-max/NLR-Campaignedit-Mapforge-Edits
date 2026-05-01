@@ -6,7 +6,7 @@ country_event = {
 	trigger = {
 		tag = NPS
         NOT = { has_country_modifier = recent_catalan_uprising }
-        NOT = { has_country_flag = an_end_to_dissent }
+        NOT = { has_country_flag = gained_cores }
         NOT = { has_country_flag = catalan_dissenters_shot }
 	}
 
@@ -113,7 +113,7 @@ country_event = {
 	trigger = {
 		tag = NPS
         NOT = { has_country_modifier = recent_basque_uprising }
-        NOT = { has_country_flag = an_end_to_dissent }
+        NOT = { has_country_flag = gained_cores }
         NOT = { has_country_flag = basque_dissenters_shot }
 	}
 
@@ -203,7 +203,7 @@ country_event = {
 	trigger = {
 		tag = NPS
         NOT = { has_country_modifier = recent_galician_uprising }
-        NOT = { has_country_flag = an_end_to_dissent }
+        NOT = { has_country_flag = gained_cores }
         NOT = { has_country_flag = galician_dissenters_shot }
 	}
 
@@ -280,7 +280,7 @@ country_event = {
 	trigger = {
 		tag = NPS
         NOT = { has_country_modifier = recent_andalucian_uprising }
-        NOT = { has_country_flag = an_end_to_dissent }
+        NOT = { has_country_flag = gained_cores }
         NOT = { has_country_flag = andalucian_dissenters_shot }
 	}
 

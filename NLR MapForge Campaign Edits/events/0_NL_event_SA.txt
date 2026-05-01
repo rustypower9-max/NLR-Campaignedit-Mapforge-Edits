@@ -335,7 +335,7 @@ country_event = {
 	option = {
 		name = "Our future is in the new World. Off to Rio!"
         primary_culture = brazilian
-        add_accepted_culture = portugese
+        add_accepted_culture = portuguese
 		set_country_flag = new_world_nation
         
         capital = 2447
