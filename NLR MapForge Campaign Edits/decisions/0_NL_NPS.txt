@@ -97,7 +97,7 @@ political_decisions = {
                 }
 				add_province_modifier = {
 					name = project_napoleon
-					duration = -1
+					duration = 7300
 				}
             }
 		}
