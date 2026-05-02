@@ -71,32 +71,6 @@ political_decisions = {
 			prestige = 5
 		}
 	}
-	victory_in_canada = {
-		picture = crusade_for_canada
-		potential = {
-			tag = USA
-			accepted_culture = anglo_canadian
-			NOT = { has_country_flag = victory_in_canada } 
-		}
-		allow = {
-				controls = 46
-				controls = 57
-				controls = 65
-				controls = 13
-				controls = 14
-
-		}
-		effect = {
-			#inherit = CAN
-			CAN = {
-				all_core = {
-					#secede_province = USA
-				}
-			}
-			prestige = 30
-			set_country_flag = victory_in_canada
-		}
-	}
 
 	victory_in_indian_land = {
 		picture = crusade_for_canada

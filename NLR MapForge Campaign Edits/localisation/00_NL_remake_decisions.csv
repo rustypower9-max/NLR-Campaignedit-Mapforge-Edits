@@ -85,6 +85,8 @@ ino_liferating_for_cash_desc;A large part of our country is a poor, jungle-y, un
 ino_liferating_for_cash_title;Fund the Poorest Parts of Indonesia;;;;Financiar las zonas m?s pobres de Indonesia;;;x
 crusade_for_canada_title;The §RCrusade for Canada§!;;;;La Cruzada por Canad?;;;x
 crusade_for_canada_desc;Our northern neighbors, the Canadians, are unjustly exploited by upstart British nobles, who ran from their home after the British Revolution. To achieve peace in the New World, this imperialism must be put to an end.;;;;Nuestros vecinos del norte, los canadienses, son injustamente explotados por los nobles brit?nicos advenedizos, que huyeron de su hogar tras la Revoluci?n Brit?nica. Para lograr la paz en el Nuevo Mundo, hay que acabar con este imperialismo.;;;x
+victory_in_indian_land_title;Victory in the Indian Lands;;;;;;;;;;;;;
+victory_in_indian_land_desc;After a long and arduous struggle, the lands of the interior have been brought under our control. The native polities that once dominated these regions can no longer contest our advance, and the frontier now lies open before us. With this victory, we may at last formalize our claims and secure our position across the continent.;;;;;;;;;;;;;
 get_back_our_eastern_claim_title;Take back our Eastern Claims!;;;;!Recuperar nuestras reivindicaciones orientales!;;;x
 get_back_our_eastern_claim_desc;After the disastrous Wars of the Coalition, our rightful land in the Kingdom of Galicia was stolen by the Polish-Lithuanian Commonwealth. This was a terrible mistake; and now it falls upon us to mend the situation.;;;;Tras las desastrosas Guerras de la Coalici?n, la Mancomunidad Polaco-Lituana nos rob? las tierras que nos correspond?an en el Reino de Galicia. Esto fue un terrible error; y ahora nos corresponde a nosotros arreglar la situaci?n.;;;x
 finish_poland_partition_title;Finish the New Partitions of Poland!;;;;?Acabar con las nuevas particiones de Polonia!;;;x
@@ -530,6 +532,30 @@ france_cisalpine_title;Accept Arpitania;;;;Aceptar Arpitania;;;;;;;;x
 france_cisalpine_desc;Despite Arpitania not being as francized as other territories we've conquered, locals are generally receptive to cooperating with the Second Republic.;;;;A pesar de que Arpitania no está tan francizada como otros territorios que hemos conquistado, los lugare?os son generalmente receptivos a cooperar con la Segunda República.;;;;;;;;x
 form_imperial_fed_title;Form the Imperial Federation!;;;;;;;;x
 form_imperial_fed_desc;To prevent our Empire from splintering again, this time we will accept the foreigners as true citizens of the Imperial Federation.;;;;;;;;x
+Real_Britain_title;The True Britain;;;;;;;;;;;;;
+Real_Britain_desc;Though the British Isles lie beyond our direct control, we remain the legitimate continuation of the British state. By asserting our claim, we reaffirm our authority and reject any pretender that would deny our rightful place.;;;;;;;;;;;;;
+move_capital_to_ontario_title;Shift the Imperial Capital to Ontario;;;;;;;;;;;;;
+move_capital_to_ontario_desc;The defeat of the United States has transformed the strategic landscape of the New World. No longer must we govern North America from afar. Our dominions there now form the cornerstone of imperial strength, and it is only fitting that the seat of government reflect this reality. By moving the capital to Ontario, we anchor the Empire where its future will be decided.;;;;;;;;;;;;;
+wales_expansion_GBR_title;Reconcile with the Welsh;;;;;;;;;;;;;
+wales_expansion_GBR_desc;The Welsh have long stood apart from our rule, particularly after the seat of power shifted overseas. Now, with stability restored, we may finally bring them fully into the fold and recognize them as part of our nation.;;;;;;;;;;;;;
+GBR_ireland_title;Accept the Irish;;;;;;;;;;;;;
+GBR_ireland_desc;With Ireland firmly under our influence once more, continued division serves no purpose. By extending recognition to the Irish people, we may secure lasting unity across the Isles.;;;;;;;;;;;;;
+reclaim_sa_GBR_title;Reclaim South Africa;;;;;;;;;;;;;
+reclaim_sa_GBR_desc;South Africa has long stood at the crossroads of empire, shaped by both Dutch and British rule. Now firmly within our grasp, we may restore it as an integral part of our nation and bring its people into our fold.;;;;;;;;;;;;;
+na_expansion_GBR_title;Assert Dominion over North America;;;;;;;;;;;;;
+na_expansion_GBR_desc;With the capital established in Canada, our interests in North America have never been greater. The scattered territories of the continent must now be brought under firm control, integrating both land and peoples into a unified imperial structure.;;;;;;;;;;;;;
+caraibes_expansion_GBR_title;Consolidate the Caribbean;;;;;;;;;;;;;
+caraibes_expansion_GBR_desc;The Caribbean remains a vital crossroads of trade and empire. With our influence secured, we may now formalize our control over the region and integrate its diverse peoples into our expanding imperial framework.;;;;;;;;;;;;;
+form_imperial_fed_GBR_title;Form the Imperial Federation;;;;;;;;;;;;;
+form_imperial_fed_GBR_desc;The age of loose dominions has passed. Our far-flung territories must no longer stand apart, but be united under a single imperial structure. By forging an Imperial Federation, we bind the Empire into a single, cohesive state capable of standing against any rival.;;;;;;;;;;;;;
+restore_the_raj_title;Restore the Raj;;;;;;;;;;;;;
+restore_the_raj_desc;India once stood as the crown jewel of our empire. With our strength renewed, we may reassert our authority across the subcontinent and restore imperial governance over its many peoples.;;;;;;;;;;;;;
+unify_the_anglo_world_title;Unify the Anglo World;;;;;;;;;;;;;
+unify_the_anglo_world_desc;Across continents and oceans, the English-speaking peoples share a common heritage. Now, with our power unchallenged, we may bring them together under a single banner and establish a truly global Anglo state.;;;;;;;;;;;;;
+the_new_liberty_land_title;The New Liberty Land;;;;;;;;;;;;;
+the_new_liberty_land_desc;With the United States gone, a vacuum has formed in the New World. We may now step forward to claim its legacy, establishing a new center of liberty and unity under our leadership.;;;;;;;;;;;;;
+integrate_the_republicains_title;Integrate the Republicans;;;;;;;;;;;;;
+integrate_the_republicains_desc;The fall of the American republic has left its people without a unifying identity. Rather than rule them as subjects, we may incorporate them into our nation, bringing their traditions and energies into our expanding state.;;;;;;;;;;;;;
 first_steps_towards_poland_title;Secure Our Interests in Poland;;;;;;;;x
 first_steps_towards_poland_desc;The Polish state continues to falter under its own weight. We must take the necessary steps to secure our interests and protect stability along our eastern frontier.;;;;;;;;x
 first_steps_towards_prussia_title;Assert Claims on Prussia;;;;;;;;x
