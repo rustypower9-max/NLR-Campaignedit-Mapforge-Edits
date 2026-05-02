@@ -3,7 +3,7 @@ political_decisions = {
 		potential = {
 			tag = JAP
 			NOT = {
-				has_country_flag = state_shinto
+				religion = shinto
 			}
 		}
 		allow = {
@@ -14,7 +14,6 @@ political_decisions = {
 		effect = {
 			prestige = 5
 			religion = shinto
-			set_country_flag = state_shinto
 		}
 		ai_will_do = {
 			factor = 1
@@ -35,7 +34,6 @@ political_decisions = {
 			}
 		}
 		allow = {
-			year = 1880
 			state_n_government = 1
 			OR = { 
 				GER = {
@@ -45,6 +43,12 @@ political_decisions = {
 					}
 				}
 				NGF = {
+					OR = {
+						government = prussian_constitutionalism
+						government = hms_government
+					}
+				}
+				PRU = {
 					OR = {
 						government = prussian_constitutionalism
 						government = hms_government
@@ -85,12 +89,25 @@ political_decisions = {
 			}
 		}
 		allow = {
-			year = 1880
 			state_n_government = 1
-			ENG = {
-				OR = { 
-					government = hms_government
-					government = democracy
+			OR = { 
+				IMP = {
+					OR = {
+						government = hms_government
+						government = democracy
+					}
+				}
+				GBR = {
+					OR = {
+						government = hms_government
+						government = democracy
+					}
+				}
+				ENG = {
+					OR = {
+						government = hms_government
+						government = democracy
+					}
 				}
 			}
 		}
@@ -127,19 +144,32 @@ political_decisions = {
 			}
 		}
 		allow = {
-			year = 1880
 			state_n_government = 1
-			USA = {
-				government = democracy
+			OR = { 
+				USA = {
+					OR = {
+						government = democracy
+					}
+				}
+				CSA = {
+					OR = {
+						government = democracy
+					}
+				}
+				NAU = {
+					OR = {
+						government = democracy
+					}
+				}
 			}
 			OR = {
 				upper_house = {
 					ideology = liberal
-					value = 0.5
+					value = 0.3
 				}
 				upper_house = {
 					ideology = socialist
-					value = 0.5
+					value = 0.3
 				}
 			}
 		}
