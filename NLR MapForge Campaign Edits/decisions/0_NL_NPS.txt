@@ -1,6 +1,6 @@
 political_decisions = {
 
-cores_for_NPS = {
+    cores_for_NPS = {
 		picture = grant
 		potential = {
 			tag = NPS
@@ -51,4 +51,59 @@ cores_for_NPS = {
 			factor = 1
 		}
 	}
+
+    northafrican_project = {
+		picture = grant
+		potential = {
+			tag = NPS
+			has_country_flag = gained_cores
+			NOT = { has_country_flag = begin_na_project }
+			}
+
+		allow = {
+			all_core = { owned_by = THIS }
+            owns = 1695
+            owns = 1691
+            owns = 3250
+            owns = 1689
+            owns = 1704
+            owns = 1700
+            owns = 1709
+            owns = 1725
+		}
+
+		effect = {
+            set_country_flag = begin_na_project
+            prestige = 25
+            badboy = 5
+            MOR = {
+                remove_accepted_culture = berber
+                primary_culture = spanish
+            }
+            ALD = { primary_culture = spanish }
+            TUN = { primary_culture = spanish }
+            1695 = {add_core = THIS}
+            3250 = {add_core = THIS}
+            1689 = {add_core = THIS}
+            1704 = {add_core = THIS}
+            1700 = {add_core = THIS}
+            any_owned = {
+                limit = {
+                    OR = {
+                        is_core = MOR
+                        is_core = ALD
+                        is_core = TUN
+                    }
+                }
+				add_province_modifier = {
+					name = project_napoleon
+					duration = -1
+				}
+            }
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
 }
