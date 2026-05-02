@@ -83,6 +83,44 @@ political_decisions = {
 		}
 	}
 
+    adopt_christian_religion = {
+		picture = DIM_catholic
+        potential = {
+            tag = JAP
+            NOT = { has_country_flag = kurishitan_japan }
+        }
+
+        allow = {
+            war = no
+        }
+
+        effect = {
+            set_country_flag = kurishitan_japan
+            country_event = 7771111
+        }
+    }
+
+    protestant_breakaway_japan = {
+		picture = bulgarian_church
+        potential = {
+            tag = JAP
+            has_country_flag = kurishitan_japan
+            NOT = { has_country_flag = japan_protestant_breakaway }
+        }
+
+        allow = {
+            great_power = yes
+            prestige = 100
+            nationalism_n_imperialism = 1
+            war = no
+        }
+
+        effect = {
+            set_country_flag = japan_protestant_breakaway
+            religion = protestant
+        }
+    }
+
 	core_korea = {
 		potential = {
 			tag = JAP

@@ -12,8 +12,9 @@ political_decisions = {
 		}
 
 		effect = {
-			prestige = 5
 			religion = shinto
+            remove_country_flag = kurishitan_japan
+            remove_country_flag = japan_protestant_breakaway
 		}
 		ai_will_do = {
 			factor = 1

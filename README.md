@@ -56,7 +56,7 @@ Nation-specific changes include:
 
 - TBD: Commonwealth: Simplified capital movement: Starts in Sydney, can be moved to Ontario (US connected Ports) after conquering enough (New York)
 
-- Japan: Ported DOD decision (core Korea), gave extra decision to core Taiwan
+- Japan: Ported DOD decision to core Korea. Gave extra expansion/assimilation decisions (Core Taiwan, Core Tainan, relinquish Chinese cores on Taiwan, force-change Korean Primary culture)
 
 - Added in late game Latin American Superformables (South American Union and Patria Grande), and some S. American QOL changes (accepting the african diaspora, generic decision to conquer cuba, Latin Homestead acts for regionals MEX Empire GCO and LPL)
 
