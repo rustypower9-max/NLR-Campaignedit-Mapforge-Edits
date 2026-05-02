@@ -217,68 +217,56 @@ navy = {
 		name= "7th Combat Ship"
 		type = manowar
 	}
-	ship = {
-		name= "8th Combat Ship"
-		type = manowar
-	}
-	ship = {
-		name= "9th Combat Ship"
-		type = manowar
-	}
-	ship = {
-		name= "10th Combat Ship"
-		type = manowar
-	}
 	
 	ship = {
-		name= "11th Combat Ship"
+		name= "1st Patrol Ship"
 		type = frigate
 	}
 
 	ship = {
-		name= "12th Combat Ship"
+		name= "2nd Patrol Ship"
 		type = frigate
 	}
 
 	ship = {
-		name= "13th Combat Ship"
+		name= "3rd Patrol Ship"
 		type = frigate
 	}
 
 	ship = {
-		name= "14th Combat Ship"
+		name= "4th Patrol Ship"
 		type = frigate
 	}
 
 	ship = {
-		name= "15th Combat Ship"
+		name= "5th Patrol Ship"
 		type = frigate
 	}
 
 	ship = {
-		name= "16th Combat Ship"
+		name= "6th Patrol Ship"
 		type = frigate
 	}
 	
 	ship = {
-		name= "17th Combat Ship"
+		name= "7th Patrol Ship"
 		type = frigate
 	}
 	ship = {
-		name= "18th Combat Ship"
+		name= "8th Patrol Ship"
 		type = frigate
 	}
 	ship = {
-		name= "19th Combat Ship"
+		name= "9th Patrol Ship"
 		type = frigate
 	}
 	ship = {
-		name= "20th Combat Ship"
+		name= "10th Patrol Ship"
 		type = frigate
 	}
 
 	ship = {
-		name= "21st Combat Ship"
+		name= "11th Patrol Ship"
 		type = frigate
 	}
 }

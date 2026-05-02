@@ -3,7 +3,7 @@ controller = GBR
 add_core = GBR
 add_core = AST
 trade_goods = cattle
-life_rating = 40
+life_rating = 37
 naval_base = 2
 
 

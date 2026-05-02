@@ -1,2 +1,34 @@
 political_decisions = {
+
+    move_capital_to_ontario = {
+		picture = canada_decision
+		potential = {
+            OR = {
+			    tag = GBR
+			    tag = IMP
+            }
+		    NOT = { has_country_flag = capital_canada }
+		}
+		allow = {
+			war = no
+			state_n_government = 1
+			OR = {
+			    exists = CSA
+			    controls = 232
+			}
+		}
+		effect = {
+			prestige = 10
+		    capital = 57
+            2468 = { life_rating = -3 }
+            57 = {
+                life_rating = 5
+                add_province_modifier = {
+					name = baby_boom
+					duration = 3650
+				}
+            }
+		}
+	}
+
 }
