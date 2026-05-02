@@ -82,11 +82,11 @@ political_decisions = {
             }
             ALD = { primary_culture = spanish }
             TUN = { primary_culture = spanish }
-            1695 = {add_core = THIS}
-            3250 = {add_core = THIS}
-            1689 = {add_core = THIS}
-            1704 = {add_core = THIS}
-            1700 = {add_core = THIS}
+            1695 = {assimilate = yes add_core = THIS}
+            3250 = {assimilate = yes add_core = THIS}
+            1689 = {assimilate = yes add_core = THIS}
+            1704 = {assimilate = yes add_core = THIS}
+            1700 = {assimilate = yes add_core = THIS}
             any_owned = {
                 limit = {
                     OR = {
