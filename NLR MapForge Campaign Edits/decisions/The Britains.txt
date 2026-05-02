@@ -3,25 +3,21 @@ political_decisions = {
 	Real_Britain = {
 		potential = {
 			tag = GBR
-			has_country_modifier = British_claimant
+			NOT = { 300 = {is_core = GBR} }
 		}	
 		allow = {
+			NOT = { 300 = {is_core = GBR} }
 			war = no
 			great_power = yes
 		}
 		
 		effect = {
-			prestige = 200
+			prestige = 25
 			badboy = 5
 			ENG = { relation = { who = THIS value = -400 } }
 			ENG = { all_core = { add_core = GBR } }
-			GBR = { all_core = { add_core = ENG } }	
-			CAN = { all_core = { add_core = ENG add_core = GBR } }
+			GBR = { all_core = { add_core = ENG } }
 			government = absolute_monarchy
-			release = CAN
-			inherit = CAN
-			release = EIC
-			inherit = EIC
 		}
 		ai_will_do = {
 			factor = 0
@@ -94,7 +90,7 @@ political_decisions = {
 		picture = sa_decision
 		potential = {
 			tag = GBR
-            		NOT = {accepted_culture = boer}
+            NOT = {accepted_culture = boer}
 		}
 		allow = {
 			war = no
@@ -119,40 +115,30 @@ political_decisions = {
 		picture = canada_decision
 		potential = {
 			tag = GBR
-			CAN = {exists = yes}
-            CAN = {ai = yes}
+		    has_country_flag = capital_canada
+            NOT = { accepted_culture = native_american_minor }
 		}
 		allow = {
-		OR = {
-		AND = {
-		has_country_flag = capital_canada
-			OR = {
-			exists = CSA
-			controls = 211
-			}
-		}
-		AND = {
 			war = no
 			state_n_government = 1
+			OR = {
+			    exists = CSA
+			    controls = 211
+			}
 			CAN	= {
 				all_core = {
                     OR = {
-                        owned_by = THIS
-                        owner = {
-                            OR = {
-                                in_sphere = THIS
-                                vassal_of = THIS
-                            }
-                        }
 						empty = yes
-                    		}
-						}
+                        owned_by = THIS
+                        owner = { in_sphere = THIS }
+                        owner = { vassal_of = THIS }
 					}
 				}
 			}
 		}
 		effect = {
-		add_accepted_culture = native_american_minor
+			prestige = 25
+		    add_accepted_culture = native_american_minor
 			ICF	= {
 				all_core = {
 					add_core = THIS
@@ -161,10 +147,8 @@ political_decisions = {
 			CAN	= {
 				all_core = {
 					add_core = THIS
-                    secede_province = THIS
 				}
 			}
-			prestige = 100
 		}
 	}
 
@@ -172,7 +156,7 @@ political_decisions = {
 		picture = caraibes_decision
 		potential = {
 			tag = GBR
-            		NOT = {accepted_culture = afro_caribbean}
+            NOT = {accepted_culture = afro_caribbean}
 		}
 		allow = {
 			war = no
@@ -210,8 +194,8 @@ political_decisions = {
 			accepted_culture = anglo_canadian
 			accepted_culture = boer
 			accepted_culture = caribeno
-            		war = no
-            		all_core = {
+            war = no
+            all_core = {
 				OR = { 
 					empty = yes
                 	owned_by = THIS
@@ -219,7 +203,7 @@ political_decisions = {
      		}
 		}
 		effect = {
-			prestige = 1000
+			prestige = 100
 			change_tag = IMP
 			SAF = { 	
 				all_core = {
@@ -250,27 +234,12 @@ political_decisions = {
 		}
 		effect = {
 			badboy = 10
-			MUG = { 	
-				all_core = {
-					add_core = THIS 
-				}
-			}
 			HND = { 	
 				all_core = {
 					add_core = THIS 
 				}
 			}
 			BUR = { 
-				all_core = { 
-					add_core = THIS 
-				}
-			}
-			AFG = { 
-				all_core = { 
-					add_core = THIS 
-				}
-			}
-			TIB = { 
 				all_core = { 
 					add_core = THIS 
 				}
@@ -282,15 +251,15 @@ political_decisions = {
     unify_the_anglo_world = { 
 		picture = imp_fed
 		potential = {
-		OR = {
-			tag = IMP
-			AND = {
-				tag = GBR
-				has_country_flag = capital_canada
-				has_country_flag = anglo_world
-			}
-		}
-	}
+		    OR = {
+			    tag = IMP
+			    AND = {
+			    	tag = GBR
+			        has_country_flag = capital_canada
+				    NOT = { has_country_flag = anglo_world }
+			    }
+		    }
+	    }
 		allow = {
 		OR {
 			AND = {
@@ -301,7 +270,7 @@ political_decisions = {
 			AND = {
 				tag = IMP
 				mass_politics = 1
-				prestige = 1000
+				prestige = 100
 				}
 			}
 		}
@@ -334,12 +303,10 @@ political_decisions = {
 	
 	the_new_liberty_land = {
 		potential = {
-			NOT = { has_country_modifier = nau_united }
 			NOT = { 
-				OR = {
-					tag = CSA
-					tag = NAU
-				} 
+				has_country_modifier = nau_united
+				tag = CSA
+				tag = NAU
 			}
 			capital_scope = { 
 				OR = {
@@ -363,16 +330,16 @@ political_decisions = {
 	
 	integrate_the_republicains = {
 		potential = {
-		NOT = { has_global_flag = usa_can_into_csa }
-		OR = {
-			tag = IMP
-			AND = {
-				tag = GBR
-				has_country_flag = capital_canada
-				has_country_flag = anglo_world
-			}
-		}
-	}
+		    NOT = { has_global_flag = usa_can_into_csa }
+		    OR = {
+			    tag = IMP
+			    AND = {
+				    tag = GBR
+				    has_country_flag = capital_canada
+				    has_country_flag = anglo_world
+			    }
+		    }
+	    }
 		allow = {
 		NOT = { exists = USA }
 		OR {
@@ -382,9 +349,6 @@ political_decisions = {
 				}
 			AND = {
 				tag = IMP
-				all_core = {
-					owned_by = THIS
-				}
 				mass_politics = 1
 				}
 			}
