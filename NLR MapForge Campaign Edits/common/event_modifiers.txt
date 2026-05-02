@@ -1422,6 +1422,12 @@ project_napoleon = {
     assimilation_rate = 2
 }
 
+korean_identity_replacement = {
+    immigrant_attract = 2
+    immigrant_push = 1
+    assimilation_rate = 1
+}
+
 capital_supply = {
     supply_limit = 1000
     icon = 17
