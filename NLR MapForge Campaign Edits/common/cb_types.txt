@@ -1689,7 +1689,7 @@ free_peoples_tiny = {
 	months = 12
 	construction_speed = 0.5
 	
-	badboy_factor = 0.66
+	badboy_factor = 0.9
 	prestige_factor = 1
 	peace_cost_factor = 0.003
 	penalty_factor = 1
@@ -1774,7 +1774,7 @@ free_peoples_small = {
 	months = 12
 	construction_speed = 0.5
 	
-	badboy_factor = 0.66
+	badboy_factor = 0.9
 	prestige_factor = 1
 	peace_cost_factor = 0.006
 	penalty_factor = 1
@@ -1859,7 +1859,7 @@ free_peoples_medium = {
 	months = 12
 	construction_speed = 0.5
 	
-	badboy_factor = 0.66
+	badboy_factor = 0.9
 	prestige_factor = 1
 	peace_cost_factor = 0.008
 	penalty_factor = 1
@@ -1944,7 +1944,7 @@ free_peoples_large = {
 	months = 12
 	construction_speed = 0.5
 	
-	badboy_factor = 0.66
+	badboy_factor = 0.9
 	prestige_factor = 1
 	peace_cost_factor = 0.012
 	penalty_factor = 1
@@ -2029,7 +2029,7 @@ free_peoples_huge = {
 	months = 12
 	construction_speed = 0.5
 	
-	badboy_factor = 0.66
+	badboy_factor = 0.9
 	prestige_factor = 1
 	peace_cost_factor = 0.016
 	penalty_factor = 1
@@ -2116,7 +2116,7 @@ liberate_country = {
 	
 	construction_speed = 0.5
 
-	badboy_factor = 1.3
+	badboy_factor = 1.5
 	prestige_factor = 1
 	peace_cost_factor = 0.9
 	penalty_factor = 1
@@ -2213,7 +2213,7 @@ dismantle_forts = {
 	
 	construction_speed = 0.5
 
-	badboy_factor = 0.3
+	badboy_factor = 0.4
 	prestige_factor = 1
 	peace_cost_factor = 0.001
 	penalty_factor = 1
@@ -2441,7 +2441,7 @@ humiliate = {
 	
 	construction_speed = 0.5
 	
-	badboy_factor = 1.5
+	badboy_factor = 500
 	prestige_factor = 1
 	peace_cost_factor = 0.004
 	penalty_factor = 1
@@ -3423,9 +3423,9 @@ acquire_treaty_port = {
 	construction_speed = 0.5
 	crisis = no
 	
-	badboy_factor = 0.5
-	prestige_factor = 1.0
-	peace_cost_factor = 0.002
+	badboy_factor = 800
+	prestige_factor = 1
+	peace_cost_factor = 0.005
 	penalty_factor = 1
 
 	break_truce_prestige_factor = 1
