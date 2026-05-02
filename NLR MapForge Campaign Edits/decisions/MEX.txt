@@ -41,7 +41,13 @@ political_decisions = {
 	refute_manifest_destiny = {
 		picture = manifest_destiny
 		potential = {
-			tag = MEX
+		    OR = {
+			    tag = MEX
+			    AND = {
+				    primary_culture = mexican
+				    capital = 2172
+			    }
+		    }
             accepted_culture = texan
 			NOT = {
 				has_country_flag = treaty_of_guadalupe_hidalgo

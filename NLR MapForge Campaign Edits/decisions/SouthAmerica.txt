@@ -915,10 +915,7 @@ political_decisions = {
                     NOT = { has_country_flag = manifested_mexican_destiny }
                 }
             }
-			NOT = {
-                has_country_flag = destroyed_manifest_destiny
-                exists = HSA
-            }
+			NOT = { exists = HSA }
 		}
 
 		allow = {
