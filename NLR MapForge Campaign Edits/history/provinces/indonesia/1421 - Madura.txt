@@ -3,5 +3,5 @@ controller = NET
 add_core = INO
 add_core = JAV
 trade_goods = tobacco
-life_rating = 30
+life_rating = 32
 colonial = 2

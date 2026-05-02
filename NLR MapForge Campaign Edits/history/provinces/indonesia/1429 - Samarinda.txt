@@ -3,4 +3,4 @@ controller = KTI
 add_core = INO 
 add_core = KTI
 trade_goods = sulphur
-life_rating = 30
+life_rating = 32

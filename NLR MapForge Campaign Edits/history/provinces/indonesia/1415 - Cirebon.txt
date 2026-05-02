@@ -4,4 +4,4 @@ add_core = NET
 add_core = INO
 add_core = JAV
 trade_goods = coffee
-life_rating = 30
+life_rating = 32
