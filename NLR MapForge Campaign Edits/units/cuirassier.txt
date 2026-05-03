@@ -41,7 +41,7 @@ cuirassier = {
 	reconnaissance = 2
 	attack = 4.75
 	defence = 1.75
-	discipline = 1.0
+	discipline = 1.3
 	support = 0.0
 	maneuver = 4
 	

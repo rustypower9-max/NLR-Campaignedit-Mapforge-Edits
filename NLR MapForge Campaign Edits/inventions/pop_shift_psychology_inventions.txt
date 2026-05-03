@@ -4,13 +4,17 @@
 #	chance = {
 #		base = 100
 #	}
-#}
+#
 
 pop_shift_invention_2 = {
 	limit = { associationism = 1 }
 	news = no
 	chance = {
 		base = 100
+	}
+	effect = {
+		farm_rgo_size = 0.2
+	    mine_rgo_size = 0.2
 	}
 }
 
@@ -20,6 +24,10 @@ pop_shift_invention_3 = {
 	chance = {
 		base = 100
 	}
+	effect = {
+		farm_rgo_size = 0.2
+	    mine_rgo_size = 0.2
+	}
 }
 
 pop_shift_invention_4 = {
@@ -27,6 +35,10 @@ pop_shift_invention_4 = {
 	news = no
 	chance = {
 		base = 100
+	}
+	effect = {
+		farm_rgo_size = 0.2
+	    mine_rgo_size = 0.2
 	}
 }
 
@@ -36,6 +48,10 @@ pop_shift_invention_5 = {
 	chance = {
 		base = 100
 	}
+	effect = {
+		farm_rgo_size = 0.2
+	    mine_rgo_size = 0.2
+	}
 }
 
 pop_shift_invention_6 = {
@@ -43,5 +59,9 @@ pop_shift_invention_6 = {
 	news = no
 	chance = {
 		base = 100
+	}
+	effect = {
+		farm_rgo_size = 0.2
+	    mine_rgo_size = 0.2
 	}
 }
