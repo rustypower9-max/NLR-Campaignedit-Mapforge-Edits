@@ -327,7 +327,7 @@ political_decisions = {
 			tag = JAP
 			owns = 1089
 			owns = 1087
-            NOT = { set_country_flag = far_northern_colonization }
+            NOT = { has_country_flag = far_northern_colonization }
 		}
 		allow = {
 			civilized = yes
