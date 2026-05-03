@@ -320,6 +320,30 @@ political_decisions = {
 			set_country_flag = bonin_administration
 		}	
 	}
+
+	kuril_sakhalin_settlement = {
+		picture = meiji_court
+		potential = {
+			tag = JAP
+			owns = 1089
+			owns = 1087
+            NOT = { set_country_flag = far_northern_colonization }
+		}
+		allow = {
+			civilized = yes
+			owns = 1089
+			owns = 1087
+		}
+		effect = {
+			prestige = 1
+			1089 = { life_rating = 15 }
+			1088 = { life_rating = 15 }
+			1087 = { life_rating = 15 }
+			1086 = { life_rating = 15 }
+			set_country_flag = far_northern_colonization
+		}	
+	}
+
 	fukoku_kyohei = {
 		potential = {
 			tag = JAP
