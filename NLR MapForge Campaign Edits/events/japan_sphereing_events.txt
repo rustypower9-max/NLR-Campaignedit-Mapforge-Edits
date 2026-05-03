@@ -65,7 +65,7 @@ country_event = {
 country_event = {
     id = 7771111
     title = "The Question of Christian Authority"
-    desc = "With Christianity formally adopted as a guiding principle of statecraft, Japan now faces a decisive question: whether its spiritual alignment shall be anchored in the ancient authority of Rome, or in the enduring traditions of the Eastern Church. The choice will define not only doctrine, but Japan’s place within the global Christian order."
+    desc = "EVTDESC7771111"
     picture = protect_eastern_christians
 
     is_triggered_only = yes
@@ -73,12 +73,18 @@ country_event = {
     option = {
         name = "Align with the Holy See (Catholicism)"
         religion = catholic
-        relation = { who = PAP value = 100 }
+		relation = {
+			who = PAP
+			value = 100
+		}
     }
     option = {
         name = "Submit to the Orthodox Patriarchate"
         religion = orthodox
-        relation = { who = RUS value = 100 }
+		relation = {
+			who = RUS
+			value = 100
+		}
     }
 }
 
