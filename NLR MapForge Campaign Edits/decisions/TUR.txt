@@ -179,6 +179,9 @@ political_decisions = {
 			}
 			RUS_1102 = { add_core = TUR } #Russian Azerbaijan
 			RUS_1098 = { add_core = TUR } #Russian Armenia
+            PER_1112 = { add_core = TUR } #Tabriz
+            PER_1122 = { add_core = TUR } #Luristan
+            PER_1138 = { add_core = TUR } #Khuzestan
 			NEJ = {
 				all_core = {
 					add_core = TUR

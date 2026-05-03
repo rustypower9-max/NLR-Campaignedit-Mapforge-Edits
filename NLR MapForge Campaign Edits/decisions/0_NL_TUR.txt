@@ -74,4 +74,23 @@ political_decisions = {
 			set_country_flag = magrhreb_dominated
 		}
 	}
+	
+	a_turkic_heritage = {
+		picture = double_down_in_the_balkans
+		potential = {
+			tag = TUR
+			NOT = { accepted_culture = turkic }
+		}
+		allow = {
+			all_core = {
+				owned_by = THIS
+			}
+			#is_greater_power = yes
+			revolution_n_counterrevolution = 1
+		}
+		effect = {
+            add_accepted_culture = turkic
+            add_accepted_culture = tatar
+		}
+	}
 }
