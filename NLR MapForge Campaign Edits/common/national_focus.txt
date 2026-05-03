@@ -198,24 +198,24 @@ tier_2_focus =
 		}
 	}
 	
-	assimilation_bonus =
+	factory_input_bonus =
 	{
-		assimilation_rate = 2.5
-		icon = 21
+		local_factory_input = -0.1 #-0.5
+		icon = 31
 		limit = {
 			owner = { 
-				has_country_flag = tier_2
+				has_country_flag = tier_3
 			}
 		}
 	}
 	
-	ship_focus =
+	factory_output_bonus =
 	{
-		local_repair = 0.5 #1
-		icon = 22
+		local_factory_output = 0.2 #1
+		icon = 32
 		limit = {
 			owner = { 
-				has_country_flag = tier_2
+				has_country_flag = tier_3
 			}
 		}
 	}
@@ -332,24 +332,24 @@ tier_3_focus =
 		outliner_show_as_percent = yes
 	}
 	
-	factory_input_bonus =
+	assimilation_bonus =
 	{
-		local_factory_input = -0.1 #-0.5
-		icon = 31
+		assimilation_rate = 2.5
+		icon = 21
 		limit = {
 			owner = { 
-				has_country_flag = tier_3
+				has_country_flag = tier_2
 			}
 		}
 	}
 	
-	factory_output_bonus =
+	ship_focus =
 	{
-		local_factory_output = 0.2 #1
-		icon = 32
+		local_repair = 0.5 #1
+		icon = 22
 		limit = {
 			owner = { 
-				has_country_flag = tier_3
+				has_country_flag = tier_2
 			}
 		}
 	}
@@ -490,7 +490,7 @@ tier_4_focus =
 	craftsmen_assimilation_bonus =
 	{
 		craftsmen = 0.20
-		assimilation_rate = 1.5
+		assimilation_rate = 1.25
 		outliner_show_as_percent = yes
 		icon = 43
 		limit = {
@@ -503,7 +503,7 @@ tier_4_focus =
 	soldier_assimilation_bonus =
 	{
 		soldiers = 0.20
-		assimilation_rate = 1.5
+		assimilation_rate = 1.25
 		outliner_show_as_percent = yes
 		icon = 44
 		limit = {
