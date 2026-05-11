@@ -212,7 +212,7 @@ country_event = {
 	is_triggered_only = yes
 	
 	option = {
-		name = "Nevermind, I'm keeping it!"
+		name = "Nevermind, I'm keeping it to myself!"
 	}
 	option = {
 		name = "100K. A recession indicator..."
@@ -244,12 +244,10 @@ country_event = {
 	option = {
 		name = "1M. Nice"
 		any_country = {
-		any_country = {
 			limit = {
 				ai = no
 			}
 			treasury = 1000000
-		}
 		}
 	}
 	option = {
@@ -260,5 +258,333 @@ country_event = {
 			}
 			treasury = 2500000
 		}
+    }
+}
+country_event = {
+	id = 999998123
+	title = "Roster/Genocide China Menu"
+	desc = "Choose whether you want to roster China, or by how much you want to adjust the Chinese population"
+	picture = "greatpowers"
+	is_triggered_only = yes
+	
+	option = {
+		name = "Nevermind, get me out of here!"
 	}
+	option = {
+		name = "Yes, let's make China playable!"
+        CHI = {
+		    all_core = {
+		        limit = {
+		        	NOT = { owned_by = MGL }
+		        	NOT = { owned_by = TIB } 
+		        	NOT = { owned_by = MCK } 
+		        	NOT = { owned_by = XIN } 
+		        	NOT = { province_id = 1485 }
+		        	NOT = { province_id = 2562 }
+		        	NOT = { province_id = 1499 }
+		        	NOT = { province_id = 3249 }
+		        	NOT = { province_id = 1496 }
+		        	NOT = { province_id = 1498 }
+		        	NOT = { province_id = 1608 }
+		        	NOT = { province_id = 1606 }
+		        	NOT = { province_id = 1538 }
+		        	NOT = { province_id = 1566 }
+		        	NOT = { province_id = 1569 }
+		        	NOT = { province_id = 1481 }
+		        	NOT = { province_id = 1601 }
+		        	NOT = { province_id = 1602 }
+		        	NOT = { province_id = 1603 }
+		        	NOT = { province_id = 1556 }
+		        	NOT = { province_id = 1557 }
+		        	NOT = { province_id = 1558 }
+		        }
+		    	any_pop = {
+		    			reduce_pop = 0.30
+		    	}
+            }	
+		}
+		set_global_flag = rostered_china
+	}
+	option = {
+		name = "Half Off!"
+        CHI = {
+		    all_core = {
+		        limit = {
+		        	NOT = { owned_by = MGL }
+		        	NOT = { owned_by = TIB } 
+		        	NOT = { owned_by = MCK } 
+		        	NOT = { owned_by = XIN } 
+		        	NOT = { province_id = 1485 }
+		        	NOT = { province_id = 2562 }
+		        	NOT = { province_id = 1499 }
+		        	NOT = { province_id = 3249 }
+		        	NOT = { province_id = 1496 }
+		        	NOT = { province_id = 1498 }
+		        	NOT = { province_id = 1608 }
+		        	NOT = { province_id = 1606 }
+		        	NOT = { province_id = 1538 }
+		        	NOT = { province_id = 1566 }
+		        	NOT = { province_id = 1569 }
+		        	NOT = { province_id = 1481 }
+		        	NOT = { province_id = 1601 }
+		        	NOT = { province_id = 1602 }
+		        	NOT = { province_id = 1603 }
+		        	NOT = { province_id = 1556 }
+		        	NOT = { province_id = 1557 }
+		        	NOT = { province_id = 1558 }
+		        }
+		    	any_pop = {
+		    			reduce_pop = 0.50
+		    	}
+            }	
+		}
+		set_global_flag = rostered_china
+	}
+	option = {
+		name = "-40%. Same Nerf as to Yunnan"
+        CHI = {
+		    all_core = {
+		        limit = {
+		        	NOT = { owned_by = MGL }
+		        	NOT = { owned_by = TIB } 
+		        	NOT = { owned_by = MCK } 
+		        	NOT = { owned_by = XIN } 
+		        	NOT = { province_id = 1485 }
+		        	NOT = { province_id = 2562 }
+		        	NOT = { province_id = 1499 }
+		        	NOT = { province_id = 3249 }
+		        	NOT = { province_id = 1496 }
+		        	NOT = { province_id = 1498 }
+		        	NOT = { province_id = 1608 }
+		        	NOT = { province_id = 1606 }
+		        	NOT = { province_id = 1538 }
+		        	NOT = { province_id = 1566 }
+		        	NOT = { province_id = 1569 }
+		        	NOT = { province_id = 1481 }
+		        	NOT = { province_id = 1601 }
+		        	NOT = { province_id = 1602 }
+		        	NOT = { province_id = 1603 }
+		        	NOT = { province_id = 1556 }
+		        	NOT = { province_id = 1557 }
+		        	NOT = { province_id = 1558 }
+		        }
+		    	any_pop = {
+		    			reduce_pop = 0.60
+		    	}
+            }	
+		}
+		set_global_flag = rostered_china
+	}
+	option = {
+		name = "-25%. Seems a bit weak"
+        CHI = {
+		    all_core = {
+		        limit = {
+		        	NOT = { owned_by = MGL }
+		        	NOT = { owned_by = TIB } 
+		        	NOT = { owned_by = MCK } 
+		        	NOT = { owned_by = XIN } 
+		        	NOT = { province_id = 1485 }
+		        	NOT = { province_id = 2562 }
+		        	NOT = { province_id = 1499 }
+		        	NOT = { province_id = 3249 }
+		        	NOT = { province_id = 1496 }
+		        	NOT = { province_id = 1498 }
+		        	NOT = { province_id = 1608 }
+		        	NOT = { province_id = 1606 }
+		        	NOT = { province_id = 1538 }
+		        	NOT = { province_id = 1566 }
+		        	NOT = { province_id = 1569 }
+		        	NOT = { province_id = 1481 }
+		        	NOT = { province_id = 1601 }
+		        	NOT = { province_id = 1602 }
+		        	NOT = { province_id = 1603 }
+		        	NOT = { province_id = 1556 }
+		        	NOT = { province_id = 1557 }
+		        	NOT = { province_id = 1558 }
+		        }
+		    	any_pop = {
+		    			reduce_pop = 0.75
+		    	}
+            }	
+		}
+		set_global_flag = rostered_china
+	}
+	option = {
+		name = "-10%. A slap on the wrist!"
+        CHI = {
+		    all_core = {
+		        limit = {
+		        	NOT = { owned_by = MGL }
+		        	NOT = { owned_by = TIB } 
+		        	NOT = { owned_by = MCK } 
+		        	NOT = { owned_by = XIN } 
+		        	NOT = { province_id = 1485 }
+		        	NOT = { province_id = 2562 }
+		        	NOT = { province_id = 1499 }
+		        	NOT = { province_id = 3249 }
+		        	NOT = { province_id = 1496 }
+		        	NOT = { province_id = 1498 }
+		        	NOT = { province_id = 1608 }
+		        	NOT = { province_id = 1606 }
+		        	NOT = { province_id = 1538 }
+		        	NOT = { province_id = 1566 }
+		        	NOT = { province_id = 1569 }
+		        	NOT = { province_id = 1481 }
+		        	NOT = { province_id = 1601 }
+		        	NOT = { province_id = 1602 }
+		        	NOT = { province_id = 1603 }
+		        	NOT = { province_id = 1556 }
+		        	NOT = { province_id = 1557 }
+		        	NOT = { province_id = 1558 }
+		        }
+		    	any_pop = {
+		    			reduce_pop = 0.90
+		    	}
+            }	
+		}
+		set_global_flag = rostered_china
+	}
+	option = {
+		name = "You know what? Just kill them all!! - a Taiwanese Nationalist probably (-99%)"
+        CHI = {
+		    all_core = {
+		        limit = {
+		        	NOT = { owned_by = MGL }
+		        	NOT = { owned_by = TIB } 
+		        	NOT = { owned_by = MCK } 
+		        	NOT = { owned_by = XIN } 
+		        	NOT = { province_id = 1485 }
+		        	NOT = { province_id = 2562 }
+		        	NOT = { province_id = 1499 }
+		        	NOT = { province_id = 3249 }
+		        	NOT = { province_id = 1496 }
+		        	NOT = { province_id = 1498 }
+		        	NOT = { province_id = 1608 }
+		        	NOT = { province_id = 1606 }
+		        	NOT = { province_id = 1538 }
+		        	NOT = { province_id = 1566 }
+		        	NOT = { province_id = 1569 }
+		        	NOT = { province_id = 1481 }
+		        	NOT = { province_id = 1601 }
+		        	NOT = { province_id = 1602 }
+		        	NOT = { province_id = 1603 }
+		        	NOT = { province_id = 1556 }
+		        	NOT = { province_id = 1557 }
+		        	NOT = { province_id = 1558 }
+		        }
+		    	any_pop = {
+		    			reduce_pop = 0.01
+		    	}
+            }	
+		}
+		set_global_flag = rostered_china
+	}
+}
+country_event = {
+	id = 999999123
+	title = "Adjust India Menu"
+	desc = "Choose by how much you want to adjust the Indian population"
+	picture = "greatpowers"
+	is_triggered_only = yes
+	
+	option = {
+		name = "Nevermind, get me out of here!"
+	}
+	option = {
+		name = "+25%, they've been hit too hard!"
+        any_country = {
+            limit = {
+                in_culture_group = south_asian
+            }
+            any_owned = {
+                limit = {
+                    is_core = HND
+                }
+			    any_pop = {
+					reduce_pop = 1.25
+			    }
+            }
+        }
+	}
+	option = {
+		name = "+10%. Sounds nice"
+        any_country = {
+            limit = {
+                in_culture_group = south_asian
+            }
+            any_owned = {
+                limit = {
+                    is_core = HND
+                }
+			    any_pop = {
+					reduce_pop = 1.10
+			    }
+            }
+        }
+	}
+	option = {
+		name = "-10%. A slight nerf is needed"
+        any_country = {
+            limit = {
+                in_culture_group = south_asian
+            }
+            any_owned = {
+                limit = {
+                    is_core = HND
+                }
+			    any_pop = {
+					reduce_pop = 0.9
+			    }
+            }
+        }
+	}
+	option = {
+		name = "-25%, moderate Nerf"
+        any_country = {
+            limit = {
+                in_culture_group = south_asian
+            }
+            any_owned = {
+                limit = {
+                    is_core = HND
+                }
+			    any_pop = {
+					reduce_pop = 0.75
+			    }
+            }
+        }
+	}
+	option = {
+		name = "-50%. Big Nerf!"
+        any_country = {
+            limit = {
+                in_culture_group = south_asian
+            }
+            any_owned = {
+                limit = {
+                    is_core = HND
+                }
+			    any_pop = {
+					reduce_pop = 0.5
+			    }
+            }
+        }
+	}
+	option = {
+		name = "You know what? Just kill them all!! - robloxmaster probably (-99%)"
+        any_country = {
+            limit = {
+                in_culture_group = south_asian
+            }
+            any_owned = {
+                limit = {
+                    is_core = HND
+                }
+			    any_pop = {
+					reduce_pop = 0.01
+			    }
+            }
+        }
+    }
 }

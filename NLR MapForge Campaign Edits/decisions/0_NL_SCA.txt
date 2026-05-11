@@ -84,4 +84,23 @@ political_decisions = {
             prestige = 15
         }
     }
+
+	ngf_scandi = {
+		picture = troll
+			potential = {
+                OR = {
+			        tag = SCA
+			        tag = BLE
+                }
+				has_country_flag = german_expansion2
+				has_global_flag = meme_ngf_scandi
+				NOT = { has_country_flag = holy_based_scandi }
+			}
+			allow = { }
+			effect = {
+				set_country_flag = holy_based_scandi
+				badboy = 5
+				add_accepted_culture = north_german
+			}
+	}
 }

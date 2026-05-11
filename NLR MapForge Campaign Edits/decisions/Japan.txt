@@ -422,4 +422,29 @@ political_decisions = {
 				factor = 1
 			}
 	}
+
+    alaska_strait = {
+		picture = strikesouth
+		potential = {
+			tag = JAP
+			JAP = { all_core = { owned_by = THIS } }
+			NOT = { has_country_flag = amerikkka_connected }
+			has_global_flag = japanese_sakhalin
+			has_global_flag = meme_amerikkka
+		}
+
+		allow = {
+			war = no
+			revolution_n_counterrevolution = 1
+			USA_78 = { owned_by = JAP }
+			ENG_13 = { owned_by = JAP }
+			MEX_85 = { owned_by = JAP }
+			USA_81 = { owned_by = JAP }
+		}
+	
+		effect = {
+			set_country_flag = amerikkka_connected
+			enable_canal = 6
+		}
+	}
 }

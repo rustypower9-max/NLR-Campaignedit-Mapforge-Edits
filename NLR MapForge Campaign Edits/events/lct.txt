@@ -299,6 +299,12 @@ country_event = {
 			}
 			set_country_flag = LatinAmerica
 		}
+        PAN = {
+            add_country_modifier = {
+	            name = shastar_vidya
+	            duration = -1
+            }
+        }
 	}
 	option = {
 		name = "OK" 

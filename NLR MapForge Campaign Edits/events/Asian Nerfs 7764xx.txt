@@ -29,6 +29,30 @@
 					reduce_pop = 0.60
 			}
 		}
+        any_country = {
+            limit = {
+                in_culture_group = south_asian
+            }
+            any_owned = {
+                limit = {
+                    is_core = HND
+		        	NOT = { owned_by = SIN }
+		        	NOT = { owned_by = SRI }
+		        	NOT = { province_id = 1315 }
+		        	NOT = { province_id = 1296 }
+		        	NOT = { province_id = 1293 }
+		        	NOT = { province_id = 1265 }
+		        	NOT = { province_id = 1264 }
+		        	NOT = { province_id = 1260 }
+		        	NOT = { province_id = 1259 }
+		        	NOT = { province_id = 1258 }
+		        	NOT = { province_id = 2566 }
+                }
+			    any_pop = {
+					reduce_pop = 0.50
+			    }
+            }
+        }
 	}
 }
 

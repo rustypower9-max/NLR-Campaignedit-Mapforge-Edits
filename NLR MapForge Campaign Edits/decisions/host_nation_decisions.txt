@@ -59,6 +59,42 @@ political_decisions = {
 			factor = 0
 		}
 	}
+	show_meme_decisions = {
+		picture = troll
+		potential = {
+			NOT = { has_country_flag = showing_meme_decisions }
+			has_country_flag = host_nation
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			set_country_flag = showing_meme_decisions
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	hide_meme_decisions = {
+		picture = troll
+		potential = {
+			has_country_flag = showing_meme_decisions
+			has_country_flag = host_nation
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			clr_country_flag = showing_meme_decisions
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
 	ally_all_countries = {
 		picture = ally_yes
 		potential = {
@@ -342,11 +378,12 @@ political_decisions = {
 			factor = 0
 		}
 	}
-	swap_country = {
-		picture = hostswap
+	meme_decision_alaska = {
+		picture = strikesouth_small
 		potential = {
-			has_country_flag = showing_host_decisions
+			has_country_flag = showing_meme_decisions
 			has_country_flag = host_nation
+			NOT = { has_global_flag = meme_amerikkka }
 		}
 	
 		allow = {
@@ -354,23 +391,18 @@ political_decisions = {
 		}
 		
 		effect = {
-			random_country = {
-				limit = {
-					NOT = { military_access = THIS }
-				}
-				country_event = 1000002123
+				set_global_flag = meme_amerikkka
 			}
-		}
 		ai_will_do = {
 			factor = 0
 		}
 	}
-	swap_country_host_flag_yes = {
-		picture = host_flag_tagswap_yes
+	meme_decision_japan = {
+		picture = troll
 		potential = {
-			has_country_flag = showing_host_decisions
+			has_country_flag = showing_meme_decisions
 			has_country_flag = host_nation
-			NOT = { has_global_flag = host_flag_tagmove }
+			NOT = { has_global_flag = killed_japan }
 		}
 	
 		allow = {
@@ -378,62 +410,18 @@ political_decisions = {
 		}
 		
 		effect = {
-			set_global_flag = host_flag_tagmove
-		}
-		ai_will_do = {
-			factor = 0
-		}
-	}
-	swap_country_host_flag_no = {
-		picture = host_flag_tagswap_no
-		potential = {
-			has_country_flag = showing_host_decisions
-			has_country_flag = host_nation
-			has_global_flag = host_flag_tagmove
-		}
-	
-		allow = {
-			
-		}
-		
-		effect = {
-			clr_global_flag = host_flag_tagmove
-		}
-		ai_will_do = {
-			factor = 0
-		}
-	}
-	select_country_to_swap = {
-		picture = select_swap
-		potential = {
-			has_country_flag = showing_host_decisions
-			has_country_flag = host_nation
-			NOT = { has_global_flag = has_chosen_swap }
-		}
-	
-		allow = {
-			
-		}
-		
-		effect = {
-			random_country = {
-				limit = {
-					NOT = { military_access = THIS }
-				}
-				set_country_flag = picked_to_swap
-				set_global_flag = has_chosen_swap
+				set_global_flag = killed_japan
 			}
-		}
 		ai_will_do = {
 			factor = 0
 		}
 	}
-	select_country_to_swap_to = {
-		picture = select_swap_to
+	meme_decision_ngf_scandi = {
+		picture = north_germany_decision
 		potential = {
-			has_country_flag = showing_host_decisions
+			has_country_flag = showing_meme_decisions
 			has_country_flag = host_nation
-			has_global_flag = has_chosen_swap
+			NOT = { has_global_flag = meme_ngf_scandi }
 		}
 	
 		allow = {
@@ -441,24 +429,18 @@ political_decisions = {
 		}
 		
 		effect = {
-			random_country = {
-				limit = {
-					NOT = { has_country_flag = picked_to_swap }
-					NOT = { military_access = THIS }
-				}
-				country_event = 1000006123
+				set_global_flag = meme_ngf_scandi
 			}
-		}
 		ai_will_do = {
 			factor = 0
 		}
 	}
-	reset_swap_selection = {
-		picture = cancel_swap
+	meme_decision_exile_spain = {
+		picture = troll
 		potential = {
-			has_country_flag = showing_host_decisions
+			has_country_flag = showing_meme_decisions
 			has_country_flag = host_nation
-			has_global_flag = has_chosen_swap
+			NOT = { has_global_flag = killed_exspain }
 		}
 	
 		allow = {
@@ -466,13 +448,83 @@ political_decisions = {
 		}
 		
 		effect = {
-			any_country = {
-				limit = {
-					has_country_flag = picked_to_swap
-				}
-				clr_country_flag = picked_to_swap
-				clr_global_flag = has_chosen_swap
+				set_global_flag = killed_exspain
 			}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	meme_decision_exile_netherlands = {
+		picture = troll
+		potential = {
+			has_country_flag = showing_meme_decisions
+			has_country_flag = host_nation
+			NOT = { has_global_flag = killed_exdutch }
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+				set_global_flag = killed_exdutch
+			}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	pop_decision_china = {
+		picture = claim_the_mandate
+		potential = {
+			has_country_flag = showing_meme_decisions
+			has_country_flag = host_nation
+			NOT = { has_global_flag = rostered_china }
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			country_event = 999998123
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	pop_decision_india = {
+		picture = map_india
+		potential = {
+			has_country_flag = showing_meme_decisions
+			has_country_flag = host_nation
+			NOT = { has_global_flag = adjusted_india }
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			country_event = 999999123
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	pop_decision_india_done = {
+		picture = map_india
+		potential = {
+			has_country_flag = showing_meme_decisions
+			has_country_flag = host_nation
+			NOT = { has_global_flag = adjusted_india }
+		}
+	
+		allow = {
+			
+		}
+		
+		effect = {
+			set_global_flag = adjusted_india
 		}
 		ai_will_do = {
 			factor = 0
