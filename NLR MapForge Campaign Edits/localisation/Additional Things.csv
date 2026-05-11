@@ -23,7 +23,7 @@ rgo_change_agriculture_desc;Allows the switching of a single RGO province of the
 ottoman_canals_title;Build Bosphorus and Dardanelles Canals;;;;Construir los canales del Bósforo y de los Dardanelos;;;x
 ottoman_canals_desc;This is a necessary event to have both of these canals become functional.;;;;Este es un evento necesario para que ambos canales sean funcionales.;;;x
 776405;Chinese Pop Nerf;;;;Pop Nerf chino;;;x
-EVTDESC776405;China gets nerfs to their large population to help with balance & late-game lag.;;;;China recibe nerfs a su gran población para ayudar con el equilibrio y el lag del juego tardío.;;;x
+EVTDESC776405;Asia gets nerfs to their large population to help with balance & late-game lag.;;;;Asia recibe nerfs a su gran población para ayudar con el equilibrio y el lag del juego tardío.;;;x
 EVTOPTA776405;Damn the acts of attempting to balance Asia.;;;;Malditos sean los actos de intentar equilibrar Asia.;;;x
 EVTNAME199936;Mining RGO Change;;;;Cambio de TOR en la minería;;;x
 EVTDESC199936;Choose to change a province to the following RGO types, cool down is 25 years for changing, 1 year for not choosing one.;;;;Elija cambiar una provincia a los siguientes tipos de TOR, puede hacerlo de nuevo después de 25 años si cambia, después de 1 año si no lo hace;;;x

@@ -1,8 +1,8 @@
 ;;;;Spanish Loc;;;x
-ROM;Roman Dacia;;;;Romanian Dacia;;;x
-ROM_ADJ;Dacian;;;;Spanish Loc;;;x
-ROM_democracy;Dacian Republic;;;;Spanish Loc;;;x
-ROM_monarchy;Roman Romania;;;;Spanish Loc;;;x
+ROM;Romania;;;;Romanian;;;x
+ROM_ADJ;Romanian;;;;Spanish Loc;;;x
+ROM_democracy;Romanian Republic;;;;Spanish Loc;;;x
+ROM_monarchy;Imperium Romanium;;;;Spanish Loc;;;x
 ROM_fascist_dictatorship;True Rome;;;;Spanish Loc;;;x
 ROM_fascist_dictatorship_ADJ;Roman;;;;Spanish Loc;;;x
 ROM_reactionary;Partidul National Roman;;;;Partidul National Roman;;;x
@@ -354,10 +354,11 @@ CSA;The Confederate States of America;;;;Spanish Loc;;;x
 CSA_bourgeois_dictatorship;The Confederate States of America;;;;Spanish Loc;;;x
 CSA_fascist_dictatorship;The Confederacy;;;;Spanish Loc;;;x
 CSA_proletarian_dictatorship;The People's Confederacy;;;;Spanish Loc;;;x
-ITA;The Roman Empire;;;;Spanish Loc;;;x
-ITA_ADJ;Roman;;;;Spanish Loc;;;x
-ITA_democracy;The Second Roman Republic;;;;Spanish Loc;;;x
+ITA;Italy;;;;Spanish Loc;;;x
+ITA_ADJ;Italian;;;;Spanish Loc;;;x
+ITA_democracy;The Italian Republic;;;;Spanish Loc;;;x
 ITA_absolute_monarchy;Imperium Romanum;;;;Spanish Loc;;;x
+ITA_fascist_dictatorship;True Rome;;;;Spanish Loc;;;x
 ITA_bourgeois_dictatorship_ADJ;Italian;;;;Spanish Loc;;;x
 ITA_proletarian_dictatorship;The People's Republic of Italy;;;;Spanish Loc;;;x
 ITA_proletarian_dictatorship_ADJ;Italian;;;;Spanish Loc;;;x
