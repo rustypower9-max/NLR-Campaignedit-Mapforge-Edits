@@ -6,6 +6,7 @@ political_decisions = {
 				tag = BLE
 				tag = SCA
 			}
+            NOT = {accepted_culture = Scotish}
 			NOT = {has_country_flag = german_expansion1}
 		}
 		allow = {
@@ -207,6 +208,7 @@ political_decisions = {
 				tag = BLE
 				tag = SCA
 			}
+            NOT = {accepted_culture = Scotish}
 			any_sphere_member = {
                 OR = {
                     primary_culture = north_german

@@ -81,26 +81,32 @@ political_decisions = {
 			}
 			NOT = { has_country_flag = louisianan_conquest }
 			NOT = { has_global_flag = victory_in_indian_land }
-			NOT = { year = 1845 }
+			NOT = { year = 1855 }
 		}
 		allow = {
-			NOT = { year = 1845 } #redundancy to show the player that this is the case 
-			controls = 139
-			controls = 150
-			controls = 149
-			controls = 169
-			controls = 173
-			controls = 170
-			controls = 163
+			NOT = { year = 1855 } #redundancy to show the player that this is the case 
+			owns = 150
+			owns = 149
+			owns = 143
+			owns = 169
+			owns = 173
+			owns = 170
+			owns = 163
 		}
 		effect = {
+			prestige = 15
 			ICF = {
 				all_core = {
 					#secede_province = USA 
-					add_core = USA 
+					add_core = THIS
 				}
 			}
-			prestige = 15
+			CHE = {
+				all_core = {
+					#secede_province = USA 
+					add_core = THIS
+				}
+			}
 			set_global_flag = victory_in_indian_land
 		}
 	}

@@ -203,6 +203,66 @@ political_decisions = {
 			add_accepted_culture = rhenisch
 		}
 	}
+	
+	secure_colonial_hold = {
+		picture = java_map
+		potential = {
+			OR = {
+				tag = NET
+				tag = BRG
+			}
+			NOT = { accepted_culture = javan }
+		}
+		allow = {
+			war = no
+			JAV	= {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+			state_n_government = 1
+		}
+		effect = {
+			JAV	= {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			add_accepted_culture = javan
+			prestige = 10
+		}
+	}
+	
+	expand_colonial_claim = {
+		picture = map_east_indies
+		potential = {
+			OR = {
+				tag = NET
+				tag = BRG
+			}
+			NOT = { accepted_culture = bali }
+		}
+		allow = {
+			war = no
+            NET_1399 = { owned_by = THIS }
+			BAL	= {
+				all_core = {
+					owned_by = THIS
+				}
+			}
+            nationalism_n_imperialism = 1
+		}
+		effect = {
+            NET_1399 = { add_core = THIS }
+			BAL	= {
+				all_core = {
+					add_core = THIS
+				}
+			}
+			add_accepted_culture = bali
+			prestige = 10
+		}
+	}
 		
 	reclaim_afrikaaner_land = {
 		picture = sa_decision
@@ -229,43 +289,7 @@ political_decisions = {
 				}
 			}
 			set_country_flag = net_sa
-			prestige = 100
-		}
-	}
-	
-	reclaim_batavian_colonies = {
-		picture = sa_decision
-		potential = {
-			OR = {
-				tag = NET
-				tag = BRG
-			}
-			NOT = { accepted_culture = javan }
-			NOT = { accepted_culture = bali }
-		}
-		allow = {
-			war = no
-			JAV	= {
-				all_core = {
-					owned_by = THIS
-				}
-			}
-			BAL	= {
-				all_core = {
-					owned_by = THIS
-				}
-			}
-			nationalism_n_imperialism = 1
-		}
-		effect = {
-			INO	= {
-				all_core = {
-					add_core = THIS
-				}
-			}
-			add_accepted_culture = javan
-			add_accepted_culture = bali
-			prestige = 100
+			prestige = 10
 		}
 	}
 }

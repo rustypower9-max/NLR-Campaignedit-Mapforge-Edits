@@ -8,14 +8,14 @@ political_decisions = {
 		allow = {
 			war=no
 			state_n_government=1
-			NET = {exists = yes}
-			NET = {
+			BTV = {exists = yes}
+			BTV = {
 				vassal_of = THIS
 				in_sphere = THIS
 			}
 		}
 		effect = {
-			NET = {annex_to = THIS}
+			BTV = {annex_to = THIS}
 			set_country_flag = reintegrate_the_netherlands
 			SAR_720 = {add_core = FRA}
 			any_pop = {
@@ -123,7 +123,7 @@ political_decisions = {
 		}
 		effect = {
 			add_accepted_culture = dutch
-			NET = {
+			BTV = {
 				all_core = {
 					add_core = THIS
 				}
