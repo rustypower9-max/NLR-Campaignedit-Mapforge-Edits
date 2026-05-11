@@ -43,3 +43,11 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
 
+foreign_training = yes_foreign_training
+set_country_flag = foreign_tactics_flag
+
+foreign_weapons = yes_foreign_weapons
+set_country_flag = foreign_weapons_flag
+
+post_napoleonic_thought = 1
+flintlock_rifles = 1

@@ -20,6 +20,12 @@ army = {
 	}
 
 	regiment = {
+		name= "4rd Baroda"
+		type = irregular
+		home = 1295
+	}
+
+	regiment = {
 		name= "1st Patan"
 		type = irregular
 		home = 1294
@@ -32,9 +38,9 @@ army = {
 	}
 
 	regiment = {
-		name= "1st Rajkot"
+		name= "1st Ahmedabad"
 		type = irregular
-		home = 1292
+		home = 1291
 	}
 
 }

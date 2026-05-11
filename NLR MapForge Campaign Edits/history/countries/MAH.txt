@@ -8,7 +8,7 @@ religion = hindu
 government = prussian_constitutionalism
 plurality = 10
 nationalvalue = nv_liberty
-literacy = 0.25
+literacy = 0.2
 prestige = 15
 schools = army_tech_school
 oob = "MAH.txt"
@@ -43,13 +43,23 @@ health_care = trinket_health_care
 school_reforms = low_schools
 
 land_reform = yes_land_reform
+set_country_flag = landr_flag
+
+foreign_training = yes_foreign_training
+set_country_flag = foreign_tactics_flag
+
 foreign_weapons = yes_foreign_weapons
+set_country_flag = foreign_weapons_flag
+
 finance_reform = yes_finance_reform
+set_country_flag = fref_flag
+
+industrial_construction = yes_western_science
+set_country_flag = indc_flag
 
 #========================= T E C H N O L O G I E S =========================
 post_napoleonic_thought = 1
 flintlock_rifles = 1
-army_command_principle = 1
 private_banks = 1
 late_enlightenment_philosophy = 1
 water_wheel_power = 1

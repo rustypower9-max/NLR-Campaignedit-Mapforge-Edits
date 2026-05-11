@@ -12,20 +12,44 @@ army = {
 	location = 133
 	regiment = {
 		name= "Travis' Command"
-		type = cavalry
+		type = hussar
 		home = 133
 	}
 
 	regiment = {
 		name= "Fannin's Command"
-		type = guard
+		type = infantry
 		home = 132
+	}
+
+	regiment = {
+		name= "Fannin's 2nd Command"
+		type = infantry
+		home = 134
+	}
+
+	regiment = {
+		name= "Fannin's 3rd Command"
+		type = infantry
+		home = 135
 	}
 	
 	regiment = {
 		name = "Burleson's Command"
 		type = artillery
 		home = 137
+	}
+	
+	regiment = {
+		name = "Burleson's 2nd Command"
+		type = artillery
+		home = 134
+	}
+	
+	regiment = {
+		name = "Burleson's 3rd Command"
+		type = artillery
+		home = 136
 	}
 	
 }

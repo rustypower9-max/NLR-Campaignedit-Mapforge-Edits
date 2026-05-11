@@ -1,6 +1,5 @@
-owner = MAH
-controller = MAH
-add_core = MAH
+owner = IND
+controller = IND
 add_core = IND
 add_core = HND
 add_core = MUG

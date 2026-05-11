@@ -4,7 +4,7 @@ religion = sikh
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_order
-literacy = 0.02
+literacy = 0.1
 
 ruling_party = PAN_conservative
 upper_house = {
@@ -26,14 +26,6 @@ oob = "PAN_oob.txt"
 	oob = "/1861/PAN_oob.txt"
 }
 
-foreign_training = yes_foreign_training
-set_country_flag = foreign_tactics_flag
-
-foreign_weapons = yes_foreign_weapons
-set_country_flag = foreign_weapons_flag
-
-flintlock_rifles = 1
-
 slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
@@ -50,3 +42,49 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions 
 school_reforms = no_schools
+
+foreign_training = yes_foreign_training
+set_country_flag = foreign_tactics_flag
+
+foreign_weapons = yes_foreign_weapons
+set_country_flag = foreign_weapons_flag
+
+military_constructions = yes_military_constructions
+set_country_flag = mil_con_flag
+
+foreign_officers = yes_foreign_officers
+set_country_flag = fo_flag
+
+army_schools = yes_army_schools
+set_country_flag = at_flag
+
+land_reform = yes_land_reform
+set_country_flag = landr_flag
+
+finance_reform = yes_finance_reform
+set_country_flag = fref_flag
+
+admin_reform = yes_admin_reform
+set_country_flag = adm_flag
+
+education_reform = yes_education_reform
+set_country_flag = edu_flag
+
+western_science = yes_western_science
+set_country_flag = indc_flag
+
+industrial_construction = yes_western_science
+set_country_flag = indc_flag
+
+post_napoleonic_thought = 1
+flintlock_rifles = 1
+bronze_muzzle_loaded_artillery = 1
+military_staff_system = 1
+army_command_principle = 1
+private_banks = 1
+no_standard = 1
+late_enlightenment_philosophy = 1
+malthusian_thought = 1
+mechanized_mining = 1
+water_wheel_power = 1
+basic_chemistry = 1

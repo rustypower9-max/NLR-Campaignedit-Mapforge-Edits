@@ -3,5 +3,5 @@ controller = JAS
 add_core = JAS
 add_core = HND
 add_core = MUG
-trade_goods = wool
+trade_goods = sulphur
 life_rating = 32

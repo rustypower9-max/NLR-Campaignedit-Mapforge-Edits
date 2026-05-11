@@ -568,6 +568,11 @@ navy = {
 	name = "Main Fleet"
 	location = 303
 	ship = {
+		name= "HMS Unsinkable"
+		type = manowar
+	}
+
+	ship = {
 		name= "HMS Armada"
 		type = manowar
 	}
@@ -608,6 +613,11 @@ navy = {
 
 	ship = {
 		name= "HMS Impregnable"
+		type = manowar
+	}
+
+	ship = {
+		name= "HMS Immortal"
 		type = manowar
 	}
 
@@ -677,7 +687,17 @@ navy = {
 	}
 
 	ship = {
+		name= "HMS Sylphie"
+		type = frigate
+	}
+
+	ship = {
 		name= "HMS Tenedos"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Oxford"
 		type = frigate
 	}
 
@@ -826,6 +846,11 @@ navy = {
 	}
 
 	ship = {
+		name= "HMS Hastings II"
+		type = manowar
+	}
+
+	ship = {
 		name= "HMS Hawke"
 		type = manowar
 	}
@@ -936,12 +961,27 @@ navy = {
 	}
 
 	ship = {
+		name= "HMS Hull"
+		type = frigate
+	}
+
+	ship = {
 		name= "HMS Gloucester"
 		type = frigate
 	}
 
 	ship = {
+		name= "HMS Pique II"
+		type = frigate
+	}
+
+	ship = {
 		name= "HMS Pique"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Poseidon"
 		type = frigate
 	}
 
@@ -956,7 +996,17 @@ navy = {
 	}
 
 	ship = {
+		name= "HMS Victoria"
+		type = frigate
+	}
+
+	ship = {
 		name= "HMS Thalia"
+		type = frigate
+	}
+
+	ship = {
+		name= "HMS Vernon II"
 		type = frigate
 	}
 
@@ -971,13 +1021,18 @@ navy = {
 	}
 
 	ship = {
+		name= "HMS Vindictive II"
+		type = frigate
+	}
+
+	ship = {
 		name= "HMS Medea"
-		type = commerce_raider
+		type = frigate
 	}
 
 	ship = {
 		name= "HMS Phoenix"
-		type = commerce_raider
+		type = frigate
 	}
 
 }

@@ -70,6 +70,11 @@ LOM = {
 	level = 5
 	influence_value = 25
 }
+PAN = { 
+	value = 125
+	level = 5
+	influence_value = 15
+}
 ENG = {
 	value = 0
 }

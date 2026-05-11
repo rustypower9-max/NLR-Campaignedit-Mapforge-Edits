@@ -49,7 +49,7 @@ army = {
 
 army = {
 	name = "Army of Aurangabad"
-	location = 1284
+	location = 1285
 	regiment = {
 		name= "10. Hyderabadi Legion"
 		type = infantry

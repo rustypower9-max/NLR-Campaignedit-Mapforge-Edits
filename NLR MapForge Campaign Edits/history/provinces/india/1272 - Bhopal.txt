@@ -1,8 +1,7 @@
-owner = MAH
-controller = MAH
-add_core = MAH
+owner = BHO
+controller = BHO
 add_core = BHO
 add_core = HND
 add_core = MUG
-trade_goods = dye
+trade_goods = wool
 life_rating = 32

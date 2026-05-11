@@ -62,29 +62,24 @@ army = {
 }
 
 army = {
-	name = "The 2nd Army of His Imperial Majesty"
+	name = "The Volunteer Army"
 	location = 1241
-	regiment = {
-		name= "1st Pampat Infantry"
-		type = infantry
-		home = 1237
-	}
 
 	regiment = {
-		name= "1st Dehra Dun Infantry "
-		type = infantry
+		name= "1st Dehra Dun Militia"
+		type = irregular
 		home = 1238
 	}
 
 	regiment = {
-		name= "1st Meerut Infantry"
-		type = infantry
+		name= "1st Meerut Militia"
+		type = irregular
 		home = 1239
 	}
 	
 	regiment = {
-		name= "2nd Meerut Infantry"
-		type = infantry
+		name= "2nd Meerut Militia"
+		type = irregular
 		home = 1239
 	}
 	

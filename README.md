@@ -8,7 +8,7 @@ A FORK of the NLR Campaign edits done by Skars and Companionnoob. General change
 
 - Removed Autocracy NV, buffed other NV effects: NV Education +30% -> +40% Education Efficiency, NV Liberty +30% -> +50% migrant attraction, NV Diplomacy gets -0.05 Infamy reduction (s. above)
 
-- LR bump in Indochina , Chinese treaty ports \& periphery (Standard 35)
+- LR bump in Indochina , Chinese treaty ports \& periphery to Standard 35
 
 - LR bump in Indonesia to 32 (Mainland China / India Level)
 
@@ -42,19 +42,21 @@ Nation-specific changes include:
 
 - Denmark-Norway vs Sweden: Reduced Swedish starting population (Falun 550K \-\> 250K), increased Danish core population (200K, spread over Denmark + Norway). Corstedt teleported Danish Indian garisson back to Europe
 
-- Decolonized Indonesia + New Guinea, annexed Canada into the Commonwealth to compensate for the losses
-
 - Buffed Persia: Kurdish and Mashriqi accepted on "Restore Persian Empire" decision, moved mosul cores from PUIR decision to "Restore persian Empire" as well. Additional expansion decision to get Punjabi accepted (1870)
 
 - EIC Changes: Consolidated EIC into Bengal\&Bihar, released the rest. More starting Units. Split Bengali accepted off of EIC India formation decision into their own decision. Gave EIC optional decision (late game) to accept more Indians in return for losing English/Scottish accepted
 
-- Adjusted Maratha: Less starting Land and Units, some starting cores (revanchism), Mughal style expansion into the south (decision to get S. India cores, then second decision to get S. Indian accepteds once conquering those cores)
+- Adjusted Maratha: Less starting Land and Units, starting vassal swarm (can be annexed later), Mughal style expansion into the south (decision to get S. India cores, then second decision to get S. Indian accepteds once conquering those cores)
 
 - Adjusted Hyderabad: Gave it some starting reforms \+ decision to get Marathi accepted
 
-- USA: No CSA path to make Commonwealth war unavoidable
+- America: Shot ridiculous soldier\% in the native lands
 
-- TBD: Commonwealth: Simplified capital movement: Starts in Sydney, can be moved to Ontario (US connected Ports) after conquering enough (New York)
+- USA: No CSA path to make Commonwealth war unavoidable, +20 Starting brigades to have parity with GBR+MEX
+
+- Commonwealth: Adjusted starting event to account for only 1 option: The Grandplank. Reduced cores from starting event (get them when moving Capital); Capital starts in Sydney, can be moved to Ontario after conquering New York (US connected Ports)
+
+- Commonwealth/Exiles: Decolonized Indonesia + New Guinea (for Exiles), annexed Canada into Commonwealth to compensate for the losses
 
 - Japan: Ported DOD decision to core Korea. Gave extra expansion/assimilation decisions (Core Taiwan, Core Tainan, relinquish Chinese cores on Taiwan, force-change Korean Primary culture)
 

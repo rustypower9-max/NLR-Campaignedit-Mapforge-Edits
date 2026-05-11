@@ -117,10 +117,40 @@ vassal = {
 	end_date = 1900.7.26
 }
 	
-# Maratha Confederacy - Kutch
+# Maratha Confederacy - Vassals: Beroda, Indore, Bhopal, Gwalior, Kutch, Mew
+vassal = {
+	first = MAH
+	second = BER
+	start_date = 1836.1.1
+	end_date = 1900.7.26
+}
+vassal = {
+	first = MAH
+	second = IND
+	start_date = 1836.1.1
+	end_date = 1900.7.26
+}
+vassal = {
+	first = MAH
+	second = BHO
+	start_date = 1836.1.1
+	end_date = 1900.7.26
+}
+vassal = {
+	first = MAH
+	second = GWA
+	start_date = 1836.1.1
+	end_date = 1900.7.26
+}
 vassal = {
 	first = MAH
 	second = KUT
+	start_date = 1836.1.1
+	end_date = 1900.7.26
+}
+vassal = {
+	first = MAH
+	second = MEW
 	start_date = 1836.1.1
 	end_date = 1900.7.26
 }

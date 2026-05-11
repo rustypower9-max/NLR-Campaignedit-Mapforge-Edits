@@ -1864,13 +1864,13 @@
     soldiers = {
     	culture = native_american_minor
     	religion = animist
-    	size = 25000
+    	size = 13000
     }
 
     farmers = {
     	culture = native_american_minor
     	religion = animist
-    	size = 18000
+    	size = 30000
     }
 }
 #Minot (80000/20000 POPS)
@@ -1896,13 +1896,13 @@
     soldiers = {
     	culture = native_american_minor
     	religion = animist
-    	size = 43000
+    	size = 18000
     }
 
     farmers = {
     	culture = native_american_minor
     	religion = animist
-    	size = 18000
+    	size = 43000
     }
 }
 #Dickinson (8000/2000 POPS)
@@ -2791,13 +2791,13 @@
     soldiers = {
     	culture = texan
     	religion = animist
-    	size = 25
+    	size = 1525
     }
 
     farmers = {
     	culture = texan
     	religion = animist
-    	size = 30000
+    	size = 28500
     }
 }
 #El Paso (9000/2250 POPS)
@@ -2851,15 +2851,15 @@
     }
 
     soldiers = {
-    	culture = mexican
+    	culture = texan
     	religion = catholic
-    	size = 5
+    	size = 1205
     }
 
     farmers = {
     	culture = mexican
     	religion = catholic
-    	size = 22500
+    	size = 21300
     }
 }
 #Louisiana Region (280000)
@@ -2887,7 +2887,7 @@
     soldiers = {
     	culture = dixie
     	religion = protestant
-    	size = 40000
+    	size = 14000
     }
 
     farmers = {
@@ -2955,7 +2955,7 @@
     soldiers = {
     	culture = dixie
     	religion = protestant
-    	size = 20000
+    	size = 5000
     }
 
     farmers = {
@@ -2993,7 +2993,7 @@
     soldiers = {
     	culture = dixie
     	religion = protestant
-    	size = 10000
+    	size = 5000
     }
 
     farmers = {
@@ -3143,7 +3143,7 @@
     soldiers = {
     	culture = cherokee
     	religion = animist
-    	size = 75
+    	size = 2075
     }
 
     farmers = {
@@ -3391,7 +3391,7 @@
     soldiers = {
     	culture = native_american_minor
     	religion = protestant
-    	size = 150
+    	size = 3150
     }
 
     farmers = {
@@ -3841,13 +3841,13 @@
     soldiers = {
     	culture = native_american_minor
     	religion = protestant
-    	size = 17513
+    	size = 7513
     }
 
     farmers = {
     	culture = native_american_minor
     	religion = protestant
-    	size = 7222
+    	size = 17222
     }
 }
 #Rockford (44000/11000 POPS)
@@ -3867,13 +3867,13 @@
     soldiers = {
     	culture = native_american_minor
     	religion = protestant
-    	size = 16945
+    	size = 4945
     }
 
     farmers = {
     	culture = native_american_minor
     	religion = protestant
-    	size = 9225
+    	size = 21225
     }
 }
 #Champaign (36000/9000 POPS)
@@ -3893,13 +3893,13 @@
     soldiers = {
     	culture = native_american_minor
     	religion = protestant
-    	size = 27900
+    	size = 14900
     }
 
     farmers = {
     	culture = native_american_minor
     	religion = protestant
-    	size = 7560
+    	size = 20560
     }
 }
 #Peoria (100000/25000 POPS)
@@ -3919,13 +3919,13 @@
     soldiers = {
     	culture = native_american_minor
     	religion = protestant
-    	size = 9835
+    	size = 4835
     }
 
     farmers = {
     	culture = native_american_minor
     	religion = protestant
-    	size = 8101
+    	size = 13101
     }
 }
 #Springfield (36000/9000 POPS)
@@ -3957,13 +3957,13 @@
     soldiers = {
     	culture = native_american_minor
     	religion = protestant
-    	size = 25608
+    	size = 5608
     }
 
     farmers = {
     	culture = native_american_minor
     	religion = protestant
-    	size = 7267
+    	size = 27267
     }
 }
 #Carbondale (68000/17000 POPS)
@@ -3983,13 +3983,13 @@
     soldiers = {
     	culture = native_american_minor
     	religion = protestant
-    	size = 27993
+    	size = 7993
     }
 
     farmers = {
     	culture = native_american_minor
     	religion = protestant
-    	size = 13432
+    	size = 33432
     }
 
     clergymen = {
@@ -4007,13 +4007,13 @@
     farmers = {
     	culture = afro_american
     	religion = protestant
-    	size = 7870
+    	size = 12870
     }
 
     soldiers = {
     	culture = afro_american
     	religion = protestant
-    	size = 11900
+    	size = 6900
     }
 }
 #Indiana Region (644000)
@@ -4088,16 +4088,10 @@
     	size = 2070
     }
 
-    soldiers = {
-    	culture = native_american_minor
-    	religion = protestant
-    	size = 4050
-    }
-
     farmers = {
     	culture = native_american_minor
     	religion = protestant
-    	size = 8632
+    	size = 12682
     }
 
     clergymen = {
@@ -4165,13 +4159,13 @@
     soldiers = {
     	culture = native_american_minor
     	religion = protestant
-    	size = 15948
+    	size = 5948
     }
 
     farmers = {
     	culture = native_american_minor
     	religion = protestant
-    	size = 9024
+    	size = 19024
     }
 }
 #Fort Wayne (128000/32000 POPS)
@@ -4191,13 +4185,13 @@
     soldiers = {
     	culture = native_american_minor
     	religion = protestant
-    	size = 13105
+    	size = 5105
     }
 
     farmers = {
     	culture = native_american_minor
     	religion = protestant
-    	size = 26860
+    	size = 34860
     }
 }
 #Michigan Region (148000)
@@ -4877,7 +4871,7 @@
     soldiers = {
     	culture = dixie
     	religion = protestant
-    	size = 350
+    	size = 5350
     }
 
     farmers = {
@@ -5401,7 +5395,7 @@
     soldiers = {
     	culture = dixie
     	religion = protestant
-    	size = 200
+    	size = 2200
     }
 
     farmers = {
@@ -5519,7 +5513,7 @@
     soldiers = {
     	culture = dixie
     	religion = protestant
-    	size = 400
+    	size = 2400
     }
 
     farmers = {
@@ -5575,7 +5569,7 @@
     soldiers = {
     	culture = dixie
     	religion = protestant
-    	size = 250
+    	size = 2250
     }
 
     farmers = {
@@ -5631,7 +5625,7 @@
     soldiers = {
     	culture = dixie
     	religion = protestant
-    	size = 200
+    	size = 2200
     }
 
     farmers = {
@@ -5701,7 +5695,7 @@
     soldiers = {
     	culture = dixie
     	religion = protestant
-    	size = 2025
+    	size = 5025
     }
 
     farmers = {
@@ -5757,7 +5751,7 @@
     soldiers = {
     	culture = dixie
     	religion = protestant
-    	size = 425
+    	size = 2925
     }
 
     farmers = {
@@ -5813,7 +5807,7 @@
     soldiers = {
     	culture = dixie
     	religion = protestant
-    	size = 350
+    	size = 2350
     }
 
     farmers = {
@@ -5939,7 +5933,7 @@
     soldiers = {
     	culture = dixie
     	religion = protestant
-    	size = 125
+    	size = 2125
     }
 
     farmers = {
@@ -6041,7 +6035,7 @@
     soldiers = {
     	culture = dixie
     	religion = protestant
-    	size = 550
+    	size = 2550
     }
 
     farmers = {
@@ -6183,7 +6177,7 @@
     soldiers = {
     	culture = dixie
     	religion = protestant
-    	size = 500
+    	size = 2500
     }
 
     farmers = {
@@ -6297,7 +6291,7 @@
     soldiers = {
     	culture = dixie
     	religion = protestant
-    	size = 2000
+    	size = 5000
     }
 
     farmers = {
@@ -6371,7 +6365,7 @@
     soldiers = {
     	culture = dixie
     	religion = protestant
-    	size = 2000
+    	size = 5000
     }
 
     farmers = {
@@ -6609,7 +6603,7 @@
     soldiers = {
     	culture = dixie
     	religion = protestant
-    	size = 475
+    	size = 2975
     }
 
     farmers = {
@@ -6803,7 +6797,7 @@
     farmers = {
     	culture = dixie
     	religion = protestant
-    	size = 5350
+    	size = 25350
     }
 
     clergymen = {
@@ -6859,7 +6853,7 @@
     farmers = {
     	culture = dixie
     	religion = protestant
-    	size = 13575
+    	size = 28575
     }
 
     clergymen = {
@@ -6915,7 +6909,7 @@
     farmers = {
     	culture = dixie
     	religion = catholic
-    	size = 14650
+    	size = 29650
     }
 
     clergymen = {
@@ -6971,7 +6965,7 @@
     farmers = {
     	culture = dixie
     	religion = protestant
-    	size = 7275
+    	size = 37275
     }
 
     clergymen = {
@@ -7090,7 +7084,7 @@
     farmers = {
     	culture = dixie
     	religion = protestant
-    	size = 15675
+    	size = 35675
     }
 
     clergymen = {
@@ -7216,13 +7210,13 @@
     soldiers = {
     	culture = dixie
     	religion = protestant
-    	size = 500
+    	size = 2500
     }
 
     farmers = {
     	culture = dixie
     	religion = protestant
-    	size = 11750
+    	size = 61750
     }
 
     clergymen = {
@@ -7320,7 +7314,7 @@
     farmers = {
     	culture = yankee
     	religion = protestant
-    	size = 369000
+    	size = 69000
     }
 
     slaves = {
@@ -7364,7 +7358,7 @@
     farmers = {
     	culture = dixie
     	religion = protestant
-    	size = 7025
+    	size = 107025
     }
 
     clergymen = {
@@ -7446,7 +7440,7 @@
     farmers = {
     	culture = dixie
     	religion = protestant
-    	size = 11615
+    	size = 61615
     }
 
     clergymen = {
@@ -7602,7 +7596,7 @@
     soldiers = {
     	culture = yankee
     	religion = protestant
-    	size = 425
+    	size = 2425
     }
 
     farmers = {
@@ -7770,7 +7764,7 @@
     soldiers = {
     	culture = yankee
     	religion = protestant
-    	size = 375
+    	size = 2375
     }
 
     farmers = {

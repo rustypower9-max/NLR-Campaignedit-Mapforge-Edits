@@ -18,7 +18,7 @@
 	soldiers = {
 		culture = panjabi
 		religion = sikh
-		size = 300
+		size = 2300
 	}
 
 	aristocrats = {
@@ -54,7 +54,7 @@
 	farmers = {
 		culture = aryan
 		religion = sunni
-		size = 108250
+		size = 106250
 	}
 }
 #Chitral (160000/40000 POPS)
@@ -274,13 +274,13 @@
 	soldiers = {
 		culture = panjabi
 		religion = sunni
-		size = 2425
+		size = 5425
 	}
 
 	farmers = {
 		culture = panjabi
 		religion = sunni
-		size = 148050
+		size = 145050
 	}
 
 	aristocrats = {
@@ -486,13 +486,19 @@
 	soldiers = {
 		culture = panjabi
 		religion = sunni
-		size = 12000
+		size = 17000
 	}
 
 	farmers = {
 		culture = panjabi
 		religion = sunni
-		size = 598150
+		size = 493150
+	}
+
+	farmers = {
+		culture = panjabi
+		religion = sikh
+		size = 100000
 	}
 }
 #Multan (656000/164000 POPS)
@@ -518,13 +524,13 @@
 	soldiers = {
 		culture = panjabi
 		religion = sunni
-		size = 1850
+		size = 5850
 	}
 
 	farmers = {
 		culture = panjabi
 		religion = sunni
-		size = 147600
+		size = 143600
 	}
 }
 #Sialkot (548000/137000 POPS)
@@ -550,13 +556,13 @@
 	soldiers = {
 		culture = panjabi
 		religion = sunni
-		size = 3100
+		size = 5100
 	}
 
 	farmers = {
 		culture = panjabi
 		religion = sunni
-		size = 124100
+		size = 122100
 	}
 }
 #Attock (344000/87000 POPS)
@@ -582,13 +588,13 @@
 	soldiers = {
 		culture = panjabi
 		religion = sunni
-		size = 900
+		size = 2900
 	}
 
 	farmers = {
 		culture = panjabi
 		religion = sunni
-		size = 81475
+		size = 79475
 	}
 }
 #Bahawalpur (352000/88000 POPS)
@@ -614,13 +620,13 @@
 	soldiers = {
 		culture = panjabi
 		religion = sunni
-		size = 1250
+		size = 2750
 	}
 
 	farmers = {
 		culture = panjabi
 		religion = sunni
-		size = 89625
+		size = 88125
 	}
 }
 #Shahpur (1132000/283000 POPS)
@@ -646,13 +652,13 @@
 	soldiers = {
 		culture = panjabi
 		religion = sunni
-		size = 2800
+		size = 8800
 	}
 
 	farmers = {
 		culture = panjabi
 		religion = sunni
-		size = 260050
+		size = 254050
 	}
 }
 #Amritsar (2228000/557000 POPS)
@@ -684,45 +690,45 @@
 	soldiers = {
 		culture = panjabi
 		religion = sunni
-		size = 5600
+		size = 11600
 	}
 
 	farmers = {
 		culture = panjabi
-		religion = sunni
-		size = 508450
+		religion = sikh
+		size = 502450
 	}
 }
 #Firuzapur (952000/238000 POPS)
 1234 = {
 	aristocrats = {
 		culture = panjabi
-		religion = sunni
+		religion = hindu
 		size = 1650
 	}
 
 	clergymen = {
 		culture = panjabi
-		religion = sunni
+		religion = hindu
 		size = 1650
 	}
 
 	artisans = {
 		culture = panjabi
-		religion = sunni
+		religion = hindu
 		size = 9500
 	}
 
 	soldiers = {
 		culture = panjabi
-		religion = sunni
-		size = 5700
+		religion = hindu
+		size = 7700
 	}
 
 	farmers = {
 		culture = panjabi
-		religion = sunni
-		size = 156600
+		religion = hindu
+		size = 154600
 	}
 
 	aristocrats = {
@@ -1402,13 +1408,13 @@
 	soldiers = {
 		culture = bengali
 		religion = hindu
-		size = 7750
+		size = 26750
 	}
 
 	farmers = {
 		culture = bengali
 		religion = hindu
-		size = 679500
+		size = 660500
 	}
 }
 #Gaya (3056000/764000 POPS)
@@ -1440,13 +1446,13 @@
 	soldiers = {
 		culture = bengali
 		religion = hindu
-		size = 7250
+		size = 26250
 	}
 
 	farmers = {
 		culture = bengali
 		religion = hindu
-		size = 706000
+		size = 687000
 	}
 }
 #Kharswari (2740000/685000 POPS)
@@ -1478,13 +1484,13 @@
 	soldiers = {
 		culture = bengali
 		religion = hindu
-		size = 7100
+		size = 26100
 	}
 
 	farmers = {
 		culture = bengali
 		religion = hindu
-		size = 683000
+		size = 664000
 	}
 }
 #Bhagalpur (1900000/475000 POPS)
@@ -1510,13 +1516,13 @@
 	soldiers = {
 		culture = bengali
 		religion = hindu
-		size = 5000
+		size = 16000
 	}
 
 	farmers = {
 		culture = bengali
 		religion = hindu
-		size = 435625
+		size = 424625
 	}
 }
 #Bengal Region : 28454000
@@ -1592,13 +1598,13 @@
 	farmers = {
 		culture = bengali
 		religion = hindu
-		size = 915750
+		size = 715750
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 100000
+		size = 300000
 	}
 
 	officers = {
@@ -1642,13 +1648,13 @@
 	soldiers = {
 		culture = bengali
 		religion = hindu
-		size = 8000
+		size = 16000
 	}
 
 	farmers = {
 		culture = bengali
 		religion = hindu
-		size = 723750
+		size = 715750
 	}
 }
 #Bardwan (4456000/1114000 POPS)
@@ -1686,13 +1692,13 @@
 	soldiers = {
 		culture = bengali
 		religion = hindu
-		size = 10750
+		size = 8750
 	}
 
 	farmers = {
 		culture = bengali
 		religion = hindu
-		size = 1026375
+		size = 1028375
 	}
 }
 #Dacca (5276000/1319000 POPS)
@@ -1774,13 +1780,13 @@
 	soldiers = {
 		culture = bengali
 		religion = sunni
-		size = 5750
+		size = 15750
 	}
 
 	farmers = {
 		culture = bengali
 		religion = sunni
-		size = 535250
+		size = 525250
 	}
 }
 #Jessore (2372000/593000 POPS)
@@ -1812,13 +1818,13 @@
 	soldiers = {
 		culture = bengali
 		religion = sunni
-		size = 8000
+		size = 26000
 	}
 
 	farmers = {
 		culture = bengali
 		religion = sunni
-		size = 546750
+		size = 528750
 	}
 }
 #Chittagong (5884000/1471000 POPS)
@@ -1947,13 +1953,13 @@
 	soldiers = {
 		culture = bengali
 		religion = hindu
-		size = 2000
+		size = 14000
 	}
 
 	farmers = {
 		culture = bengali
 		religion = hindu
-		size = 189250
+		size = 177250
 	}
 
 	clergymen = {
@@ -2003,13 +2009,13 @@
 	soldiers = {
 		culture = bengali
 		religion = hindu
-		size = 1600
+		size = 4600
 	}
 
 	farmers = {
 		culture = bengali
 		religion = hindu
-		size = 116375
+		size = 113375
 	}
 
 	aristocrats = {
@@ -2065,13 +2071,13 @@
 	soldiers = {
 		culture = bengali
 		religion = hindu
-		size = 1100
+		size = 2100
 	}
 
 	farmers = {
 		culture = bengali
 		religion = hindu
-		size = 79750
+		size = 77750
 	}
 
 	clergymen = {
@@ -2089,7 +2095,7 @@
 	soldiers = {
 		culture = tibetan
 		religion = animist
-		size = 1100
+		size = 2100
 	}
 
 	farmers = {
@@ -2269,12 +2275,12 @@
 		size = 22250
 	}
 }
-#Sambalpur (208000/52000 POPS)
+#Sambalpur (612000/153000 POPS)
 1263 = {
 	aristocrats = {
 		culture = telegu
 		religion = hindu
-		size = 550
+		size = 1550
 	}
 
 	bureaucrats = {
@@ -2304,7 +2310,7 @@
 	farmers = {
 		culture = telegu
 		religion = hindu
-		size = 47125
+		size = 147125
 	}
 }
 #Rajputana Region (4616000)
@@ -2338,13 +2344,13 @@
 	soldiers = {
 		culture = rajput
 		religion = hindu
-		size = 500
+		size = 1500
 	}
 
 	farmers = {
 		culture = rajput
 		religion = hindu
-		size = 29450
+		size = 28450
 	}
 
 	aristocrats = {
@@ -2701,13 +2707,13 @@
 	soldiers = {
 		culture = rajput
 		religion = hindu
-		size = 7000
+		size = 14000
 	}
 
 	farmers = {
 		culture = rajput
 		religion = hindu
-		size = 303600
+		size = 296600
 	}
 
 	clergymen = {
@@ -3434,13 +3440,13 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size = 3000
+		size = 8000
 	}
 
 	farmers = {
 		culture = marathi
 		religion = hindu
-		size = 280500
+		size = 275500
 	}
 
 	clergymen = {
@@ -4150,41 +4156,41 @@
 	soldiers = {
 		culture = rajput
 		religion = hindu
-		size = 2500
+		size = 5500
 	}
 
 	farmers = {
 		culture = rajput
 		religion = hindu
-		size = 212000
+		size = 29000
 	}
 
 	aristocrats = {
-		culture = panjabi
+		culture = marathi
 		religion = sunni
 		size = 750
 	}
 
 	clergymen = {
-		culture = panjabi
+		culture = marathi
 		religion = sunni
 		size = 375
 	}
 
 	artisans = {
-		culture = panjabi
+		culture = marathi
 		religion = sunni
 		size = 8000
 	}
 
 	soldiers = {
-		culture = panjabi
+		culture = marathi
 		religion = sunni
 		size = 500
 	}
 
 	farmers = {
-		culture = panjabi
+		culture = marathi
 		religion = sunni
 		size = 24375
 	}
@@ -4506,13 +4512,13 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size = 5000
+		size = 11000
 	}
 
 	farmers = {
 		culture = marathi
 		religion = hindu
-		size = 422000
+		size = 416000
 	}
 
 	artisans = {
@@ -4710,13 +4716,13 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size = 2500
+		size = 8500
 	}
 
 	farmers = {
 		culture = marathi
 		religion = hindu
-		size = 235500
+		size = 229500
 	}
 
 	aristocrats = {
@@ -4772,13 +4778,13 @@
 	soldiers = {
 		culture = marathi
 		religion = hindu
-		size = 2250
+		size = 5250
 	}
 
 	farmers = {
 		culture = marathi
 		religion = hindu
-		size = 198000
+		size = 195000
 	}
 
 	aristocrats = {
@@ -4902,12 +4908,12 @@
 }
 #North Circars Region - 5308000
 #under rule of Britain 1836
-#Vizagapatnam (1260000/315000 POPS)
+#Vizagapatnam (856000/214000 POPS)
 1305 = {
 	aristocrats = {
 		culture = telegu
 		religion = hindu
-		size = 3000
+		size = 2000
 	}
 
 	bureaucrats = {
@@ -4937,7 +4943,7 @@
 	farmers = {
 		culture = telegu
 		religion = hindu
-		size = 284850
+		size = 184850
 	}
 }
 #Masulipatnam (1736000/434000 POPS)
