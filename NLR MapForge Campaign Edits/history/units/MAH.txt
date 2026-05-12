@@ -94,7 +94,7 @@ army = {
 	regiment = {
 		name= "10. Marathan Infantry"
 		type = infantry
-		home = 1297
+		home = 1271
 	}
 
 	regiment = {
@@ -106,13 +106,13 @@ army = {
 	regiment = {
 		name= "7. Marathan Legion"
 		type = irregular
-		home = 1297
+		home = 1276
 	}
 
 	regiment = {
 		name= "8. Marathan Legion"
 		type = irregular
-		home = 1297
+		home = 1271
 	}
 
 	regiment = {
@@ -124,7 +124,7 @@ army = {
 	regiment = {
 		name= "10.Marathan Legion"
 		type = irregular
-		home = 1284
+		home = 1272
 	}
 
 }

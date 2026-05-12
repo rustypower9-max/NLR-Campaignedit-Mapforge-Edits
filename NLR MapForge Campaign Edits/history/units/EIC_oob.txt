@@ -30,7 +30,7 @@ army = {
 	regiment = {
 		name= "3.2nd Indian Division"
 		type = infantry
-		home = 1247
+		home = 1259
 	}
 
 	regiment = {
@@ -46,30 +46,35 @@ army = {
 	}
 
 	regiment = {
-		name= "2.1st Indian Artillery"
-		type = artillery
-		home = 1255
-	}
-	regiment = {
-		name= "2.2nd Indian Artillery"
+		name= "1st Mixed Artillery"
 		type = artillery
 		home = 1256
 	}
+
 	regiment = {
-		name= "2.3rd Indian Artillery"
+		name= "2nd Mixed Artillery"
 		type = artillery
 		home = 1256
 	}
+
 	regiment = {
-		name= "2.4th Indian Artillery"
+		name= "3rd Mixed Artillery"
 		type = artillery
-		home = 1260
+		home = 1249
 	}
+
 	regiment = {
-		name= "2.5th Indian Artillery"
+		name= "1st Royal Artillery"
 		type = artillery
-		home = 1256
+		home = 1251
 	}
+
+	regiment = {
+		name= "2nd Royal Artillery"
+		type = artillery
+		home = 1251
+	}
+
 	regiment = {
 		name= "1st Overseer"
 		type = hussar
@@ -82,116 +87,56 @@ army = {
 	location = 1256
 
 	regiment = {
-		name= "3.6th Indian Division"
+		name= "1.2nd Indian Division"
 		type = infantry
 		home = 1257
 	}
 
 	regiment = {
-		name= "3.7th Indian Division"
-		type = infantry
-		home = 1257
-	}
-
-	regiment = {
-		name= "3.8th Indian Division"
-		type = infantry
-		home = 1250
-	}
-
-	regiment = {
-		name= "3.9th Indian Division"
-		type = infantry
-		home = 1254
-	}
-
-	regiment = {
-		name= "2.6th Indian Artillery"
-		type = artillery
-		home = 1256
-	}
-	regiment = {
-		name= "2.7th Indian Artillery"
-		type = artillery
-		home = 1256
-	}
-	regiment = {
-		name= "2.8th Indian Artillery"
-		type = artillery
-		home = 1256
-	}
-	regiment = {
-		name= "2.9th Indian Artillery"
-		type = artillery
-		home = 1256
-	}
-	regiment = {
-		name= "2.10th Indian Artillery"
-		type = artillery
-		home = 1256
-	}
-	regiment = {
-		name= "2nd Overseer"
-		type = hussar
-		home = 1251
-	}
-}
-
-army = {
-	name = "The Reserve Army"
-	location = 1251
-
-	regiment = {
-		name= "1.3rd Indian Division"
+		name= "2.2nd Indian Division"
 		type = infantry
 		home = 1252
 	}
 
 	regiment = {
-		name= "2.3rd Indian Division"
+		name= "3.2nd Indian Division"
 		type = infantry
 		home = 1253
 	}
 
 	regiment = {
-		name= "3.3rd Indian Division"
+		name= "4.2nd Indian Division"
 		type = infantry
 		home = 1249
 	}
 
 	regiment = {
-		name= "1.4th Indian Division"
-		type = infantry
+		name= "2.1st Indian Artillery"
+		type = artillery
+		home = 1255
+	}
+	regiment = {
+		name= "2.2nd Indian Artillery"
+		type = artillery
+		home = 1260
+	}
+	regiment = {
+		name= "2.3rd Indian Artillery"
+		type = artillery
 		home = 2566
 	}
-
 	regiment = {
-		name= "1st Royal Artillery"
+		name= "2.4th Indian Artillery"
 		type = artillery
-		home = 1251
+		home = 1256
 	}
 	regiment = {
-		name= "2nd Royal Artillery"
+		name= "2.5th Indian Artillery"
 		type = artillery
-		home = 1251
+		home = 1256
 	}
 	regiment = {
-		name= "3rd Royal Artillery"
-		type = artillery
-		home = 1251
-	}
-	regiment = {
-		name= "4th Royal Artillery"
-		type = artillery
-		home = 1251
-	}
-	regiment = {
-		name= "5th Royal Artillery"
-		type = artillery
-		home = 1251
-	}
-	regiment = {
-		name= "3rd Overseer"
+		name= "2nd Overseer"
 		type = hussar
 		home = 1251
 	}

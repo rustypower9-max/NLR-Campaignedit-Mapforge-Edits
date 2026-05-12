@@ -20,18 +20,6 @@ army = {
 	}
 
 	regiment = {
-		name= "4.Kutch"
-		type = irregular
-		home = 1292
-	}
-
-	regiment = {
-		name= "5.Kutch"
-		type = irregular
-		home = 1292
-	}
-
-	regiment = {
 		name= "Kutch Cavalry"
 		type = cavalry
 		home = 1292

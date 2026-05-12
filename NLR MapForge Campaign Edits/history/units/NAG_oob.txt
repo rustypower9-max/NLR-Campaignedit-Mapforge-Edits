@@ -22,13 +22,13 @@ army = {
 	regiment = {
 		name= "2.Nagpur Contingent"
 		type = irregular
-		home = 1280
+		home = 1275
 	}
 
 	regiment = {
 		name= "3.Nagpur Contingent"
 		type = irregular
-		home = 1281
+		home = 1275
 	}
 
 }

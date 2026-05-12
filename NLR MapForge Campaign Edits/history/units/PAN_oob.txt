@@ -65,49 +65,49 @@ army = {
 	location = 1227
 	regiment = {
 		name= "1. Panjabi Sastravidya Terror"
-		type = cuirassier
+		type = tank
 		home = 1227
 	}
 
 	regiment = {
 		name= "2. Panjabi Sastravidya Terror"
-		type = cuirassier
+		type = tank
 		home = 1227
 	}
 
 	regiment = {
 		name= "3. Panjabi Sastravidya Terror"
-		type = cuirassier
+		type = tank
 		home = 1227
 	}
 
 	regiment = {
 		name= "4. Panjabi Sastravidya Terror"
-		type = cuirassier
+		type = tank
 		home = 1232
 	}
 
 	regiment = {
 		name= "5. Panjabi Sastravidya Terror"
-		type = cuirassier
+		type = tank
 		home = 1228
 	}
 
 	regiment = {
 		name= "6. Panjabi Sastravidya Terror"
-		type = cuirassier
+		type = tank
 		home = 1229
 	}
 
 	regiment = {
 		name= "7. Panjabi Sastravidya Terror"
-		type = cuirassier
+		type = tank
 		home = 1231
 	}
 
 	regiment = {
 		name= "8. Panjabi Sastravidya Terror"
-		type = cuirassier
+		type = tank
 		home = 1227
 	}
 
@@ -118,49 +118,49 @@ army = {
 	location = 1225
 	regiment = {
 		name= "1. Pashtun Riders"
-		type = cuirassier
+		type = tank
 		home = 1218
 	}
 
 	regiment = {
 		name= "2. Pashtun Riders"
-		type = cuirassier
+		type = tank
 		home = 1218
 	}
 
 	regiment = {
-		name= "1. Kashmiri Winged Cuirassiers"
-		type = cuirassier
+		name= "1. Kashmiri Winged Tanks"
+		type = tank
 		home = 1224
 	}
 
 	regiment = {
-		name= "2. Kashmiri Winged Cuirassiers"
-		type = cuirassier
+		name= "2. Kashmiri Winged Tanks"
+		type = tank
 		home = 1224
 	}
 
 	regiment = {
 		name= "1. Sikh Combat Cavalry"
-		type = cuirassier
+		type = tank
 		home = 1227
 	}
 
 	regiment = {
 		name= "2. Sikh Combat Cavalry"
-		type = cuirassier
+		type = tank
 		home = 1233
 	}
 	
 	regiment = {
 		name= "3. Sikh Combat Cavalry"
-		type = cuirassier
+		type = tank
 		home = 1234
 	}
 	
 	regiment = {
 		name= "4. Sikh Combat Cavalry"
-		type = cuirassier
+		type = tank
 		home = 1230
 	}
 }
@@ -170,31 +170,31 @@ army = {
 	location = 1234
 	regiment = {
 		name= "8. Panjabi Sastravidya Terror"
-		type = cuirassier
+		type = tank
 		home = 1234
 	}
 
 	regiment = {
 		name= "9. Panjabi Sastravidya Terror"
-		type = cuirassier
+		type = tank
 		home = 1233
 	}
 
 	regiment = {
 		name= "10. Panjabi Sastravidya Terror"
-		type = cuirassier
+		type = tank
 		home = 1233
 	}
 
 	regiment = {
 		name= "11. Panjabi Sastravidya Terror"
-		type = cuirassier
+		type = tank
 		home = 1232
 	}
 
 	regiment = {
 		name= "12. Panjabi Sastravidya Terror"
-		type = cuirassier
+		type = tank
 		home = 1228
 	}
 }

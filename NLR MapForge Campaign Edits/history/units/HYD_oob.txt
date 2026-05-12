@@ -2,45 +2,45 @@ army = {
 	name = "Army of the Nizam of Hyderabad"
 	location = 1283
 	regiment = {
-		name= "1.Irregular Horse"
+		name= "1.Irregular"
 		type = irregular
-		home = 1287
+		home = 1304
 	}
 
 	regiment = {
 		name= "2.Irregular"
 		type = irregular
-		home = 1310
+		home = 1304
 	}
 
 	regiment = {
 		name= "3.Irregular"
 		type = irregular
-		home = 1285
+		home = 1304
 	}
 
 	regiment = {
 		name= "Boomstick"
 		type = artillery
-		home = 1286
+		home = 1306
+	}
+
+	regiment = {
+		name= "1.Hyderabad Contingent"
+		type = infantry
+		home = 1307
 	}
 
 	regiment = {
 		name= "2.Hyderabad Contingent"
 		type = infantry
-		home = 1285
+		home = 1307
 	}
 
 	regiment = {
 		name= "3.Hyderabad Contingent"
 		type = infantry
-		home = 1287
-	}
-
-	regiment = {
-		name= "4.Hyderabad Contingent"
-		type = infantry
-		home = 1285
+		home = 1306
 	}
 
 }
@@ -51,47 +51,7 @@ army = {
 	name = "Army of Aurangabad"
 	location = 1285
 	regiment = {
-		name= "10. Hyderabadi Legion"
-		type = infantry
-		home = 1287
-	}
-
-	regiment = {
-		name= "7.Hyderabadi Legion"
-		type = infantry
-		home = 1287
-	}
-
-	regiment = {
-		name= "8.Hyderabadi Legion"
-		type = infantry
-		home = 1306
-	}
-	regiment = {
-		name= "9. Hyderabadi Legion"
-		type = irregular
-		home = 1306
-	}
-
-	regiment = {
-		name= "6.Hyderabadi Legion"
-		type = cavalry
-		home = 1304
-	}
-
-	regiment = {
-		name= "5.Hyderabadi Legion"
-		type = irregular
-		home = 1308
-	}
-	regiment = {
-		name= "4. Hyderabadi Legion"
-		type = irregular
-		home = 1286
-	}
-
-	regiment = {
-		name= "3.Hyderabadi Legion"
+		name= "1. Hyderabadi Legion"
 		type = irregular
 		home = 1304
 	}
@@ -99,12 +59,37 @@ army = {
 	regiment = {
 		name= "2.Hyderabadi Legion"
 		type = irregular
-		home = 1309
+		home = 1313
 	}
+
 	regiment = {
-		name= "1.Hyderabadi Legion"
+		name= "3.Hyderabadi Legion"
 		type = irregular
-		home = 1309
+		home = 1308
+	}
+
+	regiment = {
+		name= "4.Hyderabadi Legion"
+		type = irregular
+		home = 1287
+	}
+
+	regiment = {
+		name= "4.Hyderabad Contingent"
+		type = infantry
+		home = 1307
+	}
+
+	regiment = {
+		name= "5.Hyderabad Contingent"
+		type = infantry
+		home = 1287
+	}
+
+	regiment = {
+		name= "6.Hyderabad Contingent"
+		type = infantry
+		home = 1286
 	}
 
 }
@@ -113,62 +98,46 @@ army = {
 	name = "Army of Kurnool"
 	location = 1308
 	regiment = {
-		name= "10. Hyderabadi Legion"
-		type = infantry
-		home = 1304
-	}
-
-	regiment = {
-		name= "7.Hyderabadi Legion"
-		type = infantry
-		home = 1304
-	}
-
-	regiment = {
-		name= "8.Hyderabadi Legion"
-		type = infantry
-		home = 1304
-	}
-	regiment = {
-		name= "9. Hyderabadi Legion"
+		name= "5. Hyderabadi Legion"
 		type = irregular
-		home = 1306
+		home = 1283
 	}
 
 	regiment = {
 		name= "6.Hyderabadi Legion"
-		type = cavalry
-		home = 1304
+		type = irregular
+		home = 1283
 	}
 
 	regiment = {
-		name= "5.Hyderabadi Legion"
+		name= "7.Hyderabadi Legion"
 		type = irregular
-		home = 1308
+		home = 1285
 	}
+
 	regiment = {
-		name= "4. Hyderabadi Legion"
+		name= "8.Hyderabadi Legion"
 		type = irregular
+		home = 1285
+	}
+
+	regiment = {
+		name= "7.Hyderabad Contingent"
+		type = infantry
+		home = 1283
+	}
+
+	regiment = {
+		name= "8.Hyderabad Contingent"
+		type = infantry
+		home = 1283
+	}
+
+	regiment = {
+		name= "9.Hyderabad Contingent"
+		type = infantry
 		home = 1286
 	}
-
-	regiment = {
-		name= "3.Hyderabadi Legion"
-		type = irregular
-		home = 1304
-	}
-
-	regiment = {
-		name= "2.Hyderabadi Legion"
-		type = irregular
-		home = 1310
-	}
-	regiment = {
-		name= "1.Hyderabadi Legion"
-		type = irregular
-		home = 1309
-	}
-
 }
 
 

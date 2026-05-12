@@ -126,24 +126,6 @@ vassal = {
 }
 vassal = {
 	first = MAH
-	second = IND
-	start_date = 1836.1.1
-	end_date = 1900.7.26
-}
-vassal = {
-	first = MAH
-	second = BHO
-	start_date = 1836.1.1
-	end_date = 1900.7.26
-}
-vassal = {
-	first = MAH
-	second = GWA
-	start_date = 1836.1.1
-	end_date = 1900.7.26
-}
-vassal = {
-	first = MAH
 	second = KUT
 	start_date = 1836.1.1
 	end_date = 1900.7.26

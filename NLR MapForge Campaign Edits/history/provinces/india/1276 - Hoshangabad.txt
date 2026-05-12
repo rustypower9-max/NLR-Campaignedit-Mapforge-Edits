@@ -1,6 +1,7 @@
-owner = BHO
-controller = BHO
+owner = MAH
+controller = MAH
 add_core = BHO
+add_core = MAH
 add_core = HND
 add_core = MUG
 trade_goods = dye

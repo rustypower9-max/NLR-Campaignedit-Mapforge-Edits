@@ -14,18 +14,6 @@ army = {
 	}
 
 	regiment = {
-		name= "3rd Baroda"
-		type = irregular
-		home = 1295
-	}
-
-	regiment = {
-		name= "4rd Baroda"
-		type = irregular
-		home = 1295
-	}
-
-	regiment = {
 		name= "1st Patan"
 		type = irregular
 		home = 1294

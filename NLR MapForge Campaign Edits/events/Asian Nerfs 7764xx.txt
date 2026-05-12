@@ -47,6 +47,7 @@
 		        	NOT = { province_id = 1259 }
 		        	NOT = { province_id = 1258 }
 		        	NOT = { province_id = 2566 }
+		        	NOT = { province_id = 1279 }
                 }
 			    any_pop = {
 					reduce_pop = 0.50

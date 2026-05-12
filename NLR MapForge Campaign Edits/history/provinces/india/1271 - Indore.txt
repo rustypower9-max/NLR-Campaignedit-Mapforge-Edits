@@ -1,6 +1,7 @@
-owner = IND
-controller = IND
+owner = MAH
+controller = MAH
 add_core = IND
+add_core = MAH
 add_core = HND
 add_core = MUG
 trade_goods = cattle
