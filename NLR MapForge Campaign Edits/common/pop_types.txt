@@ -484,10 +484,8 @@ migration_chance =
 #If pop group is not an accepted culture or a primary culture, then -10% chance to migrate to another state. DO NOT DELETE.
 	modifier = {
 		factor = -10.0
-		AND = {
-			is_primary_culture = no
-			is_accepted_culture = no
-		}
+		is_primary_culture = no
+		is_accepted_culture = no
 	}
 
 #If pop group is in a colony, then -2.5% chance to migrate to a state.	DO NOT DELETE.
@@ -673,10 +671,8 @@ colonialmigration_chance =
 	modifier = {
 		factor = -10.0
 		state_scope = { is_colonial = no }
-		AND = {
-			is_primary_culture = no
-			is_accepted_culture = no
-		}
+		is_primary_culture = no
+		is_accepted_culture = no
 	}
 	
 #If pop group is in a location not controlled by the owner, then -100% chance to migrate to a colony. DO NOT DELETE.	
@@ -700,82 +696,62 @@ emigration_chance =
 		modifier = {
 			factor = 0.1
 			militancy = 1
-			AND = {
-				is_primary_culture = no
-				is_accepted_culture = no
-			}
+			is_primary_culture = no
+			is_accepted_culture = no
 		}
 		modifier = {
 			factor = 0.1
 			militancy = 2
-			AND = {
-				is_primary_culture = no
-				is_accepted_culture = no
-			}
+			is_primary_culture = no
+			is_accepted_culture = no
 		}
 		modifier = {
 			factor = 0.1
 			militancy = 3
-			AND = {
-				is_primary_culture = no
-				is_accepted_culture = no
-			}
+			is_primary_culture = no
+			is_accepted_culture = no
 		}
 		modifier = {
 			factor = 0.1
 			militancy = 4
-			AND = {
-				is_primary_culture = no
-				is_accepted_culture = no
-			}
+			is_primary_culture = no
+			is_accepted_culture = no
 		}
 		modifier = {
 			factor = 0.1
 			militancy = 5
-			AND = {
-				is_primary_culture = no
-				is_accepted_culture = no
-			}
+			is_primary_culture = no
+			is_accepted_culture = no
 		}
 		modifier = {
 			factor = 0.1
 			militancy = 6
-			AND = {
-				is_primary_culture = no
-				is_accepted_culture = no
-			}
+			is_primary_culture = no
+			is_accepted_culture = no
 		}
 		modifier = {
 			factor = 0.1
 			militancy = 7
-			AND = {
-				is_primary_culture = no
-				is_accepted_culture = no
-			}
+			is_primary_culture = no
+			is_accepted_culture = no
 		}
 		modifier = {
 			factor = 0.1
 			militancy = 8
-			AND = {
-				is_primary_culture = no
-				is_accepted_culture = no
-			}
+			is_primary_culture = no
+			is_accepted_culture = no
 		}
 		modifier = {
 			factor = 0.1
 			militancy = 9
-			AND = {
-				is_primary_culture = no
-				is_accepted_culture = no
-			}
+			is_primary_culture = no
+			is_accepted_culture = no
 		}
 		modifier = {
 			factor = 0.1
 			militancy = 9.9
-			AND = {
-				is_primary_culture = no
-				is_accepted_culture = no
-			}
+			is_primary_culture = no
+			is_accepted_culture = no
 		}
 	}
 

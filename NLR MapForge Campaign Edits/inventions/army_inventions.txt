@@ -977,8 +977,8 @@ flintlock_rifle_armament = {
 			defence = 0.85
 		}
 		infantry_offensive = {
-			attack = 1.7
-			#defence = 0.6
+			attack = 0.85
+			defence = 0.6
 		}
 		hussar = {
 			attack = 0.65

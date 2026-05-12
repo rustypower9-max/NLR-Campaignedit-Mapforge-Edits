@@ -81,10 +81,10 @@ political_decisions = {
 			}
 			NOT = { has_country_flag = louisianan_conquest }
 			NOT = { has_global_flag = victory_in_indian_land }
-			NOT = { year = 1855 }
+			NOT = { year = 1850 }
 		}
 		allow = {
-			NOT = { year = 1855 } #redundancy to show the player that this is the case 
+			NOT = { year = 1850 } #redundancy to show the player that this is the case 
 			owns = 150
 			owns = 149
 			owns = 143
