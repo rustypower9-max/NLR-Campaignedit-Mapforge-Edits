@@ -140,15 +140,16 @@ party_issues = {
 		residency = {
 			rules = { primary_culture_voting = yes }
 			suppression_points_modifier = 0.15
+			factory_throughput = 0.05
 		}
 		limited_citizenship = {
 			rules = { culture_voting = yes }
-			global_assimilation_rate = 0.10
+			global_assimilation_rate = 0.1
 		}
 		full_citizenship = {
 			rules = { all_voting = yes }
 			global_immigrant_attract = 0.02  #go where I can vote
-			global_assimilation_rate = -0.10
+			rgo_output = 0.1
 		}
 	}
 	war_policy = {
